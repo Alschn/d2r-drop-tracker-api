@@ -18,6 +18,7 @@ django-rest-multiple-models = "*"
 django-filter = "*"
 drf-yasg = "*"
 python-dotenv = "*"
+psycopg2 = "*"
 
 [dev-packages]
 
