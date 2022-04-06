@@ -1,0 +1,431 @@
+[
+  {
+    "id": 1,
+    "name": "El",
+    "common_name": "",
+    "level_req": 11,
+    "statistics": {
+      "weapon": {},
+      "armor/helm": {},
+      "shield": {}
+    },
+    "type": "rune",
+    "quality": "normal"
+  },
+  {
+    "id": 2,
+    "name": "Eld",
+    "common_name": "",
+    "level_req": 11,
+    "statistics": {
+      "weapon": {},
+      "armor/helm": {},
+      "shield": {}
+    },
+    "type": "rune",
+    "quality": "normal"
+  },
+  {
+    "id": 3,
+    "name": "Tir",
+    "common_name": "",
+    "level_req": 13,
+    "statistics": {
+      "weapon": {},
+      "armor/helm": {},
+      "shield": {}
+    },
+    "type": "rune",
+    "quality": "normal"
+  },
+  {
+    "id": 4,
+    "name": "Nef",
+    "common_name": "",
+    "level_req": 13,
+    "statistics": {
+      "weapon": {},
+      "armor/helm": {},
+      "shield": {}
+    },
+    "type": "rune",
+    "quality": "normal"
+  },
+  {
+    "id": 5,
+    "name": "Eth",
+    "common_name": "",
+    "level_req": 15,
+    "statistics": {
+      "weapon": {},
+      "armor/helm": {},
+      "shield": {}
+    },
+    "type": "rune",
+    "quality": "normal"
+  },
+  {
+    "id": 6,
+    "name": "Ith",
+    "common_name": "",
+    "level_req": 15,
+    "statistics": {
+      "weapon": {},
+      "armor/helm": {},
+      "shield": {}
+    },
+    "type": "rune",
+    "quality": "normal"
+  },
+  {
+    "id": 7,
+    "name": "Tal",
+    "common_name": "",
+    "level_req": 17,
+    "statistics": {
+      "weapon": {},
+      "armor/helm": {},
+      "shield": {}
+    },
+    "type": "rune",
+    "quality": "normal"
+  },
+  {
+    "id": 8,
+    "name": "Ral",
+    "common_name": "",
+    "level_req": 19,
+    "statistics": {
+      "weapon": {},
+      "armor/helm": {},
+      "shield": {}
+    },
+    "type": "rune",
+    "quality": "normal"
+  },
+  {
+    "id": 9,
+    "name": "Ort",
+    "common_name": "",
+    "level_req": 21,
+    "statistics": {
+      "weapon": {},
+      "armor/helm": {},
+      "shield": {}
+    },
+    "type": "rune",
+    "quality": "normal"
+  },
+  {
+    "id": 10,
+    "name": "Thul",
+    "common_name": "",
+    "level_req": 23,
+    "statistics": {
+      "weapon": {},
+      "armor/helm": {},
+      "shield": {}
+    },
+    "type": "rune",
+    "quality": "normal"
+  },
+  {
+    "id": 11,
+    "name": "Amn",
+    "common_name": "",
+    "level_req": 25,
+    "statistics": {
+      "weapon": {},
+      "armor/helm": {},
+      "shield": {}
+    },
+    "type": "rune",
+    "quality": "normal"
+  },
+  {
+    "id": 12,
+    "name": "Sol",
+    "common_name": "",
+    "level_req": 27,
+    "statistics": {
+      "weapon": {},
+      "armor/helm": {},
+      "shield": {}
+    },
+    "type": "rune",
+    "quality": "normal"
+  },
+  {
+    "id": 13,
+    "name": "Shael",
+    "common_name": "",
+    "level_req": 29,
+    "statistics": {
+      "weapon": {},
+      "armor/helm": {},
+      "shield": {}
+    },
+    "type": "rune",
+    "quality": "normal"
+  },
+  {
+    "id": 14,
+    "name": "Dol",
+    "common_name": "",
+    "level_req": 31,
+    "statistics": {
+      "weapon": {},
+      "armor/helm": {},
+      "shield": {}
+    },
+    "type": "rune",
+    "quality": "normal"
+  },
+  {
+    "id": 15,
+    "name": "Hel",
+    "common_name": "",
+    "level_req": null,
+    "statistics": {
+      "weapon": {},
+      "armor/helm": {},
+      "shield": {}
+    },
+    "type": "rune",
+    "quality": "normal"
+  },
+  {
+    "id": 16,
+    "name": "Io",
+    "common_name": "",
+    "level_req": 35,
+    "statistics": {
+      "weapon": {},
+      "armor/helm": {},
+      "shield": {}
+    },
+    "type": "rune",
+    "quality": "normal"
+  },
+  {
+    "id": 17,
+    "name": "Lum",
+    "common_name": "",
+    "level_req": 37,
+    "statistics": {
+      "weapon": {},
+      "armor/helm": {},
+      "shield": {}
+    },
+    "type": "rune",
+    "quality": "normal"
+  },
+  {
+    "id": 18,
+    "name": "Ko",
+    "common_name": "",
+    "level_req": 39,
+    "statistics": {
+      "weapon": {},
+      "armor/helm": {},
+      "shield": {}
+    },
+    "type": "rune",
+    "quality": "normal"
+  },
+  {
+    "id": 19,
+    "name": "Fal",
+    "common_name": "",
+    "level_req": 41,
+    "statistics": {
+      "weapon": {},
+      "armor/helm": {},
+      "shield": {}
+    },
+    "type": "rune",
+    "quality": "normal"
+  },
+  {
+    "id": 20,
+    "name": "Lem",
+    "common_name": "",
+    "level_req": 43,
+    "statistics": {
+      "weapon": {},
+      "armor/helm": {},
+      "shield": {}
+    },
+    "type": "rune",
+    "quality": "normal"
+  },
+  {
+    "id": 21,
+    "name": "Pul",
+    "common_name": "",
+    "level_req": 45,
+    "statistics": {
+      "weapon": {},
+      "armor/helm": {},
+      "shield": {}
+    },
+    "type": "rune",
+    "quality": "normal"
+  },
+  {
+    "id": 22,
+    "name": "Um",
+    "common_name": "",
+    "level_req": 47,
+    "statistics": {
+      "weapon": {},
+      "armor/helm": {},
+      "shield": {}
+    },
+    "type": "rune",
+    "quality": "normal"
+  },
+  {
+    "id": 23,
+    "name": "Mal",
+    "common_name": "",
+    "level_req": 49,
+    "statistics": {
+      "weapon": {},
+      "armor/helm": {},
+      "shield": {}
+    },
+    "type": "rune",
+    "quality": "normal"
+  },
+  {
+    "id": 24,
+    "name": "Ist",
+    "common_name": "",
+    "level_req": 51,
+    "statistics": {
+      "weapon": {},
+      "armor/helm": {},
+      "shield": {}
+    },
+    "type": "rune",
+    "quality": "normal"
+  },
+  {
+    "id": 25,
+    "name": "Gul",
+    "common_name": "",
+    "level_req": 53,
+    "statistics": {
+      "weapon": {},
+      "armor/helm": {},
+      "shield": {}
+    },
+    "type": "rune",
+    "quality": "normal"
+  },
+  {
+    "id": 26,
+    "name": "Vex",
+    "common_name": "",
+    "level_req": 55,
+    "statistics": {
+      "weapon": {},
+      "armor/helm": {},
+      "shield": {}
+    },
+    "type": "rune",
+    "quality": "normal"
+  },
+  {
+    "id": 27,
+    "name": "Ohm",
+    "common_name": "",
+    "level_req": 57,
+    "statistics": {
+      "weapon": {},
+      "armor/helm": {},
+      "shield": {}
+    },
+    "type": "rune",
+    "quality": "normal"
+  },
+  {
+    "id": 28,
+    "name": "Lo",
+    "common_name": "",
+    "level_req": 59,
+    "statistics": {
+      "weapon": {},
+      "armor/helm": {},
+      "shield": {}
+    },
+    "type": "rune",
+    "quality": "normal"
+  },
+  {
+    "id": 29,
+    "name": "Sur",
+    "common_name": "",
+    "level_req": 61,
+    "statistics": {
+      "weapon": {},
+      "armor/helm": {},
+      "shield": {}
+    },
+    "type": "rune",
+    "quality": "normal"
+  },
+  {
+    "id": 30,
+    "name": "Ber",
+    "common_name": "",
+    "level_req": 63,
+    "statistics": {
+      "weapon": {},
+      "armor/helm": {},
+      "shield": {}
+    },
+    "type": "rune",
+    "quality": "normal"
+  },
+  {
+    "id": 31,
+    "name": "Jah",
+    "common_name": "",
+    "level_req": 65,
+    "statistics": {
+      "weapon": {},
+      "armor/helm": {},
+      "shield": {}
+    },
+    "type": "rune",
+    "quality": "normal"
+  },
+  {
+    "id": 32,
+    "name": "Cham",
+    "common_name": "",
+    "level_req": 67,
+    "statistics": {
+      "weapon": {},
+      "armor/helm": {},
+      "shield": {}
+    },
+    "type": "rune",
+    "quality": "normal"
+  },
+  {
+    "id": 33,
+    "name": "Zod",
+    "common_name": "",
+    "level_req": 69,
+    "statistics": {
+      "weapon": {},
+      "armor/helm": {},
+      "shield": {}
+    },
+    "type": "rune",
+    "quality": "normal"
+  }
+]

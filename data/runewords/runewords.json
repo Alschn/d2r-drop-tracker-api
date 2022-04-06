@@ -1,0 +1,706 @@
+[
+  {
+    "id": 1,
+    "name": "Ancient's Pledge",
+    "common_name": "ancients pledge",
+    "level_req": null,
+    "statistics": {
+      "enh_def": {
+        "min": 50,
+        "max": 50
+      },
+      "cr": {
+        "min": 43,
+        "max": 43
+      },
+      "lr": {
+        "min": 13,
+        "max": 13
+      },
+      "fr": {
+        "min": 13,
+        "max": 13
+      },
+      "pr": {
+        "min": 13,
+        "max": 13
+      },
+      "dtgtm": {
+        "min": 10,
+        "max": 10
+      }
+    }
+  },
+  {
+    "id": 2,
+    "name": "Beast",
+    "common_name": "beast",
+    "level_req": null,
+    "statistics": {
+    }
+  },
+  {
+    "id": 3,
+    "name": "Black",
+    "common_name": "black",
+    "level_req": null,
+    "statistics": {
+    }
+  },
+  {
+    "id": 4,
+    "name": "Bone",
+    "common_name": "bone",
+    "level_req": null,
+    "statistics": {
+    }
+  },
+  {
+    "id": 5,
+    "name": "Bramble",
+    "common_name": "bramble",
+    "level_req": null,
+    "statistics": {
+    }
+  },
+  {
+    "id": 6,
+    "name": "Brand",
+    "common_name": "brand",
+    "level_req": null,
+    "statistics": {
+    }
+  },
+  {
+    "id": 7,
+    "name": "Breath of the Dying",
+    "common_name": "Botd",
+    "level_req": null,
+    "statistics": {
+    }
+  },
+  {
+    "id": 8,
+    "name": "Call to Arms",
+    "common_name": "Cta",
+    "level_req": null,
+    "statistics": {
+    }
+  },
+  {
+    "id": 9,
+    "name": "Chains of Honor",
+    "common_name": "Coh",
+    "level_req": null,
+    "statistics": {
+    }
+  },
+  {
+    "id": 10,
+    "name": "Chaos",
+    "common_name": "",
+    "level_req": null,
+    "statistics": {
+    }
+  },
+  {
+    "id": 11,
+    "name": "Crescent Moon",
+    "common_name": "",
+    "level_req": null,
+    "statistics": {
+    }
+  },
+  {
+    "id": 12,
+    "name": "Death",
+    "common_name": "death",
+    "level_req": 55,
+    "statistics": {
+    }
+  },
+  {
+    "id": 13,
+    "name": "Delirium",
+    "common_name": "",
+    "level_req": null,
+    "statistics": {
+    }
+  },
+  {
+    "id": 14,
+    "name": "Destruction",
+    "common_name": "destruction",
+    "level_req": null,
+    "statistics": {
+    }
+  },
+  {
+    "id": 15,
+    "name": "Doom",
+    "common_name": "doom",
+    "level_req": null,
+    "statistics": {
+    }
+  },
+  {
+    "id": 16,
+    "name": "Dragon",
+    "common_name": "dragon",
+    "level_req": null,
+    "statistics": {
+    }
+  },
+  {
+    "id": 17,
+    "name": "Dream",
+    "common_name": "dream",
+    "level_req": null,
+    "statistics": {
+    }
+  },
+  {
+    "id": 18,
+    "name": "Duress",
+    "common_name": "duress",
+    "level_req": null,
+    "statistics": {
+    }
+  },
+  {
+    "id": 19,
+    "name": "Edge",
+    "common_name": "edge",
+    "level_req": null,
+    "statistics": {
+    }
+  },
+  {
+    "id": 20,
+    "name": "Enigma",
+    "common_name": "eni",
+    "level_req": null,
+    "statistics": {
+    }
+  },
+  {
+    "id": 21,
+    "name": "Enlightenment",
+    "common_name": "",
+    "level_req": null,
+    "statistics": {
+    }
+  },
+  {
+    "id": 22,
+    "name": "Eternity",
+    "common_name": "",
+    "level_req": null,
+    "statistics": {
+    }
+  },
+  {
+    "id": 23,
+    "name": "Exile",
+    "common_name": "",
+    "level_req": null,
+    "statistics": {
+    }
+  },
+  {
+    "id": 24,
+    "name": "Faith",
+    "common_name": "",
+    "level_req": null,
+    "statistics": {
+    }
+  },
+  {
+    "id": 25,
+    "name": "Famine",
+    "common_name": "",
+    "level_req": null,
+    "statistics": {
+    }
+  },
+  {
+    "id": 26,
+    "name": "Fortitude",
+    "common_name": "forti",
+    "level_req": null,
+    "statistics": {
+    }
+  },
+  {
+    "id": 27,
+    "name": "Fury",
+    "common_name": "",
+    "level_req": null,
+    "statistics": {
+    }
+  },
+  {
+    "id": 28,
+    "name": "Gloom",
+    "common_name": "",
+    "level_req": null,
+    "statistics": {
+    }
+  },
+  {
+    "id": 29,
+    "name": "Grief",
+    "common_name": "",
+    "level_req": null,
+    "statistics": {
+    }
+  },
+  {
+    "id": 30,
+    "name": "Hand of Justice",
+    "common_name": "hoj",
+    "level_req": null,
+    "statistics": {
+    }
+  },
+  {
+    "id": 31,
+    "name": "Harmony",
+    "common_name": "",
+    "level_req": null,
+    "statistics": {
+    }
+  },
+  {
+    "id": 32,
+    "name": "Heart of the Oak",
+    "common_name": "Hoto",
+    "level_req": null,
+    "statistics": {
+    }
+  },
+  {
+    "id": 33,
+    "name": "Holy Thunder",
+    "common_name": "",
+    "level_req": null,
+    "statistics": {
+    }
+  },
+  {
+    "id": 34,
+    "name": "Honor",
+    "common_name": "",
+    "level_req": null,
+    "statistics": {
+    }
+  },
+  {
+    "id": 35,
+    "name": "Ice",
+    "common_name": "",
+    "level_req": null,
+    "statistics": {
+    }
+  },
+  {
+    "id": 36,
+    "name": "Infinity",
+    "common_name": "infi",
+    "level_req": null,
+    "statistics": {
+    }
+  },
+  {
+    "id": 37,
+    "name": "Insight",
+    "common_name": "insight",
+    "level_req": null,
+    "statistics": {
+    }
+  },
+  {
+    "id": 38,
+    "name": "King's Grace",
+    "common_name": "",
+    "level_req": null,
+    "statistics": {
+    }
+  },
+  {
+    "id": 39,
+    "name": "Kingslayer",
+    "common_name": "",
+    "level_req": null,
+    "statistics": {
+    }
+  },
+  {
+    "id": 40,
+    "name": "Last Wish",
+    "common_name": "LW",
+    "level_req": null,
+    "statistics": {
+    }
+  },
+  {
+    "id": 41,
+    "name": "Lawbringer",
+    "common_name": "",
+    "level_req": null,
+    "statistics": {
+    }
+  },
+  {
+    "id": 42,
+    "name": "Leaf",
+    "common_name": "",
+    "level_req": null,
+    "statistics": {
+    }
+  },
+  {
+    "id": 43,
+    "name": "Lionheart",
+    "common_name": "",
+    "level_req": null,
+    "statistics": {
+    }
+  },
+  {
+    "id": 44,
+    "name": "Lore",
+    "common_name": "",
+    "level_req": null,
+    "statistics": {
+    }
+  },
+  {
+    "id": 45,
+    "name": "Malice",
+    "common_name": "",
+    "level_req": null,
+    "statistics": {
+    }
+  },
+  {
+    "id": 46,
+    "name": "Melody",
+    "common_name": "",
+    "level_req": null,
+    "statistics": {
+    }
+  },
+  {
+    "id": 47,
+    "name": "Memory",
+    "common_name": "9es",
+    "level_req": null,
+    "statistics": {
+    }
+  },
+  {
+    "id": 48,
+    "name": "Myth",
+    "common_name": "",
+    "level_req": null,
+    "statistics": {
+    }
+  },
+  {
+    "id": 49,
+    "name": "Nadir",
+    "common_name": "",
+    "level_req": null,
+    "statistics": {
+    }
+  },
+  {
+    "id": 50,
+    "name": "Oath",
+    "common_name": "",
+    "level_req": null,
+    "statistics": {
+    }
+  },
+  {
+    "id": 51,
+    "name": "Obedience",
+    "common_name": "",
+    "level_req": null,
+    "statistics": {
+    }
+  },
+  {
+    "id": 52,
+    "name": "Passion",
+    "common_name": "",
+    "level_req": null,
+    "statistics": {
+    }
+  },
+  {
+    "id": 53,
+    "name": "Peace",
+    "common_name": "",
+    "level_req": null,
+    "statistics": {
+    }
+  },
+  {
+    "id": 54,
+    "name": "Phoenix",
+    "common_name": "",
+    "level_req": null,
+    "statistics": {
+    }
+  },
+  {
+    "id": 55,
+    "name": "Pride",
+    "common_name": "",
+    "level_req": null,
+    "statistics": {
+    }
+  },
+  {
+    "id": 56,
+    "name": "Principle",
+    "common_name": "",
+    "level_req": null,
+    "statistics": {
+    }
+  },
+  {
+    "id": 57,
+    "name": "Prudence",
+    "common_name": "",
+    "level_req": null,
+    "statistics": {
+    }
+  },
+  {
+    "id": 58,
+    "name": "Radiance",
+    "common_name": "",
+    "level_req": null,
+    "statistics": {
+    }
+  },
+  {
+    "id": 59,
+    "name": "Rain",
+    "common_name": "",
+    "level_req": null,
+    "statistics": {
+    }
+  },
+  {
+    "id": 60,
+    "name": "Rhyme",
+    "common_name": "",
+    "level_req": null,
+    "statistics": {
+    }
+  },
+  {
+    "id": 61,
+    "name": "Rift",
+    "common_name": "",
+    "level_req": null,
+    "statistics": {
+    }
+  },
+  {
+    "id": 62,
+    "name": "Sanctuary",
+    "common_name": "",
+    "level_req": null,
+    "statistics": {
+    }
+  },
+  {
+    "id": 63,
+    "name": "Silence",
+    "common_name": "",
+    "level_req": null,
+    "statistics": {
+    }
+  },
+  {
+    "id": 64,
+    "name": "Smoke",
+    "common_name": "",
+    "level_req": null,
+    "statistics": {
+    }
+  },
+  {
+    "id": 65,
+    "name": "Spirit",
+    "common_name": "",
+    "level_req": null,
+    "statistics": {
+    }
+  },
+  {
+    "id": 66,
+    "name": "Splendor",
+    "common_name": "",
+    "level_req": null,
+    "statistics": {
+    }
+  },
+  {
+    "id": 67,
+    "name": "Stealth",
+    "common_name": "",
+    "level_req": null,
+    "statistics": {
+    }
+  },
+  {
+    "id": 68,
+    "name": "Steel",
+    "common_name": "",
+    "level_req": null,
+    "statistics": {
+    }
+  },
+  {
+    "id": 69,
+    "name": "Stone",
+    "common_name": "",
+    "level_req": null,
+    "statistics": {
+    }
+  },
+  {
+    "id": 70,
+    "name": "Strength",
+    "common_name": "",
+    "level_req": null,
+    "statistics": {
+    }
+  },
+  {
+    "id": 71,
+    "name": "Treachery",
+    "common_name": "",
+    "level_req": null,
+    "statistics": {
+    }
+  },
+  {
+    "id": 72,
+    "name": "Venom",
+    "common_name": "",
+    "level_req": null,
+    "statistics": {
+    }
+  },
+  {
+    "id": 73,
+    "name": "Voice of Reason",
+    "common_name": "",
+    "level_req": null,
+    "statistics": {
+    }
+  },
+  {
+    "id": 74,
+    "name": "Wealth",
+    "common_name": "",
+    "level_req": null,
+    "statistics": {
+    }
+  },
+  {
+    "id": 75,
+    "name": "White",
+    "common_name": "",
+    "level_req": null,
+    "statistics": {
+    }
+  },
+  {
+    "id": 76,
+    "name": "Wind",
+    "common_name": "",
+    "level_req": null,
+    "statistics": {
+    }
+  },
+  {
+    "id": 77,
+    "name": "Wrath",
+    "common_name": "",
+    "level_req": null,
+    "statistics": {
+    }
+  },
+  {
+    "id": 78,
+    "name": "Zephyr",
+    "common_name": "",
+    "level_req": null,
+    "statistics": {
+    }
+  },
+  {
+    "id": 79,
+    "name": "Plague",
+    "common_name": "",
+    "level_req": null,
+    "statistics": {
+    }
+  },
+  {
+    "id": 80,
+    "name": "Pattern",
+    "common_name": "",
+    "level_req": null,
+    "statistics": {
+    }
+  },
+  {
+    "id": 81,
+    "name": "Unbending Will",
+    "common_name": "",
+    "level_req": null,
+    "statistics": {
+    }
+  },
+  {
+    "id": 82,
+    "name": "Wisdom",
+    "common_name": "",
+    "level_req": null,
+    "statistics": {
+    }
+  },
+  {
+    "id": 83,
+    "name": "Obsession",
+    "common_name": "",
+    "level_req": null,
+    "statistics": {
+    }
+  },
+  {
+    "id": 84,
+    "name": "Flickering Flame",
+    "common_name": "",
+    "level_req": null,
+    "statistics": {
+    }
+  },
+  {
+    "id": 85,
+    "name": "Mist",
+    "common_name": "",
+    "level_req": null,
+    "statistics": {
+    }
+  }
+]

@@ -1,0 +1,1220 @@
+[
+  {
+    "id": 901,
+    "name": "Cap",
+    "common_name": "",
+    "type": "helmet",
+    "quality": "normal",
+    "level_type": "normal",
+    "max_sockets": 2,
+    "class_specific": null,
+    "level_req": null,
+    "str_req": null,
+    "dex_req": null,
+    "durability": 12,
+    "statistics": {
+      "def": {
+        "min": 3,
+        "max": 5
+      },
+      "qlvl": 1
+    }
+  },
+  {
+    "id": 902,
+    "name": "Skull Cap",
+    "common_name": "",
+    "type": "helmet",
+    "quality": "normal",
+    "level_type": "normal",
+    "max_sockets": 2,
+    "class_specific": null,
+    "level_req": null,
+    "str_req": 15,
+    "dex_req": null,
+    "durability": 18,
+    "statistics": {
+      "def": {
+        "min": 8,
+        "max": 11
+      },
+      "qlvl": 5
+    }
+  },
+  {
+    "id": 903,
+    "name": "Helm",
+    "common_name": "",
+    "type": "helmet",
+    "quality": "normal",
+    "level_type": "normal",
+    "max_sockets": 2,
+    "class_specific": null,
+    "level_req": null,
+    "str_req": 26,
+    "dex_req": null,
+    "durability": 24,
+    "statistics": {
+      "def": {
+        "min": 15,
+        "max": 18
+      },
+      "qlvl": 11
+    }
+  },
+  {
+    "id": 904,
+    "name": "Full Helm",
+    "common_name": "",
+    "type": "helmet",
+    "quality": "normal",
+    "level_type": "normal",
+    "max_sockets": 2,
+    "class_specific": null,
+    "level_req": null,
+    "str_req": 41,
+    "dex_req": null,
+    "durability": 30,
+    "statistics": {
+      "def": {
+        "min": 23,
+        "max": 26
+      },
+      "qlvl": 15
+    }
+  },
+  {
+    "id": 905,
+    "name": "Mask",
+    "common_name": "",
+    "type": "helmet",
+    "quality": "normal",
+    "level_type": "normal",
+    "max_sockets": 3,
+    "class_specific": null,
+    "level_req": null,
+    "str_req": 23,
+    "dex_req": null,
+    "durability": 20,
+    "statistics": {
+      "def": {
+        "min": 9,
+        "max": 27
+      },
+      "qlvl": 19
+    }
+  },
+  {
+    "id": 906,
+    "name": "Bone Helm",
+    "common_name": "",
+    "type": "helmet",
+    "quality": "normal",
+    "level_type": "normal",
+    "max_sockets": 2,
+    "class_specific": null,
+    "level_req": null,
+    "str_req": 25,
+    "dex_req": null,
+    "durability": 40,
+    "statistics": {
+      "def": {
+        "min": 33,
+        "max": 36
+      },
+      "qlvl": 22
+    }
+  },
+  {
+    "id": 907,
+    "name": "Great Helm",
+    "common_name": "",
+    "type": "helmet",
+    "quality": "normal",
+    "level_type": "normal",
+    "max_sockets": 3,
+    "class_specific": null,
+    "level_req": null,
+    "str_req": 63,
+    "dex_req": null,
+    "durability": 40,
+    "statistics": {
+      "def": {
+        "min": 30,
+        "max": 35
+      },
+      "qlvl": 23
+    }
+  },
+  {
+    "id": 908,
+    "name": "Crown",
+    "common_name": "",
+    "type": "helmet",
+    "quality": "normal",
+    "level_type": "normal",
+    "max_sockets": 3,
+    "class_specific": null,
+    "level_req": null,
+    "str_req": 55,
+    "dex_req": null,
+    "durability": 50,
+    "statistics": {
+      "def": {
+        "min": 25,
+        "max": 45
+      },
+      "qlvl": 29
+    }
+  },
+  {
+    "id": 909,
+    "name": "War Hat",
+    "common_name": "",
+    "type": "helmet",
+    "quality": "normal",
+    "level_type": "exceptional",
+    "max_sockets": 2,
+    "class_specific": null,
+    "level_req": 22,
+    "str_req": 20,
+    "dex_req": null,
+    "durability": 12,
+    "statistics": {
+      "def": {
+        "min": 45,
+        "max": 53
+      },
+      "qlvl": 34
+    }
+  },
+  {
+    "id": 910,
+    "name": "Sallet",
+    "common_name": "",
+    "type": "helmet",
+    "quality": "normal",
+    "level_type": "exceptional",
+    "max_sockets": 2,
+    "class_specific": null,
+    "level_req": 25,
+    "str_req": 43,
+    "dex_req": null,
+    "durability": 18,
+    "statistics": {
+      "def": {
+        "min": 52,
+        "max": 62
+      },
+      "qlvl": 37
+    }
+  },
+  {
+    "id": 911,
+    "name": "Casque",
+    "common_name": "",
+    "type": "helmet",
+    "quality": "normal",
+    "level_type": "exceptional",
+    "max_sockets": 2,
+    "class_specific": null,
+    "level_req": 25,
+    "str_req": 59,
+    "dex_req": null,
+    "durability": 24,
+    "statistics": {
+      "def": {
+        "min": 63,
+        "max": 72
+      },
+      "qlvl": 42
+    }
+  },
+  {
+    "id": 912,
+    "name": "Basinet",
+    "common_name": "",
+    "type": "helmet",
+    "quality": "normal",
+    "level_type": "exceptional",
+    "max_sockets": 2,
+    "class_specific": null,
+    "level_req": 25,
+    "str_req": 82,
+    "dex_req": null,
+    "durability": 30,
+    "statistics": {
+      "def": {
+        "min": 75,
+        "max": 84
+      },
+      "qlvl": 45
+    }
+  },
+  {
+    "id": 913,
+    "name": "Death Mask",
+    "common_name": "",
+    "type": "helmet",
+    "quality": "normal",
+    "level_type": "exceptional",
+    "max_sockets": 3,
+    "class_specific": null,
+    "level_req": 25,
+    "str_req": 55,
+    "dex_req": null,
+    "durability": 20,
+    "statistics": {
+      "def": {
+        "min": 54,
+        "max": 86
+      },
+      "qlvl": 48
+    }
+  },
+  {
+    "id": 914,
+    "name": "Grim Helm",
+    "common_name": "",
+    "type": "helmet",
+    "quality": "normal",
+    "level_type": "exceptional",
+    "max_sockets": 2,
+    "class_specific": null,
+    "level_req": 25,
+    "str_req": 58,
+    "dex_req": null,
+    "durability": 40,
+    "statistics": {
+      "def": {
+        "min": 60,
+        "max": 125
+      },
+      "qlvl": 50
+    }
+  },
+  {
+    "id": 915,
+    "name": "Winged Helm",
+    "common_name": "",
+    "type": "helmet",
+    "quality": "normal",
+    "level_type": "exceptional",
+    "max_sockets": 3,
+    "class_specific": null,
+    "level_req": 25,
+    "str_req": 115,
+    "dex_req": null,
+    "durability": 40,
+    "statistics": {
+      "def": {
+        "min": 85,
+        "max": 98
+      },
+      "qlvl": 51
+    }
+  },
+  {
+    "id": 916,
+    "name": "Grand Crown",
+    "common_name": "",
+    "type": "helmet",
+    "quality": "normal",
+    "level_type": "exceptional",
+    "max_sockets": 3,
+    "class_specific": null,
+    "level_req": 25,
+    "str_req": 103,
+    "dex_req": null,
+    "durability": 50,
+    "statistics": {
+      "def": {
+        "min": 78,
+        "max": 113
+      },
+      "qlvl": 55
+    }
+  },
+  {
+    "id": 917,
+    "name": "Shako",
+    "common_name": "",
+    "type": "helmet",
+    "quality": "normal",
+    "level_type": "elite",
+    "max_sockets": 2,
+    "class_specific": null,
+    "level_req": 43,
+    "str_req": 50,
+    "dex_req": null,
+    "durability": 12,
+    "statistics": {
+      "def": {
+        "min": 98,
+        "max": 141
+      },
+      "qlvl": 58
+    }
+  },
+  {
+    "id": 918,
+    "name": "Hydraskull",
+    "common_name": "",
+    "type": "helmet",
+    "quality": "normal",
+    "level_type": "elite",
+    "max_sockets": 2,
+    "class_specific": null,
+    "level_req": 47,
+    "str_req": 84,
+    "dex_req": null,
+    "durability": 18,
+    "statistics": {
+      "def": {
+        "min": 101,
+        "max": 145
+      },
+      "qlvl": 63
+    }
+  },
+  {
+    "id": 919,
+    "name": "Armet",
+    "common_name": "",
+    "type": "helmet",
+    "quality": "normal",
+    "level_type": "elite",
+    "max_sockets": 2,
+    "class_specific": null,
+    "level_req": 51,
+    "str_req": 109,
+    "dex_req": null,
+    "durability": 24,
+    "statistics": {
+      "def": {
+        "min": 105,
+        "max": 149
+      },
+      "qlvl": 68
+    }
+  },
+  {
+    "id": 920,
+    "name": "Giant Conch",
+    "common_name": "",
+    "type": "helmet",
+    "quality": "normal",
+    "level_type": "elite",
+    "max_sockets": 2,
+    "class_specific": null,
+    "level_req": 40,
+    "str_req": 142,
+    "dex_req": null,
+    "durability": 30,
+    "statistics": {
+      "def": {
+        "min": 110,
+        "max": 154
+      },
+      "qlvl": 54
+    }
+  },
+  {
+    "id": 921,
+    "name": "Demonhead",
+    "common_name": "",
+    "type": "helmet",
+    "quality": "normal",
+    "level_type": "elite",
+    "max_sockets": 3,
+    "class_specific": null,
+    "level_req": 55,
+    "str_req": 102,
+    "dex_req": null,
+    "durability": 20,
+    "statistics": {
+      "def": {
+        "min": 101,
+        "max": 154
+      },
+      "qlvl": 74
+    }
+  },
+  {
+    "id": 922,
+    "name": "Bone Visage",
+    "common_name": "",
+    "type": "helmet",
+    "quality": "normal",
+    "level_type": "elite",
+    "max_sockets": 3,
+    "class_specific": null,
+    "level_req": 63,
+    "str_req": 106,
+    "dex_req": null,
+    "durability": 40,
+    "statistics": {
+      "def": {
+        "min": 100,
+        "max": 157
+      },
+      "qlvl": 84
+    }
+  },
+  {
+    "id": 923,
+    "name": "Spired Helm",
+    "common_name": "",
+    "type": "helmet",
+    "quality": "normal",
+    "level_type": "elite",
+    "max_sockets": 3,
+    "class_specific": null,
+    "level_req": 59,
+    "str_req": 192,
+    "dex_req": null,
+    "durability": 40,
+    "statistics": {
+      "def": {
+        "min": 114,
+        "max": 159
+      },
+      "qlvl": 79
+    }
+  },
+  {
+    "id": 924,
+    "name": "Corona",
+    "common_name": "",
+    "type": "helmet",
+    "quality": "normal",
+    "level_type": "elite",
+    "max_sockets": 3,
+    "class_specific": null,
+    "level_req": 66,
+    "str_req": 103,
+    "dex_req": null,
+    "durability": 50,
+    "statistics": {
+      "def": {
+        "min": 111,
+        "max": 165
+      },
+      "qlvl": 85
+    }
+  },
+  {
+    "id": 925,
+    "name": "Circlet",
+    "common_name": "",
+    "type": "helmet",
+    "quality": "normal",
+    "level_type": "normal",
+    "max_sockets": 2,
+    "class_specific": null,
+    "level_req": 16,
+    "str_req": null,
+    "dex_req": null,
+    "durability": 35,
+    "statistics": {
+      "def": {
+        "min": 20,
+        "max": 30
+      },
+      "qlvl": 24
+    }
+  },
+  {
+    "id": 926,
+    "name": "Coronet",
+    "common_name": "",
+    "type": "helmet",
+    "quality": "normal",
+    "level_type": "exceptional",
+    "max_sockets": 2,
+    "class_specific": null,
+    "level_req": 39,
+    "str_req": null,
+    "dex_req": null,
+    "durability": 30,
+    "statistics": {
+      "def": {
+        "min": 30,
+        "max": 40
+      },
+      "qlvl": 50
+    }
+  },
+  {
+    "id": 927,
+    "name": "Tiara",
+    "common_name": "",
+    "type": "helmet",
+    "quality": "normal",
+    "level_type": "elite",
+    "max_sockets": 3,
+    "class_specific": null,
+    "level_req": 0,
+    "str_req": null,
+    "dex_req": null,
+    "durability": 25,
+    "statistics": {
+      "def": {
+        "min": 40,
+        "max": 50
+      },
+      "qlvl": 70
+    }
+  },
+  {
+    "id": 928,
+    "name": "Diadem",
+    "common_name": "",
+    "type": "helmet",
+    "quality": "normal",
+    "level_type": "elite",
+    "max_sockets": 3,
+    "class_specific": null,
+    "level_req": 0,
+    "str_req": null,
+    "dex_req": null,
+    "durability": 20,
+    "statistics": {
+      "def": {
+        "min": 50,
+        "max": 60
+      },
+      "qlvl": 85
+    }
+  },
+  {
+    "id": 929,
+    "name": "Jawbone Cap",
+    "common_name": "",
+    "type": "helm",
+    "quality": "normal",
+    "level_type": "normal",
+    "max_sockets": 3,
+    "class_specific": "barbarian",
+    "level_req": 3,
+    "str_req": 25,
+    "dex_req": null,
+    "durability": 25,
+    "statistics": {
+      "def": {
+        "min": 10,
+        "max": 15
+      },
+      "qlvl": 4
+    }
+  },
+  {
+    "id": 930,
+    "name": "Fanged Helm",
+    "common_name": "",
+    "type": "helm",
+    "quality": "normal",
+    "level_type": "normal",
+    "max_sockets": 3,
+    "class_specific": "barbarian",
+    "level_req": 6,
+    "str_req": 35,
+    "dex_req": null,
+    "durability": 35,
+    "statistics": {
+      "def": {
+        "min": 15,
+        "max": 20
+      },
+      "qlvl": 8
+    }
+  },
+  {
+    "id": 931,
+    "name": "Horned Helm",
+    "common_name": "",
+    "type": "helm",
+    "quality": "normal",
+    "level_type": "normal",
+    "max_sockets": 3,
+    "class_specific": "barbarian",
+    "level_req": 12,
+    "str_req": 45,
+    "dex_req": null,
+    "durability": 45,
+    "statistics": {
+      "def": {
+        "min": 25,
+        "max": 30
+      },
+      "qlvl": 16
+    }
+  },
+  {
+    "id": 932,
+    "name": "Assault Helmet",
+    "common_name": "",
+    "type": "helm",
+    "quality": "normal",
+    "level_type": "normal",
+    "max_sockets": 3,
+    "class_specific": "barbarian",
+    "level_req": 15,
+    "str_req": 55,
+    "dex_req": null,
+    "durability": 50,
+    "statistics": {
+      "def": {
+        "min": 30,
+        "max": 35
+      },
+      "qlvl": 20
+    }
+  },
+  {
+    "id": 933,
+    "name": "Avenger Guard",
+    "common_name": "",
+    "type": "helm",
+    "quality": "normal",
+    "level_type": "normal",
+    "max_sockets": 3,
+    "class_specific": "barbarian",
+    "level_req": 15,
+    "str_req": 55,
+    "dex_req": null,
+    "durability": 50,
+    "statistics": {
+      "def": {
+        "min": 30,
+        "max": 35
+      },
+      "qlvl": 20
+    }
+  },
+  {
+    "id": 934,
+    "name": "Jawbone Visor",
+    "common_name": "",
+    "type": "helm",
+    "quality": "normal",
+    "level_type": "exceptional",
+    "max_sockets": 3,
+    "class_specific": "barbarian",
+    "level_req": 25,
+    "str_req": 58,
+    "dex_req": null,
+    "durability": 25,
+    "statistics": {
+      "def": {
+        "min": 55,
+        "max": 68
+      },
+      "qlvl": 33
+    }
+  },
+  {
+    "id": 935,
+    "name": "Lion Helm",
+    "common_name": "",
+    "type": "helm",
+    "quality": "normal",
+    "level_type": "exceptional",
+    "max_sockets": 3,
+    "class_specific": "barbarian",
+    "level_req": 29,
+    "str_req": 73,
+    "dex_req": null,
+    "durability": 35,
+    "statistics": {
+      "def": {
+        "min": 63,
+        "max": 75
+      },
+      "qlvl": 38
+    }
+  },
+  {
+    "id": 936,
+    "name": "Rage Mask",
+    "common_name": "",
+    "type": "helm",
+    "quality": "normal",
+    "level_type": "exceptional",
+    "max_sockets": 3,
+    "class_specific": "barbarian",
+    "level_req": 29,
+    "str_req": 88,
+    "dex_req": null,
+    "durability": 45,
+    "statistics": {
+      "def": {
+        "min": 78,
+        "max": 90
+      },
+      "qlvl": 16
+    }
+  },
+  {
+    "id": 937,
+    "name": "Savage Helmet",
+    "common_name": "",
+    "type": "helm",
+    "quality": "normal",
+    "level_type": "exceptional",
+    "max_sockets": 3,
+    "class_specific": "barbarian",
+    "level_req": 32,
+    "str_req": 103,
+    "dex_req": null,
+    "durability": 50,
+    "statistics": {
+      "def": {
+        "min": 85,
+        "max": 98
+      },
+      "qlvl": 49
+    }
+  },
+  {
+    "id": 938,
+    "name": "Slayer Guard",
+    "common_name": "",
+    "type": "helm",
+    "quality": "normal",
+    "level_type": "exceptional",
+    "max_sockets": 3,
+    "class_specific": "barbarian",
+    "level_req": 40,
+    "str_req": 118,
+    "dex_req": null,
+    "durability": 55,
+    "statistics": {
+      "def": {
+        "min": 93,
+        "max": 120
+      },
+      "qlvl": 54
+    }
+  },
+  {
+    "id": 939,
+    "name": "Carnage Helm",
+    "common_name": "",
+    "type": "helm",
+    "quality": "normal",
+    "level_type": "elite",
+    "max_sockets": 3,
+    "class_specific": "barbarian",
+    "level_req": 45,
+    "str_req": 106,
+    "dex_req": null,
+    "durability": 25,
+    "statistics": {
+      "def": {
+        "min": 102,
+        "max": 147
+      },
+      "qlvl": 60
+    }
+  },
+  {
+    "id": 940,
+    "name": "Fury Visor",
+    "common_name": "",
+    "type": "helm",
+    "quality": "normal",
+    "level_type": "elite",
+    "max_sockets": 3,
+    "class_specific": "barbarian",
+    "level_req": 49,
+    "str_req": 129,
+    "dex_req": null,
+    "durability": 35,
+    "statistics": {
+      "def": {
+        "min": 105,
+        "max": 150
+      },
+      "qlvl": 66
+    }
+  },
+  {
+    "id": 941,
+    "name": "Destroyer Helm",
+    "common_name": "",
+    "type": "helm",
+    "quality": "normal",
+    "level_type": "elite",
+    "max_sockets": 3,
+    "class_specific": "barbarian",
+    "level_req": 54,
+    "str_req": 151,
+    "dex_req": null,
+    "durability": 45,
+    "statistics": {
+      "def": {
+        "min": 111,
+        "max": 156
+      },
+      "qlvl": 73
+    }
+  },
+  {
+    "id": 942,
+    "name": "Conqueror Crown",
+    "common_name": "",
+    "type": "helm",
+    "quality": "normal",
+    "level_type": "elite",
+    "max_sockets": 3,
+    "class_specific": "barbarian",
+    "level_req": 60,
+    "str_req": 174,
+    "dex_req": null,
+    "durability": 50,
+    "statistics": {
+      "def": {
+        "min": 114,
+        "max": 159
+      },
+      "qlvl": 80
+    }
+  },
+  {
+    "id": 943,
+    "name": "Guardian Crown",
+    "common_name": "",
+    "type": "helm",
+    "quality": "normal",
+    "level_type": "elite",
+    "max_sockets": 3,
+    "class_specific": "barbarian",
+    "level_req": 65,
+    "str_req": 196,
+    "dex_req": null,
+    "durability": 55,
+    "statistics": {
+      "def": {
+        "min": 117,
+        "max": 168
+      },
+      "qlvl": 85
+    }
+  },
+  {
+    "id": 944,
+    "name": "Wolf Head",
+    "common_name": "",
+    "type": "pelt",
+    "quality": "normal",
+    "level_type": "normal",
+    "max_sockets": 3,
+    "class_specific": "druid",
+    "level_req": 3,
+    "str_req": 16,
+    "dex_req": null,
+    "durability": 20,
+    "statistics": {
+      "def": {
+        "min": 8,
+        "max": 11
+      },
+      "qlvl": 4
+    }
+  },
+  {
+    "id": 945,
+    "name": "Hawk Helm",
+    "common_name": "",
+    "type": "pelt",
+    "quality": "normal",
+    "level_type": "normal",
+    "max_sockets": 3,
+    "class_specific": "druid",
+    "level_req": 6,
+    "str_req": 20,
+    "dex_req": null,
+    "durability": 20,
+    "statistics": {
+      "def": {
+        "min": 4,
+        "max": 15
+      },
+      "qlvl": 8
+    }
+  },
+  {
+    "id": 946,
+    "name": "Hawk Helm",
+    "common_name": "",
+    "type": "pelt",
+    "quality": "normal",
+    "level_type": "normal",
+    "max_sockets": 3,
+    "class_specific": "druid",
+    "level_req": 12,
+    "str_req": 24,
+    "dex_req": null,
+    "durability": 20,
+    "statistics": {
+      "def": {
+        "min": 18,
+        "max": 24
+      },
+      "qlvl": 16
+    }
+  },
+  {
+    "id": 947,
+    "name": "Falcon Mask",
+    "common_name": "",
+    "type": "pelt",
+    "quality": "normal",
+    "level_type": "normal",
+    "max_sockets": 3,
+    "class_specific": "druid",
+    "level_req": 15,
+    "str_req": 28,
+    "dex_req": null,
+    "durability": 20,
+    "statistics": {
+      "def": {
+        "min": 12,
+        "max": 28
+      },
+      "qlvl": 20
+    }
+  },
+  {
+    "id": 948,
+    "name": "Spirit Mask",
+    "common_name": "",
+    "type": "pelt",
+    "quality": "normal",
+    "level_type": "normal",
+    "max_sockets": 3,
+    "class_specific": "druid",
+    "level_req": 18,
+    "str_req": 30,
+    "dex_req": null,
+    "durability": 20,
+    "statistics": {
+      "def": {
+        "min": 22,
+        "max": 35
+      },
+      "qlvl": 24
+    }
+  },
+  {
+    "id": 949,
+    "name": "Alpha Head",
+    "common_name": "",
+    "type": "pelt",
+    "quality": "normal",
+    "level_type": "exceptional",
+    "max_sockets": 3,
+    "class_specific": "druid",
+    "level_req": 26,
+    "str_req": 44,
+    "dex_req": null,
+    "durability": 20,
+    "statistics": {
+      "def": {
+        "min": 52,
+        "max": 62
+      },
+      "qlvl": 26
+    }
+  },
+  {
+    "id": 950,
+    "name": "Griffon Headdress",
+    "common_name": "",
+    "type": "pelt",
+    "quality": "normal",
+    "level_type": "exceptional",
+    "max_sockets": 3,
+    "class_specific": "druid",
+    "level_req": 30,
+    "str_req": 50,
+    "dex_req": null,
+    "durability": 20,
+    "statistics": {
+      "def": {
+        "min": 46,
+        "max": 68
+      },
+      "qlvl": 40
+    }
+  },
+  {
+    "id": 951,
+    "name": "Hunter's Guise",
+    "common_name": "",
+    "type": "pelt",
+    "quality": "normal",
+    "level_type": "exceptional",
+    "max_sockets": 3,
+    "class_specific": "druid",
+    "level_req": 29,
+    "str_req": 56,
+    "dex_req": null,
+    "durability": 20,
+    "statistics": {
+      "def": {
+        "min": 67,
+        "max": 81
+      },
+      "qlvl": 46
+    }
+  },
+  {
+    "id": 952,
+    "name": "Sacred Feathers",
+    "common_name": "",
+    "type": "pelt",
+    "quality": "normal",
+    "level_type": "exceptional",
+    "max_sockets": 3,
+    "class_specific": "druid",
+    "level_req": 32,
+    "str_req": 62,
+    "dex_req": null,
+    "durability": 20,
+    "statistics": {
+      "def": {
+        "min": 58,
+        "max": 87
+      },
+      "qlvl": 50
+    }
+  },
+  {
+    "id": 953,
+    "name": "Totemic Mask",
+    "common_name": "",
+    "type": "pelt",
+    "quality": "normal",
+    "level_type": "exceptional",
+    "max_sockets": 3,
+    "class_specific": "druid",
+    "level_req": 41,
+    "str_req": 65,
+    "dex_req": null,
+    "durability": 20,
+    "statistics": {
+      "def": {
+        "min": 73,
+        "max": 98
+      },
+      "qlvl": 55
+    }
+  },
+  {
+    "id": 949,
+    "name": "Blood Spirit",
+    "common_name": "",
+    "type": "pelt",
+    "quality": "normal",
+    "level_type": "elite",
+    "max_sockets": 3,
+    "class_specific": "druid",
+    "level_req": 46,
+    "str_req": 86,
+    "dex_req": null,
+    "durability": 20,
+    "statistics": {
+      "def": {
+        "min": 101,
+        "max": 145
+      },
+      "qlvl": 62
+    }
+  },
+  {
+    "id": 950,
+    "name": "Sun Spirit",
+    "common_name": "",
+    "type": "pelt",
+    "quality": "normal",
+    "level_type": "elite",
+    "max_sockets": 3,
+    "class_specific": "druid",
+    "level_req": 51,
+    "str_req": 95,
+    "dex_req": null,
+    "durability": 20,
+    "statistics": {
+      "def": {
+        "min": 98,
+        "max": 147
+      },
+      "qlvl": 69
+    }
+  },
+  {
+    "id": 951,
+    "name": "Earth Spirit",
+    "common_name": "",
+    "type": "pelt",
+    "quality": "normal",
+    "level_type": "elite",
+    "max_sockets": 3,
+    "class_specific": "druid",
+    "level_req": 57,
+    "str_req": 104,
+    "dex_req": null,
+    "durability": 20,
+    "statistics": {
+      "def": {
+        "min": 107,
+        "max": 152
+      },
+      "qlvl": 76
+    }
+  },
+  {
+    "id": 952,
+    "name": "Sky Spirit",
+    "common_name": "",
+    "type": "pelt",
+    "quality": "normal",
+    "level_type": "elite",
+    "max_sockets": 3,
+    "class_specific": "druid",
+    "level_req": 62,
+    "str_req": 113,
+    "dex_req": null,
+    "durability": 20,
+    "statistics": {
+      "def": {
+        "min": 103,
+        "max": 155
+      },
+      "qlvl": 83
+    }
+  },
+  {
+    "id": 953,
+    "name": "Dream Spirit",
+    "common_name": "",
+    "type": "pelt",
+    "quality": "normal",
+    "level_type": "elite",
+    "max_sockets": 3,
+    "class_specific": "druid",
+    "level_req": 66,
+    "str_req": 118,
+    "dex_req": null,
+    "durability": 20,
+    "statistics": {
+      "def": {
+        "min": 109,
+        "max": 159
+      },
+      "qlvl": 85
+    }
+  }
+]

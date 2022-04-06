@@ -1,0 +1,194 @@
+[
+  {
+    "id": 1,
+    "name": "Arcanna's Tricks",
+    "level_type": "normal",
+    "bonus": {}
+  },
+  {
+    "id": 2,
+    "name": "Arctic Gear",
+    "level_type": "normal",
+    "bonus": {}
+  },
+  {
+    "id": 3,
+    "name": "Berserker's Arsenal",
+    "level_type": "normal",
+    "bonus": {}
+  },
+  {
+    "id": 4,
+    "name": "Cathan's Traps",
+    "level_type": "normal",
+    "bonus": {}
+  },
+  {
+    "id": 5,
+    "name": "Civerb's Vestments",
+    "level_type": "normal",
+    "bonus": {}
+  },
+  {
+    "id": 6,
+    "name": "Cleglaw's Brace",
+    "level_type": "normal",
+    "bonus": {}
+  },
+  {
+    "id": 7,
+    "name": "Angelic Raiment",
+    "level_type": "normal",
+    "bonus": {}
+  },
+  {
+    "id": 8,
+    "name": "Hsarus' Defense",
+    "level_type": "normal",
+    "bonus": {}
+  },
+  {
+    "id": 9,
+    "name": "Infernal Tools",
+    "level_type": "normal",
+    "bonus": {}
+  },
+  {
+    "id": 10,
+    "name": "Iratha's Finery",
+    "level_type": "normal",
+    "bonus": {}
+  },
+  {
+    "id": 11,
+    "name": "Isenhart's Armory",
+    "level_type": "normal",
+    "bonus": {}
+  },
+  {
+    "id": 12,
+    "name": "Milaberga's Regalia",
+    "level_type": "normal",
+    "bonus": {}
+  },
+  {
+    "id": 13,
+    "name": "Sigon's Complete Steel",
+    "level_type": "normal",
+    "bonus": {}
+  },
+  {
+    "id": 14,
+    "name": "Tancred's Battlegear",
+    "level_type": "normal",
+    "bonus": {}
+  },
+  {
+    "id": 15,
+    "name": "Death's Disguise",
+    "level_type": "normal",
+    "bonus": {}
+  },
+  {
+    "id": 16,
+    "name": "Vidala's Rig",
+    "level_type": "normal",
+    "bonus": {}
+  },
+  {
+    "id": 17,
+    "name": "Heaven's Brethren",
+    "level_type": "exceptional",
+    "bonus": {}
+  },
+  {
+    "id": 18,
+    "name": "The Disciple",
+    "level_type": "exceptional",
+    "bonus": {}
+  },
+  {
+    "id": 19,
+    "name": "Hwanin's Majesty",
+    "level_type": "exceptional",
+    "bonus": {}
+  },
+  {
+    "id": 20,
+    "name": "Cow King's Leathers",
+    "level_type": "exceptional",
+    "bonus": {}
+  },
+  {
+    "id": 21,
+    "name": "Naj's Ancient Vestige",
+    "level_type": "exceptional",
+    "bonus": {}
+  },
+  {
+    "id": 22,
+    "name": "Sander's Folly",
+    "level_type": "exceptional",
+    "bonus": {}
+  },
+  {
+    "id": 23,
+    "name": "Sazabi's Grand Tribute",
+    "level_type": "exceptional",
+    "bonus": {}
+  },
+  {
+    "id": 24,
+    "name": "Orphan's Call",
+    "level_type": "exceptional",
+    "bonus": {}
+  },
+  {
+    "id": 25,
+    "name": "Aldur's Watchtower",
+    "level_type": "elite",
+    "bonus": {}
+  },
+  {
+    "id": 26,
+    "name": "Bul-Kathos' Children",
+    "level_type": "elite",
+    "bonus": {}
+  },
+  {
+    "id": 27,
+    "name": "Griswold's Legacy",
+    "level_type": "elite",
+    "bonus": {}
+  },
+  {
+    "id": 28,
+    "name": "M'avina's Battle Hymn",
+    "level_type": "elite",
+    "bonus": {}
+  },
+  {
+    "id": 29,
+    "name": "Natalya's Odium",
+    "level_type": "elite",
+    "bonus": {}
+  },
+  {
+    "id": 30,
+    "name": "Tal Rasha's Wrappings",
+    "level_type": "elite",
+    "bonus": {}
+  },
+  {
+    "id": 31,
+    "name": "Trang-Oul's Avatar",
+    "level_type": "elite",
+    "bonus": {}
+  },
+  {
+    "id": 32,
+    "name": "Immortal King",
+    "level_type": "elite",
+    "bonus": {}
+  }
+]

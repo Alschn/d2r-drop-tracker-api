@@ -1,0 +1,25 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+django = "*"
+djangorestframework = "*"
+coverage = "*"
+django-debug-toolbar = "*"
+django-extensions = "*"
+django-allauth = "*"
+django-import-export = "*"
+django-htmx = "*"
+django-ordered-model = "*"
+django-jsoneditor = "*"
+django-rest-multiple-models = "*"
+django-filter = "*"
+drf-yasg = "*"
+python-dotenv = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.9"

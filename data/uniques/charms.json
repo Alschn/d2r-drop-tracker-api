@@ -1,0 +1,132 @@
+[
+  {
+    "id": 1,
+    "name": "Annihilus",
+    "common_name": "anni",
+    "level_req": 70,
+    "statistics": {
+      "all_skills": {
+        "min": 1,
+        "max": 1
+      },
+      "str": {
+        "min": 10,
+        "max": 20
+      },
+      "dex": {
+        "min": 10,
+        "max": 20
+      },
+      "vita": {
+        "min": 10,
+        "max": 20
+      },
+      "energy": {
+        "min": 10,
+        "max": 20
+      },
+      "fr": {
+        "min": 10,
+        "max": 20
+      },
+      "cr": {
+        "min": 10,
+        "max": 20
+      },
+      "lr": {
+        "min": 10,
+        "max": 20
+      },
+      "pr": {
+        "min": 10,
+        "max": 20
+      },
+      "exp_gain": {
+        "min": 10,
+        "max": 20
+      }
+    },
+    "type": "charm",
+    "quality": "unique"
+  },
+  {
+    "id": 2,
+    "name": "Hellfire Torch",
+    "common_name": "torch",
+    "level_req": 75,
+    "statistics": {
+      "ctc": {
+        "on": "striking",
+        "spell": "firestorm",
+        "level": 10,
+        "chance": 5
+      },
+      "class_skills": {
+        "min": 3,
+        "max": 3
+      },
+      "str": {
+        "min": 10,
+        "max": 20
+      },
+      "dex": {
+        "min": 10,
+        "max": 20
+      },
+      "vita": {
+        "min": 10,
+        "max": 20
+      },
+      "energy": {
+        "min": 10,
+        "max": 20
+      },
+      "fr": {
+        "min": 10,
+        "max": 20
+      },
+      "cr": {
+        "min": 10,
+        "max": 20
+      },
+      "lr": {
+        "min": 10,
+        "max": 20
+      },
+      "pr": {
+        "min": 10,
+        "max": 20
+      },
+      "light_radius": 8,
+      "charges": {
+        "skill": "Hydra",
+        "level": 30,
+        "count": 10
+      }
+    },
+    "type": "charm",
+    "quality": "unique"
+  },
+  {
+    "id": 3,
+    "name": "Gheed's Fortune",
+    "common_name": "gheed",
+    "level_req": 62,
+    "statistics": {
+      "eg": {
+        "min": 80,
+        "max": 160
+      },
+      "mf": {
+        "min": 20,
+        "max": 40
+      },
+      "vendor_prices": {
+        "min": 10,
+        "max": 15
+      }
+    },
+    "type": "charm",
+    "quality": "unique"
+  }
+]

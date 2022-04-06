@@ -1,0 +1,212 @@
+[
+  {
+    "id": 1,
+    "name": "Nagelring",
+    "common_name": "nagel",
+    "level_req": 7,
+    "statistics": {
+    },
+    "type": "ring",
+    "quality": "unique"
+  },
+  {
+    "id": 2,
+    "name": "Manald's Heal",
+    "common_name": "manald",
+    "level_req": 15,
+    "statistics": {
+    },
+    "type": "ring",
+    "quality": "unique"
+  },
+  {
+    "id": 3,
+    "name": "Stone of Jordan",
+    "common_name": "soj",
+    "level_req": 7,
+    "statistics": {
+    },
+    "type": "ring",
+    "quality": "unique"
+  },
+  {
+    "id": 4,
+    "name": "Dward Star",
+    "common_name": "dwarf",
+    "level_req": 45,
+    "statistics": {
+    },
+    "type": "ring",
+    "quality": "unique"
+  },
+  {
+    "id": 5,
+    "name": "Raven Frost",
+    "common_name": "raven",
+    "level_req": 43,
+    "statistics": {
+    },
+    "type": "ring",
+    "quality": "unique"
+  },
+  {
+    "id": 6,
+    "name": "Bul-Kathos' Wedding Band",
+    "common_name": "bk",
+    "level_req": 58,
+    "statistics": {
+    },
+    "type": "ring",
+    "quality": "unique"
+  },
+  {
+    "id": 7,
+    "name": "Carrion Wind",
+    "common_name": "carrion",
+    "level_req": 60,
+    "statistics": {
+    },
+    "type": "ring",
+    "quality": "unique"
+  },
+  {
+    "id": 8,
+    "name": "Nature's Peace",
+    "common_name": "nature",
+    "level_req": 69,
+    "statistics": {
+    },
+    "type": "ring",
+    "quality": "unique"
+  },
+  {
+    "id": 9,
+    "name": "Wisp Projector",
+    "common_name": "wisp",
+    "level_req": 76,
+    "statistics": {
+    },
+    "type": "ring",
+    "quality": "unique"
+  },
+  {
+    "id": 10,
+    "name": "Nokozan Relic",
+    "common_name": "nokozan",
+    "level_req": 10,
+    "statistics": {
+    },
+    "type": "amulet",
+    "quality": "unique"
+  },
+  {
+    "id": 11,
+    "name": "The Eye of Etlich",
+    "common_name": "etlich",
+    "level_req": 15,
+    "statistics": {
+    },
+    "type": "amulet",
+    "quality": "unique"
+  },
+  {
+    "id": 12,
+    "name": "The Mahim-Oak Curio",
+    "common_name": "mahim",
+    "level_req": 25,
+    "statistics": {
+    },
+    "type": "amulet",
+    "quality": "unique"
+  },
+  {
+    "id": 13,
+    "name": "Saracen's Chance",
+    "common_name": "saracen",
+    "level_req": 47,
+    "statistics": {
+    },
+    "type": "amulet",
+    "quality": "unique"
+  },
+  {
+    "id": 14,
+    "name": "The Cat's Eye",
+    "common_name": "cats",
+    "level_req": 50,
+    "statistics": {
+    },
+    "type": "amulet",
+    "quality": "unique"
+  },
+  {
+    "id": 15,
+    "name": "Crescent Moon",
+    "common_name": "",
+    "level_req": 50,
+    "statistics": {
+    },
+    "type": "amulet",
+    "quality": "unique"
+  },
+  {
+    "id": 16,
+    "name": "Atma's Scarab",
+    "common_name": "atma",
+    "level_req": 60,
+    "statistics": {
+    },
+    "type": "amulet",
+    "quality": "unique"
+  },
+  {
+    "id": 17,
+    "name": "The Rising Sun",
+    "common_name": "",
+    "level_req": 60,
+    "statistics": {
+    },
+    "type": "ring",
+    "quality": "unique"
+  },
+  {
+    "id": 18,
+    "name": "Highlord's Wrath",
+    "common_name": "hl",
+    "level_req": 65,
+    "statistics": {
+    },
+    "type": "ring",
+    "quality": "unique"
+  },
+  {
+    "id": 19,
+    "name": "Mara's Kaleidoscope",
+    "common_name": "mara",
+    "level_req": 67,
+    "statistics": {
+    },
+    "type": "ring",
+    "quality": "unique"
+  },
+  {
+    "id": 20,
+    "name": "Seraph's Hymn",
+    "common_name": "seraph",
+    "level_req": 65,
+    "statistics": {
+    },
+    "type": "ring",
+    "quality": "unique"
+  },
+  {
+    "id": 21,
+    "name": "Metalgrid",
+    "common_name": "metalgrid",
+    "level_req": 81,
+    "statistics": {
+    },
+    "type": "ring",
+    "quality": "unique"
+  }
+]
