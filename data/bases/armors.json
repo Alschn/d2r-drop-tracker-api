@@ -1,3 +1,992 @@
 [
-
+  {
+    "id": 1,
+    "name": "Quilted Armor",
+    "common_name": "",
+    "type": "armor",
+    "quality": "normal",
+    "level_type": "normal",
+    "max_sockets": 2,
+    "class_specific": null,
+    "level_req": null,
+    "str_req": 12,
+    "dex_req": null,
+    "durability": 20,
+    "statistics": {
+      "weight": "light",
+      "def": {
+        "min": 8,
+        "max": 11
+      },
+      "qlvl": 1
+    }
+  },
+  {
+    "id": 2,
+    "name": "Leather Armor",
+    "common_name": "",
+    "type": "armor",
+    "quality": "normal",
+    "level_type": "normal",
+    "max_sockets": 2,
+    "class_specific": null,
+    "level_req": null,
+    "str_req": 15,
+    "dex_req": null,
+    "durability": 24,
+    "statistics": {
+      "weight": "light",
+      "def": {
+        "min": 14,
+        "max": 17
+      },
+      "qlvl": 3
+    }
+  },
+  {
+    "id": 3,
+    "name": "Hard Leather Armor",
+    "common_name": "",
+    "type": "armor",
+    "quality": "normal",
+    "level_type": "normal",
+    "max_sockets": 2,
+    "class_specific": null,
+    "level_req": null,
+    "str_req": 20,
+    "dex_req": null,
+    "durability": 28,
+    "statistics": {
+      "weight": "light",
+      "def": {
+        "min": 21,
+        "max": 24
+      },
+      "qlvl": 5
+    }
+  },
+  {
+    "id": 4,
+    "name": "Studded Leather",
+    "common_name": "",
+    "type": "armor",
+    "quality": "normal",
+    "level_type": "normal",
+    "max_sockets": 2,
+    "class_specific": null,
+    "level_req": null,
+    "str_req": 27,
+    "dex_req": null,
+    "durability": 32,
+    "statistics": {
+      "weight": "light",
+      "def": {
+        "min": 32,
+        "max": 35
+      },
+      "qlvl": 8
+    }
+  },
+  {
+    "id": 5,
+    "name": "Ring Mail",
+    "common_name": "",
+    "type": "armor",
+    "quality": "normal",
+    "level_type": "normal",
+    "max_sockets": 2,
+    "class_specific": null,
+    "level_req": null,
+    "str_req": 36,
+    "dex_req": null,
+    "durability": 26,
+    "statistics": {
+      "weight": "medium",
+      "def": {
+        "min": 45,
+        "max": 48
+      },
+      "qlvl": 11
+    }
+  },
+  {
+    "id": 6,
+    "name": "Scale Mail",
+    "common_name": "",
+    "type": "armor",
+    "quality": "normal",
+    "level_type": "normal",
+    "max_sockets": 2,
+    "class_specific": null,
+    "level_req": null,
+    "str_req": 44,
+    "dex_req": null,
+    "durability": 36,
+    "statistics": {
+      "weight": "heavy",
+      "def": {
+        "min": 57,
+        "max": 60
+      },
+      "qlvl": 13
+    }
+  },
+  {
+    "id": 7,
+    "name": "Chain Mail",
+    "common_name": "",
+    "type": "armor",
+    "quality": "normal",
+    "level_type": "normal",
+    "max_sockets": 2,
+    "class_specific": null,
+    "level_req": null,
+    "str_req": 48,
+    "dex_req": null,
+    "durability": 45,
+    "statistics": {
+      "weight": "medium",
+      "def": {
+        "min": 72,
+        "max": 75
+      },
+      "qlvl": 15
+    }
+  },
+  {
+    "id": 8,
+    "name": "Breast Plate",
+    "common_name": "",
+    "type": "armor",
+    "quality": "normal",
+    "level_type": "normal",
+    "max_sockets": 3,
+    "class_specific": null,
+    "level_req": null,
+    "str_req": 30,
+    "dex_req": null,
+    "durability": 50,
+    "statistics": {
+      "weight": "light",
+      "def": {
+        "min": 65,
+        "max": 68
+      },
+      "qlvl": 18
+    }
+  },
+  {
+    "id": 9,
+    "name": "Splint Mail",
+    "common_name": "",
+    "type": "armor",
+    "quality": "normal",
+    "level_type": "normal",
+    "max_sockets": 2,
+    "class_specific": null,
+    "level_req": null,
+    "str_req": 51,
+    "dex_req": null,
+    "durability": 30,
+    "statistics": {
+      "weight": "medium",
+      "def": {
+        "min": 90,
+        "max": 95
+      },
+      "qlvl": 20
+    }
+  },
+  {
+    "id": 10,
+    "name": "Plate Mail",
+    "common_name": "",
+    "type": "armor",
+    "quality": "normal",
+    "level_type": "normal",
+    "max_sockets": 2,
+    "class_specific": null,
+    "level_req": null,
+    "str_req": 65,
+    "dex_req": null,
+    "durability": 60,
+    "statistics": {
+      "weight": "heavy",
+      "def": {
+        "min": 108,
+        "max": 116
+      },
+      "qlvl": 24
+    }
+  },
+  {
+    "id": 11,
+    "name": "Field Plate",
+    "common_name": "",
+    "type": "armor",
+    "quality": "normal",
+    "level_type": "normal",
+    "max_sockets": 2,
+    "class_specific": null,
+    "level_req": null,
+    "str_req": 55,
+    "dex_req": null,
+    "durability": 48,
+    "statistics": {
+      "weight": "medium",
+      "def": {
+        "min": 101,
+        "max": 105
+      },
+      "qlvl": 28
+    }
+  },
+  {
+    "id": 12,
+    "name": "Gothic Plate",
+    "common_name": "gp",
+    "type": "armor",
+    "quality": "normal",
+    "level_type": "normal",
+    "max_sockets": 4,
+    "class_specific": null,
+    "level_req": null,
+    "str_req": 70,
+    "dex_req": null,
+    "durability": 55,
+    "statistics": {
+      "weight": "medium",
+      "def": {
+        "min": 128,
+        "max": 135
+      },
+      "qlvl": 32
+    }
+  },
+  {
+    "id": 13,
+    "name": "Light Plate",
+    "common_name": "lp",
+    "type": "armor",
+    "quality": "normal",
+    "level_type": "normal",
+    "max_sockets": 3,
+    "class_specific": null,
+    "level_req": null,
+    "str_req": 41,
+    "dex_req": null,
+    "durability": 60,
+    "statistics": {
+      "weight": "light",
+      "def": {
+        "min": 90,
+        "max": 107
+      },
+      "qlvl": 35
+    }
+  },
+  {
+    "id": 14,
+    "name": "Full Plate Mail",
+    "common_name": "",
+    "type": "armor",
+    "quality": "normal",
+    "level_type": "normal",
+    "max_sockets": 4,
+    "class_specific": null,
+    "level_req": null,
+    "str_req": 80,
+    "dex_req": null,
+    "durability": 70,
+    "statistics": {
+      "weight": "heavy",
+      "def": {
+        "min": 150,
+        "max": 161
+      },
+      "qlvl": 37
+    }
+  },
+  {
+    "id": 15,
+    "name": "Ancient Armor",
+    "common_name": "",
+    "type": "armor",
+    "quality": "normal",
+    "level_type": "normal",
+    "max_sockets": 4,
+    "class_specific": null,
+    "level_req": null,
+    "str_req": 100,
+    "dex_req": null,
+    "durability": 60,
+    "statistics": {
+      "weight": "medium",
+      "def": {
+        "min": 218,
+        "max": 233
+      },
+      "qlvl": 40
+    }
+  },
+  {
+    "id": 16,
+    "name": "Ghost Armor",
+    "common_name": "",
+    "type": "armor",
+    "quality": "normal",
+    "level_type": "exceptional",
+    "max_sockets": 2,
+    "class_specific": null,
+    "level_req": 22,
+    "str_req": 38,
+    "dex_req": null,
+    "durability": 12,
+    "statistics": {
+      "weight": "light",
+      "def": {
+        "min": 102,
+        "max": 117
+      },
+      "qlvl": 34
+    }
+  },
+  {
+    "id": 17,
+    "name": "Serpentskin Armor",
+    "common_name": "",
+    "type": "armor",
+    "quality": "normal",
+    "level_type": "exceptional",
+    "max_sockets": 2,
+    "class_specific": null,
+    "level_req": 24,
+    "str_req": 43,
+    "dex_req": null,
+    "durability": 12,
+    "statistics": {
+      "weight": "light",
+      "def": {
+        "min": 111,
+        "max": 126
+      },
+      "qlvl": 36
+    }
+  },
+  {
+    "id": 18,
+    "name": "Demonhide Armor",
+    "common_name": "",
+    "type": "armor",
+    "quality": "normal",
+    "level_type": "exceptional",
+    "max_sockets": 2,
+    "class_specific": null,
+    "level_req": 25,
+    "str_req": 50,
+    "dex_req": null,
+    "durability": 28,
+    "statistics": {
+      "weight": "light",
+      "def": {
+        "min": 122,
+        "max": 136
+      },
+      "qlvl": 37
+    }
+  },
+  {
+    "id": 19,
+    "name": "Trellised Armor",
+    "common_name": "",
+    "type": "armor",
+    "quality": "normal",
+    "level_type": "exceptional",
+    "max_sockets": 2,
+    "class_specific": null,
+    "level_req": 25,
+    "str_req": 61,
+    "dex_req": null,
+    "durability": 32,
+    "statistics": {
+      "weight": "light",
+      "def": {
+        "min": 138,
+        "max": 153
+      },
+      "qlvl": 40
+    }
+  },
+  {
+    "id": 20,
+    "name": "Linked Mail",
+    "common_name": "",
+    "type": "armor",
+    "quality": "normal",
+    "level_type": "exceptional",
+    "max_sockets": 3,
+    "class_specific": null,
+    "level_req": 25,
+    "str_req": 74,
+    "dex_req": null,
+    "durability": 26,
+    "statistics": {
+      "weight": "medium",
+      "def": {
+        "min": 158,
+        "max": 172
+      },
+      "qlvl": 42
+    }
+  },
+  {
+    "id": 21,
+    "name": "Tigulated Mail",
+    "common_name": "",
+    "type": "armor",
+    "quality": "normal",
+    "level_type": "exceptional",
+    "max_sockets": 2,
+    "class_specific": null,
+    "level_req": 25,
+    "str_req": 86,
+    "dex_req": null,
+    "durability": 36,
+    "statistics": {
+      "weight": "heavy",
+      "def": {
+        "min": 176,
+        "max": 190
+      },
+      "qlvl": 43
+    }
+  },
+  {
+    "id": 22,
+    "name": "Mesh Armor",
+    "common_name": "",
+    "type": "armor",
+    "quality": "normal",
+    "level_type": "exceptional",
+    "max_sockets": 3,
+    "class_specific": null,
+    "level_req": 25,
+    "str_req": 92,
+    "dex_req": null,
+    "durability": 45,
+    "statistics": {
+      "weight": "light",
+      "def": {
+        "min": 198,
+        "max": 213
+      },
+      "qlvl": 45
+    }
+  },
+  {
+    "id": 23,
+    "name": "Cuirass",
+    "common_name": "",
+    "type": "armor",
+    "quality": "normal",
+    "level_type": "exceptional",
+    "max_sockets": 3,
+    "class_specific": null,
+    "level_req": 25,
+    "str_req": 65,
+    "dex_req": null,
+    "durability": 50,
+    "statistics": {
+      "weight": "light",
+      "def": {
+        "min": 188,
+        "max": 202
+      },
+      "qlvl": 47
+    }
+  },
+  {
+    "id": 24,
+    "name": "Russet Armor",
+    "common_name": "",
+    "type": "armor",
+    "quality": "normal",
+    "level_type": "exceptional",
+    "max_sockets": 3,
+    "class_specific": null,
+    "level_req": 25,
+    "str_req": 97,
+    "dex_req": null,
+    "durability": 30,
+    "statistics": {
+      "weight": "medium",
+      "def": {
+        "min": 225,
+        "max": 243
+      },
+      "qlvl": 49
+    }
+  },
+  {
+    "id": 25,
+    "name": "Templar Coat",
+    "common_name": "",
+    "type": "armor",
+    "quality": "normal",
+    "level_type": "exceptional",
+    "max_sockets": 3,
+    "class_specific": null,
+    "level_req": 25,
+    "str_req": 118,
+    "dex_req": null,
+    "durability": 60,
+    "statistics": {
+      "weight": "heavy",
+      "def": {
+        "min": 252,
+        "max": 274
+      },
+      "qlvl": 52
+    }
+  },
+  {
+    "id": 26,
+    "name": "Sharktooth Armor",
+    "common_name": "",
+    "type": "armor",
+    "quality": "normal",
+    "level_type": "exceptional",
+    "max_sockets": 3,
+    "class_specific": null,
+    "level_req": 25,
+    "str_req": 103,
+    "dex_req": null,
+    "durability": 48,
+    "statistics": {
+      "weight": "medium",
+      "def": {
+        "min": 242,
+        "max": 258
+      },
+      "qlvl": 55
+    }
+  },
+  {
+    "id": 27,
+    "name": "Embossed Plate",
+    "common_name": "",
+    "type": "armor",
+    "quality": "normal",
+    "level_type": "exceptional",
+    "max_sockets": 4,
+    "class_specific": null,
+    "level_req": 25,
+    "str_req": 125,
+    "dex_req": null,
+    "durability": 55,
+    "statistics": {
+      "weight": "light",
+      "def": {
+        "min": 282,
+        "max": 303
+      },
+      "qlvl": 58
+    }
+  },
+  {
+    "id": 28,
+    "name": "Mage Plate",
+    "common_name": "",
+    "type": "armor",
+    "quality": "normal",
+    "level_type": "exceptional",
+    "max_sockets": 3,
+    "class_specific": null,
+    "level_req": 25,
+    "str_req": 55,
+    "dex_req": null,
+    "durability": 60,
+    "statistics": {
+      "weight": "light",
+      "def": {
+        "min": 225,
+        "max": 261
+      },
+      "qlvl": 60
+    }
+  },
+  {
+    "id": 29,
+    "name": "Chaos Armor",
+    "common_name": "",
+    "type": "armor",
+    "quality": "normal",
+    "level_type": "exceptional",
+    "max_sockets": 4,
+    "class_specific": null,
+    "level_req": 25,
+    "str_req": 140,
+    "dex_req": null,
+    "durability": 70,
+    "statistics": {
+      "weight": "heavy",
+      "def": {
+        "min": 315,
+        "max": 342
+      },
+      "qlvl": 61
+    }
+  },
+  {
+    "id": 30,
+    "name": "Ornate Plate",
+    "common_name": "",
+    "type": "armor",
+    "quality": "normal",
+    "level_type": "exceptional",
+    "max_sockets": 4,
+    "class_specific": null,
+    "level_req": 25,
+    "str_req": 170,
+    "dex_req": null,
+    "durability": 60,
+    "statistics": {
+      "weight": "medium",
+      "def": {
+        "min": 417,
+        "max": 450
+      },
+      "qlvl": 64
+    }
+  },
+  {
+    "id": 31,
+    "name": "Dusk Shroud",
+    "common_name": "dusk",
+    "type": "armor",
+    "quality": "normal",
+    "level_type": "elite",
+    "max_sockets": 4,
+    "class_specific": null,
+    "level_req": 49,
+    "str_req": 77,
+    "dex_req": null,
+    "durability": 20,
+    "statistics": {
+      "weight": "light",
+      "def": {
+        "min": 361,
+        "max": 467
+      },
+      "qlvl": 65
+    }
+  },
+  {
+    "id": 32,
+    "name": "Wyrmhide",
+    "common_name": "wyrm",
+    "type": "armor",
+    "quality": "normal",
+    "level_type": "elite",
+    "max_sockets": 4,
+    "class_specific": null,
+    "level_req": 50,
+    "str_req": 84,
+    "dex_req": null,
+    "durability": 24,
+    "statistics": {
+      "weight": "light",
+      "def": {
+        "min": 364,
+        "max": 470
+      },
+      "qlvl": 67
+    }
+  },
+  {
+    "id": 33,
+    "name": "Scarab Husk",
+    "common_name": "husk",
+    "type": "armor",
+    "quality": "normal",
+    "level_type": "elite",
+    "max_sockets": 4,
+    "class_specific": null,
+    "level_req": 51,
+    "str_req": 95,
+    "dex_req": null,
+    "durability": 28,
+    "statistics": {
+      "weight": "light",
+      "def": {
+        "min": 369,
+        "max": 474
+      },
+      "qlvl": 68
+    }
+  },
+  {
+    "id": 34,
+    "name": "Wire Fleece",
+    "common_name": "wire",
+    "type": "armor",
+    "quality": "normal",
+    "level_type": "elite",
+    "max_sockets": 4,
+    "class_specific": null,
+    "level_req": 53,
+    "str_req": 111,
+    "dex_req": null,
+    "durability": 32,
+    "statistics": {
+      "weight": "light",
+      "def": {
+        "min": 375,
+        "max": 481
+      },
+      "qlvl": 70
+    }
+  },
+  {
+    "id": 35,
+    "name": "Diamond Mail",
+    "common_name": "",
+    "type": "armor",
+    "quality": "normal",
+    "level_type": "elite",
+    "max_sockets": 4,
+    "class_specific": null,
+    "level_req": 54,
+    "str_req": 131,
+    "dex_req": null,
+    "durability": 26,
+    "statistics": {
+      "weight": "medium",
+      "def": {
+        "min": 383,
+        "max": 489
+      },
+      "qlvl": 72
+    }
+  },
+  {
+    "id": 36,
+    "name": "Loricated Mail",
+    "common_name": "",
+    "type": "armor",
+    "quality": "normal",
+    "level_type": "elite",
+    "max_sockets": 4,
+    "class_specific": null,
+    "level_req": 55,
+    "str_req": 149,
+    "dex_req": null,
+    "durability": 36,
+    "statistics": {
+      "weight": "heavy",
+      "def": {
+        "min": 390,
+        "max": 496
+      },
+      "qlvl": 73
+    }
+  },
+  {
+    "id": 37,
+    "name": "Boneweave",
+    "common_name": "",
+    "type": "armor",
+    "quality": "normal",
+    "level_type": "elite",
+    "max_sockets": 4,
+    "class_specific": null,
+    "level_req": 47,
+    "str_req": 158,
+    "dex_req": null,
+    "durability": 45,
+    "statistics": {
+      "weight": "medium",
+      "def": {
+        "min": 399,
+        "max": 505
+      },
+      "qlvl": 62
+    }
+  },
+  {
+    "id": 38,
+    "name": "Great Hauberk",
+    "common_name": "gh",
+    "type": "armor",
+    "quality": "normal",
+    "level_type": "elite",
+    "max_sockets": 4,
+    "class_specific": null,
+    "level_req": 56,
+    "str_req": 118,
+    "dex_req": null,
+    "durability": 50,
+    "statistics": {
+      "weight": "light",
+      "def": {
+        "min": 395,
+        "max": 501
+      },
+      "qlvl": 75
+    }
+  },
+  {
+    "id": 39,
+    "name": "Balrog Skin",
+    "common_name": "bs",
+    "type": "armor",
+    "quality": "normal",
+    "level_type": "elite",
+    "max_sockets": 4,
+    "class_specific": null,
+    "level_req": 57,
+    "str_req": 165,
+    "dex_req": null,
+    "durability": 30,
+    "statistics": {
+      "weight": "medium",
+      "def": {
+        "min": 410,
+        "max": 517
+      },
+      "qlvl": 76
+    }
+  },
+  {
+    "id": 40,
+    "name": "Hellforge Plate",
+    "common_name": "hp",
+    "type": "armor",
+    "quality": "normal",
+    "level_type": "elite",
+    "max_sockets": 4,
+    "class_specific": null,
+    "level_req": 59,
+    "str_req": 196,
+    "dex_req": null,
+    "durability": 60,
+    "statistics": {
+      "weight": "heavy",
+      "def": {
+        "min": 421,
+        "max": 530
+      },
+      "qlvl": 78
+    }
+  },
+  {
+    "id": 41,
+    "name": "Kraken Shell",
+    "common_name": "kraken",
+    "type": "armor",
+    "quality": "normal",
+    "level_type": "elite",
+    "max_sockets": 4,
+    "class_specific": null,
+    "level_req": 61,
+    "str_req": 174,
+    "dex_req": null,
+    "durability": 48,
+    "statistics": {
+      "weight": "medium",
+      "def": {
+        "min": 417,
+        "max": 523
+      },
+      "qlvl": 81
+    }
+  },
+  {
+    "id": 42,
+    "name": "Lacquered Plate",
+    "common_name": "",
+    "type": "armor",
+    "quality": "normal",
+    "level_type": "elite",
+    "max_sockets": 4,
+    "class_specific": null,
+    "level_req": 62,
+    "str_req": 208,
+    "dex_req": null,
+    "durability": 55,
+    "statistics": {
+      "weight": "medium",
+      "def": {
+        "min": 433,
+        "max": 541
+      },
+      "qlvl": 82
+    }
+  },
+  {
+    "id": 43,
+    "name": "Archon Plate",
+    "common_name": "ap",
+    "type": "armor",
+    "quality": "normal",
+    "level_type": "elite",
+    "max_sockets": 4,
+    "class_specific": null,
+    "level_req": 63,
+    "str_req": 103,
+    "dex_req": null,
+    "durability": 60,
+    "statistics": {
+      "weight": "light",
+      "def": {
+        "min": 410,
+        "max": 524
+      },
+      "qlvl": 84
+    }
+  },
+  {
+    "id": 44,
+    "name": "Shadow Plate",
+    "common_name": "",
+    "type": "armor",
+    "quality": "normal",
+    "level_type": "elite",
+    "max_sockets": 4,
+    "class_specific": null,
+    "level_req": 64,
+    "str_req": 208,
+    "dex_req": null,
+    "durability": 70,
+    "statistics": {
+      "weight": "heavy",
+      "def": {
+        "min": 446,
+        "max": 557
+      },
+      "qlvl": 83
+    }
+  },
+  {
+    "id": 45,
+    "name": "Sacred Armor",
+    "common_name": "sa",
+    "type": "armor",
+    "quality": "normal",
+    "level_type": "elite",
+    "max_sockets": 4,
+    "class_specific": null,
+    "level_req": 66,
+    "str_req": 232,
+    "dex_req": null,
+    "durability": 60,
+    "statistics": {
+      "weight": "medium",
+      "def": {
+        "min": 487,
+        "max": 600
+      },
+      "qlvl": 85
+    }
+  }
 ]

@@ -24,9 +24,15 @@ class ItemBaseAdminForm(forms.ModelForm):
 
 
 @admin.register(ItemBase)
-class ItemBaseAdmin(ModelAdmin):
+class ItemBaseAdmin(ImportExportModelAdmin, ModelAdmin):
     form = ItemBaseAdminForm
-    list_filter = ('type',)
+    list_display = (
+        'name', 'type', 'level_type',
+        'str_req', 'dex_req', 'level_req', 'max_sockets',
+        'class_specific',
+    )
+    list_filter = ('type', 'max_sockets', 'class_specific')
+    ordering = ('type',)
 
 
 @admin.register(Item)
