@@ -1,6 +1,6 @@
 [
   {
-    "id": 901,
+    "id": 91,
     "name": "Cap",
     "common_name": "",
     "type": "helmet",
@@ -21,7 +21,7 @@
     }
   },
   {
-    "id": 902,
+    "id": 92,
     "name": "Skull Cap",
     "common_name": "",
     "type": "helmet",
@@ -42,7 +42,7 @@
     }
   },
   {
-    "id": 903,
+    "id": 93,
     "name": "Helm",
     "common_name": "",
     "type": "helmet",
@@ -63,7 +63,7 @@
     }
   },
   {
-    "id": 904,
+    "id": 94,
     "name": "Full Helm",
     "common_name": "",
     "type": "helmet",
@@ -84,7 +84,7 @@
     }
   },
   {
-    "id": 905,
+    "id": 95,
     "name": "Mask",
     "common_name": "",
     "type": "helmet",
@@ -105,7 +105,7 @@
     }
   },
   {
-    "id": 906,
+    "id": 96,
     "name": "Bone Helm",
     "common_name": "",
     "type": "helmet",
@@ -126,7 +126,7 @@
     }
   },
   {
-    "id": 907,
+    "id": 97,
     "name": "Great Helm",
     "common_name": "",
     "type": "helmet",
@@ -147,7 +147,7 @@
     }
   },
   {
-    "id": 908,
+    "id": 98,
     "name": "Crown",
     "common_name": "",
     "type": "helmet",
@@ -168,7 +168,7 @@
     }
   },
   {
-    "id": 909,
+    "id": 99,
     "name": "War Hat",
     "common_name": "",
     "type": "helmet",
@@ -189,7 +189,7 @@
     }
   },
   {
-    "id": 910,
+    "id": 100,
     "name": "Sallet",
     "common_name": "",
     "type": "helmet",
@@ -210,7 +210,7 @@
     }
   },
   {
-    "id": 911,
+    "id": 101,
     "name": "Casque",
     "common_name": "",
     "type": "helmet",
@@ -231,7 +231,7 @@
     }
   },
   {
-    "id": 912,
+    "id": 102,
     "name": "Basinet",
     "common_name": "",
     "type": "helmet",
@@ -252,7 +252,7 @@
     }
   },
   {
-    "id": 913,
+    "id": 103,
     "name": "Death Mask",
     "common_name": "",
     "type": "helmet",
@@ -273,7 +273,7 @@
     }
   },
   {
-    "id": 914,
+    "id": 104,
     "name": "Grim Helm",
     "common_name": "",
     "type": "helmet",
@@ -294,7 +294,7 @@
     }
   },
   {
-    "id": 915,
+    "id": 105,
     "name": "Winged Helm",
     "common_name": "",
     "type": "helmet",
@@ -315,7 +315,7 @@
     }
   },
   {
-    "id": 916,
+    "id": 106,
     "name": "Grand Crown",
     "common_name": "",
     "type": "helmet",
@@ -336,7 +336,7 @@
     }
   },
   {
-    "id": 917,
+    "id": 107,
     "name": "Shako",
     "common_name": "",
     "type": "helmet",
@@ -357,7 +357,7 @@
     }
   },
   {
-    "id": 918,
+    "id": 108,
     "name": "Hydraskull",
     "common_name": "",
     "type": "helmet",
@@ -378,7 +378,7 @@
     }
   },
   {
-    "id": 919,
+    "id": 109,
     "name": "Armet",
     "common_name": "",
     "type": "helmet",
@@ -399,7 +399,7 @@
     }
   },
   {
-    "id": 920,
+    "id": 110,
     "name": "Giant Conch",
     "common_name": "",
     "type": "helmet",
@@ -420,7 +420,7 @@
     }
   },
   {
-    "id": 921,
+    "id": 111,
     "name": "Demonhead",
     "common_name": "",
     "type": "helmet",
@@ -441,7 +441,7 @@
     }
   },
   {
-    "id": 922,
+    "id": 112,
     "name": "Bone Visage",
     "common_name": "",
     "type": "helmet",
@@ -462,7 +462,7 @@
     }
   },
   {
-    "id": 923,
+    "id": 113,
     "name": "Spired Helm",
     "common_name": "",
     "type": "helmet",
@@ -483,7 +483,7 @@
     }
   },
   {
-    "id": 924,
+    "id": 114,
     "name": "Corona",
     "common_name": "",
     "type": "helmet",
@@ -504,7 +504,7 @@
     }
   },
   {
-    "id": 925,
+    "id": 115,
     "name": "Circlet",
     "common_name": "",
     "type": "helmet",
@@ -525,7 +525,7 @@
     }
   },
   {
-    "id": 926,
+    "id": 116,
     "name": "Coronet",
     "common_name": "",
     "type": "helmet",
@@ -546,7 +546,7 @@
     }
   },
   {
-    "id": 927,
+    "id": 117,
     "name": "Tiara",
     "common_name": "",
     "type": "helmet",
@@ -554,7 +554,7 @@
     "level_type": "elite",
     "max_sockets": 3,
     "class_specific": null,
-    "level_req": 0,
+    "level_req": 52,
     "str_req": null,
     "dex_req": null,
     "durability": 25,
@@ -567,7 +567,7 @@
     }
   },
   {
-    "id": 928,
+    "id": 118,
     "name": "Diadem",
     "common_name": "",
     "type": "helmet",
@@ -575,7 +575,7 @@
     "level_type": "elite",
     "max_sockets": 3,
     "class_specific": null,
-    "level_req": 0,
+    "level_req": 64,
     "str_req": null,
     "dex_req": null,
     "durability": 20,
@@ -588,10 +588,10 @@
     }
   },
   {
-    "id": 929,
+    "id": 119,
     "name": "Jawbone Cap",
     "common_name": "",
-    "type": "helm",
+    "type": "barb_helm",
     "quality": "normal",
     "level_type": "normal",
     "max_sockets": 3,
@@ -609,10 +609,10 @@
     }
   },
   {
-    "id": 930,
+    "id": 120,
     "name": "Fanged Helm",
     "common_name": "",
-    "type": "helm",
+    "type": "barb_helm",
     "quality": "normal",
     "level_type": "normal",
     "max_sockets": 3,
@@ -630,10 +630,10 @@
     }
   },
   {
-    "id": 931,
+    "id": 121,
     "name": "Horned Helm",
     "common_name": "",
-    "type": "helm",
+    "type": "barb_helm",
     "quality": "normal",
     "level_type": "normal",
     "max_sockets": 3,
@@ -651,10 +651,10 @@
     }
   },
   {
-    "id": 932,
+    "id": 123,
     "name": "Assault Helmet",
     "common_name": "",
-    "type": "helm",
+    "type": "barb_helm",
     "quality": "normal",
     "level_type": "normal",
     "max_sockets": 3,
@@ -672,10 +672,10 @@
     }
   },
   {
-    "id": 933,
+    "id": 124,
     "name": "Avenger Guard",
     "common_name": "",
-    "type": "helm",
+    "type": "barb_helm",
     "quality": "normal",
     "level_type": "normal",
     "max_sockets": 3,
@@ -693,10 +693,10 @@
     }
   },
   {
-    "id": 934,
+    "id": 125,
     "name": "Jawbone Visor",
     "common_name": "",
-    "type": "helm",
+    "type": "barb_helm",
     "quality": "normal",
     "level_type": "exceptional",
     "max_sockets": 3,
@@ -714,10 +714,10 @@
     }
   },
   {
-    "id": 935,
+    "id": 126,
     "name": "Lion Helm",
     "common_name": "",
-    "type": "helm",
+    "type": "barb_helm",
     "quality": "normal",
     "level_type": "exceptional",
     "max_sockets": 3,
@@ -735,10 +735,10 @@
     }
   },
   {
-    "id": 936,
+    "id": 127,
     "name": "Rage Mask",
     "common_name": "",
-    "type": "helm",
+    "type": "barb_helm",
     "quality": "normal",
     "level_type": "exceptional",
     "max_sockets": 3,
@@ -756,10 +756,10 @@
     }
   },
   {
-    "id": 937,
+    "id": 128,
     "name": "Savage Helmet",
     "common_name": "",
-    "type": "helm",
+    "type": "barb_helm",
     "quality": "normal",
     "level_type": "exceptional",
     "max_sockets": 3,
@@ -777,10 +777,10 @@
     }
   },
   {
-    "id": 938,
+    "id": 129,
     "name": "Slayer Guard",
     "common_name": "",
-    "type": "helm",
+    "type": "barb_helm",
     "quality": "normal",
     "level_type": "exceptional",
     "max_sockets": 3,
@@ -798,10 +798,10 @@
     }
   },
   {
-    "id": 939,
+    "id": 130,
     "name": "Carnage Helm",
     "common_name": "",
-    "type": "helm",
+    "type": "barb_helm",
     "quality": "normal",
     "level_type": "elite",
     "max_sockets": 3,
@@ -819,10 +819,10 @@
     }
   },
   {
-    "id": 940,
+    "id": 131,
     "name": "Fury Visor",
     "common_name": "",
-    "type": "helm",
+    "type": "barb_helm",
     "quality": "normal",
     "level_type": "elite",
     "max_sockets": 3,
@@ -840,10 +840,10 @@
     }
   },
   {
-    "id": 941,
+    "id": 132,
     "name": "Destroyer Helm",
     "common_name": "",
-    "type": "helm",
+    "type": "barb_helm",
     "quality": "normal",
     "level_type": "elite",
     "max_sockets": 3,
@@ -861,10 +861,10 @@
     }
   },
   {
-    "id": 942,
+    "id": 133,
     "name": "Conqueror Crown",
     "common_name": "",
-    "type": "helm",
+    "type": "barb_helm",
     "quality": "normal",
     "level_type": "elite",
     "max_sockets": 3,
@@ -882,10 +882,10 @@
     }
   },
   {
-    "id": 943,
+    "id": 134,
     "name": "Guardian Crown",
     "common_name": "",
-    "type": "helm",
+    "type": "barb_helm",
     "quality": "normal",
     "level_type": "elite",
     "max_sockets": 3,
@@ -903,10 +903,10 @@
     }
   },
   {
-    "id": 944,
+    "id": 135,
     "name": "Wolf Head",
     "common_name": "",
-    "type": "pelt",
+    "type": "druid_pelt",
     "quality": "normal",
     "level_type": "normal",
     "max_sockets": 3,
@@ -924,10 +924,10 @@
     }
   },
   {
-    "id": 945,
+    "id": 136,
     "name": "Hawk Helm",
     "common_name": "",
-    "type": "pelt",
+    "type": "druid_pelt",
     "quality": "normal",
     "level_type": "normal",
     "max_sockets": 3,
@@ -945,10 +945,10 @@
     }
   },
   {
-    "id": 946,
+    "id": 137,
     "name": "Hawk Helm",
     "common_name": "",
-    "type": "pelt",
+    "type": "druid_pelt",
     "quality": "normal",
     "level_type": "normal",
     "max_sockets": 3,
@@ -966,10 +966,10 @@
     }
   },
   {
-    "id": 947,
+    "id": 138,
     "name": "Falcon Mask",
     "common_name": "",
-    "type": "pelt",
+    "type": "druid_pelt",
     "quality": "normal",
     "level_type": "normal",
     "max_sockets": 3,
@@ -987,10 +987,10 @@
     }
   },
   {
-    "id": 948,
+    "id": 139,
     "name": "Spirit Mask",
     "common_name": "",
-    "type": "pelt",
+    "type": "druid_pelt",
     "quality": "normal",
     "level_type": "normal",
     "max_sockets": 3,
@@ -1008,10 +1008,10 @@
     }
   },
   {
-    "id": 949,
+    "id": 140,
     "name": "Alpha Head",
     "common_name": "",
-    "type": "pelt",
+    "type": "druid_pelt",
     "quality": "normal",
     "level_type": "exceptional",
     "max_sockets": 3,
@@ -1029,10 +1029,10 @@
     }
   },
   {
-    "id": 950,
+    "id": 141,
     "name": "Griffon Headdress",
     "common_name": "",
-    "type": "pelt",
+    "type": "druid_pelt",
     "quality": "normal",
     "level_type": "exceptional",
     "max_sockets": 3,
@@ -1050,10 +1050,10 @@
     }
   },
   {
-    "id": 951,
+    "id": 142,
     "name": "Hunter's Guise",
     "common_name": "",
-    "type": "pelt",
+    "type": "druid_pelt",
     "quality": "normal",
     "level_type": "exceptional",
     "max_sockets": 3,
@@ -1071,10 +1071,10 @@
     }
   },
   {
-    "id": 952,
+    "id": 143,
     "name": "Sacred Feathers",
     "common_name": "",
-    "type": "pelt",
+    "type": "druid_pelt",
     "quality": "normal",
     "level_type": "exceptional",
     "max_sockets": 3,
@@ -1092,10 +1092,10 @@
     }
   },
   {
-    "id": 953,
+    "id": 144,
     "name": "Totemic Mask",
     "common_name": "",
-    "type": "pelt",
+    "type": "druid_pelt",
     "quality": "normal",
     "level_type": "exceptional",
     "max_sockets": 3,
@@ -1113,10 +1113,10 @@
     }
   },
   {
-    "id": 949,
+    "id": 145,
     "name": "Blood Spirit",
     "common_name": "",
-    "type": "pelt",
+    "type": "druid_pelt",
     "quality": "normal",
     "level_type": "elite",
     "max_sockets": 3,
@@ -1134,10 +1134,10 @@
     }
   },
   {
-    "id": 950,
+    "id": 146,
     "name": "Sun Spirit",
     "common_name": "",
-    "type": "pelt",
+    "type": "druid_pelt",
     "quality": "normal",
     "level_type": "elite",
     "max_sockets": 3,
@@ -1155,10 +1155,10 @@
     }
   },
   {
-    "id": 951,
+    "id": 147,
     "name": "Earth Spirit",
     "common_name": "",
-    "type": "pelt",
+    "type": "druid_pelt",
     "quality": "normal",
     "level_type": "elite",
     "max_sockets": 3,
@@ -1176,10 +1176,10 @@
     }
   },
   {
-    "id": 952,
+    "id": 148,
     "name": "Sky Spirit",
     "common_name": "",
-    "type": "pelt",
+    "type": "druid_pelt",
     "quality": "normal",
     "level_type": "elite",
     "max_sockets": 3,
@@ -1197,10 +1197,10 @@
     }
   },
   {
-    "id": 953,
+    "id": 149,
     "name": "Dream Spirit",
     "common_name": "",
-    "type": "pelt",
+    "type": "druid_pelt",
     "quality": "normal",
     "level_type": "elite",
     "max_sockets": 3,
