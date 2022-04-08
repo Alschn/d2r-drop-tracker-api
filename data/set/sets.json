@@ -3,192 +3,754 @@
     "id": 1,
     "name": "Arcanna's Tricks",
     "level_type": "normal",
-    "bonus": {}
+    "bonus": {
+      "2": {
+        "mana": 50
+      },
+      "3": {
+        "life": 50,
+        "mreg": 12
+      },
+      "4": {
+        "mana": 50,
+        "life": 50,
+        "fcr": 20,
+        "ml": 5,
+        "all_skills": 1
+      }
+    }
   },
   {
     "id": 2,
     "name": "Arctic Gear",
     "level_type": "normal",
-    "bonus": {}
+    "bonus": {
+      "2": {
+        "str": 5
+      },
+      "3": {
+        "life": 50
+      },
+      "4": {
+        "str": 5,
+        "life": 50,
+        "cbf": true,
+        "cold_dmg_per_lvl": 2
+      }
+    }
   },
   {
     "id": 3,
     "name": "Berserker's Arsenal",
     "level_type": "normal",
-    "bonus": {}
+    "bonus": {
+      "2": {
+        "life": 50
+      },
+      "3": {
+        "life": 50,
+        "def": 75,
+        "plr": 75,
+        "poison_dmg": {
+          "min": 5,
+          "max": 9,
+          "duration": 3
+        }
+      }
+    }
   },
   {
     "id": 4,
     "name": "Cathan's Traps",
     "level_type": "normal",
-    "bonus": {}
+    "bonus": {
+      "2": {
+        "fire_dmg": {
+          "min": 15,
+          "max": 20
+        },
+        "mreg": 16
+      },
+      "3": {
+        "lr": 25
+      },
+      "5": {
+        "fire_dmg": {
+          "min": 15,
+          "max": 20
+        },
+        "lr": 25,
+        "fcr": 10,
+        "mdr": 3,
+        "all_res": 25,
+        "ar": 60,
+        "mana": 20
+      }
+    }
   },
   {
     "id": 5,
     "name": "Civerb's Vestments",
     "level_type": "normal",
-    "bonus": {}
+    "bonus": {
+      "2": {
+        "fr": 25
+      },
+      "3": {
+        "dmg_to_undead": 200,
+        "str": 15,
+        "fr": 15,
+        "lr": 25,
+        "ar_%": 25,
+        "def_per_level": 4
+      }
+    }
   },
   {
     "id": 6,
     "name": "Cleglaw's Brace",
     "level_type": "normal",
-    "bonus": {}
+    "bonus": {
+      "2": {
+        "def": 50
+      },
+      "3": {
+        "def": 100,
+        "cb": 35,
+        "ml": 6,
+        "ias": 20
+      }
+    }
   },
   {
     "id": 7,
     "name": "Angelic Raiment",
     "level_type": "normal",
-    "bonus": {}
+    "bonus": {
+      "2": {
+        "dex": 10
+      },
+      "3": {
+        "mana": 50
+      },
+      "4": {
+        "hfd": true,
+        "all_res": 25,
+        "mf": 40,
+        "mreg": 8,
+        "dex": 10,
+        "mana": 50
+      }
+    }
   },
   {
     "id": 8,
     "name": "Hsarus' Defense",
     "level_type": "normal",
-    "bonus": {}
+    "bonus": {
+      "2": {
+        "atd": 5
+      },
+      "3": {
+        "atd": 5,
+        "cbf": true,
+        "lr": 25,
+        "max_dmg": 5
+      }
+    }
   },
   {
     "id": 9,
     "name": "Infernal Tools",
     "level_type": "normal",
-    "bonus": {}
+    "bonus": {
+      "2": {
+        "psn_dmg": {
+          "min": 8,
+          "max": 8,
+          "duration": 3
+        }
+      },
+      "3": {
+        "psn_dmg": {
+          "min": 8,
+          "max": 8,
+          "duration": 3
+        },
+        "ow": 20,
+        "nec_skills": 1,
+        "ar_%": 20,
+        "ml": 6,
+        "max_mana": 20,
+        "cbf": true
+      }
+    }
   },
   {
     "id": 10,
     "name": "Iratha's Finery",
     "level_type": "normal",
-    "bonus": {}
+    "bonus": {
+      "2": {
+        "def": 50
+      },
+      "3": {
+        "frw": 20,
+        "pierce": 24
+      },
+      "4": {
+        "def": 50,
+        "frw": 20,
+        "dex": 15,
+        "max_pr": 10,
+        "max_cr": 10,
+        "max_lr": 10,
+        "max_fr": 10,
+        "all_res": 20
+      }
+    }
   },
   {
     "id": 11,
     "name": "Isenhart's Armory",
     "level_type": "normal",
-    "bonus": {}
+    "bonus": {
+      "2": {
+        "str": 10
+      },
+      "3": {
+        "dex": 10
+      },
+      "4": {
+        "str": 10,
+        "dex": 10,
+        "frw": 20,
+        "icb": 30,
+        "ar_%": 35,
+        "ll": 6,
+        "all_res": 10
+      }
+    }
   },
   {
     "id": 12,
     "name": "Milaberga's Regalia",
     "level_type": "normal",
-    "bonus": {}
+    "bonus": {
+      "2": {
+        "ar": 75,
+        "light_dmg_per_level": 2
+      },
+      "3": {
+        "ar": 125,
+        "cbf": true
+      },
+      "4": {
+        "ar": 200,
+        "pala_skills": 2,
+        "ll": 8,
+        "ml": 10,
+        "pr": 15
+      }
+    }
   },
   {
     "id": 13,
     "name": "Sigon's Complete Steel",
     "level_type": "normal",
-    "bonus": {}
+    "bonus": {
+      "2": {
+        "ll": 10
+      },
+      "3": {
+        "def": 100
+      },
+      "6": {
+        "ll": 10,
+        "def": 100,
+        "mana": 20,
+        "fr": 12,
+        "max_fire_dmg": 24,
+        "atd": 12,
+        "dr_by": 7
+      }
+    }
   },
   {
     "id": 14,
     "name": "Tancred's Battlegear",
     "level_type": "normal",
-    "bonus": {}
+    "bonus": {
+      "2": {
+        "light_dmg": {
+          "min": 15,
+          "max": 15
+        }
+      },
+      "3": {
+        "ll": 5
+      },
+      "5": {
+        "light_dmg": {
+          "min": 15,
+          "max": 15
+        },
+        "ll": 5,
+        "slow_target": 35,
+        "ml": 5,
+        "all_res": 10,
+        "eg": 70
+      }
+    }
   },
   {
     "id": 15,
     "name": "Death's Disguise",
     "level_type": "normal",
-    "bonus": {}
+    "bonus": {
+      "2": {
+        "ll": 8
+      },
+      "3": {
+        "ll": 8,
+        "ar_%": 40,
+        "all_res": 25,
+        "min_dmg": 10
+      }
+    }
   },
   {
     "id": 16,
     "name": "Vidala's Rig",
     "level_type": "normal",
-    "bonus": {}
+    "bonus": {
+      "2": {
+        "ar": 75,
+        "ml": 2
+      },
+      "3": {
+        "dex": 15
+      },
+      "4": {
+        "ar": 75,
+        "cold_dmg_per_level": 1.5,
+        "pierce": 50,
+        "freeze": true,
+        "dex": 15,
+        "str": 10
+      }
+    }
   },
   {
     "id": 17,
     "name": "Heaven's Brethren",
     "level_type": "exceptional",
-    "bonus": {}
+    "bonus": {
+      "2": {
+        "heal_stamina": 50
+      },
+      "3": {
+        "life_repl": 20
+      },
+      "4": {
+        "all_skills": 2,
+        "life_repl": 20,
+        "heal_stamina": 50,
+        "all_res": 50,
+        "cbf": true,
+        "light_radius": 5
+      }
+    }
   },
   {
     "id": 18,
     "name": "The Disciple",
     "level_type": "exceptional",
-    "bonus": {}
+    "bonus": {
+      "2": {
+        "def": 150
+      },
+      "3": {
+        "psn_dmg": {
+          "min": 22,
+          "max": 22,
+          "duration": 3
+        }
+      },
+      "4": {
+        "str": 10
+      },
+      "5": {
+        "def": 150,
+        "psn_dmg": {
+          "min": 22,
+          "max": 22,
+          "duration": 3
+        },
+        "str": 10,
+        "all_skills": 2,
+        "all_res": 50,
+        "mana": 100
+      }
+    }
   },
   {
     "id": 19,
     "name": "Hwanin's Majesty",
     "level_type": "exceptional",
-    "bonus": {}
+    "bonus": {
+      "2": {
+        "def": 100
+      },
+      "3": {
+        "def": 300
+      },
+      "4": {
+        "all_skills": 2,
+        "frw": 30,
+        "ll": 20,
+        "def": 300,
+        "all_res": 30
+      }
+    }
   },
   {
     "id": 20,
     "name": "Cow King's Leathers",
     "level_type": "exceptional",
-    "bonus": {}
+    "bonus": {
+      "2": {
+        "pr": 25,
+        "def_per_level": 4
+      },
+      "3": {
+        "pr": 25,
+        "ctc": {
+          "spell": "Static Field",
+          "level": 5,
+          "when": "struck",
+          "chance": 25
+        },
+        "max_stamina": 100,
+        "str": 20,
+        "ias": 30,
+        "mf": 100,
+        "eg": 100,
+        "life": 100,
+        "all_skills": 1
+      }
+    }
   },
   {
     "id": 21,
     "name": "Naj's Ancient Vestige",
     "level_type": "exceptional",
-    "bonus": {}
+    "bonus": {
+      "2": {
+        "def": 175,
+        "mf_per_level": 1.5
+      },
+      "3": {
+        "def": 175,
+        "dex": 15,
+        "all_res": 50,
+        "str": 20,
+        "mana": 100,
+        "all_skills": 1,
+        "life_repl": 20,
+        "fire_skills": 2,
+        "max_life": 12
+      }
+    }
   },
   {
     "id": 22,
     "name": "Sander's Folly",
     "level_type": "exceptional",
-    "bonus": {}
+    "bonus": {
+      "2": {
+        "def": 50
+      },
+      "3": {
+        "ar": 75
+      },
+      "4": {
+        "def": 50,
+        "ar": 75,
+        "all_skills": 1,
+        "ll": 4,
+        "mana": 50,
+        "mf": 50
+      }
+    }
   },
   {
     "id": 23,
     "name": "Sazabi's Grand Tribute",
     "level_type": "exceptional",
-    "bonus": {}
+    "bonus": {
+      "2": {
+        "frw": 40,
+        "plr": 75
+      },
+      "3": {
+        "frw": 40,
+        "ll": 15,
+        "max_life": 27,
+        "all_res": 30,
+        "all_skills": 1,
+        "dr%": 16
+      }
+    }
   },
   {
     "id": 24,
     "name": "Orphan's Call",
     "level_type": "exceptional",
-    "bonus": {}
+    "bonus": {
+      "2": {
+        "life": 35
+      },
+      "3": {
+        "atd": 5
+      },
+      "4": {
+        "life": 85,
+        "atd": 5,
+        "all_res": 15,
+        "def": 100,
+        "dex": 10,
+        "str": 20,
+        "mf": 80
+      }
+    }
   },
   {
     "id": 25,
     "name": "Aldur's Watchtower",
     "level_type": "elite",
-    "bonus": {}
+    "bonus": {
+      "2": {
+        "ar_%": 150
+      },
+      "3": {
+        "mf": 50
+      },
+      "4": {
+        "druid_skills": 3,
+        "ed": 350,
+        "ar_%": 150,
+        "mf": 50,
+        "ml": 10,
+        "all_res": 50,
+        "def": 150,
+        "mana": 150,
+        "aura": true
+      }
+    }
   },
   {
     "id": 26,
     "name": "Bul-Kathos' Children",
     "level_type": "elite",
-    "bonus": {}
+    "bonus": {
+      "2": {
+        "all_skills": 2,
+        "ar": 200,
+        "dmg_to_demons": 200,
+        "dmg_to_undead": 200,
+        "fire_dmg": {
+          "min": 200,
+          "max": 200
+        },
+        "def": 200,
+        "ll": 10,
+        "ds": 20
+      }
+    }
   },
   {
     "id": 27,
     "name": "Griswold's Legacy",
     "level_type": "elite",
-    "bonus": {}
+    "bonus": {
+      "2": {
+        "str": 20
+      },
+      "3": {
+        "dex": 30
+      },
+      "4": {
+        "pala_skills": 3,
+        "fhr": 30,
+        "ar": 200,
+        "str": 20,
+        "dex": 30,
+        "life": 150,
+        "all_res": 50,
+        "aura": true
+      }
+    }
   },
   {
     "id": 28,
     "name": "M'avina's Battle Hymn",
     "level_type": "elite",
-    "bonus": {}
+    "bonus": {
+      "2": {
+        "str": 20
+      },
+      "3": {
+        "dex": 30
+      },
+      "5": {
+        "ama_skills": 3,
+        "str": 20,
+        "dex": 30,
+        "all_res": 50,
+        "def": 100,
+        "ar": 100,
+        "mf": 100,
+        "aura": true
+      }
+    }
   },
   {
     "id": 29,
     "name": "Natalya's Odium",
     "level_type": "elite",
-    "bonus": {}
+    "bonus": {
+      "2": {
+        "mdr_by": 15
+      },
+      "3": {
+        "def": 200
+      },
+      "4": {
+        "assa_skills": 3,
+        "def": 350,
+        "ll": 14,
+        "ml": 14,
+        "all_res": 50,
+        "dr%": 30,
+        "mdr_by": 15,
+        "fade": true
+      }
+    }
   },
   {
     "id": 30,
     "name": "Tal Rasha's Wrappings",
     "level_type": "elite",
-    "bonus": {}
+    "bonus": {
+      "2": {
+        "life_repl": 10
+      },
+      "3": {
+        "mf": 65
+      },
+      "4": {
+        "fhr": 25
+      },
+      "5": {
+        "sorc_skills": 3,
+        "life_repl": 10,
+        "mf": 65,
+        "fhr": 25,
+        "life": 150,
+        "all_res": 50,
+        "def_vs_missle": 50,
+        "def": 150,
+        "aura": true
+      }
+    }
   },
   {
     "id": 31,
     "name": "Trang-Oul's Avatar",
     "level_type": "elite",
-    "bonus": {}
+    "bonus": {
+      "2": {
+        "skill": {
+          "name": "Fireball",
+          "level": 18,
+          "oskill": true
+        },
+        "mreg": 15
+      },
+      "3": {
+        "skill": {
+          "name": "Firewall",
+          "level": 13,
+          "oskill": true
+        },
+        "mreg": 15
+      },
+      "4": {
+        "skill": {
+          "name": "Meteor",
+          "level": 10,
+          "oskill": true
+        },
+        "mreg": 15
+      },
+      "5": {
+        "nec_skills": 3,
+        "ll": 20,
+        "skill1": {
+          "name": "Fire Mastery",
+          "level": 3,
+          "oskill": true
+        },
+        "skill2": {
+          "name": "Meteor",
+          "level": 10,
+          "oskill": true
+        },
+        "skill3": {
+          "name": "Firewall",
+          "level": 13,
+          "oskill": true
+        },
+        "skill4": {
+          "name": "Fireball",
+          "level": 18,
+          "oskill": true
+        },
+        "def": 200,
+        "mana": 100,
+        "mreg": 60,
+        "life_repl": 5,
+        "all_res": 50,
+        "vampire": true
+      }
+    }
   },
   {
     "id": 32,
     "name": "Immortal King",
     "level_type": "elite",
-    "bonus": {}
+    "bonus": {
+      "2": {
+        "ar": 50
+      },
+      "3": {
+        "ar": 75
+      },
+      "4": {
+        "ar": 125
+      },
+      "5": {
+        "ar": 200
+      },
+      "6": {
+        "barb_skills": 3,
+        "ar": 450,
+        "life": 150,
+        "all_res": 50,
+        "mdr_by": 10,
+        "aura": true
+      }
+    }
   }
 ]
