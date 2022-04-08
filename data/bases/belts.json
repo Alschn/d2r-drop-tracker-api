@@ -1,3 +1,332 @@
 [
-
+  {
+    "id": 46,
+    "name": "Sash",
+    "common_name": "",
+    "type": "belt",
+    "quality": "normal",
+    "level_type": "normal",
+    "max_sockets": 0,
+    "class_specific": null,
+    "level_req": null,
+    "str_req": null,
+    "dex_req": null,
+    "durability": 12,
+    "statistics": {
+      "def": {
+        "min": 2,
+        "max": 2
+      },
+      "slots": 8,
+      "qlvl": 3
+    }
+  },
+  {
+    "id": 47,
+    "name": "Light Belt",
+    "common_name": "",
+    "type": "belt",
+    "quality": "normal",
+    "level_type": "normal",
+    "max_sockets": 0,
+    "class_specific": null,
+    "level_req": null,
+    "str_req": null,
+    "dex_req": null,
+    "durability": 14,
+    "statistics": {
+      "def": {
+        "min": 3,
+        "max": 3
+      },
+      "slots": 8,
+      "qlvl": 7
+    }
+  },
+  {
+    "id": 48,
+    "name": "Belt",
+    "common_name": "",
+    "type": "belt",
+    "quality": "normal",
+    "level_type": "normal",
+    "max_sockets": 0,
+    "class_specific": null,
+    "level_req": null,
+    "str_req": 25,
+    "dex_req": null,
+    "durability": 16,
+    "statistics": {
+      "def": {
+        "min": 5,
+        "max": 5
+      },
+      "slots": 12,
+      "qlvl": 12
+    }
+  },
+  {
+    "id": 49,
+    "name": "Heavy Belt",
+    "common_name": "",
+    "type": "belt",
+    "quality": "normal",
+    "level_type": "normal",
+    "max_sockets": 0,
+    "class_specific": null,
+    "level_req": null,
+    "str_req": 45,
+    "dex_req": null,
+    "durability": 18,
+    "statistics": {
+      "def": {
+        "min": 6,
+        "max": 6
+      },
+      "slots": 12,
+      "qlvl": 20
+    }
+  },
+  {
+    "id": 50,
+    "name": "Plated Belt",
+    "common_name": "",
+    "type": "belt",
+    "quality": "normal",
+    "level_type": "normal",
+    "max_sockets": 0,
+    "class_specific": null,
+    "level_req": null,
+    "str_req": 60,
+    "dex_req": null,
+    "durability": 18,
+    "statistics": {
+      "def": {
+        "min": 6,
+        "max": 6
+      },
+      "slots": 12,
+      "qlvl": 27
+    }
+  },
+  {
+    "id": 51,
+    "name": "Demonhide Sash",
+    "common_name": "",
+    "type": "belt",
+    "quality": "normal",
+    "level_type": "exceptional",
+    "max_sockets": 0,
+    "class_specific": null,
+    "level_req": 24,
+    "str_req": 20,
+    "dex_req": null,
+    "durability": 12,
+    "statistics": {
+      "def": {
+        "min": 29,
+        "max": 34
+      },
+      "slots": 16,
+      "qlvl": 36
+    }
+  },
+  {
+    "id": 52,
+    "name": "Sharkskin Belt",
+    "common_name": "",
+    "type": "belt",
+    "quality": "normal",
+    "level_type": "exceptional",
+    "max_sockets": 0,
+    "class_specific": null,
+    "level_req": 25,
+    "str_req": 20,
+    "dex_req": null,
+    "durability": 14,
+    "statistics": {
+      "def": {
+        "min": 31,
+        "max": 36
+      },
+      "slots": 16,
+      "qlvl": 39
+    }
+  },
+  {
+    "id": 53,
+    "name": "Mesh Belt",
+    "common_name": "",
+    "type": "belt",
+    "quality": "normal",
+    "level_type": "exceptional",
+    "max_sockets": 0,
+    "class_specific": null,
+    "level_req": 25,
+    "str_req": 58,
+    "dex_req": null,
+    "durability": 16,
+    "statistics": {
+      "def": {
+        "min": 35,
+        "max": 40
+      },
+      "slots": 16,
+      "qlvl": 43
+    }
+  },
+  {
+    "id": 54,
+    "name": "Battle Belt",
+    "common_name": "",
+    "type": "belt",
+    "quality": "normal",
+    "level_type": "exceptional",
+    "max_sockets": 0,
+    "class_specific": null,
+    "level_req": 25,
+    "str_req": 88,
+    "dex_req": null,
+    "durability": 18,
+    "statistics": {
+      "def": {
+        "min": 37,
+        "max": 42
+      },
+      "slots": 16,
+      "qlvl": 49
+    }
+  },
+  {
+    "id": 55,
+    "name": "War Belt",
+    "common_name": "",
+    "type": "belt",
+    "quality": "normal",
+    "level_type": "exceptional",
+    "max_sockets": 0,
+    "class_specific": null,
+    "level_req": 25,
+    "str_req": 110,
+    "dex_req": null,
+    "durability": 24,
+    "statistics": {
+      "def": {
+        "min": 41,
+        "max": 52
+      },
+      "slots": 16,
+      "qlvl": 54
+    }
+  },
+  {
+    "id": 56,
+    "name": "Spiderweb Sash",
+    "common_name": "",
+    "type": "belt",
+    "quality": "normal",
+    "level_type": "elite",
+    "max_sockets": 0,
+    "class_specific": null,
+    "level_req": 46,
+    "str_req": 50,
+    "dex_req": null,
+    "durability": 12,
+    "statistics": {
+      "def": {
+        "min": 55,
+        "max": 62
+      },
+      "slots": 16,
+      "qlvl": 61
+    }
+  },
+  {
+    "id": 57,
+    "name": "Vampirefang Belt",
+    "common_name": "",
+    "type": "belt",
+    "quality": "normal",
+    "level_type": "elite",
+    "max_sockets": 0,
+    "class_specific": null,
+    "level_req": 51,
+    "str_req": 50,
+    "dex_req": null,
+    "durability": 14,
+    "statistics": {
+      "def": {
+        "min": 56,
+        "max": 63
+      },
+      "slots": 16,
+      "qlvl": 68
+    }
+  },
+  {
+    "id": 58,
+    "name": "Mithril Coil",
+    "common_name": "",
+    "type": "belt",
+    "quality": "normal",
+    "level_type": "elite",
+    "max_sockets": 0,
+    "class_specific": null,
+    "level_req": 56,
+    "str_req": 106,
+    "dex_req": null,
+    "durability": 16,
+    "statistics": {
+      "def": {
+        "min": 58,
+        "max": 65
+      },
+      "slots": 16,
+      "qlvl": 75
+    }
+  },
+  {
+    "id": 59,
+    "name": "Troll Belt",
+    "common_name": "",
+    "type": "belt",
+    "quality": "normal",
+    "level_type": "elite",
+    "max_sockets": 0,
+    "class_specific": null,
+    "level_req": 62,
+    "str_req": 151,
+    "dex_req": null,
+    "durability": 18,
+    "statistics": {
+      "def": {
+        "min": 59,
+        "max": 66
+      },
+      "slots": 16,
+      "qlvl": 82
+    }
+  },
+  {
+    "id": 60,
+    "name": "Colossus Girdle",
+    "common_name": "",
+    "type": "belt",
+    "quality": "normal",
+    "level_type": "elite",
+    "max_sockets": 0,
+    "class_specific": null,
+    "level_req": 67,
+    "str_req": 185,
+    "dex_req": null,
+    "durability": 24,
+    "statistics": {
+      "def": {
+        "min": 61,
+        "max": 71
+      },
+      "slots": 16,
+      "qlvl": 85
+    }
+  }
 ]
