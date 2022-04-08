@@ -1,3 +1,317 @@
 [
-
+  {
+    "id": 76,
+    "name": "Leather Gloves",
+    "common_name": "",
+    "type": "gloves",
+    "quality": "normal",
+    "level_type": "normal",
+    "max_sockets": 0,
+    "class_specific": null,
+    "level_req": null,
+    "str_req": null,
+    "dex_req": null,
+    "durability": 12,
+    "statistics": {
+      "def": {
+        "min": 2,
+        "max": 3
+      },
+      "qlvl": 3
+    }
+  },
+  {
+    "id": 77,
+    "name": "Heavy Gloves",
+    "common_name": "",
+    "type": "gloves",
+    "quality": "normal",
+    "level_type": "normal",
+    "max_sockets": 0,
+    "class_specific": null,
+    "level_req": null,
+    "str_req": null,
+    "dex_req": null,
+    "durability": 14,
+    "statistics": {
+      "def": {
+        "min": 5,
+        "max": 6
+      },
+      "qlvl": 7
+    }
+  },
+  {
+    "id": 78,
+    "name": "Chain Gloves",
+    "common_name": "",
+    "type": "gloves",
+    "quality": "normal",
+    "level_type": "normal",
+    "max_sockets": 0,
+    "class_specific": null,
+    "level_req": null,
+    "str_req": 25,
+    "dex_req": null,
+    "durability": 16,
+    "statistics": {
+      "def": {
+        "min": 8,
+        "max": 9
+      },
+      "qlvl": 12
+    }
+  },
+  {
+    "id": 79,
+    "name": "Light Gauntlets",
+    "common_name": "",
+    "type": "gloves",
+    "quality": "normal",
+    "level_type": "normal",
+    "max_sockets": 0,
+    "class_specific": null,
+    "level_req": null,
+    "str_req": 45,
+    "dex_req": null,
+    "durability": 18,
+    "statistics": {
+      "def": {
+        "min": 9,
+        "max": 11
+      },
+      "qlvl": 20
+    }
+  },
+  {
+    "id": 80,
+    "name": "Gauntlets",
+    "common_name": "",
+    "type": "gloves",
+    "quality": "normal",
+    "level_type": "normal",
+    "max_sockets": 0,
+    "class_specific": null,
+    "level_req": null,
+    "str_req": 60,
+    "dex_req": null,
+    "durability": 24,
+    "statistics": {
+      "def": {
+        "min": 12,
+        "max": 15
+      },
+      "qlvl": 27
+    }
+  },
+  {
+    "id": 81,
+    "name": "Demonhide Gloves",
+    "common_name": "",
+    "type": "gloves",
+    "quality": "normal",
+    "level_type": "exceptional",
+    "max_sockets": 0,
+    "class_specific": null,
+    "level_req": 24,
+    "str_req": 20,
+    "dex_req": null,
+    "durability": 12,
+    "statistics": {
+      "def": {
+        "min": 28,
+        "max": 35
+      },
+      "qlvl": 33
+    }
+  },
+  {
+    "id": 82,
+    "name": "Sharkskin Gloves",
+    "common_name": "",
+    "type": "gloves",
+    "quality": "normal",
+    "level_type": "exceptional",
+    "max_sockets": 0,
+    "class_specific": null,
+    "level_req": 25,
+    "str_req": 20,
+    "dex_req": null,
+    "durability": 14,
+    "statistics": {
+      "def": {
+        "min": 33,
+        "max": 39
+      },
+      "qlvl": 39
+    }
+  },
+  {
+    "id": 83,
+    "name": "Heavy Bracers",
+    "common_name": "",
+    "type": "gloves",
+    "quality": "normal",
+    "level_type": "exceptional",
+    "max_sockets": 0,
+    "class_specific": null,
+    "level_req": 25,
+    "str_req": 58,
+    "dex_req": null,
+    "durability": 16,
+    "statistics": {
+      "def": {
+        "min": 37,
+        "max": 44
+      },
+      "qlvl": 43
+    }
+  },
+  {
+    "id": 84,
+    "name": "Battle Gauntlets",
+    "common_name": "",
+    "type": "gloves",
+    "quality": "normal",
+    "level_type": "exceptional",
+    "max_sockets": 0,
+    "class_specific": null,
+    "level_req": 25,
+    "str_req": 88,
+    "dex_req": null,
+    "durability": 18,
+    "statistics": {
+      "def": {
+        "min": 39,
+        "max": 47
+      },
+      "qlvl": 49
+    }
+  },
+  {
+    "id": 85,
+    "name": "War Gauntlets",
+    "common_name": "",
+    "type": "gloves",
+    "quality": "normal",
+    "level_type": "exceptional",
+    "max_sockets": 0,
+    "class_specific": null,
+    "level_req": 25,
+    "str_req": 110,
+    "dex_req": null,
+    "durability": 24,
+    "statistics": {
+      "def": {
+        "min": 43,
+        "max": 53
+      },
+      "qlvl": 54
+    }
+  },
+  {
+    "id": 86,
+    "name": "Bramble Mitts",
+    "common_name": "",
+    "type": "gloves",
+    "quality": "normal",
+    "level_type": "elite",
+    "max_sockets": 0,
+    "class_specific": null,
+    "level_req": 42,
+    "str_req": 50,
+    "dex_req": null,
+    "durability": 12,
+    "statistics": {
+      "def": {
+        "min": 54,
+        "max": 62
+      },
+      "qlvl": 57
+    }
+  },
+  {
+    "id": 87,
+    "name": "Vampirebone Gloves",
+    "common_name": "",
+    "type": "gloves",
+    "quality": "normal",
+    "level_type": "elite",
+    "max_sockets": 0,
+    "class_specific": null,
+    "level_req": 47,
+    "str_req": 50,
+    "dex_req": null,
+    "durability": 14,
+    "statistics": {
+      "def": {
+        "min": 56,
+        "max": 65
+      },
+      "qlvl": 63
+    }
+  },
+  {
+    "id": 88,
+    "name": "Vambraces",
+    "common_name": "",
+    "type": "gloves",
+    "quality": "normal",
+    "level_type": "elite",
+    "max_sockets": 0,
+    "class_specific": null,
+    "level_req": 51,
+    "str_req": 106,
+    "dex_req": null,
+    "durability": 16,
+    "statistics": {
+      "def": {
+        "min": 59,
+        "max": 67
+      },
+      "qlvl": 69
+    }
+  },
+  {
+    "id": 89,
+    "name": "Crusader Gauntlets",
+    "common_name": "",
+    "type": "gloves",
+    "quality": "normal",
+    "level_type": "elite",
+    "max_sockets": 0,
+    "class_specific": null,
+    "level_req": 57,
+    "str_req": 151,
+    "dex_req": null,
+    "durability": 18,
+    "statistics": {
+      "def": {
+        "min": 59,
+        "max": 68
+      },
+      "qlvl": 76
+    }
+  },
+  {
+    "id": 90,
+    "name": "Ogre Gauntlets",
+    "common_name": "",
+    "type": "gloves",
+    "quality": "normal",
+    "level_type": "elite",
+    "max_sockets": 0,
+    "class_specific": null,
+    "level_req": 25,
+    "str_req": 185,
+    "dex_req": null,
+    "durability": 24,
+    "statistics": {
+      "def": {
+        "min": 62,
+        "max": 71
+      },
+      "qlvl": 85
+    }
+  }
 ]
