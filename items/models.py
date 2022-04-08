@@ -25,6 +25,7 @@ class ItemType(models.TextChoices):
     PELT = "druid_pelt", "Druid's Pelt"
     ARMOR = "armor", "Armor"
     BELT = "belt", "Belt"
+    BOOTS = "boots", "Boots"
     SHIELD = "shield", "Shield"
     AURIC_SHIELD = "auric_shield", "Paladin's Shield"
     NECRO_HEAD = "shrunken_head", "Necromancer's Shrunken Head"

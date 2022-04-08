@@ -1,3 +1,377 @@
 [
-
+  {
+    "id": 61,
+    "name": "Boots",
+    "common_name": "",
+    "type": "boots",
+    "quality": "normal",
+    "level_type": "normal",
+    "max_sockets": 0,
+    "class_specific": null,
+    "level_req": null,
+    "str_req": null,
+    "dex_req": null,
+    "durability": 12,
+    "statistics": {
+      "def": {
+        "min": 2,
+        "max": 3
+      },
+      "kick_dmg": {
+        "min": 3,
+        "max": 8
+      },
+      "qlvl": 3
+    }
+  },
+  {
+    "id": 62,
+    "name": "Heavy Boots",
+    "common_name": "",
+    "type": "boots",
+    "quality": "normal",
+    "level_type": "normal",
+    "max_sockets": 0,
+    "class_specific": null,
+    "level_req": null,
+    "str_req": 18,
+    "dex_req": null,
+    "durability": 14,
+    "statistics": {
+      "def": {
+        "min": 5,
+        "max": 6
+      },
+      "kick_dmg": {
+        "min": 4,
+        "max": 10
+      },
+      "qlvl": 7
+    }
+  },
+  {
+    "id": 63,
+    "name": "Chain Boots",
+    "common_name": "",
+    "type": "boots",
+    "quality": "normal",
+    "level_type": "normal",
+    "max_sockets": 0,
+    "class_specific": null,
+    "level_req": null,
+    "str_req": 30,
+    "dex_req": null,
+    "durability": 16,
+    "statistics": {
+      "def": {
+        "min": 8,
+        "max": 9
+      },
+      "kick_dmg": {
+        "min": 6,
+        "max": 12
+      },
+      "qlvl": 12
+    }
+  },
+  {
+    "id": 64,
+    "name": "Light Plated Boots",
+    "common_name": "",
+    "type": "boots",
+    "quality": "normal",
+    "level_type": "normal",
+    "max_sockets": 0,
+    "class_specific": null,
+    "level_req": null,
+    "str_req": 50,
+    "dex_req": null,
+    "durability": 18,
+    "statistics": {
+      "def": {
+        "min": 9,
+        "max": 11
+      },
+      "kick_dmg": {
+        "min": 8,
+        "max": 16
+      },
+      "qlvl": 20
+    }
+  },
+  {
+    "id": 65,
+    "name": "Greaves",
+    "common_name": "",
+    "type": "boots",
+    "quality": "normal",
+    "level_type": "normal",
+    "max_sockets": 0,
+    "class_specific": null,
+    "level_req": null,
+    "str_req": 70,
+    "dex_req": null,
+    "durability": 24,
+    "statistics": {
+      "def": {
+        "min": 12,
+        "max": 15
+      },
+      "kick_dmg": {
+        "min": 10,
+        "max": 20
+      },
+      "qlvl": 27
+    }
+  },
+  {
+    "id": 66,
+    "name": "Demonhide Boots",
+    "common_name": "",
+    "type": "boots",
+    "quality": "normal",
+    "level_type": "exceptional",
+    "max_sockets": 0,
+    "class_specific": null,
+    "level_req": 24,
+    "str_req": 20,
+    "dex_req": null,
+    "durability": 12,
+    "statistics": {
+      "def": {
+        "min": 28,
+        "max": 35
+      },
+      "kick_dmg": {
+        "min": 26,
+        "max": 46
+      },
+      "qlvl": 36
+    }
+  },
+  {
+    "id": 67,
+    "name": "Sharkskin Boots",
+    "common_name": "",
+    "type": "boots",
+    "quality": "normal",
+    "level_type": "exceptional",
+    "max_sockets": 0,
+    "class_specific": null,
+    "level_req": 25,
+    "str_req": 47,
+    "dex_req": null,
+    "durability": 14,
+    "statistics": {
+      "def": {
+        "min": 33,
+        "max": 39
+      },
+      "kick_dmg": {
+        "min": 28,
+        "max": 50
+      },
+      "qlvl": 39
+    }
+  },
+  {
+    "id": 68,
+    "name": "Mesh Boots",
+    "common_name": "",
+    "type": "boots",
+    "quality": "normal",
+    "level_type": "exceptional",
+    "max_sockets": 0,
+    "class_specific": null,
+    "level_req": 25,
+    "str_req": 65,
+    "dex_req": null,
+    "durability": 16,
+    "statistics": {
+      "def": {
+        "min": 37,
+        "max": 44
+      },
+      "kick_dmg": {
+        "min": 23,
+        "max": 52
+      },
+      "qlvl": 43
+    }
+  },
+  {
+    "id": 69,
+    "name": "Battle Boots",
+    "common_name": "",
+    "type": "boots",
+    "quality": "normal",
+    "level_type": "exceptional",
+    "max_sockets": 0,
+    "class_specific": null,
+    "level_req": 25,
+    "str_req": 95,
+    "dex_req": null,
+    "durability": 18,
+    "statistics": {
+      "def": {
+        "min": 39,
+        "max": 47
+      },
+      "kick_dmg": {
+        "min": 37,
+        "max": 64
+      },
+      "qlvl": 49
+    }
+  },
+  {
+    "id": 70,
+    "name": "War Boots",
+    "common_name": "",
+    "type": "boots",
+    "quality": "normal",
+    "level_type": "exceptional",
+    "max_sockets": 0,
+    "class_specific": null,
+    "level_req": 25,
+    "str_req": 125,
+    "dex_req": null,
+    "durability": 24,
+    "statistics": {
+      "def": {
+        "min": 43,
+        "max": 53
+      },
+      "kick_dmg": {
+        "min": 39,
+        "max": 80
+      },
+      "qlvl": 54
+    }
+  },
+  {
+    "id": 71,
+    "name": "Wyrmhide Boots",
+    "common_name": "",
+    "type": "boots",
+    "quality": "normal",
+    "level_type": "elite",
+    "max_sockets": 0,
+    "class_specific": null,
+    "level_req": 45,
+    "str_req": 50,
+    "dex_req": null,
+    "durability": 12,
+    "statistics": {
+      "def": {
+        "min": 54,
+        "max": 62
+      },
+      "kick_dmg": {
+        "min": 65,
+        "max": 100
+      },
+      "qlvl": 60
+    }
+  },
+  {
+    "id": 72,
+    "name": "Scarabshell Boots",
+    "common_name": "",
+    "type": "boots",
+    "quality": "normal",
+    "level_type": "elite",
+    "max_sockets": 0,
+    "class_specific": null,
+    "level_req": 49,
+    "str_req": 91,
+    "dex_req": null,
+    "durability": 14,
+    "statistics": {
+      "def": {
+        "min": 56,
+        "max": 65
+      },
+      "kick_dmg": {
+        "min": 60,
+        "max": 110
+      },
+      "qlvl": 66
+    }
+  },
+  {
+    "id": 73,
+    "name": "Boneweave Boots",
+    "common_name": "",
+    "type": "boots",
+    "quality": "normal",
+    "level_type": "elite",
+    "max_sockets": 0,
+    "class_specific": null,
+    "level_req": 54,
+    "str_req": 118,
+    "dex_req": null,
+    "durability": 16,
+    "statistics": {
+      "def": {
+        "min": 59,
+        "max": 67
+      },
+      "kick_dmg": {
+        "min": 9,
+        "max": 118
+      },
+      "qlvl": 54
+    }
+  },
+  {
+    "id": 74,
+    "name": "Mirrored Boots",
+    "common_name": "",
+    "type": "boots",
+    "quality": "normal",
+    "level_type": "elite",
+    "max_sockets": 0,
+    "class_specific": null,
+    "level_req": 60,
+    "str_req": 163,
+    "dex_req": null,
+    "durability": 18,
+    "statistics": {
+      "def": {
+        "min": 59,
+        "max": 68
+      },
+      "kick_dmg": {
+        "min": 50,
+        "max": 145
+      },
+      "qlvl": 81
+    }
+  },
+  {
+    "id": 75,
+    "name": "Myrmidon Boots",
+    "common_name": "",
+    "type": "boots",
+    "quality": "normal",
+    "level_type": "elite",
+    "max_sockets": 0,
+    "class_specific": null,
+    "level_req": 65,
+    "str_req": 208,
+    "dex_req": null,
+    "durability": 24,
+    "statistics": {
+      "def": {
+        "min": 62,
+        "max": 71
+      },
+      "kick_dmg": {
+        "min": 83,
+        "max": 149
+      },
+      "qlvl": 85
+    }
+  }
 ]
