@@ -1,0 +1,1232 @@
+[
+  {
+    "id": 1,
+    "name": "Blood Moor",
+    "act": 1,
+    "order": 0,
+    "normal_level": 1,
+    "nightmare_level": 36,
+    "hell_level": 67,
+    "has_waypoint": true
+  },
+  {
+    "id": 2,
+    "name": "Den of Evil",
+    "act": 1,
+    "order": 1,
+    "normal_level": 1,
+    "nightmare_level": 36,
+    "hell_level": 79,
+    "has_waypoint": false
+  },
+  {
+    "id": 3,
+    "name": "Cold Plains",
+    "act": 1,
+    "order": 2,
+    "normal_level": 2,
+    "nightmare_level": 36,
+    "hell_level": 68,
+    "has_waypoint": true
+  },
+  {
+    "id": 4,
+    "name": "The Cave Level 1",
+    "act": 1,
+    "order": 3,
+    "normal_level": 2,
+    "nightmare_level": 36,
+    "hell_level": 77,
+    "has_waypoint": false
+  },
+  {
+    "id": 5,
+    "name": "The Cave Level 2",
+    "act": 1,
+    "order": 4,
+    "normal_level": 2,
+    "nightmare_level": 37,
+    "hell_level": 78,
+    "has_waypoint": false
+  },
+  {
+    "id": 6,
+    "name": "Burial Grounds",
+    "act": 1,
+    "order": 5,
+    "normal_level": 3,
+    "nightmare_level": 36,
+    "hell_level": 80,
+    "has_waypoint": false
+  },
+  {
+    "id": 7,
+    "name": "Crypt",
+    "act": 1,
+    "order": 6,
+    "normal_level": 3,
+    "nightmare_level": 37,
+    "hell_level": 83,
+    "has_waypoint": false
+  },
+  {
+    "id": 8,
+    "name": "Mausoleum",
+    "act": 1,
+    "order": 7,
+    "normal_level": 3,
+    "nightmare_level": 37,
+    "hell_level": 85,
+    "has_waypoint": false
+  },
+  {
+    "id": 9,
+    "name": "Stony Field",
+    "act": 1,
+    "order": 8,
+    "normal_level": 3,
+    "nightmare_level": 37,
+    "hell_level": 68,
+    "has_waypoint": true
+  },
+  {
+    "id": 10,
+    "name": "Tristram",
+    "act": 1,
+    "order": 9,
+    "normal_level": 6,
+    "nightmare_level": 39,
+    "hell_level": 76,
+    "has_waypoint": false
+  },
+  {
+    "id": 11,
+    "name": "Underground Passage Level 1",
+    "act": 1,
+    "order": 10,
+    "normal_level": 4,
+    "nightmare_level": 37,
+    "hell_level": 69,
+    "has_waypoint": false
+  },
+  {
+    "id": 12,
+    "name": "Underground Passage Level 2",
+    "act": 1,
+    "order": 11,
+    "normal_level": 4,
+    "nightmare_level": 38,
+    "hell_level": 85,
+    "has_waypoint": false
+  },
+  {
+    "id": 13,
+    "name": "Dark Wood",
+    "act": 1,
+    "order": 12,
+    "normal_level": 5,
+    "nightmare_level": 38,
+    "hell_level": 68,
+    "has_waypoint": true
+  },
+  {
+    "id": 14,
+    "name": "Black Marsh",
+    "act": 1,
+    "order": 13,
+    "normal_level": 6,
+    "nightmare_level": 38,
+    "hell_level": 69,
+    "has_waypoint": true
+  },
+  {
+    "id": 15,
+    "name": "The Hole Level 1",
+    "act": 1,
+    "order": 14,
+    "normal_level": 5,
+    "nightmare_level": 38,
+    "hell_level": 80,
+    "has_waypoint": false
+  },
+  {
+    "id": 16,
+    "name": "The Hole Level 2",
+    "act": 1,
+    "order": 15,
+    "normal_level": 5,
+    "nightmare_level": 39,
+    "hell_level": 81,
+    "has_waypoint": false
+  },
+  {
+    "id": 17,
+    "name": "Tower Cellar Level 1",
+    "act": 1,
+    "order": 16,
+    "normal_level": 7,
+    "nightmare_level": 38,
+    "hell_level": 75,
+    "has_waypoint": false
+  },
+  {
+    "id": 18,
+    "name": "Tower Cellar Level 2",
+    "act": 1,
+    "order": 17,
+    "normal_level": 7,
+    "nightmare_level": 39,
+    "hell_level": 76,
+    "has_waypoint": false
+  },
+  {
+    "id": 19,
+    "name": "Tower Cellar Level 3",
+    "act": 1,
+    "order": 18,
+    "normal_level": 7,
+    "nightmare_level": 40,
+    "hell_level": 77,
+    "has_waypoint": false
+  },
+  {
+    "id": 20,
+    "name": "Tower Cellar Level 4",
+    "act": 1,
+    "order": 19,
+    "normal_level": 7,
+    "nightmare_level": 41,
+    "hell_level": 78,
+    "has_waypoint": false
+  },
+  {
+    "id": 21,
+    "name": "Tower Cellar Level 5",
+    "act": 1,
+    "order": 20,
+    "normal_level": 7,
+    "nightmare_level": 42,
+    "hell_level": 79,
+    "has_waypoint": false
+  },
+  {
+    "id": 22,
+    "name": "Tamoe Highland",
+    "act": 1,
+    "order": 21,
+    "normal_level": 8,
+    "nightmare_level": 39,
+    "hell_level": 69,
+    "has_waypoint": false
+  },
+  {
+    "id": 23,
+    "name": "The Pit Level 1",
+    "act": 1,
+    "order": 22,
+    "normal_level": 7,
+    "nightmare_level": 39,
+    "hell_level": 85,
+    "has_waypoint": false
+  },
+  {
+    "id": 24,
+    "name": "The Pit Level 2",
+    "act": 1,
+    "order": 23,
+    "normal_level": 7,
+    "nightmare_level": 40,
+    "hell_level": 85,
+    "has_waypoint": false
+  },
+  {
+    "id": 25,
+    "name": "Monastery Gate",
+    "act": 1,
+    "order": 24,
+    "normal_level": 8,
+    "nightmare_level": 40,
+    "hell_level": 70,
+    "has_waypoint": false
+  },
+  {
+    "id": 26,
+    "name": "Outer Cloister",
+    "act": 1,
+    "order": 25,
+    "normal_level": 9,
+    "nightmare_level": 40,
+    "hell_level": 70,
+    "has_waypoint": true
+  },
+  {
+    "id": 27,
+    "name": "Barracks",
+    "act": 1,
+    "order": 26,
+    "normal_level": 9,
+    "nightmare_level": 40,
+    "hell_level": 70,
+    "has_waypoint": false
+  },
+  {
+    "id": 28,
+    "name": "Jail Level 1",
+    "act": 1,
+    "order": 27,
+    "normal_level": 10,
+    "nightmare_level": 41,
+    "hell_level": 71,
+    "has_waypoint": true
+  },
+  {
+    "id": 29,
+    "name": "Jail Level 2",
+    "act": 1,
+    "order": 28,
+    "normal_level": 10,
+    "nightmare_level": 41,
+    "hell_level": 71,
+    "has_waypoint": false
+  },
+  {
+    "id": 30,
+    "name": "Jail Level 3",
+    "act": 1,
+    "order": 29,
+    "normal_level": 10,
+    "nightmare_level": 41,
+    "hell_level": 71,
+    "has_waypoint": false
+  },
+  {
+    "id": 31,
+    "name": "Inner Cloister",
+    "act": 1,
+    "order": 30,
+    "normal_level": 10,
+    "nightmare_level": 41,
+    "hell_level": 72,
+    "has_waypoint": true
+  },
+  {
+    "id": 32,
+    "name": "Cathedral",
+    "act": 1,
+    "order": 31,
+    "normal_level": 11,
+    "nightmare_level": 42,
+    "hell_level": 72,
+    "has_waypoint": false
+  },
+  {
+    "id": 33,
+    "name": "Catacombs Level 1",
+    "act": 1,
+    "order": 32,
+    "normal_level": 11,
+    "nightmare_level": 42,
+    "hell_level": 72,
+    "has_waypoint": false
+  },
+  {
+    "id": 34,
+    "name": "Catacombs Level 2",
+    "act": 1,
+    "order": 33,
+    "normal_level": 11,
+    "nightmare_level": 42,
+    "hell_level": 73,
+    "has_waypoint": true
+  },
+  {
+    "id": 35,
+    "name": "Catacombs Level 3",
+    "act": 1,
+    "order": 34,
+    "normal_level": 11,
+    "nightmare_level": 43,
+    "hell_level": 73,
+    "has_waypoint": false
+  },
+  {
+    "id": 36,
+    "name": "Catacombs Level 4",
+    "act": 1,
+    "order": 35,
+    "normal_level": 11,
+    "nightmare_level": 43,
+    "hell_level": 73,
+    "has_waypoint": false
+  },
+  {
+    "id": 37,
+    "name": "Secret Cow Level",
+    "act": 1,
+    "order": 36,
+    "normal_level": 28,
+    "nightmare_level": 64,
+    "hell_level": 81,
+    "has_waypoint": false
+  },
+  {
+    "id": 38,
+    "name": "Sewers Level 1",
+    "act": 2,
+    "order": 0,
+    "normal_level": 13,
+    "nightmare_level": 43,
+    "hell_level": 74,
+    "has_waypoint": false
+  },
+  {
+    "id": 39,
+    "name": "Sewers Level 2",
+    "act": 2,
+    "order": 1,
+    "normal_level": 13,
+    "nightmare_level": 43,
+    "hell_level": 74,
+    "has_waypoint": true
+  },
+  {
+    "id": 40,
+    "name": "Sewers Level 3",
+    "act": 2,
+    "order": 2,
+    "normal_level": 13,
+    "nightmare_level": 44,
+    "hell_level": 75,
+    "has_waypoint": false
+  },
+  {
+    "id": 41,
+    "name": "Rocky Waste",
+    "act": 2,
+    "order": 3,
+    "normal_level": 14,
+    "nightmare_level": 43,
+    "hell_level": 75,
+    "has_waypoint": false
+  },
+  {
+    "id": 42,
+    "name": "Stony Tomb Level 1",
+    "act": 2,
+    "order": 4,
+    "normal_level": 12,
+    "nightmare_level": 44,
+    "hell_level": 85,
+    "has_waypoint": false
+  },
+  {
+    "id": 43,
+    "name": "Stony Tomb Level 2",
+    "act": 2,
+    "order": 5,
+    "normal_level": 12,
+    "nightmare_level": 44,
+    "hell_level": 85,
+    "has_waypoint": false
+  },
+  {
+    "id": 44,
+    "name": "Dry Hills",
+    "act": 2,
+    "order": 6,
+    "normal_level": 15,
+    "nightmare_level": 44,
+    "hell_level": 76,
+    "has_waypoint": true
+  },
+  {
+    "id": 45,
+    "name": "Halls of the Dead Level 1",
+    "act": 2,
+    "order": 7,
+    "normal_level": 12,
+    "nightmare_level": 44,
+    "hell_level": 79,
+    "has_waypoint": false
+  },
+  {
+    "id": 46,
+    "name": "Halls of the Dead Level 2",
+    "act": 2,
+    "order": 8,
+    "normal_level": 13,
+    "nightmare_level": 45,
+    "hell_level": 81,
+    "has_waypoint": true
+  },
+  {
+    "id": 47,
+    "name": "Halls of the Dead Level 3",
+    "act": 2,
+    "order": 9,
+    "normal_level": 13,
+    "nightmare_level": 45,
+    "hell_level": 82,
+    "has_waypoint": false
+  },
+  {
+    "id": 48,
+    "name": "Far Oasis",
+    "act": 2,
+    "order": 10,
+    "normal_level": 16,
+    "nightmare_level": 45,
+    "hell_level": 76,
+    "has_waypoint": true
+  },
+  {
+    "id": 49,
+    "name": "Maggot Lair Level 1",
+    "act": 2,
+    "order": 11,
+    "normal_level": 17,
+    "nightmare_level": 45,
+    "hell_level": 84,
+    "has_waypoint": false
+  },
+  {
+    "id": 50,
+    "name": "Maggot Lair Level 2",
+    "act": 2,
+    "order": 12,
+    "normal_level": 17,
+    "nightmare_level": 45,
+    "hell_level": 84,
+    "has_waypoint": false
+  },
+  {
+    "id": 51,
+    "name": "Maggot Lair Level 3",
+    "act": 2,
+    "order": 13,
+    "normal_level": 17,
+    "nightmare_level": 46,
+    "hell_level": 85,
+    "has_waypoint": false
+  },
+  {
+    "id": 52,
+    "name": "Lost City",
+    "act": 2,
+    "order": 14,
+    "normal_level": 17,
+    "nightmare_level": 46,
+    "hell_level": 77,
+    "has_waypoint": true
+  },
+  {
+    "id": 53,
+    "name": "Ancient Tunnels",
+    "act": 2,
+    "order": 15,
+    "normal_level": 17,
+    "nightmare_level": 46,
+    "hell_level": 85,
+    "has_waypoint": false
+  },
+  {
+    "id": 54,
+    "name": "Valley of Snakes",
+    "act": 2,
+    "order": 16,
+    "normal_level": 18,
+    "nightmare_level": 46,
+    "hell_level": 77,
+    "has_waypoint": false
+  },
+  {
+    "id": 55,
+    "name": "Claw Viper Temple Level 1",
+    "act": 2,
+    "order": 17,
+    "normal_level": 14,
+    "nightmare_level": 47,
+    "hell_level": 82,
+    "has_waypoint": false
+  },
+  {
+    "id": 56,
+    "name": "Claw Viper Temple Level 2",
+    "act": 2,
+    "order": 18,
+    "normal_level": 14,
+    "nightmare_level": 47,
+    "hell_level": 83,
+    "has_waypoint": false
+  },
+  {
+    "id": 57,
+    "name": "Harem Level 2",
+    "act": 2,
+    "order": 19,
+    "normal_level": 13,
+    "nightmare_level": 47,
+    "hell_level": 78,
+    "has_waypoint": false
+  },
+  {
+    "id": 58,
+    "name": "Palace Cellar Level 1",
+    "act": 2,
+    "order": 20,
+    "normal_level": 13,
+    "nightmare_level": 47,
+    "hell_level": 78,
+    "has_waypoint": true
+  },
+  {
+    "id": 59,
+    "name": "Palace Cellar Level 2",
+    "act": 2,
+    "order": 21,
+    "normal_level": 13,
+    "nightmare_level": 47,
+    "hell_level": 78,
+    "has_waypoint": false
+  },
+  {
+    "id": 60,
+    "name": "Palace Cellar Level 3",
+    "act": 2,
+    "order": 22,
+    "normal_level": 13,
+    "nightmare_level": 48,
+    "hell_level": 78,
+    "has_waypoint": false
+  },
+  {
+    "id": 61,
+    "name": "Arcane Sanctuary",
+    "act": 2,
+    "order": 23,
+    "normal_level": 14,
+    "nightmare_level": 48,
+    "hell_level": 79,
+    "has_waypoint": true
+  },
+  {
+    "id": 62,
+    "name": "Canyon of the Magi",
+    "act": 2,
+    "order": 24,
+    "normal_level": 16,
+    "nightmare_level": 48,
+    "hell_level": 79,
+    "has_waypoint": true
+  },
+  {
+    "id": 63,
+    "name": "Tal Rasha's Tomb",
+    "act": 2,
+    "order": 25,
+    "normal_level": 17,
+    "nightmare_level": 49,
+    "hell_level": 80,
+    "has_waypoint": false
+  },
+  {
+    "id": 64,
+    "name": "Tal Rasha's Chamber",
+    "act": 2,
+    "order": 26,
+    "normal_level": 17,
+    "nightmare_level": 49,
+    "hell_level": 80,
+    "has_waypoint": false
+  },
+  {
+    "id": 65,
+    "name": "Spider Forest",
+    "act": 3,
+    "order": 0,
+    "normal_level": 21,
+    "nightmare_level": 49,
+    "hell_level": 79,
+    "has_waypoint": true
+  },
+  {
+    "id": 66,
+    "name": "Arachnid Lair",
+    "act": 3,
+    "order": 1,
+    "normal_level": 21,
+    "nightmare_level": 50,
+    "hell_level": 85,
+    "has_waypoint": false
+  },
+  {
+    "id": 67,
+    "name": "Spider Cavern",
+    "act": 3,
+    "order": 2,
+    "normal_level": 21,
+    "nightmare_level": 50,
+    "hell_level": 79,
+    "has_waypoint": false
+  },
+  {
+    "id": 68,
+    "name": "Great Marsh",
+    "act": 3,
+    "order": 3,
+    "normal_level": 21,
+    "nightmare_level": 50,
+    "hell_level": 80,
+    "has_waypoint": true
+  },
+  {
+    "id": 69,
+    "name": "Flayer Jungle",
+    "act": 3,
+    "order": 4,
+    "normal_level": 22,
+    "nightmare_level": 50,
+    "hell_level": 80,
+    "has_waypoint": true
+  },
+  {
+    "id": 70,
+    "name": "Swampy Pit Level 1",
+    "act": 3,
+    "order": 5,
+    "normal_level": 21,
+    "nightmare_level": 51,
+    "hell_level": 80,
+    "has_waypoint": false
+  },
+  {
+    "id": 71,
+    "name": "Swampy Pit Level 2",
+    "act": 3,
+    "order": 6,
+    "normal_level": 21,
+    "nightmare_level": 51,
+    "hell_level": 81,
+    "has_waypoint": false
+  },
+  {
+    "id": 72,
+    "name": "Swampy Pit Level 3",
+    "act": 3,
+    "order": 7,
+    "normal_level": 21,
+    "nightmare_level": 51,
+    "hell_level": 82,
+    "has_waypoint": false
+  },
+  {
+    "id": 73,
+    "name": "Flayer Dungeon Level 1",
+    "act": 3,
+    "order": 8,
+    "normal_level": 22,
+    "nightmare_level": 51,
+    "hell_level": 81,
+    "has_waypoint": false
+  },
+  {
+    "id": 74,
+    "name": "Flayer Dungeon Level 2",
+    "act": 3,
+    "order": 9,
+    "normal_level": 22,
+    "nightmare_level": 51,
+    "hell_level": 82,
+    "has_waypoint": false
+  },
+  {
+    "id": 75,
+    "name": "Flayer Dungeon Level 3",
+    "act": 3,
+    "order": 10,
+    "normal_level": 22,
+    "nightmare_level": 51,
+    "hell_level": 83,
+    "has_waypoint": false
+  },
+  {
+    "id": 76,
+    "name": "Lower Kurast",
+    "act": 3,
+    "order": 11,
+    "normal_level": 22,
+    "nightmare_level": 52,
+    "hell_level": 80,
+    "has_waypoint": true
+  },
+  {
+    "id": 77,
+    "name": "Kurast Bazaar",
+    "act": 3,
+    "order": 12,
+    "normal_level": 22,
+    "nightmare_level": 52,
+    "hell_level": 81,
+    "has_waypoint": true
+  },
+  {
+    "id": 78,
+    "name": "Disused Fane",
+    "act": 3,
+    "order": 13,
+    "normal_level": 23,
+    "nightmare_level": 53,
+    "hell_level": 85,
+    "has_waypoint": false
+  },
+  {
+    "id": 79,
+    "name": "Ruined Temple",
+    "act": 3,
+    "order": 14,
+    "normal_level": 23,
+    "nightmare_level": 53,
+    "hell_level": 85,
+    "has_waypoint": false
+  },
+  {
+    "id": 80,
+    "name": "The Sewers Level 1",
+    "act": 3,
+    "order": 15,
+    "normal_level": 23,
+    "nightmare_level": 52,
+    "hell_level": 85,
+    "has_waypoint": false
+  },
+  {
+    "id": 81,
+    "name": "The Sewers Level 2",
+    "act": 3,
+    "order": 16,
+    "normal_level": 24,
+    "nightmare_level": 53,
+    "hell_level": 85,
+    "has_waypoint": false
+  },
+  {
+    "id": 82,
+    "name": "Upper Kurast",
+    "act": 3,
+    "order": 17,
+    "normal_level": 23,
+    "nightmare_level": 52,
+    "hell_level": 81,
+    "has_waypoint": true
+  },
+  {
+    "id": 83,
+    "name": "Forgotten Temple",
+    "act": 3,
+    "order": 18,
+    "normal_level": 23,
+    "nightmare_level": 54,
+    "hell_level": 85,
+    "has_waypoint": false
+  },
+  {
+    "id": 84,
+    "name": "Forgotten Reliquary",
+    "act": 3,
+    "order": 19,
+    "normal_level": 23,
+    "nightmare_level": 53,
+    "hell_level": 85,
+    "has_waypoint": false
+  },
+  {
+    "id": 85,
+    "name": "Kurast Causeway",
+    "act": 3,
+    "order": 20,
+    "normal_level": 24,
+    "nightmare_level": 53,
+    "hell_level": 81,
+    "has_waypoint": false
+  },
+  {
+    "id": 86,
+    "name": "Disused Reliquary",
+    "act": 3,
+    "order": 21,
+    "normal_level": 23,
+    "nightmare_level": 54,
+    "hell_level": 85,
+    "has_waypoint": false
+  },
+  {
+    "id": 87,
+    "name": "Ruined Fane",
+    "act": 3,
+    "order": 22,
+    "normal_level": 23,
+    "nightmare_level": 54,
+    "hell_level": 85,
+    "has_waypoint": false
+  },
+  {
+    "id": 88,
+    "name": "Travincal",
+    "act": 3,
+    "order": 23,
+    "normal_level": 24,
+    "nightmare_level": 54,
+    "hell_level": 82,
+    "has_waypoint": true
+  },
+  {
+    "id": 89,
+    "name": "Durance of Hate Level 1",
+    "act": 3,
+    "order": 24,
+    "normal_level": 25,
+    "nightmare_level": 55,
+    "hell_level": 83,
+    "has_waypoint": false
+  },
+  {
+    "id": 90,
+    "name": "Durance of Hate Level 2",
+    "act": 3,
+    "order": 25,
+    "normal_level": 25,
+    "nightmare_level": 55,
+    "hell_level": 83,
+    "has_waypoint": true
+  },
+  {
+    "id": 91,
+    "name": "Durance of Hate Level 3",
+    "act": 3,
+    "order": 26,
+    "normal_level": 25,
+    "nightmare_level": 55,
+    "hell_level": 83,
+    "has_waypoint": false
+  },
+  {
+    "id": 92,
+    "name": "Outer Steppes",
+    "act": 4,
+    "order": 0,
+    "normal_level": 26,
+    "nightmare_level": 56,
+    "hell_level": 82,
+    "has_waypoint": false
+  },
+  {
+    "id": 93,
+    "name": "Plains of Despair",
+    "act": 4,
+    "order": 1,
+    "normal_level": 26,
+    "nightmare_level": 56,
+    "hell_level": 83,
+    "has_waypoint": false
+  },
+  {
+    "id": 94,
+    "name": "City of the Damned",
+    "act": 4,
+    "order": 2,
+    "normal_level": 27,
+    "nightmare_level": 57,
+    "hell_level": 84,
+    "has_waypoint": true
+  },
+  {
+    "id": 95,
+    "name": "River of Flames",
+    "act": 4,
+    "order": 3,
+    "normal_level": 27,
+    "nightmare_level": 57,
+    "hell_level": 85,
+    "has_waypoint": true
+  },
+  {
+    "id": 96,
+    "name": "Chaos Sanctuary",
+    "act": 4,
+    "order": 4,
+    "normal_level": 28,
+    "nightmare_level": 58,
+    "hell_level": 85,
+    "has_waypoint": false
+  },
+  {
+    "id": 97,
+    "name": "Bloody Foothills",
+    "act": 5,
+    "order": 0,
+    "normal_level": 24,
+    "nightmare_level": 58,
+    "hell_level": 80,
+    "has_waypoint": false
+  },
+  {
+    "id": 98,
+    "name": "Frigid Highlands",
+    "act": 2,
+    "order": 1,
+    "normal_level": 25,
+    "nightmare_level": 59,
+    "hell_level": 81,
+    "has_waypoint": true
+  },
+  {
+    "id": 99,
+    "name": "Abaddon",
+    "act": 5,
+    "order": 2,
+    "normal_level": 39,
+    "nightmare_level": 60,
+    "hell_level": 85,
+    "has_waypoint": false
+  },
+  {
+    "id": 100,
+    "name": "Arreat Plateau",
+    "act": 5,
+    "order": 3,
+    "normal_level": 26,
+    "nightmare_level": 60,
+    "hell_level": 81,
+    "has_waypoint": true
+  },
+  {
+    "id": 101,
+    "name": "Pit of Acheron",
+    "act": 5,
+    "order": 4,
+    "normal_level": 39,
+    "nightmare_level": 61,
+    "hell_level": 85,
+    "has_waypoint": false
+  },
+  {
+    "id": 102,
+    "name": "Crystalline Passage",
+    "act": 5,
+    "order": 5,
+    "normal_level": 29,
+    "nightmare_level": 61,
+    "hell_level": 82,
+    "has_waypoint": true
+  },
+  {
+    "id": 103,
+    "name": "Frozen River",
+    "act": 5,
+    "order": 6,
+    "normal_level": 29,
+    "nightmare_level": 61,
+    "hell_level": 83,
+    "has_waypoint": false
+  },
+  {
+    "id": 104,
+    "name": "Nihlathak's Temple",
+    "act": 5,
+    "order": 7,
+    "normal_level": 32,
+    "nightmare_level": 63,
+    "hell_level": 83,
+    "has_waypoint": false
+  },
+  {
+    "id": 105,
+    "name": "Halls of Anguish",
+    "act": 5,
+    "order": 8,
+    "normal_level": 33,
+    "nightmare_level": 63,
+    "hell_level": 83,
+    "has_waypoint": false
+  },
+  {
+    "id": 106,
+    "name": "Halls of Pain",
+    "act": 5,
+    "order": 9,
+    "normal_level": 34,
+    "nightmare_level": 64,
+    "hell_level": 84,
+    "has_waypoint": true
+  },
+  {
+    "id": 107,
+    "name": "Halls of Vaught",
+    "act": 5,
+    "order": 10,
+    "normal_level": 36,
+    "nightmare_level": 64,
+    "hell_level": 84,
+    "has_waypoint": false
+  },
+  {
+    "id": 108,
+    "name": "Glacial Trail",
+    "act": 5,
+    "order": 11,
+    "normal_level": 29,
+    "nightmare_level": 61,
+    "hell_level": 83,
+    "has_waypoint": true
+  },
+  {
+    "id": 109,
+    "name": "Drifter Cavern",
+    "act": 5,
+    "order": 12,
+    "normal_level": 29,
+    "nightmare_level": 61,
+    "hell_level": 85,
+    "has_waypoint": false
+  },
+  {
+    "id": 110,
+    "name": "Frozen Tundra",
+    "act": 5,
+    "order": 13,
+    "normal_level": 27,
+    "nightmare_level": 60,
+    "hell_level": 81,
+    "has_waypoint": true
+  },
+  {
+    "id": 111,
+    "name": "Infernal Pit",
+    "act": 5,
+    "order": 14,
+    "normal_level": 39,
+    "nightmare_level": 62,
+    "hell_level": 85,
+    "has_waypoint": false
+  },
+  {
+    "id": 112,
+    "name": "The Ancient's Way",
+    "act": 5,
+    "order": 15,
+    "normal_level": 29,
+    "nightmare_level": 62,
+    "hell_level": 82,
+    "has_waypoint": true
+  },
+  {
+    "id": 113,
+    "name": "Icy Cellar",
+    "act": 5,
+    "order": 16,
+    "normal_level": 29,
+    "nightmare_level": 62,
+    "hell_level": 85,
+    "has_waypoint": false
+  },
+  {
+    "id": 114,
+    "name": "Arreat Summit",
+    "act": 5,
+    "order": 17,
+    "normal_level": 37,
+    "nightmare_level": 68,
+    "hell_level": 87,
+    "has_waypoint": false
+  },
+  {
+    "id": 115,
+    "name": "Worldstone Keep Level 1",
+    "act": 5,
+    "order": 18,
+    "normal_level": 39,
+    "nightmare_level": 65,
+    "hell_level": 85,
+    "has_waypoint": false
+  },
+  {
+    "id": 116,
+    "name": "Worldstone Keep Level 2",
+    "act": 5,
+    "order": 19,
+    "normal_level": 40,
+    "nightmare_level": 65,
+    "hell_level": 85,
+    "has_waypoint": true
+  },
+  {
+    "id": 117,
+    "name": "Worldstone Keep Level 3",
+    "act": 5,
+    "order": 20,
+    "normal_level": 42,
+    "nightmare_level": 66,
+    "hell_level": 85,
+    "has_waypoint": false
+  },
+  {
+    "id": 118,
+    "name": "Throne of Destruction",
+    "act": 5,
+    "order": 21,
+    "normal_level": 42,
+    "nightmare_level": 66,
+    "hell_level": 85,
+    "has_waypoint": false
+  },
+  {
+    "id": 119,
+    "name": "Worldstone Chamber",
+    "act": 5,
+    "order": 22,
+    "normal_level": 43,
+    "nightmare_level": 66,
+    "hell_level": 85,
+    "has_waypoint": false
+  },
+  {
+    "id": 120,
+    "name": "Matron's Den",
+    "act": 5,
+    "order": 23,
+    "normal_level": null,
+    "nightmare_level": null,
+    "hell_level": 83,
+    "has_waypoint": false
+  },
+  {
+    "id": 121,
+    "name": "Forgotten Sands",
+    "act": 5,
+    "order": 24,
+    "normal_level": null,
+    "nightmare_level": null,
+    "hell_level": 83,
+    "has_waypoint": false
+  },
+  {
+    "id": 122,
+    "name": "Furnace of Pain",
+    "act": 5,
+    "order": 25,
+    "normal_level": null,
+    "nightmare_level": null,
+    "hell_level": 83,
+    "has_waypoint": false
+  },
+  {
+    "id": 123,
+    "name": "Uber Tristram",
+    "act": 5,
+    "order": 26,
+    "normal_level": null,
+    "nightmare_level": null,
+    "hell_level": null,
+    "has_waypoint": false
+  }
+]
