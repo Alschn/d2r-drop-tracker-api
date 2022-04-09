@@ -5,9 +5,18 @@
     "common_name": "",
     "level_req": 11,
     "statistics": {
-      "weapon": {},
-      "armor/helm": {},
-      "shield": {}
+      "weapon": {
+        "ar": 50,
+        "light_radius": 1
+      },
+      "armor/helm": {
+        "def": 15,
+        "light_radius": 1
+      },
+      "shield": {
+        "def": 15,
+        "light_radius": 1
+      }
     },
     "type": "rune",
     "quality": "normal"
@@ -18,9 +27,16 @@
     "common_name": "",
     "level_req": 11,
     "statistics": {
-      "weapon": {},
-      "armor/helm": {},
-      "shield": {}
+      "weapon": {
+        "dmg_to_undead": 75,
+        "ar_to_undead": 50
+      },
+      "armor/helm": {
+        "slower_stamina_drain": 15
+      },
+      "shield": {
+        "icb": 7
+      }
     },
     "type": "rune",
     "quality": "normal"
@@ -31,9 +47,15 @@
     "common_name": "",
     "level_req": 13,
     "statistics": {
-      "weapon": {},
-      "armor/helm": {},
-      "shield": {}
+      "weapon": {
+        "maek": 2
+      },
+      "armor/helm": {
+        "maek": 2
+      },
+      "shield": {
+        "maek": 2
+      }
     },
     "type": "rune",
     "quality": "normal"
@@ -44,9 +66,15 @@
     "common_name": "",
     "level_req": 13,
     "statistics": {
-      "weapon": {},
-      "armor/helm": {},
-      "shield": {}
+      "weapon": {
+        "knockback": true
+      },
+      "armor/helm": {
+        "def_vs_missle": 30
+      },
+      "shield": {
+        "def_vs_missle": 30
+      }
     },
     "type": "rune",
     "quality": "normal"
@@ -57,9 +85,15 @@
     "common_name": "",
     "level_req": 15,
     "statistics": {
-      "weapon": {},
-      "armor/helm": {},
-      "shield": {}
+      "weapon": {
+        "target_defense": -25
+      },
+      "armor/helm": {
+        "mreg": 15
+      },
+      "shield": {
+        "mreg": 15
+      }
     },
     "type": "rune",
     "quality": "normal"
@@ -70,9 +104,15 @@
     "common_name": "",
     "level_req": 15,
     "statistics": {
-      "weapon": {},
-      "armor/helm": {},
-      "shield": {}
+      "weapon": {
+        "max_dmg": 9
+      },
+      "armor/helm": {
+        "dtgtm": 15
+      },
+      "shield": {
+        "dtgtm": 15
+      }
     },
     "type": "rune",
     "quality": "normal"
@@ -83,9 +123,19 @@
     "common_name": "",
     "level_req": 17,
     "statistics": {
-      "weapon": {},
-      "armor/helm": {},
-      "shield": {}
+      "weapon": {
+        "psn_dmg": {
+          "min": 75,
+          "max": 75,
+          "duration": 5
+        }
+      },
+      "armor/helm": {
+        "pr": 30
+      },
+      "shield": {
+        "pr": 35
+      }
     },
     "type": "rune",
     "quality": "normal"
@@ -96,9 +146,18 @@
     "common_name": "",
     "level_req": 19,
     "statistics": {
-      "weapon": {},
-      "armor/helm": {},
-      "shield": {}
+      "weapon": {
+        "fire_dmg": {
+          "min": 5,
+          "max": 30
+        }
+      },
+      "armor/helm": {
+        "fr": 30
+      },
+      "shield": {
+        "fr": 35
+      }
     },
     "type": "rune",
     "quality": "normal"
@@ -109,9 +168,18 @@
     "common_name": "",
     "level_req": 21,
     "statistics": {
-      "weapon": {},
-      "armor/helm": {},
-      "shield": {}
+      "weapon": {
+        "light_dmg": {
+          "min": 1,
+          "max": 50
+        }
+      },
+      "armor/helm": {
+        "lr": 30
+      },
+      "shield": {
+        "lr": 35
+      }
     },
     "type": "rune",
     "quality": "normal"
@@ -122,9 +190,19 @@
     "common_name": "",
     "level_req": 23,
     "statistics": {
-      "weapon": {},
-      "armor/helm": {},
-      "shield": {}
+      "weapon": {
+        "cold_dmg": {
+          "min": 3,
+          "max": 14,
+          "duration": 3
+        }
+      },
+      "armor/helm": {
+        "cr": 30
+      },
+      "shield": {
+        "cr": 35
+      }
     },
     "type": "rune",
     "quality": "normal"
@@ -135,9 +213,15 @@
     "common_name": "",
     "level_req": 25,
     "statistics": {
-      "weapon": {},
-      "armor/helm": {},
-      "shield": {}
+      "weapon": {
+        "ll": 7
+      },
+      "armor/helm": {
+        "atd": 14
+      },
+      "shield": {
+        "atd": 14
+      }
     },
     "type": "rune",
     "quality": "normal"
@@ -148,9 +232,15 @@
     "common_name": "",
     "level_req": 27,
     "statistics": {
-      "weapon": {},
-      "armor/helm": {},
-      "shield": {}
+      "weapon": {
+        "min_dmg": 9
+      },
+      "armor/helm": {
+        "dr_by": 7
+      },
+      "shield": {
+        "dr_by": 7
+      }
     },
     "type": "rune",
     "quality": "normal"
@@ -161,9 +251,15 @@
     "common_name": "",
     "level_req": 29,
     "statistics": {
-      "weapon": {},
-      "armor/helm": {},
-      "shield": {}
+      "weapon": {
+        "ias": 20
+      },
+      "armor/helm": {
+        "fhr": 20
+      },
+      "shield": {
+        "fbr": 20
+      }
     },
     "type": "rune",
     "quality": "normal"
@@ -174,9 +270,15 @@
     "common_name": "",
     "level_req": 31,
     "statistics": {
-      "weapon": {},
-      "armor/helm": {},
-      "shield": {}
+      "weapon": {
+        "flee": 25
+      },
+      "armor/helm": {
+        "life_repl": 7
+      },
+      "shield": {
+        "life_repl": 7
+      }
     },
     "type": "rune",
     "quality": "normal"
@@ -187,9 +289,15 @@
     "common_name": "",
     "level_req": null,
     "statistics": {
-      "weapon": {},
-      "armor/helm": {},
-      "shield": {}
+      "weapon": {
+        "req": -20
+      },
+      "armor/helm": {
+        "req": -15
+      },
+      "shield": {
+        "req": -15
+      }
     },
     "type": "rune",
     "quality": "normal"
@@ -200,9 +308,15 @@
     "common_name": "",
     "level_req": 35,
     "statistics": {
-      "weapon": {},
-      "armor/helm": {},
-      "shield": {}
+      "weapon": {
+        "vita": 10
+      },
+      "armor/helm": {
+        "vita": 10
+      },
+      "shield": {
+        "vita": 10
+      }
     },
     "type": "rune",
     "quality": "normal"
@@ -213,9 +327,15 @@
     "common_name": "",
     "level_req": 37,
     "statistics": {
-      "weapon": {},
-      "armor/helm": {},
-      "shield": {}
+      "weapon": {
+        "ene": 10
+      },
+      "armor/helm": {
+        "ene": 10
+      },
+      "shield": {
+        "ene": 10
+      }
     },
     "type": "rune",
     "quality": "normal"
@@ -226,9 +346,15 @@
     "common_name": "",
     "level_req": 39,
     "statistics": {
-      "weapon": {},
-      "armor/helm": {},
-      "shield": {}
+      "weapon": {
+        "dex": 10
+      },
+      "armor/helm": {
+        "dex": 10
+      },
+      "shield": {
+        "dex": 10
+      }
     },
     "type": "rune",
     "quality": "normal"
@@ -239,9 +365,15 @@
     "common_name": "",
     "level_req": 41,
     "statistics": {
-      "weapon": {},
-      "armor/helm": {},
-      "shield": {}
+      "weapon": {
+        "str": 10
+      },
+      "armor/helm": {
+        "str": 10
+      },
+      "shield": {
+        "str": 10
+      }
     },
     "type": "rune",
     "quality": "normal"
@@ -252,9 +384,15 @@
     "common_name": "",
     "level_req": 43,
     "statistics": {
-      "weapon": {},
-      "armor/helm": {},
-      "shield": {}
+      "weapon": {
+        "eg": 75
+      },
+      "armor/helm": {
+        "eg": 50
+      },
+      "shield": {
+        "eg": 50
+      }
     },
     "type": "rune",
     "quality": "normal"
@@ -265,9 +403,16 @@
     "common_name": "",
     "level_req": 45,
     "statistics": {
-      "weapon": {},
-      "armor/helm": {},
-      "shield": {}
+      "weapon": {
+        "dmg_to_demons": 75,
+        "ar_to_demons": 100
+      },
+      "armor/helm": {
+        "edef": 30
+      },
+      "shield": {
+        "edef": 30
+      }
     },
     "type": "rune",
     "quality": "normal"
@@ -278,9 +423,16 @@
     "common_name": "",
     "level_req": 47,
     "statistics": {
-      "weapon": {},
-      "armor/helm": {},
-      "shield": {}
+      "weapon": {
+        "dmg_to_demons": 75,
+        "ar_to_demons": 100
+      },
+      "armor/helm": {
+        "edef": 30
+      },
+      "shield": {
+        "edef": 30
+      }
     },
     "type": "rune",
     "quality": "normal"
@@ -291,9 +443,15 @@
     "common_name": "",
     "level_req": 49,
     "statistics": {
-      "weapon": {},
-      "armor/helm": {},
-      "shield": {}
+      "weapon": {
+        "pmh": true
+      },
+      "armor/helm": {
+        "mdr_by": 7
+      },
+      "shield": {
+        "mdr_by": 7
+      }
     },
     "type": "rune",
     "quality": "normal"
@@ -304,9 +462,15 @@
     "common_name": "",
     "level_req": 51,
     "statistics": {
-      "weapon": {},
-      "armor/helm": {},
-      "shield": {}
+      "weapon": {
+        "mf": 30
+      },
+      "armor/helm": {
+        "mf": 25
+      },
+      "shield": {
+        "mf": 25
+      }
     },
     "type": "rune",
     "quality": "normal"
@@ -317,9 +481,15 @@
     "common_name": "",
     "level_req": 53,
     "statistics": {
-      "weapon": {},
-      "armor/helm": {},
-      "shield": {}
+      "weapon": {
+        "ar%": 20
+      },
+      "armor/helm": {
+        "max_pr": 5
+      },
+      "shield": {
+        "max_pr": 5
+      }
     },
     "type": "rune",
     "quality": "normal"
@@ -330,9 +500,15 @@
     "common_name": "",
     "level_req": 55,
     "statistics": {
-      "weapon": {},
-      "armor/helm": {},
-      "shield": {}
+      "weapon": {
+        "ml": 7
+      },
+      "armor/helm": {
+        "max_fr": 5
+      },
+      "shield": {
+        "max_fr": 5
+      }
     },
     "type": "rune",
     "quality": "normal"
@@ -343,9 +519,15 @@
     "common_name": "",
     "level_req": 57,
     "statistics": {
-      "weapon": {},
-      "armor/helm": {},
-      "shield": {}
+      "weapon": {
+        "edmg": 50
+      },
+      "armor/helm": {
+        "max_cr": 5
+      },
+      "shield": {
+        "max_cr": 5
+      }
     },
     "type": "rune",
     "quality": "normal"
@@ -356,9 +538,15 @@
     "common_name": "",
     "level_req": 59,
     "statistics": {
-      "weapon": {},
-      "armor/helm": {},
-      "shield": {}
+      "weapon": {
+        "ds": 20
+      },
+      "armor/helm": {
+        "max_lr": 5
+      },
+      "shield": {
+        "max_lr": 5
+      }
     },
     "type": "rune",
     "quality": "normal"
@@ -369,9 +557,15 @@
     "common_name": "",
     "level_req": 61,
     "statistics": {
-      "weapon": {},
-      "armor/helm": {},
-      "shield": {}
+      "weapon": {
+        "blind": 20
+      },
+      "armor/helm": {
+        "max_mana": 5
+      },
+      "shield": {
+        "mana": 50
+      }
     },
     "type": "rune",
     "quality": "normal"
@@ -382,9 +576,15 @@
     "common_name": "",
     "level_req": 63,
     "statistics": {
-      "weapon": {},
-      "armor/helm": {},
-      "shield": {}
+      "weapon": {
+        "cb": 20
+      },
+      "armor/helm": {
+        "dr%": 8
+      },
+      "shield": {
+        "dr%": 8
+      }
     },
     "type": "rune",
     "quality": "normal"
@@ -395,9 +595,15 @@
     "common_name": "",
     "level_req": 65,
     "statistics": {
-      "weapon": {},
-      "armor/helm": {},
-      "shield": {}
+      "weapon": {
+        "itd": true
+      },
+      "armor/helm": {
+        "max_life": 5
+      },
+      "shield": {
+        "life": 50
+      }
     },
     "type": "rune",
     "quality": "normal"
@@ -408,9 +614,18 @@
     "common_name": "",
     "level_req": 67,
     "statistics": {
-      "weapon": {},
-      "armor/helm": {},
-      "shield": {}
+      "weapon": {
+        "freeze": {
+          "chance": 32,
+          "duration": 3
+        }
+      },
+      "armor/helm": {
+        "cbf": true
+      },
+      "shield": {
+        "cbf": true
+      }
     },
     "type": "rune",
     "quality": "normal"
@@ -421,9 +636,15 @@
     "common_name": "",
     "level_req": 69,
     "statistics": {
-      "weapon": {},
-      "armor/helm": {},
-      "shield": {}
+      "weapon": {
+        "indestructible": true
+      },
+      "armor/helm": {
+        "indestructible": true
+      },
+      "shield": {
+        "indestructible": true
+      }
     },
     "type": "rune",
     "quality": "normal"

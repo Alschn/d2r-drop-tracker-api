@@ -1,11 +1,782 @@
 [
   {
-    "id": 0,
-    "name": "",
+    "id": 34,
+    "name": "Chipped Ruby",
     "common_name": "",
-    "level_req": null,
+    "level_req": 1,
     "type": "gem",
     "quality": "normal",
-    "statistics": {}
+    "statistics": {
+      "quality": "chipped",
+      "weapons": {
+        "fire_dmg": {
+          "min": 3,
+          "max": 4
+        }
+      },
+      "armor/helm": {
+        "life": 10
+      },
+      "shield": {
+        "fr": 12
+      }
+    }
+  },
+  {
+    "id": 35,
+    "name": "Flawed Ruby",
+    "common_name": "",
+    "level_req": 5,
+    "type": "gem",
+    "quality": "normal",
+    "statistics": {
+      "quality": "flawed",
+      "weapons": {
+        "fire_dmg": {
+          "min": 5,
+          "max": 8
+        }
+      },
+      "armor/helm": {
+        "life": 17
+      },
+      "shield": {
+        "fr": 16
+      }
+    }
+  },
+  {
+    "id": 36,
+    "name": "Ruby",
+    "common_name": "",
+    "level_req": 12,
+    "type": "gem",
+    "quality": "normal",
+    "statistics": {
+      "quality": "regular",
+      "weapons": {
+        "fire_dmg": {
+          "min": 8,
+          "max": 12
+        }
+      },
+      "armor/helm": {
+        "life": 24
+      },
+      "shield": {
+        "fr": 22
+      }
+    }
+  },
+  {
+    "id": 37,
+    "name": "Flawless Ruby",
+    "common_name": "",
+    "level_req": 15,
+    "type": "gem",
+    "quality": "normal",
+    "statistics": {
+      "quality": "flawless",
+      "weapons": {
+        "fire_dmg": {
+          "min": 10,
+          "max": 16
+        }
+      },
+      "armor/helm": {
+        "life": 31
+      },
+      "shield": {
+        "fr": 28
+      }
+    }
+  },
+  {
+    "id": 38,
+    "name": "Perfect Ruby",
+    "common_name": "pruby",
+    "level_req": 18,
+    "type": "gem",
+    "quality": "normal",
+    "statistics": {
+      "quality": "perfect",
+      "weapons": {
+        "fire_dmg": {
+          "min": 15,
+          "max": 20
+        }
+      },
+      "armor/helm": {
+        "life": 38
+      },
+      "shield": {
+        "fr": 40
+      }
+    }
+  },
+  {
+    "id": 39,
+    "name": "Chipped Sapphire",
+    "common_name": "",
+    "level_req": 1,
+    "type": "gem",
+    "quality": "normal",
+    "statistics": {
+      "quality": "chipped",
+      "weapons": {
+        "cold_dmg": {
+          "min": 1,
+          "max": 3,
+          "duration": 1.0
+        }
+      },
+      "armor/helm": {
+        "mana": 10
+      },
+      "shield": {
+        "cr": 12
+      }
+    }
+  },
+  {
+    "id": 40,
+    "name": "Flawed Sapphire",
+    "common_name": "",
+    "level_req": 5,
+    "type": "gem",
+    "quality": "normal",
+    "statistics": {
+      "quality": "flawed",
+      "weapons": {
+        "cold_dmg": {
+          "min": 3,
+          "max": 5,
+          "duration": 1.4
+        }
+      },
+      "armor/helm": {
+        "mana": 17
+      },
+      "shield": {
+        "cr": 16
+      }
+    }
+  },
+  {
+    "id": 41,
+    "name": "Sapphire",
+    "common_name": "",
+    "level_req": 12,
+    "type": "gem",
+    "quality": "normal",
+    "statistics": {
+      "quality": "regular",
+      "weapons": {
+        "cold_dmg": {
+          "min": 4,
+          "max": 7,
+          "duration": 2.0
+        }
+      },
+      "armor/helm": {
+        "mana": 24
+      },
+      "shield": {
+        "cr": 22
+      }
+    }
+  },
+  {
+    "id": 42,
+    "name": "Flawless Sapphire",
+    "common_name": "",
+    "level_req": 15,
+    "type": "gem",
+    "quality": "normal",
+    "statistics": {
+      "quality": "flawless",
+      "weapons": {
+        "cold_dmg": {
+          "min": 6,
+          "max": 10,
+          "duration": 2.4
+        }
+      },
+      "armor/helm": {
+        "mana": 31
+      },
+      "shield": {
+        "cr": 28
+      }
+    }
+  },
+  {
+    "id": 43,
+    "name": "Perfect Sapphire",
+    "common_name": "psaph",
+    "level_req": 18,
+    "type": "gem",
+    "quality": "normal",
+    "statistics": {
+      "quality": "perfect",
+      "weapons": {
+        "cold_dmg": {
+          "min": 10,
+          "max": 14,
+          "duration": 3.0
+        }
+      },
+      "armor/helm": {
+        "mana": 38
+      },
+      "shield": {
+        "cr": 40
+      }
+    }
+  },
+  {
+    "id": 44,
+    "name": "Chipped Topaz",
+    "common_name": "",
+    "level_req": 1,
+    "type": "gem",
+    "quality": "normal",
+    "statistics": {
+      "quality": "chipped",
+      "weapons": {
+        "light_dmg": {
+          "min": 1,
+          "max": 8
+        }
+      },
+      "armor/helm": {
+        "mf": 9
+      },
+      "shield": {
+        "lr": 12
+      }
+    }
+  },
+  {
+    "id": 45,
+    "name": "Flawed Topaz",
+    "common_name": "",
+    "level_req": 5,
+    "type": "gem",
+    "quality": "normal",
+    "statistics": {
+      "quality": "flawed",
+      "weapons": {
+        "light_dmg": {
+          "min": 1,
+          "max": 14
+        }
+      },
+      "armor/helm": {
+        "mf": 13
+      },
+      "shield": {
+        "lr": 16
+      }
+    }
+  },
+  {
+    "id": 46,
+    "name": "Topaz",
+    "common_name": "",
+    "level_req": 12,
+    "type": "gem",
+    "quality": "normal",
+    "statistics": {
+      "quality": "regular",
+      "weapons": {
+        "light_dmg": {
+          "min": 1,
+          "max": 22
+        }
+      },
+      "armor/helm": {
+        "mf": 16
+      },
+      "shield": {
+        "lr": 22
+      }
+    }
+  },
+  {
+    "id": 47,
+    "name": "Flawless Topaz",
+    "common_name": "",
+    "level_req": 15,
+    "type": "gem",
+    "quality": "normal",
+    "statistics": {
+      "quality": "flawless",
+      "weapons": {
+        "light_dmg": {
+          "min": 1,
+          "max": 30
+        }
+      },
+      "armor/helm": {
+        "mf": 20
+      },
+      "shield": {
+        "lr": 28
+      }
+    }
+  },
+  {
+    "id": 48,
+    "name": "Perfect Topaz",
+    "common_name": "ptopaz",
+    "level_req": 18,
+    "type": "gem",
+    "quality": "normal",
+    "statistics": {
+      "quality": "perfect",
+      "weapons": {
+        "light_dmg": {
+          "min": 1,
+          "max": 40
+        }
+      },
+      "armor/helm": {
+        "mf": 24
+      },
+      "shield": {
+        "lr": 40
+      }
+    }
+  },
+  {
+    "id": 49,
+    "name": "Chipped Emerald",
+    "common_name": "",
+    "level_req": 1,
+    "type": "gem",
+    "quality": "normal",
+    "statistics": {
+      "quality": "chipped",
+      "weapons": {
+        "psn_dmg": {
+          "min": 10,
+          "max": 10,
+          "duration": 3
+        }
+      },
+      "armor/helm": {
+        "dex": 3
+      },
+      "shield": {
+        "pr": 12
+      }
+    }
+  },
+  {
+    "id": 50,
+    "name": "Flawed Emerald",
+    "common_name": "",
+    "level_req": 5,
+    "type": "gem",
+    "quality": "normal",
+    "statistics": {
+      "quality": "flawed",
+      "weapons": {
+        "psn_dmg": {
+          "min": 20,
+          "max": 20,
+          "duration": 4
+        }
+      },
+      "armor/helm": {
+        "dex": 4
+      },
+      "shield": {
+        "pr": 16
+      }
+    }
+  },
+  {
+    "id": 51,
+    "name": "Emerald",
+    "common_name": "",
+    "level_req": 12,
+    "type": "gem",
+    "quality": "normal",
+    "statistics": {
+      "quality": "regular",
+      "weapons": {
+        "psn_dmg": {
+          "min": 40,
+          "max": 40,
+          "duration": 5
+        }
+      },
+      "armor/helm": {
+        "dex": 6
+      },
+      "shield": {
+        "pr": 22
+      }
+    }
+  },
+  {
+    "id": 52,
+    "name": "Flawless Emerald",
+    "common_name": "",
+    "level_req": 15,
+    "type": "gem",
+    "quality": "normal",
+    "statistics": {
+      "quality": "flawless",
+      "weapons": {
+        "psn_dmg": {
+          "min": 60,
+          "max": 60,
+          "duration": 6
+        }
+      },
+      "armor/helm": {
+        "dex": 8
+      },
+      "shield": {
+        "pr": 28
+      }
+    }
+  },
+  {
+    "id": 53,
+    "name": "Perfect Emerald",
+    "common_name": "peme",
+    "level_req": 18,
+    "type": "gem",
+    "quality": "normal",
+    "statistics": {
+      "quality": "perfect",
+      "weapons": {
+        "psn_dmg": {
+          "min": 100,
+          "max": 100,
+          "duration": 7
+        }
+      },
+      "armor/helm": {
+        "dex": 10
+      },
+      "shield": {
+        "pr": 40
+      }
+    }
+  },
+  {
+    "id": 54,
+    "name": "Chipped Diamond",
+    "common_name": "",
+    "level_req": 1,
+    "type": "gem",
+    "quality": "normal",
+    "statistics": {
+      "quality": "chipped",
+      "weapons": {
+        "dmg_to_undead": 28
+      },
+      "armor/helm": {
+        "ar": 20
+      },
+      "shield": {
+        "all_res": 6
+      }
+    }
+  },
+  {
+    "id": 55,
+    "name": "Flawed Diamond",
+    "common_name": "",
+    "level_req": 5,
+    "type": "gem",
+    "quality": "normal",
+    "statistics": {
+      "quality": "flawed",
+      "weapons": {
+        "dmg_to_undead": 34
+      },
+      "armor/helm": {
+        "ar": 40
+      },
+      "shield": {
+        "all_res": 8
+      }
+    }
+  },
+  {
+    "id": 56,
+    "name": "Diamond",
+    "common_name": "",
+    "level_req": 12,
+    "type": "gem",
+    "quality": "normal",
+    "statistics": {
+      "quality": "regular",
+      "weapons": {
+        "dmg_to_undead": 44
+      },
+      "armor/helm": {
+        "ar": 60
+      },
+      "shield": {
+        "all_res": 11
+      }
+    }
+  },
+  {
+    "id": 57,
+    "name": "Flawless Diamond",
+    "common_name": "",
+    "level_req": 15,
+    "type": "gem",
+    "quality": "normal",
+    "statistics": {
+      "quality": "flawless",
+      "weapons": {
+        "dmg_to_undead": 54
+      },
+      "armor/helm": {
+        "ar": 80
+      },
+      "shield": {
+        "all_res": 14
+      }
+    }
+  },
+  {
+    "id": 58,
+    "name": "Perfect Diamond",
+    "common_name": "pdia",
+    "level_req": 18,
+    "type": "gem",
+    "quality": "normal",
+    "statistics": {
+      "quality": "perfect",
+      "weapons": {
+        "dmg_to_undead": 68
+      },
+      "armor/helm": {
+        "ar": 100
+      },
+      "shield": {
+        "all_res": 19
+      }
+    }
+  },
+  {
+    "id": 59,
+    "name": "Chipped Amethyst",
+    "common_name": "",
+    "level_req": 1,
+    "type": "gem",
+    "quality": "normal",
+    "statistics": {
+      "quality": "chipped",
+      "weapons": {
+        "ar": 40
+      },
+      "armor/helm": {
+        "str": 3
+      },
+      "shield": {
+        "def": 8
+      }
+    }
+  },
+  {
+    "id": 60,
+    "name": "Flawed Amethyst",
+    "common_name": "",
+    "level_req": 5,
+    "type": "gem",
+    "quality": "normal",
+    "statistics": {
+      "quality": "flawed",
+      "weapons": {
+        "ar": 60
+      },
+      "armor/helm": {
+        "str": 4
+      },
+      "shield": {
+        "def": 12
+      }
+    }
+  },
+  {
+    "id": 61,
+    "name": "Amethyst",
+    "common_name": "",
+    "level_req": 12,
+    "type": "gem",
+    "quality": "normal",
+    "statistics": {
+      "quality": "regular",
+      "weapons": {
+        "ar": 80
+      },
+      "armor/helm": {
+        "str": 6
+      },
+      "shield": {
+        "def": 18
+      }
+    }
+  },
+  {
+    "id": 62,
+    "name": "Flawless Amethyst",
+    "common_name": "",
+    "level_req": 15,
+    "type": "gem",
+    "quality": "normal",
+    "statistics": {
+      "quality": "flawless",
+      "weapons": {
+        "ar": 100
+      },
+      "armor/helm": {
+        "str": 8
+      },
+      "shield": {
+        "def": 24
+      }
+    }
+  },
+  {
+    "id": 63,
+    "name": "Perfect Amethyst",
+    "common_name": "pame",
+    "level_req": 18,
+    "type": "gem",
+    "quality": "normal",
+    "statistics": {
+      "quality": "perfect",
+      "weapons": {
+        "ar": 150
+      },
+      "armor/helm": {
+        "str": 10
+      },
+      "shield": {
+        "def": 30
+      }
+    }
+  },
+  {
+    "id": 64,
+    "name": "Chipped Skull",
+    "common_name": "",
+    "level_req": 1,
+    "type": "gem",
+    "quality": "normal",
+    "statistics": {
+      "quality": "chipped",
+      "weapons": {
+        "ll": 2,
+        "ml": 1
+      },
+      "armor/helm": {
+        "life_repl": 2,
+        "mreg": 8
+      },
+      "shield": {
+        "atd": 4
+      }
+    }
+  },
+  {
+    "id": 65,
+    "name": "Flawed Skull",
+    "common_name": "",
+    "level_req": 5,
+    "type": "gem",
+    "quality": "normal",
+    "statistics": {
+      "quality": "flawed",
+      "weapons": {
+        "ll": 2,
+        "ml": 2
+      },
+      "armor/helm": {
+        "life_repl": 3,
+        "mreg": 8
+      },
+      "shield": {
+        "atd": 8
+      }
+    }
+  },
+  {
+    "id": 66,
+    "name": "Skull",
+    "common_name": "",
+    "level_req": 12,
+    "type": "gem",
+    "quality": "normal",
+    "statistics": {
+      "quality": "regular",
+      "weapons": {
+        "ll": 3,
+        "ml": 2
+      },
+      "armor/helm": {
+        "life_repl": 3,
+        "mreg": 12
+      },
+      "shield": {
+        "atd": 12
+      }
+    }
+  },
+  {
+    "id": 67,
+    "name": "Flawless Skull",
+    "common_name": "",
+    "level_req": 15,
+    "type": "gem",
+    "quality": "normal",
+    "statistics": {
+      "quality": "flawless",
+      "weapons": {
+        "ll": 3,
+        "ml": 3
+      },
+      "armor/helm": {
+        "life_repl": 4,
+        "mreg": 12
+      },
+      "shield": {
+        "atd": 16
+      }
+    }
+  },
+  {
+    "id": 68,
+    "name": "Perfect Skull",
+    "common_name": "pskull",
+    "level_req": 18,
+    "type": "gem",
+    "quality": "normal",
+    "statistics": {
+      "quality": "perfect",
+      "weapons": {
+        "ll": 4,
+        "ml": 3
+      },
+      "armor/helm": {
+        "life_repl": 5,
+        "mreg": 19
+      },
+      "shield": {
+        "atd": 20
+      }
+    }
   }
 ]

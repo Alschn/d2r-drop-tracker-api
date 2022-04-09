@@ -1,6 +1,6 @@
 [
   {
-    "id": 0,
+    "id": 69,
     "name": "Key of Terror",
     "common_name": "terror",
     "level_req": null,
@@ -9,7 +9,7 @@
     "quality": "normal"
   },
   {
-    "id": 0,
+    "id": 70,
     "name": "Key of Hate",
     "common_name": "hate",
     "level_req": null,
@@ -18,7 +18,7 @@
     "quality": "normal"
   },
   {
-    "id": 0,
+    "id": 71,
     "name": "Key of Destruction",
     "common_name": "dest",
     "level_req": null,
@@ -27,7 +27,7 @@
     "quality": "normal"
   },
   {
-    "id": 0,
+    "id": 72,
     "name": "Diablo's Horn",
     "common_name": "diablo horn",
     "level_req": null,
@@ -36,8 +36,8 @@
     "quality": "normal"
   },
   {
-    "id": 0,
-    "name": "Baal's eye",
+    "id": 73,
+    "name": "Baal's Eye",
     "common_name": "baal eye",
     "level_req": null,
     "statistics": {},
@@ -45,8 +45,8 @@
     "quality": "normal"
   },
   {
-    "id": 0,
-    "name": "Mephisto's brain",
+    "id": 74,
+    "name": "Mephisto's Brain",
     "common_name": "meph brain",
     "level_req": null,
     "statistics": {},
@@ -54,16 +54,16 @@
     "quality": "normal"
   },
   {
-    "id": 0,
+    "id": 75,
     "name": "Standard of Heroes",
     "common_name": "standard",
-    "level_req": null,
+    "level_req": 90,
     "statistics": {},
     "type": "quest",
     "quality": "normal"
   },
   {
-    "id": 0,
+    "id": 76,
     "name": "Burning Essense of Terror",
     "common_name": "red",
     "level_req": null,
@@ -72,7 +72,7 @@
     "quality": "normal"
   },
   {
-    "id": 0,
+    "id": 77,
     "name": "Charged Essence of Hatred",
     "common_name": "yellow",
     "level_req": null,
@@ -81,7 +81,7 @@
     "quality": "normal"
   },
   {
-    "id": 0,
+    "id": 78,
     "name": "Festering Essence of Destruction",
     "common_name": "green",
     "level_req": null,
@@ -90,7 +90,7 @@
     "quality": "normal"
   },
   {
-    "id": 0,
+    "id": 79,
     "name": "Twisted Essence of Suffering",
     "common_name": "blue",
     "level_req": null,
@@ -99,7 +99,7 @@
     "quality": "normal"
   },
   {
-    "id": 0,
+    "id": 80,
     "name": "Token of Absolution",
     "common_name": "token",
     "level_req": null,
