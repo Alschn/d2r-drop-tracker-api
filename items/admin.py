@@ -1,5 +1,6 @@
 from django import forms
 from django.contrib import admin
+from django.db.models import QuerySet
 from import_export.admin import ImportExportModelAdmin
 from ordered_model.admin import OrderedModelAdmin
 
@@ -37,7 +38,7 @@ class ItemBaseAdmin(ImportExportModelAdmin, ModelAdmin):
 
 @admin.register(Item)
 class ItemAdmin(ModelAdmin):
-    list_display = ('__str__', 'name', 'quality', 'type')
+    list_display = ('name', 'quality', 'type', 'level_req')
     list_filter = ('quality', 'type')
 
     def has_add_permission(self, *args, **kwargs):
@@ -120,6 +121,11 @@ class SetAdmin(ImportExportModelAdmin, ModelAdmin):
 
 
 # Proxies
+class ItemResource(ModelResourceWithNestedJSON):
+    class Meta:
+        model = Item
+
+
 class JewelryAdminForm(forms.ModelForm):
     type = forms.ChoiceField(
         choices=list(map(lambda x: (x.value, x.label), ItemType.jewelry()))
@@ -141,6 +147,7 @@ class JewelryAdminForm(forms.ModelForm):
 @admin.register(Jewelry)
 class JewelryAdmin(ModelAdmin):
     form = JewelryAdminForm
+    resource_class = ItemResource
 
 
 class RuneAdminForm(forms.ModelForm):
@@ -156,9 +163,33 @@ class RuneAdminForm(forms.ModelForm):
         fields = "__all__"
 
 
+class RuneLevelFilter(admin.SimpleListFilter):
+    title = "Rune's level"
+    parameter_name = "level_req"
+
+    def lookups(self, request, model_admin):
+        return (
+            ("high", "High Rune"),
+            ("mid", "Mid Rune"),
+            ("low", "Low Rune"),
+        )
+
+    def queryset(self, request, queryset) -> QuerySet[Rune]:
+        value = self.value()
+        if value == "high":
+            return queryset.filter(level_req__gte=55)
+        elif value == "mid":
+            return queryset.filter(level_req__gte=39, level_req__lt=55)
+        elif value == "low":
+            return queryset.filter(level_req__lt=39)
+
+
 @admin.register(Rune)
-class RuneAdmin(ModelAdmin):
+class RuneAdmin(ImportExportModelAdmin, ModelAdmin):
     form = RuneAdminForm
+    list_display = ('name', 'level_req')
+    list_filter = (RuneLevelFilter,)
+    resource_class = ItemResource
 
 
 class CharmAdminForm(forms.ModelForm):
@@ -180,6 +211,7 @@ class CharmAdminForm(forms.ModelForm):
 @admin.register(Charm)
 class CharmAdmin(ModelAdmin):
     form = CharmAdminForm
+    resource_class = ItemResource
 
 
 class JewelAdminForm(forms.ModelForm):
@@ -202,6 +234,7 @@ class JewelAdminForm(forms.ModelForm):
 @admin.register(Jewel)
 class JewelAdmin(ModelAdmin):
     form = JewelAdminForm
+    resource_class = ItemResource
 
 
 class MiscellaneousAdminForm(forms.ModelForm):
@@ -218,5 +251,7 @@ class MiscellaneousAdminForm(forms.ModelForm):
 
 
 @admin.register(Miscellaneous)
-class MiscellaneousAdmin(ModelAdmin):
+class MiscellaneousAdmin(ImportExportModelAdmin, ModelAdmin):
     form = MiscellaneousAdminForm
+    list_display = ("name", "type", "level_req")
+    resource_class = ItemResource
