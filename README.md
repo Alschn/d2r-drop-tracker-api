@@ -4,17 +4,22 @@
     <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt=""/>
     <img src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray" alt=""/>
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt=""/>
+    <img src="https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=for-the-badge&logo=battle.net&logoColor=white" alt=""/>
 </div>
 
 <div align="center"></div>
 
 ## Tools, libraries, frameworks:
 
-This setup has been tested with Python 3.9 and Django 4.0.3.
+This setup has been tested on Python 3.9.6 and Django 4.0.3.
 
 ### Backend
 
 ## Development setup:
+
+### Requirements:
+- [Python](https://www.python.org/downloads/) 3.8+
+- [pipenv](https://pypi.org/project/pipenv/)
 
 ### BattleNet API
 
@@ -75,11 +80,36 @@ coverage report -m
 
 ## Todos
 
-- json files - items, runewords... (a lot)
-- character's equipment, mercenaries
-- modifiers (prefixes, suffixes), automods
-- cube recipes
-- ethereal item find
-- item dimensions (width, height), optional descriptions, looks
-- data validation (serializers, validators on models)
-- better readme
+### Json files
+
+- [x] Armor, Belts, Boots, Gloves, Helmets - bases
+- [ ] Shields, Weapons - bases
+- [ ] Runewords (statistics)
+- [x] Runes, gems, quest items
+- [x] Sets
+- [ ] Set items
+- [ ] Unique items
+
+#### Maybe
+
+- [ ] Cube recipes
+- [ ] Other miscellaneous items (arrows, potions, scrolls, non tradeable quest items)
+
+### Characters management
+
+- [ ] Equipment
+- [ ] Mercenaries
+
+### Items
+
+- [ ] item dimensions (width, height), optional descriptions, looks
+
+### Item find
+
+- [ ] ethereal item find
+
+### Other
+
+- [ ] modifiers (prefixes, suffixes), automods
+- [ ] data validation (serializers, validators on models)
+- [ ] better readme
