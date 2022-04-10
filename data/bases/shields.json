@@ -1,3 +1,1616 @@
 [
-
+  {
+    "id": 150,
+    "name": "Buckler",
+    "common_name": "",
+    "type": "shield",
+    "quality": "normal",
+    "level_type": "normal",
+    "max_sockets": 1,
+    "class_specific": null,
+    "level_req": null,
+    "str_req": 12,
+    "dex_req": null,
+    "durability": 12,
+    "statistics": {
+      "weight": "light",
+      "def": {
+        "min": 4,
+        "max": 6
+      },
+      "smite_dmg": {
+        "min": 1,
+        "max": 3
+      },
+      "block": {
+        "paladin": 30,
+        "amazon/assassin/barbarian": 25,
+        "druid/necromancer/sorceress": 20
+      },
+      "qlvl": 1
+    }
+  },
+  {
+    "id": 151,
+    "name": "Small Shield",
+    "common_name": "",
+    "type": "shield",
+    "quality": "normal",
+    "level_type": "normal",
+    "max_sockets": 2,
+    "class_specific": null,
+    "level_req": null,
+    "str_req": 22,
+    "dex_req": null,
+    "durability": 16,
+    "statistics": {
+      "weight": "light",
+      "def": {
+        "min": 8,
+        "max": 10
+      },
+      "smite_dmg": {
+        "min": 2,
+        "max": 3
+      },
+      "block": {
+        "paladin": 35,
+        "amazon/assassin/barbarian": 30,
+        "druid/necromancer/sorceress": 25
+      },
+      "qlvl": 5
+    }
+  },
+  {
+    "id": 152,
+    "name": "Large Shield",
+    "common_name": "",
+    "type": "shield",
+    "quality": "normal",
+    "level_type": "normal",
+    "max_sockets": 3,
+    "class_specific": null,
+    "level_req": null,
+    "str_req": 34,
+    "dex_req": null,
+    "durability": 24,
+    "statistics": {
+      "weight": "medium",
+      "def": {
+        "min": 12,
+        "max": 14
+      },
+      "smite_dmg": {
+        "min": 2,
+        "max": 4
+      },
+      "block": {
+        "paladin": 35,
+        "amazon/assassin/barbarian": 30,
+        "druid/necromancer/sorceress": 25
+      },
+      "qlvl": 11
+    }
+  },
+  {
+    "id": 153,
+    "name": "Kite Shield",
+    "common_name": "",
+    "type": "shield",
+    "quality": "normal",
+    "level_type": "normal",
+    "max_sockets": 3,
+    "class_specific": null,
+    "level_req": null,
+    "str_req": 47,
+    "dex_req": null,
+    "durability": 30,
+    "statistics": {
+      "weight": "light",
+      "def": {
+        "min": 16,
+        "max": 18
+      },
+      "smite_dmg": {
+        "min": 2,
+        "max": 5
+      },
+      "block": {
+        "paladin": 38,
+        "amazon/assassin/barbarian": 33,
+        "druid/necromancer/sorceress": 28
+      },
+      "qlvl": 15
+    }
+  },
+  {
+    "id": 154,
+    "name": "Spiked Shield",
+    "common_name": "",
+    "type": "shield",
+    "quality": "normal",
+    "level_type": "normal",
+    "max_sockets": 2,
+    "class_specific": null,
+    "level_req": null,
+    "str_req": 30,
+    "dex_req": null,
+    "durability": 40,
+    "statistics": {
+      "weight": "light",
+      "def": {
+        "min": 15,
+        "max": 25
+      },
+      "smite_dmg": {
+        "min": 5,
+        "max": 9
+      },
+      "block": {
+        "paladin": 40,
+        "amazon/assassin/barbarian": 35,
+        "druid/necromancer/sorceress": 30
+      },
+      "qlvl": 11
+    }
+  },
+  {
+    "id": 155,
+    "name": "Bone Shield",
+    "common_name": "",
+    "type": "shield",
+    "quality": "normal",
+    "level_type": "normal",
+    "max_sockets": 2,
+    "class_specific": null,
+    "level_req": null,
+    "str_req": 25,
+    "dex_req": null,
+    "durability": 40,
+    "statistics": {
+      "weight": "light",
+      "def": {
+        "min": 10,
+        "max": 30
+      },
+      "smite_dmg": {
+        "min": 3,
+        "max": 6
+      },
+      "block": {
+        "paladin": 50,
+        "amazon/assassin/barbarian": 45,
+        "druid/necromancer/sorceress": 40
+      },
+      "qlvl": 19
+    }
+  },
+  {
+    "id": 156,
+    "name": "Tower Shield",
+    "common_name": "",
+    "type": "shield",
+    "quality": "normal",
+    "level_type": "normal",
+    "max_sockets": 3,
+    "class_specific": null,
+    "level_req": null,
+    "str_req": 75,
+    "dex_req": null,
+    "durability": 12,
+    "statistics": {
+      "weight": "heavy",
+      "def": {
+        "min": 22,
+        "max": 25
+      },
+      "smite_dmg": {
+        "min": 1,
+        "max": 5
+      },
+      "block": {
+        "paladin": 54,
+        "amazon/assassin/barbarian": 49,
+        "druid/necromancer/sorceress": 44
+      },
+      "qlvl": 22
+    }
+  },
+  {
+    "id": 157,
+    "name": "Gothic Shield",
+    "common_name": "",
+    "type": "shield",
+    "quality": "normal",
+    "level_type": "normal",
+    "max_sockets": 3,
+    "class_specific": null,
+    "level_req": null,
+    "str_req": 60,
+    "dex_req": null,
+    "durability": 40,
+    "statistics": {
+      "weight": "medium",
+      "def": {
+        "min": 30,
+        "max": 35
+      },
+      "smite_dmg": {
+        "min": 2,
+        "max": 6
+      },
+      "block": {
+        "paladin": 46,
+        "amazon/assassin/barbarian": 41,
+        "druid/necromancer/sorceress": 36
+      },
+      "qlvl": 30
+    }
+  },
+  {
+    "id": 158,
+    "name": "Defender",
+    "common_name": "",
+    "type": "shield",
+    "quality": "normal",
+    "level_type": "exceptional",
+    "max_sockets": 1,
+    "class_specific": null,
+    "level_req": 22,
+    "str_req": 38,
+    "dex_req": null,
+    "durability": 68,
+    "statistics": {
+      "weight": "light",
+      "def": {
+        "min": 41,
+        "max": 49
+      },
+      "smite_dmg": {
+        "min": 8,
+        "max": 12
+      },
+      "block": {
+        "paladin": 40,
+        "amazon/assassin/barbarian": 35,
+        "druid/necromancer/sorceress": 30
+      },
+      "qlvl": 34
+    }
+  },
+  {
+    "id": 159,
+    "name": "Round Shield",
+    "common_name": "",
+    "type": "shield",
+    "quality": "normal",
+    "level_type": "exceptional",
+    "max_sockets": 2,
+    "class_specific": null,
+    "level_req": 25,
+    "str_req": 53,
+    "dex_req": null,
+    "durability": 64,
+    "statistics": {
+      "weight": "light",
+      "def": {
+        "min": 47,
+        "max": 55
+      },
+      "smite_dmg": {
+        "min": 7,
+        "max": 14
+      },
+      "block": {
+        "paladin": 42,
+        "amazon/assassin/barbarian": 37,
+        "druid/necromancer/sorceress": 32
+      },
+      "qlvl": 37
+    }
+  },
+  {
+    "id": 160,
+    "name": "Scutum",
+    "common_name": "",
+    "type": "shield",
+    "quality": "normal",
+    "level_type": "exceptional",
+    "max_sockets": 3,
+    "class_specific": null,
+    "level_req": 25,
+    "str_req": 71,
+    "dex_req": null,
+    "durability": 64,
+    "statistics": {
+      "weight": "medium",
+      "def": {
+        "min": 53,
+        "max": 61
+      },
+      "smite_dmg": {
+        "min": 11,
+        "max": 15
+      },
+      "block": {
+        "paladin": 44,
+        "amazon/assassin/barbarian": 39,
+        "druid/necromancer/sorceress": 34
+      },
+      "qlvl": 42
+    }
+  },
+  {
+    "id": 161,
+    "name": "Dragon Shield",
+    "common_name": "",
+    "type": "shield",
+    "quality": "normal",
+    "level_type": "exceptional",
+    "max_sockets": 3,
+    "class_specific": null,
+    "level_req": 25,
+    "str_req": 91,
+    "dex_req": null,
+    "durability": 76,
+    "statistics": {
+      "weight": "light",
+      "def": {
+        "min": 59,
+        "max": 67
+      },
+      "smite_dmg": {
+        "min": 15,
+        "max": 24
+      },
+      "block": {
+        "paladin": 48,
+        "amazon/assassin/barbarian": 43,
+        "druid/necromancer/sorceress": 38
+      },
+      "qlvl": 45
+    }
+  },
+  {
+    "id": 162,
+    "name": "Barbed Shield",
+    "common_name": "",
+    "type": "shield",
+    "quality": "normal",
+    "level_type": "exceptional",
+    "max_sockets": 2,
+    "class_specific": null,
+    "level_req": 25,
+    "str_req": 65,
+    "dex_req": null,
+    "durability": 55,
+    "statistics": {
+      "weight": "light",
+      "def": {
+        "min": 68,
+        "max": 78
+      },
+      "smite_dmg": {
+        "min": 18,
+        "max": 35
+      },
+      "block": {
+        "paladin": 47,
+        "amazon/assassin/barbarian": 42,
+        "druid/necromancer/sorceress": 37
+      },
+      "qlvl": 42
+    }
+  },
+  {
+    "id": 163,
+    "name": "Grim Shield",
+    "common_name": "",
+    "type": "shield",
+    "quality": "normal",
+    "level_type": "exceptional",
+    "max_sockets": 2,
+    "class_specific": null,
+    "level_req": 25,
+    "str_req": 58,
+    "dex_req": null,
+    "durability": 70,
+    "statistics": {
+      "weight": "light",
+      "def": {
+        "min": 50,
+        "max": 150
+      },
+      "smite_dmg": {
+        "min": 14,
+        "max": 20
+      },
+      "block": {
+        "paladin": 47,
+        "amazon/assassin/barbarian": 42,
+        "druid/necromancer/sorceress": 37
+      },
+      "qlvl": 48
+    }
+  },
+  {
+    "id": 164,
+    "name": "Pavise",
+    "common_name": "",
+    "type": "shield",
+    "quality": "normal",
+    "level_type": "exceptional",
+    "max_sockets": 3,
+    "class_specific": null,
+    "level_req": 25,
+    "str_req": 133,
+    "dex_req": null,
+    "durability": 72,
+    "statistics": {
+      "weight": "heavy",
+      "def": {
+        "min": 68,
+        "max": 78
+      },
+      "smite_dmg": {
+        "min": 10,
+        "max": 17
+      },
+      "block": {
+        "paladin": 50,
+        "amazon/assassin/barbarian": 45,
+        "druid/necromancer/sorceress": 40
+      },
+      "qlvl": 50
+    }
+  },
+  {
+    "id": 165,
+    "name": "Ancient Shield",
+    "common_name": "",
+    "type": "shield",
+    "quality": "normal",
+    "level_type": "exceptional",
+    "max_sockets": 3,
+    "class_specific": null,
+    "level_req": 25,
+    "str_req": 110,
+    "dex_req": null,
+    "durability": 80,
+    "statistics": {
+      "weight": "medium",
+      "def": {
+        "min": 80,
+        "max": 93
+      },
+      "smite_dmg": {
+        "min": 12,
+        "max": 16
+      },
+      "block": {
+        "paladin": 46,
+        "amazon/assassin/barbarian": 41,
+        "druid/necromancer/sorceress": 36
+      },
+      "qlvl": null
+    }
+  },
+  {
+    "id": 166,
+    "name": "Heater",
+    "common_name": "",
+    "type": "shield",
+    "quality": "normal",
+    "level_type": "elite",
+    "max_sockets": 2,
+    "class_specific": null,
+    "level_req": 43,
+    "str_req": 77,
+    "dex_req": null,
+    "durability": 88,
+    "statistics": {
+      "weight": "light",
+      "def": {
+        "min": 95,
+        "max": 110
+      },
+      "smite_dmg": {
+        "min": 16,
+        "max": 30
+      },
+      "block": {
+        "paladin": 46,
+        "amazon/assassin/barbarian": 41,
+        "druid/necromancer/sorceress": 36
+      },
+      "qlvl": 58
+    }
+  },
+  {
+    "id": 167,
+    "name": "Luna",
+    "common_name": "",
+    "type": "shield",
+    "quality": "normal",
+    "level_type": "elite",
+    "max_sockets": 2,
+    "class_specific": null,
+    "level_req": 45,
+    "str_req": 100,
+    "dex_req": null,
+    "durability": 84,
+    "statistics": {
+      "weight": "light",
+      "def": {
+        "min": 108,
+        "max": 123
+      },
+      "smite_dmg": {
+        "min": 17,
+        "max": 29
+      },
+      "block": {
+        "paladin": 50,
+        "amazon/assassin/barbarian": 45,
+        "druid/necromancer/sorceress": 40
+      },
+      "qlvl": 61
+    }
+  },
+  {
+    "id": 168,
+    "name": "Hyperion",
+    "common_name": "",
+    "type": "shield",
+    "quality": "normal",
+    "level_type": "elite",
+    "max_sockets": 3,
+    "class_specific": null,
+    "level_req": 48,
+    "str_req": 127,
+    "dex_req": null,
+    "durability": 82,
+    "statistics": {
+      "weight": "medium",
+      "def": {
+        "min": 119,
+        "max": 135
+      },
+      "smite_dmg": {
+        "min": 14,
+        "max": 32
+      },
+      "block": {
+        "paladin": 54,
+        "amazon/assassin/barbarian": 49,
+        "druid/necromancer/sorceress": 44
+      },
+      "qlvl": 64
+    }
+  },
+  {
+    "id": 169,
+    "name": "Monarch",
+    "common_name": "mona",
+    "type": "shield",
+    "quality": "normal",
+    "level_type": "elite",
+    "max_sockets": 4,
+    "class_specific": null,
+    "level_req": 54,
+    "str_req": 156,
+    "dex_req": null,
+    "durability": 86,
+    "statistics": {
+      "weight": "light",
+      "def": {
+        "min": 133,
+        "max": 148
+      },
+      "smite_dmg": {
+        "min": 12,
+        "max": 34
+      },
+      "block": {
+        "paladin": 52,
+        "amazon/assassin/barbarian": 47,
+        "druid/necromancer/sorceress": 42
+      },
+      "qlvl": 72
+    }
+  },
+  {
+    "id": 170,
+    "name": "Blade Barrier",
+    "common_name": "",
+    "type": "shield",
+    "quality": "normal",
+    "level_type": "elite",
+    "max_sockets": 3,
+    "class_specific": null,
+    "level_req": 51,
+    "str_req": 118,
+    "dex_req": null,
+    "durability": 83,
+    "statistics": {
+      "weight": "light",
+      "def": {
+        "min": 147,
+        "max": 163
+      },
+      "smite_dmg": {
+        "min": 26,
+        "max": 40
+      },
+      "block": {
+        "paladin": 50,
+        "amazon/assassin/barbarian": 45,
+        "druid/necromancer/sorceress": 40
+      },
+      "qlvl": 68
+    }
+  },
+  {
+    "id": 171,
+    "name": "Troll Nest",
+    "common_name": "",
+    "type": "shield",
+    "quality": "normal",
+    "level_type": "elite",
+    "max_sockets": 3,
+    "class_specific": null,
+    "level_req": 57,
+    "str_req": 106,
+    "dex_req": null,
+    "durability": 74,
+    "statistics": {
+      "weight": "light",
+      "def": {
+        "min": 158,
+        "max": 173
+      },
+      "smite_dmg": {
+        "min": 24,
+        "max": 38
+      },
+      "block": {
+        "paladin": 50,
+        "amazon/assassin/barbarian": 45,
+        "druid/necromancer/sorceress": 40
+      },
+      "qlvl": 76
+    }
+  },
+  {
+    "id": 172,
+    "name": "Aegis",
+    "common_name": "",
+    "type": "shield",
+    "quality": "normal",
+    "level_type": "elite",
+    "max_sockets": 4,
+    "class_specific": null,
+    "level_req": 59,
+    "str_req": 219,
+    "dex_req": null,
+    "durability": 92,
+    "statistics": {
+      "weight": "heavy",
+      "def": {
+        "min": 145,
+        "max": 161
+      },
+      "smite_dmg": {
+        "min": 18,
+        "max": 28
+      },
+      "block": {
+        "paladin": 54,
+        "amazon/assassin/barbarian": 49,
+        "druid/necromancer/sorceress": 44
+      },
+      "qlvl": 79
+    }
+  },
+  {
+    "id": 173,
+    "name": "Ward",
+    "common_name": "",
+    "type": "shield",
+    "quality": "normal",
+    "level_type": "elite",
+    "max_sockets": 4,
+    "class_specific": null,
+    "level_req": 63,
+    "str_req": 185,
+    "dex_req": null,
+    "durability": 100,
+    "statistics": {
+      "weight": "medium",
+      "def": {
+        "min": 153,
+        "max": 170
+      },
+      "smite_dmg": {
+        "min": 11,
+        "max": 35
+      },
+      "block": {
+        "paladin": 54,
+        "amazon/assassin/barbarian": 49,
+        "druid/necromancer/sorceress": 44
+      },
+      "qlvl": 84
+    }
+  },
+  {
+    "id": 174,
+    "name": "Preserved Head",
+    "common_name": "",
+    "type": "shrunken_head",
+    "quality": "normal",
+    "level_type": "normal",
+    "max_sockets": 2,
+    "class_specific": "necromancer",
+    "level_req": 3,
+    "str_req": 12,
+    "dex_req": null,
+    "durability": 20,
+    "statistics": {
+      "weight": "light",
+      "def": {
+        "min": 2,
+        "max": 5
+      },
+      "block": {
+        "paladin": 23,
+        "amazon/assassin/barbarian": 23,
+        "druid/necromancer/sorceress": 23
+      },
+      "qlvl": 4
+    }
+  },
+  {
+    "id": 175,
+    "name": "Zombie Head",
+    "common_name": "",
+    "type": "shrunken_head",
+    "quality": "normal",
+    "level_type": "normal",
+    "max_sockets": 2,
+    "class_specific": "necromancer",
+    "level_req": 6,
+    "str_req": 14,
+    "dex_req": null,
+    "durability": 20,
+    "statistics": {
+      "weight": "light",
+      "def": {
+        "min": 4,
+        "max": 8
+      },
+      "block": {
+        "paladin": 25,
+        "amazon/assassin/barbarian": 25,
+        "druid/necromancer/sorceress": 25
+      },
+      "qlvl": 8
+    }
+  },
+  {
+    "id": 176,
+    "name": "Unraveller Head",
+    "common_name": "",
+    "type": "shrunken_head",
+    "quality": "normal",
+    "level_type": "normal",
+    "max_sockets": 2,
+    "class_specific": "necromancer",
+    "level_req": 12,
+    "str_req": 18,
+    "dex_req": null,
+    "durability": 20,
+    "statistics": {
+      "weight": "light",
+      "def": {
+        "min": 6,
+        "max": 10
+      },
+      "block": {
+        "paladin": 28,
+        "amazon/assassin/barbarian": 28,
+        "druid/necromancer/sorceress": 28
+      },
+      "qlvl": 16
+    }
+  },
+  {
+    "id": 177,
+    "name": "Gargoyle Head",
+    "common_name": "",
+    "type": "shrunken_head",
+    "quality": "normal",
+    "level_type": "normal",
+    "max_sockets": 2,
+    "class_specific": "necromancer",
+    "level_req": 15,
+    "str_req": 20,
+    "dex_req": null,
+    "durability": 20,
+    "statistics": {
+      "weight": "light",
+      "def": {
+        "min": 10,
+        "max": 16
+      },
+      "block": {
+        "paladin": 28,
+        "amazon/assassin/barbarian": 28,
+        "druid/necromancer/sorceress": 28
+      },
+      "qlvl": 20
+    }
+  },
+  {
+    "id": 178,
+    "name": "Demon Head",
+    "common_name": "",
+    "type": "shrunken_head",
+    "quality": "normal",
+    "level_type": "normal",
+    "max_sockets": 2,
+    "class_specific": "necromancer",
+    "level_req": 18,
+    "str_req": 25,
+    "dex_req": null,
+    "durability": 20,
+    "statistics": {
+      "weight": "light",
+      "def": {
+        "min": 15,
+        "max": 20
+      },
+      "block": {
+        "paladin": 32,
+        "amazon/assassin/barbarian": 32,
+        "druid/necromancer/sorceress": 32
+      },
+      "qlvl": 24
+    }
+  },
+  {
+    "id": 179,
+    "name": "Mummified Trophy",
+    "common_name": "",
+    "type": "shrunken_head",
+    "quality": "normal",
+    "level_type": "exceptional",
+    "max_sockets": 2,
+    "class_specific": "necromancer",
+    "level_req": 24,
+    "str_req": 38,
+    "dex_req": null,
+    "durability": 20,
+    "statistics": {
+      "weight": "light",
+      "def": {
+        "min": 38,
+        "max": 48
+      },
+      "block": {
+        "paladin": 23,
+        "amazon/assassin/barbarian": 23,
+        "druid/necromancer/sorceress": 23
+      },
+      "qlvl": 33
+    }
+  },
+  {
+    "id": 180,
+    "name": "Fetish Trophy",
+    "common_name": "",
+    "type": "shrunken_head",
+    "quality": "normal",
+    "level_type": "exceptional",
+    "max_sockets": 2,
+    "class_specific": "necromancer",
+    "level_req": 29,
+    "str_req": 41,
+    "dex_req": null,
+    "durability": 20,
+    "statistics": {
+      "weight": "light",
+      "def": {
+        "min": 41,
+        "max": 52
+      },
+      "block": {
+        "paladin": 25,
+        "amazon/assassin/barbarian": 25,
+        "druid/necromancer/sorceress": 25
+      },
+      "qlvl": 39
+    }
+  },
+  {
+    "id": 181,
+    "name": "Sexton Trophy",
+    "common_name": "",
+    "type": "shrunken_head",
+    "quality": "normal",
+    "level_type": "exceptional",
+    "max_sockets": 2,
+    "class_specific": "necromancer",
+    "level_req": 33,
+    "str_req": 47,
+    "dex_req": null,
+    "durability": 20,
+    "statistics": {
+      "weight": "light",
+      "def": {
+        "min": 44,
+        "max": 55
+      },
+      "block": {
+        "paladin": 28,
+        "amazon/assassin/barbarian": 28,
+        "druid/necromancer/sorceress": 28
+      },
+      "qlvl": 45
+    }
+  },
+  {
+    "id": 182,
+    "name": "Cantor Trophy",
+    "common_name": "",
+    "type": "shrunken_head",
+    "quality": "normal",
+    "level_type": "exceptional",
+    "max_sockets": 2,
+    "class_specific": "necromancer",
+    "level_req": 36,
+    "str_req": 50,
+    "dex_req": null,
+    "durability": 20,
+    "statistics": {
+      "weight": "light",
+      "def": {
+        "min": 50,
+        "max": 64
+      },
+      "block": {
+        "paladin": 30,
+        "amazon/assassin/barbarian": 30,
+        "druid/necromancer/sorceress": 30
+      },
+      "qlvl": 49
+    }
+  },
+  {
+    "id": 183,
+    "name": "Hierophant Trophy",
+    "common_name": "",
+    "type": "shrunken_head",
+    "quality": "normal",
+    "level_type": "exceptional",
+    "max_sockets": 2,
+    "class_specific": "necromancer",
+    "level_req": 40,
+    "str_req": 58,
+    "dex_req": null,
+    "durability": 20,
+    "statistics": {
+      "weight": "light",
+      "def": {
+        "min": 4,
+        "max": 6
+      },
+      "block": {
+        "paladin": 32,
+        "amazon/assassin/barbarian": 32,
+        "druid/necromancer/sorceress": 32
+      },
+      "qlvl": 54
+    }
+  },
+  {
+    "id": 184,
+    "name": "Minion Skull",
+    "common_name": "",
+    "type": "shrunken_head",
+    "quality": "normal",
+    "level_type": "elite",
+    "max_sockets": 2,
+    "class_specific": "necromancer",
+    "level_req": 44,
+    "str_req": 77,
+    "dex_req": null,
+    "durability": 20,
+    "statistics": {
+      "weight": "light",
+      "def": {
+        "min": 95,
+        "max": 139
+      },
+      "block": {
+        "paladin": 23,
+        "amazon/assassin/barbarian": 23,
+        "druid/necromancer/sorceress": 23
+      },
+      "qlvl": 59
+    }
+  },
+  {
+    "id": 185,
+    "name": "Hellspawn Skull",
+    "common_name": "",
+    "type": "shrunken_head",
+    "quality": "normal",
+    "level_type": "elite",
+    "max_sockets": 2,
+    "class_specific": "necromancer",
+    "level_req": 50,
+    "str_req": 82,
+    "dex_req": null,
+    "durability": 20,
+    "statistics": {
+      "weight": "light",
+      "def": {
+        "min": 96,
+        "max": 141
+      },
+      "block": {
+        "paladin": 25,
+        "amazon/assassin/barbarian": 25,
+        "druid/necromancer/sorceress": 25
+      },
+      "qlvl": 67
+    }
+  },
+  {
+    "id": 186,
+    "name": "Overseer Skull",
+    "common_name": "",
+    "type": "shrunken_head",
+    "quality": "normal",
+    "level_type": "elite",
+    "max_sockets": 2,
+    "class_specific": "necromancer",
+    "level_req": 49,
+    "str_req": 91,
+    "dex_req": null,
+    "durability": 20,
+    "statistics": {
+      "weight": "light",
+      "def": {
+        "min": 98,
+        "max": 142
+      },
+      "block": {
+        "paladin": 28,
+        "amazon/assassin/barbarian": 28,
+        "druid/necromancer/sorceress": 28
+      },
+      "qlvl": 66
+    }
+  },
+  {
+    "id": 187,
+    "name": "Succubus Skull",
+    "common_name": "",
+    "type": "shrunken_head",
+    "quality": "normal",
+    "level_type": "elite",
+    "max_sockets": 2,
+    "class_specific": "necromancer",
+    "level_req": 60,
+    "str_req": 95,
+    "dex_req": null,
+    "durability": 20,
+    "statistics": {
+      "weight": "light",
+      "def": {
+        "min": 100,
+        "max": 146
+      },
+      "block": {
+        "paladin": 30,
+        "amazon/assassin/barbarian": 30,
+        "druid/necromancer/sorceress": 30
+      },
+      "qlvl": 81
+    }
+  },
+  {
+    "id": 188,
+    "name": "Bloodlord Skull",
+    "common_name": "",
+    "type": "shrunken_head",
+    "quality": "normal",
+    "level_type": "elite",
+    "max_sockets": 2,
+    "class_specific": "necromancer",
+    "level_req": 65,
+    "str_req": 106,
+    "dex_req": null,
+    "durability": 20,
+    "statistics": {
+      "weight": "light",
+      "def": {
+        "min": 103,
+        "max": 148
+      },
+      "block": {
+        "paladin": 32,
+        "amazon/assassin/barbarian": 32,
+        "druid/necromancer/sorceress": 32
+      },
+      "qlvl": 85
+    }
+  },
+  {
+    "id": 189,
+    "name": "Targe",
+    "common_name": "",
+    "type": "auric_shield",
+    "quality": "normal",
+    "level_type": "normal",
+    "max_sockets": 4,
+    "class_specific": "paladin",
+    "level_req": 3,
+    "str_req": 16,
+    "dex_req": null,
+    "durability": 20,
+    "statistics": {
+      "weight": "light",
+      "def": {
+        "min": 8,
+        "max": 12
+      },
+      "smite_dmg": {
+        "min": 2,
+        "max": 6
+      },
+      "block": {
+        "paladin": 40,
+        "amazon/assassin/barbarian": 40,
+        "druid/necromancer/sorceress": 40
+      },
+      "qlvl": 4
+    }
+  },
+  {
+    "id": 190,
+    "name": "Rondache",
+    "common_name": "",
+    "type": "auric_shield",
+    "quality": "normal",
+    "level_type": "normal",
+    "max_sockets": 4,
+    "class_specific": "paladin",
+    "level_req": 6,
+    "str_req": 12,
+    "dex_req": null,
+    "durability": 30,
+    "statistics": {
+      "weight": "light",
+      "def": {
+        "min": 10,
+        "max": 18
+      },
+      "smite_dmg": {
+        "min": 2,
+        "max": 8
+      },
+      "block": {
+        "paladin": 45,
+        "amazon/assassin/barbarian": 45,
+        "druid/necromancer/sorceress": 45
+      },
+      "qlvl": 8
+    }
+  },
+  {
+    "id": 191,
+    "name": "Heraldic Shield",
+    "common_name": "",
+    "type": "auric_shield",
+    "quality": "normal",
+    "level_type": "normal",
+    "max_sockets": 4,
+    "class_specific": "paladin",
+    "level_req": 12,
+    "str_req": 30,
+    "dex_req": null,
+    "durability": 40,
+    "statistics": {
+      "weight": "light",
+      "def": {
+        "min": 16,
+        "max": 26
+      },
+      "smite_dmg": {
+        "min": 3,
+        "max": 9
+      },
+      "block": {
+        "paladin": 50,
+        "amazon/assassin/barbarian": 50,
+        "druid/necromancer/sorceress": 50
+      },
+      "qlvl": 16
+    }
+  },
+  {
+    "id": 192,
+    "name": "Aerin Shield",
+    "common_name": "",
+    "type": "auric_shield",
+    "quality": "normal",
+    "level_type": "normal",
+    "max_sockets": 4,
+    "class_specific": "paladin",
+    "level_req": 15,
+    "str_req": 50,
+    "dex_req": null,
+    "durability": 50,
+    "statistics": {
+      "weight": "light",
+      "def": {
+        "min": 26,
+        "max": 36
+      },
+      "smite_dmg": {
+        "min": 4,
+        "max": 10
+      },
+      "block": {
+        "paladin": 52,
+        "amazon/assassin/barbarian": 52,
+        "druid/necromancer/sorceress": 52
+      },
+      "qlvl": 20
+    }
+  },
+  {
+    "id": 193,
+    "name": "Crown Shield",
+    "common_name": "",
+    "type": "auric_shield",
+    "quality": "normal",
+    "level_type": "normal",
+    "max_sockets": 4,
+    "class_specific": "paladin",
+    "level_req": 18,
+    "str_req": 65,
+    "dex_req": null,
+    "durability": 60,
+    "statistics": {
+      "weight": "light",
+      "def": {
+        "min": 30,
+        "max": 40
+      },
+      "smite_dmg": {
+        "min": 4,
+        "max": 12
+      },
+      "block": {
+        "paladin": 55,
+        "amazon/assassin/barbarian": 55,
+        "druid/necromancer/sorceress": 55
+      },
+      "qlvl": 24
+    }
+  },
+  {
+    "id": 194,
+    "name": "Akaran Targe",
+    "common_name": "",
+    "type": "auric_shield",
+    "quality": "normal",
+    "level_type": "exceptional",
+    "max_sockets": 4,
+    "class_specific": "paladin",
+    "level_req": 26,
+    "str_req": 44,
+    "dex_req": null,
+    "durability": 20,
+    "statistics": {
+      "weight": "light",
+      "def": {
+        "min": 101,
+        "max": 125
+      },
+      "smite_dmg": {
+        "min": 12,
+        "max": 16
+      },
+      "block": {
+        "paladin": 40,
+        "amazon/assassin/barbarian": 40,
+        "druid/necromancer/sorceress": 40
+      },
+      "qlvl": 35
+    }
+  },
+  {
+    "id": 195,
+    "name": "Akaran Rondache",
+    "common_name": "",
+    "type": "auric_shield",
+    "quality": "normal",
+    "level_type": "exceptional",
+    "max_sockets": 4,
+    "class_specific": "paladin",
+    "level_req": 30,
+    "str_req": 59,
+    "dex_req": null,
+    "durability": 30,
+    "statistics": {
+      "weight": "light",
+      "def": {
+        "min": 113,
+        "max": 137
+      },
+      "smite_dmg": {
+        "min": 15,
+        "max": 20
+      },
+      "block": {
+        "paladin": 45,
+        "amazon/assassin/barbarian": 45,
+        "druid/necromancer/sorceress": 45
+      },
+      "qlvl": 40
+    }
+  },
+  {
+    "id": 196,
+    "name": "Protector Shield",
+    "common_name": "",
+    "type": "auric_shield",
+    "quality": "normal",
+    "level_type": "exceptional",
+    "max_sockets": 4,
+    "class_specific": "paladin",
+    "level_req": 34,
+    "str_req": 69,
+    "dex_req": null,
+    "durability": 46,
+    "statistics": {
+      "weight": "light",
+      "def": {
+        "min": 129,
+        "max": 153
+      },
+      "smite_dmg": {
+        "min": 18,
+        "max": 24
+      },
+      "block": {
+        "paladin": 50,
+        "amazon/assassin/barbarian": 50,
+        "druid/necromancer/sorceress": 50
+      },
+      "qlvl": 46
+    }
+  },
+  {
+    "id": 197,
+    "name": "Gilded Shield",
+    "common_name": "",
+    "type": "auric_shield",
+    "quality": "normal",
+    "level_type": "exceptional",
+    "max_sockets": 4,
+    "class_specific": "paladin",
+    "level_req": 38,
+    "str_req": 89,
+    "dex_req": null,
+    "durability": 50,
+    "statistics": {
+      "weight": "light",
+      "def": {
+        "min": 144,
+        "max": 168
+      },
+      "smite_dmg": {
+        "min": 20,
+        "max": 38
+      },
+      "block": {
+        "paladin": 52,
+        "amazon/assassin/barbarian": 52,
+        "druid/necromancer/sorceress": 52
+      },
+      "qlvl": 51
+    }
+  },
+  {
+    "id": 198,
+    "name": "Royal Shield",
+    "common_name": "",
+    "type": "auric_shield",
+    "quality": "normal",
+    "level_type": "exceptional",
+    "max_sockets": 4,
+    "class_specific": "paladin",
+    "level_req": 41,
+    "str_req": 114,
+    "dex_req": null,
+    "durability": 60,
+    "statistics": {
+      "weight": "light",
+      "def": {
+        "min": 156,
+        "max": 181
+      },
+      "smite_dmg": {
+        "min": 24,
+        "max": 32
+      },
+      "block": {
+        "paladin": 55,
+        "amazon/assassin/barbarian": 55,
+        "druid/necromancer/sorceress": 55
+      },
+      "qlvl": 55
+    }
+  },
+  {
+    "id": 199,
+    "name": "Sacred Targe",
+    "common_name": "st",
+    "type": "auric_shield",
+    "quality": "normal",
+    "level_type": "elite",
+    "max_sockets": 4,
+    "class_specific": "paladin",
+    "level_req": 47,
+    "str_req": 86,
+    "dex_req": null,
+    "durability": 45,
+    "statistics": {
+      "weight": "light",
+      "def": {
+        "min": 126,
+        "max": 158
+      },
+      "smite_dmg": {
+        "min": 22,
+        "max": 70
+      },
+      "block": {
+        "paladin": 60,
+        "amazon/assassin/barbarian": 60,
+        "druid/necromancer/sorceress": 60
+      },
+      "qlvl": 63
+    }
+  },
+  {
+    "id": 200,
+    "name": "Sacred Rondache",
+    "common_name": "sr",
+    "type": "auric_shield",
+    "quality": "normal",
+    "level_type": "elite",
+    "max_sockets": 4,
+    "class_specific": "paladin",
+    "level_req": 52,
+    "str_req": 109,
+    "dex_req": null,
+    "durability": 68,
+    "statistics": {
+      "weight": "light",
+      "def": {
+        "min": 138,
+        "max": 164
+      },
+      "smite_dmg": {
+        "min": 35,
+        "max": 58
+      },
+      "block": {
+        "paladin": 58,
+        "amazon/assassin/barbarian": 58,
+        "druid/necromancer/sorceress": 58
+      },
+      "qlvl": 70
+    }
+  },
+  {
+    "id": 201,
+    "name": "Kurast Shield",
+    "common_name": "",
+    "type": "auric_shield",
+    "quality": "normal",
+    "level_type": "elite",
+    "max_sockets": 4,
+    "class_specific": "paladin",
+    "level_req": 55,
+    "str_req": 124,
+    "dex_req": null,
+    "durability": 55,
+    "statistics": {
+      "weight": "light",
+      "def": {
+        "min": 154,
+        "max": 172
+      },
+      "smite_dmg": {
+        "min": 10,
+        "max": 82
+      },
+      "block": {
+        "paladin": 55,
+        "amazon/assassin/barbarian": 55,
+        "druid/necromancer/sorceress": 55
+      },
+      "qlvl": 74
+    }
+  },
+  {
+    "id": 202,
+    "name": "Zakarum Shield",
+    "common_name": "",
+    "type": "auric_shield",
+    "quality": "normal",
+    "level_type": "elite",
+    "max_sockets": 4,
+    "class_specific": "paladin",
+    "level_req": 61,
+    "str_req": 142,
+    "dex_req": null,
+    "durability": 65,
+    "statistics": {
+      "weight": "light",
+      "def": {
+        "min": 169,
+        "max": 193
+      },
+      "smite_dmg": {
+        "min": 46,
+        "max": 46
+      },
+      "block": {
+        "paladin": 52,
+        "amazon/assassin/barbarian": 52,
+        "druid/necromancer/sorceress": 52
+      },
+      "qlvl": 82
+    }
+  },
+  {
+    "id": 203,
+    "name": "Vortex Shield",
+    "common_name": "",
+    "type": "auric_shield",
+    "quality": "normal",
+    "level_type": "elite",
+    "max_sockets": 4,
+    "class_specific": "paladin",
+    "level_req": 66,
+    "str_req": 148,
+    "dex_req": null,
+    "durability": 90,
+    "statistics": {
+      "weight": "light",
+      "def": {
+        "min": 182,
+        "max": 255
+      },
+      "smite_dmg": {
+        "min": 5,
+        "max": 87
+      },
+      "block": {
+        "paladin": 49,
+        "amazon/assassin/barbarian": 49,
+        "druid/necromancer/sorceress": 49
+      },
+      "qlvl": 85
+    }
+  }
 ]
