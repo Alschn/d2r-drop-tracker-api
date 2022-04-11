@@ -42,16 +42,16 @@ class ItemType(models.TextChoices):
     CLUB = "club", "Club"
     SCEPTER = "scepter", "Scepter"
     POLEARM = "polearm", "Polearm"
-    AMAZON_SPEAR = "aspear", "Amazon's Spear"
+    AMAZON_SPEAR = "amazon_spear", "Amazon's Spear"
     SPEAR = "spear", "Spear"
     WAND = "wand", "Wand"
     STAFF = "staff", "Staff"
     ORB = "orb", "Sorceress' Orb"
     CROSSBOW = "crossbow", "Crossbow"
-    AMAZON_BOW = "abow", "Amazon's Bow"
+    AMAZON_BOW = "amazon_bow", "Amazon's Bow"
     BOW = "bow", "Bow"
     THROWING = "throwing", "Throwing"
-    AMAZON_JAVELIN = "ajavelin", "Amazon's Javelin"
+    AMAZON_JAVELIN = "amazon_javelin", "Amazon's Javelin"
     JAVELIN = "javelin", "Javelin"
     RING = "ring", "Ring"
     AMULET = "amulet", "Amulet"
@@ -106,7 +106,7 @@ class GenericItem(models.Model):
 
 
 class TypeQualityItem(GenericItem):
-    type = models.CharField(max_length=13, choices=ItemType.choices)
+    type = models.CharField(max_length=14, choices=ItemType.choices)
     quality = models.CharField(max_length=8, choices=ItemQuality.choices)
 
     class Meta:
@@ -145,6 +145,10 @@ class ItemBase(TypeQualityItem):
 
     def __str__(self) -> str:
         return f"{self.name} {self.quality} {self.type}"
+
+    @property
+    def is_socketable(self):
+        return bool(self.max_sockets)
 
 
 class JewelryManager(models.Manager):

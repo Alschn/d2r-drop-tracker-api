@@ -1,12 +1,13 @@
 [
   {
-    "id": 1,
+    "id": 204,
     "name": "Hand Axe",
     "common_name": "",
     "type": "axe_1h",
     "quality": "normal",
     "level_type": "normal",
     "max_sockets": 2,
+    "class_specific": null,
     "level_req": null,
     "str_req": null,
     "dex_req": null,
@@ -17,17 +18,19 @@
         "max": 6
       },
       "melee_range": 1,
-      "attack_speed": 0
+      "attack_speed": 0,
+      "qlvl": 3
     }
   },
   {
-    "id": 2,
+    "id": 205,
     "name": "Axe",
     "common_name": "",
     "type": "axe_1h",
     "quality": "normal",
     "level_type": "normal",
     "max_sockets": 4,
+    "class_specific": null,
     "level_req": null,
     "str_req": 32,
     "dex_req": null,
@@ -38,17 +41,19 @@
         "max": 11
       },
       "melee_range": 2,
-      "attack_speed": 10
+      "attack_speed": 10,
+      "qlvl": 7
     }
   },
   {
-    "id": 3,
+    "id": 206,
     "name": "Double Axe",
     "common_name": "",
     "type": "axe_1h",
     "quality": "normal",
     "level_type": "normal",
     "max_sockets": 5,
+    "class_specific": null,
     "level_req": null,
     "str_req": 43,
     "dex_req": null,
@@ -59,17 +64,19 @@
         "max": 13
       },
       "melee_range": 2,
-      "attack_speed": 10
+      "attack_speed": 10,
+      "qlvl": 13
     }
   },
   {
-    "id": 4,
+    "id": 207,
     "name": "Military Pick",
     "common_name": "",
     "type": "axe_1h",
     "quality": "normal",
     "level_type": "normal",
     "max_sockets": 6,
+    "class_specific": null,
     "level_req": null,
     "str_req": 49,
     "dex_req": 33,
@@ -80,17 +87,19 @@
         "max": 11
       },
       "melee_range": 2,
-      "attack_speed": -10
+      "attack_speed": -10,
+      "qlvl": 19
     }
   },
   {
-    "id": 5,
+    "id": 208,
     "name": "War Axe",
     "common_name": "",
     "type": "axe_1h",
     "quality": "normal",
     "level_type": "normal",
     "max_sockets": 6,
+    "class_specific": null,
     "level_req": null,
     "str_req": 67,
     "dex_req": null,
@@ -101,17 +110,19 @@
         "max": 18
       },
       "melee_range": 3,
-      "attack_speed": 0
+      "attack_speed": 0,
+      "qlvl": 25
     }
   },
   {
-    "id": 6,
+    "id": 209,
     "name": "Large Axe",
     "common_name": "",
     "type": "axe_2h",
     "quality": "normal",
     "level_type": "normal",
     "max_sockets": 4,
+    "class_specific": null,
     "level_req": null,
     "str_req": 35,
     "dex_req": null,
@@ -122,17 +133,19 @@
         "max": 13
       },
       "melee_range": 2,
-      "attack_speed": -10
+      "attack_speed": -10,
+      "qlvl": 6
     }
   },
   {
-    "id": 7,
+    "id": 210,
     "name": "Broad Axe",
     "common_name": "",
     "type": "axe_2h",
     "quality": "normal",
     "level_type": "normal",
     "max_sockets": 5,
+    "class_specific": null,
     "level_req": null,
     "str_req": 48,
     "dex_req": null,
@@ -143,17 +156,19 @@
         "max": 18
       },
       "melee_range": 2,
-      "attack_speed": 0
+      "attack_speed": 0,
+      "qlvl": 12
     }
   },
   {
-    "id": 8,
+    "id": 211,
     "name": "Battle Axe",
     "common_name": "",
     "type": "axe_2h",
     "quality": "normal",
     "level_type": "normal",
     "max_sockets": 5,
+    "class_specific": null,
     "level_req": null,
     "str_req": 54,
     "dex_req": null,
@@ -164,17 +179,19 @@
         "max": 32
       },
       "melee_range": 2,
-      "attack_speed": 10
+      "attack_speed": 10,
+      "qlvl": 17
     }
   },
   {
-    "id": 9,
+    "id": 212,
     "name": "Great Axe",
     "common_name": "",
     "type": "axe_2h",
     "quality": "normal",
     "level_type": "normal",
     "max_sockets": 6,
+    "class_specific": null,
     "level_req": null,
     "str_req": 63,
     "dex_req": 39,
@@ -185,17 +202,19 @@
         "max": 30
       },
       "melee_range": 1,
-      "attack_speed": -10
+      "attack_speed": -10,
+      "qlvl": 23
     }
   },
   {
-    "id": 10,
+    "id": 213,
     "name": "Giant Axe",
     "common_name": "",
     "type": "axe_2h",
     "quality": "normal",
     "level_type": "normal",
     "max_sockets": 6,
+    "class_specific": null,
     "level_req": null,
     "str_req": 70,
     "dex_req": null,
@@ -206,3992 +225,6583 @@
         "max": 45
       },
       "melee_range": 4,
-      "attack_speed": 10
+      "attack_speed": 10,
+      "qlvl": 27
     }
   },
   {
-    "id": 11,
+    "id": 214,
     "name": "Hatchet",
     "common_name": "",
     "type": "axe_1h",
     "quality": "normal",
     "level_type": "exceptional",
     "max_sockets": 2,
-    "level_req": 19,
+    "class_specific": null,
+    "level_req": 29,
     "str_req": 25,
     "dex_req": 25,
     "durability": 28,
-    "statistics": {}
+    "statistics": {
+      "1h_dmg": {
+        "min": 10,
+        "max": 21
+      },
+      "melee_range": 1,
+      "attack_speed": 0,
+      "qlvl": 31
+    }
   },
   {
-    "id": 12,
+    "id": 215,
     "name": "Cleaver",
     "common_name": "",
     "type": "axe_1h",
     "quality": "normal",
     "level_type": "exceptional",
     "max_sockets": 4,
+    "class_specific": null,
     "level_req": 22,
     "str_req": 68,
     "dex_req": null,
     "durability": 24,
-    "statistics": {}
+    "statistics": {
+      "1h_dmg": {
+        "min": 10,
+        "max": 33
+      },
+      "melee_range": 2,
+      "attack_speed": 10,
+      "qlvl": 34
+    }
   },
   {
-    "id": 13,
+    "id": 216,
     "name": "Twin Axe",
     "common_name": "",
     "type": "axe_1h",
     "quality": "normal",
     "level_type": "exceptional",
     "max_sockets": 5,
+    "class_specific": null,
     "level_req": 25,
     "str_req": 85,
     "dex_req": null,
     "durability": 24,
-    "statistics": {}
+    "statistics": {
+      "1h_dmg": {
+        "min": 13,
+        "max": 38
+      },
+      "melee_range": 2,
+      "attack_speed": 10,
+      "qlvl": 39
+    }
   },
   {
-    "id": 14,
+    "id": 217,
     "name": "Crowbill",
     "common_name": "",
     "type": "axe_1h",
     "quality": "normal",
     "level_type": "exceptional",
     "max_sockets": 6,
+    "class_specific": null,
     "level_req": 25,
     "str_req": 94,
     "dex_req": 70,
     "durability": 26,
-    "statistics": {}
+    "statistics": {
+      "1h_dmg": {
+        "min": 14,
+        "max": 34
+      },
+      "melee_range": 2,
+      "attack_speed": -10,
+      "qlvl": 43
+    }
   },
   {
-    "id": 15,
+    "id": 218,
     "name": "Naga",
     "common_name": "",
     "type": "axe_1h",
     "quality": "normal",
     "level_type": "exceptional",
     "max_sockets": 6,
+    "class_specific": null,
     "level_req": 25,
     "str_req": 121,
     "dex_req": null,
     "durability": 26,
-    "statistics": {}
+    "statistics": {
+      "1h_dmg": {
+        "min": 16,
+        "max": 45
+      },
+      "melee_range": 3,
+      "attack_speed": 0,
+      "qlvl": 48
+    }
   },
   {
-    "id": 16,
+    "id": 219,
     "name": "Military Axe",
     "common_name": "",
     "type": "axe_2h",
     "quality": "normal",
     "level_type": "exceptional",
     "max_sockets": 4,
-    "level_req": 22,
+    "class_specific": null,
+    "level_req": 25,
     "str_req": 73,
     "dex_req": null,
     "durability": 30,
-    "statistics": {}
+    "statistics": {
+      "2h_dmg": {
+        "min": 14,
+        "max": 34
+      },
+      "melee_range": 2,
+      "attack_speed": -10,
+      "qlvl": 34
+    }
   },
   {
-    "id": 17,
+    "id": 220,
     "name": "Bearded Axe",
     "common_name": "",
     "type": "axe_2h",
     "quality": "normal",
     "level_type": "exceptional",
     "max_sockets": 5,
+    "class_specific": null,
     "level_req": 25,
     "str_req": 92,
     "dex_req": null,
     "durability": 35,
-    "statistics": {}
+    "statistics": {
+      "2h_dmg": {
+        "min": 21,
+        "max": 49
+      },
+      "melee_range": 2,
+      "attack_speed": 0,
+      "qlvl": 38
+    }
   },
   {
-    "id": 18,
+    "id": 221,
     "name": "Tabar",
     "common_name": "",
     "type": "axe_2h",
     "quality": "normal",
     "level_type": "exceptional",
     "max_sockets": 5,
+    "class_specific": null,
     "level_req": 25,
     "str_req": 101,
     "dex_req": null,
     "durability": 40,
-    "statistics": {}
+    "statistics": {
+      "2h_dmg": {
+        "min": 24,
+        "max": 77
+      },
+      "melee_range": 2,
+      "attack_speed": 10,
+      "qlvl": 42
+    }
   },
   {
-    "id": 19,
+    "id": 222,
     "name": "Gothic Axe",
     "common_name": "",
     "type": "axe_2h",
     "quality": "normal",
     "level_type": "exceptional",
     "max_sockets": 6,
+    "class_specific": null,
     "level_req": 25,
     "str_req": 115,
     "dex_req": 79,
     "durability": 50,
-    "statistics": {}
+    "statistics": {
+      "2h_dmg": {
+        "min": 18,
+        "max": 70
+      },
+      "melee_range": 3,
+      "attack_speed": -10,
+      "qlvl": 46
+    }
   },
   {
-    "id": 20,
+    "id": 223,
     "name": "Ancient Axe",
     "common_name": "",
     "type": "axe_2h",
     "quality": "normal",
     "level_type": "exceptional",
     "max_sockets": 6,
+    "class_specific": null,
     "level_req": 25,
     "str_req": 125,
     "dex_req": null,
     "durability": 50,
-    "statistics": {}
+    "statistics": {
+      "2h_dmg": {
+        "min": 46,
+        "max": 85
+      },
+      "melee_range": 4,
+      "attack_speed": 10,
+      "qlvl": 51
+    }
   },
   {
-    "id": 21,
+    "id": 224,
     "name": "Tomahawk",
     "common_name": "",
     "type": "axe_1h",
     "quality": "normal",
     "level_type": "elite",
     "max_sockets": 2,
+    "class_specific": null,
     "level_req": 40,
     "str_req": 125,
     "dex_req": 67,
     "durability": 28,
-    "statistics": {}
+    "statistics": {
+      "1h_dmg": {
+        "min": 33,
+        "max": 58
+      },
+      "melee_range": 1,
+      "attack_speed": 0,
+      "qlvl": 58
+    }
   },
   {
-    "id": 22,
+    "id": 225,
     "name": "Small Crescent",
     "common_name": "",
     "type": "axe_1h",
     "quality": "normal",
     "level_type": "elite",
     "max_sockets": 4,
+    "class_specific": null,
     "level_req": 45,
     "str_req": 115,
     "dex_req": 83,
     "durability": 24,
-    "statistics": {}
+    "statistics": {
+      "1h_dmg": {
+        "min": 38,
+        "max": 60
+      },
+      "melee_range": 2,
+      "attack_speed": 10,
+      "qlvl": 61
+    }
   },
   {
-    "id": 23,
+    "id": 226,
     "name": "Ettin Axe",
     "common_name": "",
     "type": "axe_1h",
     "quality": "normal",
     "level_type": "elite",
     "max_sockets": 5,
+    "class_specific": null,
     "level_req": 52,
     "str_req": 145,
     "dex_req": 45,
     "durability": 24,
-    "statistics": {}
+    "statistics": {
+      "1h_dmg": {
+        "min": 33,
+        "max": 66
+      },
+      "melee_range": 2,
+      "attack_speed": 10,
+      "qlvl": 70
+    }
   },
   {
-    "id": 24,
+    "id": 227,
     "name": "War Spike",
     "common_name": "",
     "type": "axe_1h",
     "quality": "normal",
     "level_type": "elite",
     "max_sockets": 6,
+    "class_specific": null,
     "level_req": 59,
     "str_req": 133,
     "dex_req": 54,
     "durability": 26,
-    "statistics": {}
+    "statistics": {
+      "1h_dmg": {
+        "min": 30,
+        "max": 48
+      },
+      "melee_range": 2,
+      "attack_speed": -10,
+      "qlvl": 79
+    }
   },
   {
-    "id": 25,
+    "id": 228,
     "name": "Berserker Axe",
     "common_name": "ba",
     "type": "axe_1h",
     "quality": "normal",
     "level_type": "elite",
     "max_sockets": 6,
+    "class_specific": null,
     "level_req": 64,
     "str_req": 138,
     "dex_req": 59,
     "durability": 26,
-    "statistics": {}
+    "statistics": {
+      "1h_dmg": {
+        "min": 24,
+        "max": 71
+      },
+      "melee_range": 3,
+      "attack_speed": 0,
+      "qlvl": 85
+    }
   },
   {
-    "id": 26,
+    "id": 229,
     "name": "Feral Axe",
     "common_name": "",
     "type": "axe_2h",
     "quality": "normal",
     "level_type": "elite",
     "max_sockets": 4,
+    "class_specific": null,
     "level_req": 42,
     "str_req": 196,
-    "dex_req": 65,
+    "dex_req": null,
     "durability": 30,
-    "statistics": {}
+    "statistics": {
+      "2h_dmg": {
+        "min": 25,
+        "max": 123
+      },
+      "melee_range": 2,
+      "attack_speed": -15,
+      "qlvl": 57
+    }
   },
   {
-    "id": 27,
+    "id": 230,
     "name": "Silver Edged Axe",
     "common_name": "",
     "type": "axe_2h",
     "quality": "normal",
     "level_type": "elite",
     "max_sockets": 5,
+    "class_specific": null,
     "level_req": 48,
     "str_req": 166,
     "dex_req": 65,
     "durability": 35,
-    "statistics": {}
+    "statistics": {
+      "2h_dmg": {
+        "min": 62,
+        "max": 110
+      },
+      "melee_range": 2,
+      "attack_speed": 0,
+      "qlvl": 65
+    }
   },
   {
-    "id": 28,
+    "id": 231,
     "name": "Decapitator",
     "common_name": "",
     "type": "axe_2h",
     "quality": "normal",
     "level_type": "elite",
     "max_sockets": 5,
+    "class_specific": null,
     "level_req": 54,
     "str_req": 189,
     "dex_req": 33,
     "durability": 40,
-    "statistics": {}
+    "statistics": {
+      "2h_dmg": {
+        "min": 49,
+        "max": 137
+      },
+      "melee_range": 2,
+      "attack_speed": 10,
+      "qlvl": 73
+    }
   },
   {
-    "id": 29,
+    "id": 232,
     "name": "Champion Axe",
     "common_name": "",
     "type": "axe_2h",
     "quality": "normal",
     "level_type": "elite",
     "max_sockets": 6,
+    "class_specific": null,
     "level_req": 61,
-    "str_req": 115,
-    "dex_req": 79,
+    "str_req": 167,
+    "dex_req": 59,
     "durability": 50,
-    "statistics": {}
+    "statistics": {
+      "2h_dmg": {
+        "min": 59,
+        "max": 94
+      },
+      "melee_range": 3,
+      "attack_speed": -10,
+      "qlvl": 82
+    }
   },
   {
-    "id": 30,
+    "id": 233,
     "name": "Glorious Axe",
     "common_name": "",
     "type": "axe_2h",
     "quality": "normal",
     "level_type": "elite",
     "max_sockets": 6,
+    "class_specific": null,
     "level_req": 66,
     "str_req": 164,
     "dex_req": 55,
     "durability": 50,
-    "statistics": {}
+    "statistics": {
+      "2h_dmg": {
+        "min": 60,
+        "max": 124
+      },
+      "melee_range": 4,
+      "attack_speed": 10,
+      "qlvl": 85
+    }
   },
   {
-    "id": 31,
+    "id": 234,
     "name": "Short Bow",
     "common_name": "",
     "type": "bow",
     "quality": "normal",
     "level_type": "normal",
     "max_sockets": 3,
+    "class_specific": null,
     "level_req": null,
     "str_req": null,
     "dex_req": 15,
     "durability": null,
-    "statistics": {}
+    "statistics": {
+      "2h_dmg": {
+        "min": 1,
+        "max": 4
+      },
+      "attack_speed": 5,
+      "qlvl": 1
+    }
   },
   {
-    "id": 32,
+    "id": 235,
     "name": "Hunter's Bow",
     "common_name": "",
     "type": "bow",
     "quality": "normal",
     "level_type": "normal",
     "max_sockets": 4,
+    "class_specific": null,
     "level_req": null,
     "str_req": null,
     "dex_req": 28,
     "durability": null,
-    "statistics": {}
+    "statistics": {
+      "2h_dmg": {
+        "min": 2,
+        "max": 6
+      },
+      "attack_speed": -10,
+      "qlvl": 5
+    }
   },
   {
-    "id": 33,
+    "id": 236,
     "name": "Long Bow",
     "common_name": "",
     "type": "bow",
     "quality": "normal",
     "level_type": "normal",
     "max_sockets": 5,
+    "class_specific": null,
     "level_req": null,
     "str_req": 22,
     "dex_req": 19,
     "durability": null,
-    "statistics": {}
+    "statistics": {
+      "2h_dmg": {
+        "min": 3,
+        "max": 10
+      },
+      "attack_speed": 0,
+      "qlvl": 8
+    }
   },
   {
-    "id": 34,
+    "id": 237,
     "name": "Composite Bow",
     "common_name": "",
     "type": "bow",
     "quality": "normal",
     "level_type": "normal",
     "max_sockets": 4,
+    "class_specific": null,
     "level_req": null,
     "str_req": 25,
     "dex_req": 35,
     "durability": null,
-    "statistics": {}
+    "statistics": {
+      "2h_dmg": {
+        "min": 4,
+        "max": 8
+      },
+      "attack_speed": -10,
+      "qlvl": 12
+    }
   },
   {
-    "id": 35,
+    "id": 238,
     "name": "Short Battle Bow",
     "common_name": "",
     "type": "bow",
     "quality": "normal",
     "level_type": "normal",
     "max_sockets": 5,
+    "class_specific": null,
     "level_req": null,
     "str_req": 30,
     "dex_req": 40,
     "durability": null,
-    "statistics": {}
+    "statistics": {
+      "2h_dmg": {
+        "min": 5,
+        "max": 11
+      },
+      "attack_speed": 0,
+      "qlvl": 18
+    }
   },
   {
-    "id": 36,
+    "id": 239,
     "name": "Long Battle Bow",
     "common_name": "",
     "type": "bow",
     "quality": "normal",
     "level_type": "normal",
     "max_sockets": 6,
+    "class_specific": null,
     "level_req": null,
     "str_req": 40,
     "dex_req": 50,
     "durability": null,
-    "statistics": {}
+    "statistics": {
+      "2h_dmg": {
+        "min": 3,
+        "max": 18
+      },
+      "attack_speed": 10,
+      "qlvl": 23
+    }
   },
   {
-    "id": 37,
+    "id": 240,
     "name": "Short War Bow",
     "common_name": "",
     "type": "bow",
     "quality": "normal",
     "level_type": "normal",
     "max_sockets": 5,
+    "class_specific": null,
     "level_req": null,
     "str_req": 35,
     "dex_req": 55,
     "durability": null,
-    "statistics": {}
+    "statistics": {
+      "2h_dmg": {
+        "min": 6,
+        "max": 14
+      },
+      "attack_speed": 0,
+      "qlvl": 27
+    }
   },
   {
-    "id": 38,
+    "id": 241,
     "name": "Long War Bow",
     "common_name": "",
     "type": "bow",
     "quality": "normal",
     "level_type": "normal",
     "max_sockets": 6,
+    "class_specific": null,
     "level_req": null,
     "str_req": 50,
     "dex_req": 65,
     "durability": null,
-    "statistics": {}
+    "statistics": {
+      "2h_dmg": {
+        "min": 3,
+        "max": 23
+      },
+      "attack_speed": 10,
+      "qlvl": 31
+    }
   },
   {
-    "id": 39,
+    "id": 242,
     "name": "Edge Bow",
     "common_name": "",
     "type": "bow",
     "quality": "normal",
     "level_type": "exceptional",
     "max_sockets": 3,
+    "class_specific": null,
     "level_req": 18,
     "str_req": 25,
     "dex_req": 43,
     "durability": null,
-    "statistics": {}
+    "statistics": {
+      "2h_dmg": {
+        "min": 6,
+        "max": 19
+      },
+      "attack_speed": 5,
+      "qlvl": 30
+    }
   },
   {
-    "id": 40,
+    "id": 243,
     "name": "Razor Bow",
     "common_name": "",
     "type": "bow",
     "quality": "normal",
     "level_type": "exceptional",
     "max_sockets": 4,
+    "class_specific": null,
     "level_req": 21,
     "str_req": 25,
     "dex_req": 62,
     "durability": null,
-    "statistics": {}
+    "statistics": {
+      "2h_dmg": {
+        "min": 8,
+        "max": 22
+      },
+      "attack_speed": -10,
+      "qlvl": 33
+    }
   },
   {
-    "id": 41,
+    "id": 244,
     "name": "Cedar Bow",
     "common_name": "",
     "type": "bow",
     "quality": "normal",
     "level_type": "exceptional",
     "max_sockets": 5,
+    "class_specific": null,
     "level_req": 23,
     "str_req": 53,
     "dex_req": 49,
     "durability": null,
-    "statistics": {}
+    "statistics": {
+      "2h_dmg": {
+        "min": 10,
+        "max": 29
+      },
+      "attack_speed": 0,
+      "qlvl": 35
+    }
   },
   {
-    "id": 42,
+    "id": 245,
     "name": "Double Bow",
     "common_name": "",
     "type": "bow",
     "quality": "normal",
     "level_type": "exceptional",
     "max_sockets": 4,
+    "class_specific": null,
     "level_req": 25,
     "str_req": 58,
     "dex_req": 73,
     "durability": null,
-    "statistics": {}
+    "statistics": {
+      "2h_dmg": {
+        "min": 11,
+        "max": 26
+      },
+      "attack_speed": -10,
+      "qlvl": 39
+    }
   },
   {
-    "id": 43,
+    "id": 246,
     "name": "Short Siege Bow",
     "common_name": "",
     "type": "bow",
     "quality": "normal",
     "level_type": "exceptional",
     "max_sockets": 5,
+    "class_specific": null,
     "level_req": 25,
     "str_req": 65,
     "dex_req": 80,
     "durability": null,
-    "statistics": {}
+    "statistics": {
+      "2h_dmg": {
+        "min": 13,
+        "max": 30
+      },
+      "attack_speed": 0,
+      "qlvl": 43
+    }
   },
   {
-    "id": 44,
+    "id": 247,
     "name": "Large Siege Bow",
     "common_name": "",
     "type": "bow",
     "quality": "normal",
     "level_type": "exceptional",
     "max_sockets": 6,
+    "class_specific": null,
     "level_req": 25,
-    "str_req": 85,
+    "str_req": 80,
     "dex_req": 95,
     "durability": null,
-    "statistics": {}
+    "statistics": {
+      "2h_dmg": {
+        "min": 10,
+        "max": 42
+      },
+      "attack_speed": 10,
+      "qlvl": 46
+    }
   },
   {
-    "id": 45,
+    "id": 248,
     "name": "Rune Bow",
     "common_name": "",
     "type": "bow",
     "quality": "normal",
     "level_type": "exceptional",
     "max_sockets": 5,
+    "class_specific": null,
     "level_req": 25,
     "str_req": 73,
     "dex_req": 103,
     "durability": null,
-    "statistics": {}
+    "statistics": {
+      "2h_dmg": {
+        "min": 14,
+        "max": 35
+      },
+      "attack_speed": 0,
+      "qlvl": 49
+    }
   },
   {
-    "id": 46,
+    "id": 249,
     "name": "Gothic Bow",
     "common_name": "",
     "type": "bow",
     "quality": "normal",
     "level_type": "exceptional",
     "max_sockets": 6,
+    "class_specific": null,
     "level_req": 25,
     "str_req": 95,
     "dex_req": 118,
     "durability": null,
-    "statistics": {}
+    "statistics": {
+      "2h_dmg": {
+        "min": 10,
+        "max": 50
+      },
+      "attack_speed": 10,
+      "qlvl": 52
+    }
   },
   {
-    "id": 47,
+    "id": 250,
     "name": "Spider Bow",
     "common_name": "",
     "type": "bow",
     "quality": "normal",
     "level_type": "elite",
     "max_sockets": 3,
+    "class_specific": null,
     "level_req": 41,
     "str_req": 64,
     "dex_req": 143,
     "durability": null,
-    "statistics": {}
+    "statistics": {
+      "2h_dmg": {
+        "min": 10,
+        "max": 50
+      },
+      "attack_speed": 10,
+      "qlvl": 55
+    }
   },
   {
-    "id": 48,
+    "id": 251,
     "name": "Blade Bow",
     "common_name": "",
     "type": "bow",
     "quality": "normal",
     "level_type": "elite",
     "max_sockets": 4,
+    "class_specific": null,
     "level_req": 45,
     "str_req": 76,
-    "dex_req": 110,
+    "dex_req": 119,
     "durability": null,
-    "statistics": {}
+    "statistics": {
+      "2h_dmg": {
+        "min": 21,
+        "max": 41
+      },
+      "attack_speed": -10,
+      "qlvl": 60
+    }
   },
   {
-    "id": 49,
+    "id": 252,
     "name": "Shadow Bow",
     "common_name": "",
     "type": "bow",
     "quality": "normal",
     "level_type": "elite",
     "max_sockets": 5,
+    "class_specific": null,
     "level_req": 47,
     "str_req": 52,
     "dex_req": 188,
     "durability": null,
-    "statistics": {}
+    "statistics": {
+      "2h_dmg": {
+        "min": 15,
+        "max": 59
+      },
+      "attack_speed": 0,
+      "qlvl": 63
+    }
   },
   {
-    "id": 50,
+    "id": 253,
     "name": "Great Bow",
     "common_name": "",
     "type": "bow",
     "quality": "normal",
     "level_type": "elite",
     "max_sockets": 4,
+    "class_specific": null,
     "level_req": 51,
     "str_req": 121,
     "dex_req": 107,
     "durability": null,
-    "statistics": {}
+    "statistics": {
+      "2h_dmg": {
+        "min": 12,
+        "max": 52
+      },
+      "attack_speed": -10,
+      "qlvl": 68
+    }
   },
   {
-    "id": 51,
+    "id": 254,
     "name": "Diamond Bow",
     "common_name": "",
     "type": "bow",
     "quality": "normal",
     "level_type": "elite",
     "max_sockets": 5,
+    "class_specific": null,
     "level_req": 54,
     "str_req": 89,
     "dex_req": 132,
     "durability": null,
-    "statistics": {}
+    "statistics": {
+      "2h_dmg": {
+        "min": 33,
+        "max": 40
+      },
+      "attack_speed": 0,
+      "qlvl": 72
+    }
   },
   {
-    "id": 52,
+    "id": 255,
     "name": "Crusader Bow",
     "common_name": "",
     "type": "bow",
     "quality": "normal",
     "level_type": "elite",
     "max_sockets": 6,
+    "class_specific": null,
     "level_req": 57,
     "str_req": 97,
     "dex_req": 121,
     "durability": null,
-    "statistics": {}
+    "statistics": {
+      "2h_dmg": {
+        "min": 15,
+        "max": 63
+      },
+      "attack_speed": 10,
+      "qlvl": 77
+    }
   },
   {
-    "id": 53,
+    "id": 256,
     "name": "Ward Bow",
     "common_name": "",
     "type": "bow",
     "quality": "normal",
     "level_type": "elite",
     "max_sockets": 5,
+    "class_specific": null,
     "level_req": 60,
     "str_req": 72,
     "dex_req": 146,
     "durability": null,
-    "statistics": {}
+    "statistics": {
+      "2h_dmg": {
+        "min": 20,
+        "max": 53
+      },
+      "attack_speed": 0,
+      "qlvl": 80
+    }
   },
   {
-    "id": 54,
+    "id": 257,
     "name": "Hydra Bow",
     "common_name": "",
     "type": "bow",
     "quality": "normal",
     "level_type": "elite",
     "max_sockets": 6,
-    "level_req": 25,
+    "class_specific": null,
+    "level_req": 63,
     "str_req": 134,
     "dex_req": 167,
     "durability": null,
-    "statistics": {}
+    "statistics": {
+      "2h_dmg": {
+        "min": 10,
+        "max": 68
+      },
+      "attack_speed": 10,
+      "qlvl": 85
+    }
   },
   {
-    "id": 55,
+    "id": 258,
     "name": "Light Crossbow",
     "common_name": "",
     "type": "crossbow",
     "quality": "normal",
     "level_type": "normal",
     "max_sockets": 3,
+    "class_specific": null,
     "level_req": null,
     "str_req": 21,
     "dex_req": 27,
     "durability": null,
-    "statistics": {}
+    "statistics": {
+      "2h_dmg": {
+        "min": 6,
+        "max": 9
+      },
+      "attack_speed": -10,
+      "qlvl": 6
+    }
   },
   {
-    "id": 56,
+    "id": 259,
     "name": "Crossbow",
     "common_name": "",
     "type": "crossbow",
     "quality": "normal",
     "level_type": "normal",
     "max_sockets": 4,
+    "class_specific": null,
     "level_req": null,
     "str_req": 40,
     "dex_req": 33,
     "durability": null,
-    "statistics": {}
+    "statistics": {
+      "2h_dmg": {
+        "min": 9,
+        "max": 16
+      },
+      "attack_speed": 0,
+      "qlvl": 15
+    }
   },
   {
-    "id": 57,
+    "id": 260,
     "name": "Heavy Crossbow",
     "common_name": "",
     "type": "crossbow",
     "quality": "normal",
     "level_type": "normal",
     "max_sockets": 6,
+    "class_specific": null,
     "level_req": null,
     "str_req": 60,
     "dex_req": 40,
     "durability": null,
-    "statistics": {}
+    "statistics": {
+      "2h_dmg": {
+        "min": 14,
+        "max": 26
+      },
+      "attack_speed": 10,
+      "qlvl": 24
+    }
   },
   {
-    "id": 58,
+    "id": 261,
     "name": "Repeating Crossbow",
     "common_name": "",
     "type": "crossbow",
     "quality": "normal",
     "level_type": "normal",
     "max_sockets": 5,
+    "class_specific": null,
     "level_req": null,
     "str_req": 40,
     "dex_req": 50,
     "durability": null,
-    "statistics": {}
+    "statistics": {
+      "2h_dmg": {
+        "min": 6,
+        "max": 12
+      },
+      "attack_speed": -40,
+      "qlvl": 33
+    }
   },
   {
-    "id": 55,
+    "id": 262,
     "name": "Arbalest",
     "common_name": "",
     "type": "crossbow",
     "quality": "normal",
     "level_type": "exceptional",
     "max_sockets": 3,
+    "class_specific": null,
     "level_req": 25,
     "str_req": 52,
     "dex_req": 61,
     "durability": null,
-    "statistics": {}
+    "statistics": {
+      "2h_dmg": {
+        "min": 14,
+        "max": 27
+      },
+      "attack_speed": -10,
+      "qlvl": 34
+    }
   },
   {
-    "id": 56,
+    "id": 263,
     "name": "Siege Crossbow",
     "common_name": "",
     "type": "crossbow",
     "quality": "normal",
     "level_type": "exceptional",
     "max_sockets": 4,
+    "class_specific": null,
     "level_req": 25,
     "str_req": 80,
     "dex_req": 70,
     "durability": null,
-    "statistics": {}
+    "statistics": {
+      "2h_dmg": {
+        "min": 20,
+        "max": 42
+      },
+      "attack_speed": 0,
+      "qlvl": 40
+    }
   },
   {
-    "id": 57,
-    "name": "Ballista Crossbow",
+    "id": 264,
+    "name": "Ballista",
     "common_name": "",
     "type": "crossbow",
     "quality": "normal",
     "level_type": "exceptional",
     "max_sockets": 6,
+    "class_specific": null,
     "level_req": 25,
     "str_req": 110,
     "dex_req": 80,
     "durability": null,
-    "statistics": {}
+    "statistics": {
+      "2h_dmg": {
+        "min": 35,
+        "max": 55
+      },
+      "attack_speed": 10,
+      "qlvl": 47
+    }
   },
   {
-    "id": 58,
+    "id": 265,
     "name": "Chu-Ko-Nu",
     "common_name": "",
     "type": "crossbow",
     "quality": "normal",
     "level_type": "exceptional",
     "max_sockets": 5,
+    "class_specific": null,
     "level_req": 25,
     "str_req": 80,
     "dex_req": 95,
     "durability": null,
-    "statistics": {}
+    "statistics": {
+      "2h_dmg": {
+        "min": 14,
+        "max": 32
+      },
+      "attack_speed": -60,
+      "qlvl": 54
+    }
   },
   {
-    "id": 55,
+    "id": 266,
     "name": "Pellet Bow",
     "common_name": "",
     "type": "crossbow",
     "quality": "normal",
     "level_type": "elite",
     "max_sockets": 3,
+    "class_specific": null,
     "level_req": 42,
     "str_req": 83,
     "dex_req": 155,
     "durability": null,
-    "statistics": {}
+    "statistics": {
+      "2h_dmg": {
+        "min": 28,
+        "max": 73
+      },
+      "attack_speed": -10,
+      "qlvl": 57
+    }
   },
   {
-    "id": 56,
+    "id": 267,
     "name": "Gorgon Crossbow",
     "common_name": "",
     "type": "crossbow",
     "quality": "normal",
     "level_type": "elite",
     "max_sockets": 4,
+    "class_specific": null,
     "level_req": 50,
     "str_req": 117,
     "dex_req": 105,
     "durability": null,
-    "statistics": {}
+    "statistics": {
+      "2h_dmg": {
+        "min": 25,
+        "max": 87
+      },
+      "attack_speed": 0,
+      "qlvl": 67
+    }
   },
   {
-    "id": 57,
+    "id": 268,
     "name": "Colossus Crossbow",
     "common_name": "",
     "type": "crossbow",
     "quality": "normal",
     "level_type": "elite",
     "max_sockets": 6,
+    "class_specific": null,
     "level_req": 62,
     "str_req": 163,
     "dex_req": 77,
     "durability": null,
-    "statistics": {}
+    "statistics": {
+      "2h_dmg": {
+        "min": 32,
+        "max": 91
+      },
+      "attack_speed": 10,
+      "qlvl": 75
+    }
   },
   {
-    "id": 58,
+    "id": 269,
     "name": "Demon Crossbow",
     "common_name": "demon xbow",
     "type": "crossbow",
     "quality": "normal",
     "level_type": "elite",
     "max_sockets": 5,
+    "class_specific": null,
     "level_req": 68,
     "str_req": 141,
     "dex_req": 98,
     "durability": null,
-    "statistics": {}
+    "statistics": {
+      "2h_dmg": {
+        "min": 26,
+        "max": 40
+      },
+      "attack_speed": -60,
+      "qlvl": 84
+    }
   },
   {
-    "id": 59,
+    "id": 270,
     "name": "Dagger",
     "common_name": "",
     "type": "dagger",
     "quality": "normal",
     "level_type": "normal",
     "max_sockets": 1,
+    "class_specific": null,
     "level_req": null,
     "str_req": null,
     "dex_req": null,
-    "durability": null,
-    "statistics": {}
+    "durability": 16,
+    "statistics": {
+      "1h_dmg": {
+        "min": 1,
+        "max": 4
+      },
+      "melee_range": 1,
+      "attack_speed": -20,
+      "qlvl": 3
+    }
   },
   {
-    "id": 60,
+    "id": 271,
     "name": "Dirk",
     "common_name": "",
     "type": "dagger",
     "quality": "normal",
     "level_type": "normal",
     "max_sockets": 1,
+    "class_specific": null,
     "level_req": null,
     "str_req": null,
     "dex_req": 25,
-    "durability": null,
-    "statistics": {}
+    "durability": 20,
+    "statistics": {
+      "1h_dmg": {
+        "min": 3,
+        "max": 9
+      },
+      "melee_range": 1,
+      "attack_speed": 0,
+      "qlvl": 9
+    }
   },
   {
-    "id": 61,
+    "id": 272,
     "name": "Kris",
     "common_name": "",
     "type": "dagger",
     "quality": "normal",
     "level_type": "normal",
     "max_sockets": 3,
+    "class_specific": null,
     "level_req": null,
     "str_req": null,
     "dex_req": 45,
-    "durability": null,
-    "statistics": {}
+    "durability": 24,
+    "statistics": {
+      "1h_dmg": {
+        "min": 2,
+        "max": 11
+      },
+      "melee_range": 1,
+      "attack_speed": -20,
+      "qlvl": 17
+    }
   },
   {
-    "id": 62,
+    "id": 273,
     "name": "Blade",
     "common_name": "",
     "type": "dagger",
     "quality": "normal",
     "level_type": "normal",
     "max_sockets": 2,
+    "class_specific": null,
     "level_req": null,
     "str_req": 35,
     "dex_req": 51,
-    "durability": null,
-    "statistics": {}
+    "durability": 24,
+    "statistics": {
+      "1h_dmg": {
+        "min": 4,
+        "max": 15
+      },
+      "melee_range": 1,
+      "attack_speed": -10,
+      "qlvl": 23
+    }
   },
   {
-    "id": 63,
+    "id": 274,
     "name": "Poignard",
     "common_name": "",
     "type": "dagger",
     "quality": "normal",
     "level_type": "exceptional",
     "max_sockets": 1,
+    "class_specific": null,
     "level_req": 19,
     "str_req": 25,
     "dex_req": null,
-    "durability": null,
-    "statistics": {}
+    "durability": 16,
+    "statistics": {
+      "1h_dmg": {
+        "min": 6,
+        "max": 18
+      },
+      "melee_range": 1,
+      "attack_speed": -20,
+      "qlvl": 31
+    }
   },
   {
-    "id": 64,
+    "id": 275,
     "name": "Rondel",
     "common_name": "",
     "type": "dagger",
     "quality": "normal",
     "level_type": "exceptional",
     "max_sockets": 1,
+    "class_specific": null,
     "level_req": 24,
     "str_req": 25,
     "dex_req": 58,
-    "durability": null,
-    "statistics": {}
+    "durability": 20,
+    "statistics": {
+      "1h_dmg": {
+        "min": 10,
+        "max": 26
+      },
+      "melee_range": 1,
+      "attack_speed": 0,
+      "qlvl": 36
+    }
   },
   {
-    "id": 65,
+    "id": 276,
     "name": "Cinquedeas",
     "common_name": "",
     "type": "dagger",
     "quality": "normal",
     "level_type": "exceptional",
     "max_sockets": 3,
+    "class_specific": null,
     "level_req": 25,
     "str_req": 25,
     "dex_req": 88,
-    "durability": null,
-    "statistics": {}
+    "durability": 24,
+    "statistics": {
+      "1h_dmg": {
+        "min": 6,
+        "max": 18
+      },
+      "melee_range": 1,
+      "attack_speed": -20,
+      "qlvl": 42
+    }
   },
   {
-    "id": 66,
+    "id": 278,
     "name": "Stiletto",
     "common_name": "",
     "type": "dagger",
     "quality": "normal",
     "level_type": "exceptional",
     "max_sockets": 2,
+    "class_specific": null,
     "level_req": 25,
     "str_req": 73,
     "dex_req": 97,
-    "durability": null,
-    "statistics": {}
+    "durability": 24,
+    "statistics": {
+      "1h_dmg": {
+        "min": 19,
+        "max": 36
+      },
+      "melee_range": 1,
+      "attack_speed": -10,
+      "qlvl": 46
+    }
   },
   {
-    "id": 63,
+    "id": 279,
     "name": "Bone Knife",
     "common_name": "",
     "type": "dagger",
     "quality": "normal",
     "level_type": "elite",
     "max_sockets": 1,
+    "class_specific": null,
     "level_req": 43,
     "str_req": 38,
     "dex_req": 75,
-    "durability": null,
-    "statistics": {}
+    "durability": 26,
+    "statistics": {
+      "1h_dmg": {
+        "min": 23,
+        "max": 49
+      },
+      "melee_range": 1,
+      "attack_speed": -20,
+      "qlvl": 58
+    }
   },
   {
-    "id": 64,
+    "id": 280,
     "name": "Mithril Point",
     "common_name": "",
     "type": "dagger",
     "quality": "normal",
     "level_type": "elite",
     "max_sockets": 1,
+    "class_specific": null,
     "level_req": 52,
     "str_req": 55,
     "dex_req": 98,
-    "durability": null,
-    "statistics": {}
+    "durability": 55,
+    "statistics": {
+      "1h_dmg": {
+        "min": 37,
+        "max": 53
+      },
+      "melee_range": 1,
+      "attack_speed": 0,
+      "qlvl": 70
+    }
   },
   {
-    "id": 65,
+    "id": 281,
     "name": "Fanged Knife",
     "common_name": "",
     "type": "dagger",
     "quality": "normal",
     "level_type": "elite",
     "max_sockets": 3,
+    "class_specific": null,
     "level_req": 59,
     "str_req": 42,
     "dex_req": 86,
-    "durability": null,
-    "statistics": {}
+    "durability": 36,
+    "statistics": {
+      "1h_dmg": {
+        "min": 15,
+        "max": 57
+      },
+      "melee_range": 1,
+      "attack_speed": -20,
+      "qlvl": 83
+    }
   },
   {
-    "id": 66,
+    "id": 282,
     "name": "Legend Spike",
     "common_name": "",
     "type": "dagger",
     "quality": "normal",
     "level_type": "elite",
     "max_sockets": 2,
+    "class_specific": null,
     "level_req": 66,
     "str_req": 65,
     "dex_req": 67,
-    "durability": null,
-    "statistics": {}
+    "durability": 47,
+    "statistics": {
+      "1h_dmg": {
+        "min": 31,
+        "max": 47
+      },
+      "melee_range": 1,
+      "attack_speed": -10,
+      "qlvl": 85
+    }
   },
   {
-    "id": 67,
+    "id": 283,
     "name": "Javelin",
     "common_name": "",
     "type": "javelin",
     "quality": "normal",
     "level_type": "normal",
     "max_sockets": 0,
+    "class_specific": null,
     "level_req": null,
     "str_req": null,
     "dex_req": null,
     "durability": null,
-    "statistics": {}
+    "statistics": {
+      "1h_dmg": {
+        "min": 1,
+        "max": 5
+      },
+      "melee_range": 3,
+      "attack_speed": -10,
+      "qlvl": 1
+    }
   },
   {
-    "id": 68,
+    "id": 284,
     "name": "Pilum",
     "common_name": "",
     "type": "javelin",
     "quality": "normal",
     "level_type": "normal",
     "max_sockets": 0,
+    "class_specific": null,
     "level_req": null,
     "str_req": null,
     "dex_req": 45,
     "durability": null,
-    "statistics": {}
+    "statistics": {
+      "1h_dmg": {
+        "min": 4,
+        "max": 9
+      },
+      "melee_range": 3,
+      "attack_speed": 0,
+      "qlvl": 10
+    }
   },
   {
-    "id": 69,
+    "id": 285,
     "name": "Short Spear",
     "common_name": "",
     "type": "javelin",
     "quality": "normal",
     "level_type": "normal",
     "max_sockets": 0,
+    "class_specific": null,
     "level_req": null,
     "str_req": 40,
     "dex_req": 40,
     "durability": null,
-    "statistics": {}
+    "statistics": {
+      "1h_dmg": {
+        "min": 2,
+        "max": 13
+      },
+      "melee_range": 3,
+      "attack_speed": 10,
+      "qlvl": 15
+    }
   },
   {
-    "id": 70,
+    "id": 286,
     "name": "Glaive",
     "common_name": "",
     "type": "javelin",
     "quality": "normal",
     "level_type": "normal",
     "max_sockets": 0,
+    "class_specific": null,
     "level_req": null,
     "str_req": 52,
     "dex_req": 35,
     "durability": null,
-    "statistics": {}
+    "statistics": {
+      "1h_dmg": {
+        "min": 5,
+        "max": 17
+      },
+      "melee_range": 3,
+      "attack_speed": 20,
+      "qlvl": 23
+    }
   },
   {
-    "id": 71,
+    "id": 287,
     "name": "Throwing Spear",
     "common_name": "",
     "type": "javelin",
     "quality": "normal",
     "level_type": "norma;",
     "max_sockets": 0,
+    "class_specific": null,
     "level_req": null,
     "str_req": null,
     "dex_req": 65,
     "durability": null,
-    "statistics": {}
+    "statistics": {
+      "1h_dmg": {
+        "min": 5,
+        "max": 15
+      },
+      "melee_range": 3,
+      "attack_speed": -10,
+      "qlvl": 29
+    }
   },
   {
-    "id": 72,
+    "id": 288,
     "name": "War Javelin",
     "common_name": "",
     "type": "javelin",
     "quality": "normal",
     "level_type": "exceptional",
     "max_sockets": 0,
+    "class_specific": null,
     "level_req": 18,
     "str_req": 25,
     "dex_req": 25,
     "durability": null,
-    "statistics": {}
+    "statistics": {
+      "1h_dmg": {
+        "min": 6,
+        "max": 19
+      },
+      "melee_range": 3,
+      "attack_speed": -10,
+      "qlvl": 30
+    }
   },
   {
-    "id": 73,
+    "id": 289,
     "name": "Great Pilum",
     "common_name": "",
     "type": "javelin",
     "quality": "normal",
     "level_type": "exceptional",
     "max_sockets": 0,
+    "class_specific": null,
     "level_req": 25,
     "str_req": 25,
     "dex_req": 88,
     "durability": null,
-    "statistics": {}
+    "statistics": {
+      "1h_dmg": {
+        "min": 11,
+        "max": 26
+      },
+      "melee_range": 3,
+      "attack_speed": 10,
+      "qlvl": 37
+    }
   },
   {
-    "id": 74,
+    "id": 290,
     "name": "Simbilan",
     "common_name": "",
     "type": "javelin",
     "quality": "normal",
     "level_type": "exceptional",
     "max_sockets": 0,
+    "class_specific": null,
     "level_req": 25,
     "str_req": 80,
     "dex_req": 80,
     "durability": null,
-    "statistics": {}
+    "statistics": {
+      "1h_dmg": {
+        "min": 8,
+        "max": 32
+      },
+      "melee_range": 3,
+      "attack_speed": 10,
+      "qlvl": 40
+    }
   },
   {
-    "id": 75,
+    "id": 291,
     "name": "Spiculum",
     "common_name": "",
     "type": "javelin",
     "quality": "normal",
     "level_type": "exceptional",
     "max_sockets": 0,
+    "class_specific": null,
     "level_req": 25,
     "str_req": 98,
     "dex_req": 73,
     "durability": null,
-    "statistics": {}
+    "statistics": {
+      "1h_dmg": {
+        "min": 13,
+        "max": 38
+      },
+      "melee_range": 3,
+      "attack_speed": 20,
+      "qlvl": 46
+    }
   },
   {
-    "id": 76,
+    "id": 292,
     "name": "Harpoon",
     "common_name": "",
     "type": "javelin",
     "quality": "normal",
     "level_type": "exceptional",
     "max_sockets": 0,
+    "class_specific": null,
     "level_req": 25,
     "str_req": 25,
     "dex_req": 118,
     "durability": null,
-    "statistics": {}
+    "statistics": {
+      "1h_dmg": {
+        "min": 13,
+        "max": 35
+      },
+      "melee_range": 3,
+      "attack_speed": -10,
+      "qlvl": 51
+    }
   },
   {
-    "id": 77,
+    "id": 293,
     "name": "Hyperion Javelin",
     "common_name": "",
     "type": "javelin",
     "quality": "normal",
     "level_type": "elite",
     "max_sockets": 0,
+    "class_specific": null,
     "level_req": 40,
     "str_req": 98,
     "dex_req": 123,
     "durability": null,
-    "statistics": {}
+    "statistics": {
+      "1h_dmg": {
+        "min": 21,
+        "max": 57
+      },
+      "melee_range": 3,
+      "attack_speed": -10,
+      "qlvl": 54
+    }
   },
   {
-    "id": 78,
+    "id": 294,
     "name": "Stygian Pilum",
     "common_name": "",
     "type": "javelin",
     "quality": "normal",
     "level_type": "elite",
     "max_sockets": 0,
+    "class_specific": null,
     "level_req": 46,
     "str_req": 118,
     "dex_req": 112,
     "durability": null,
-    "statistics": {}
+    "statistics": {
+      "1h_dmg": {
+        "min": 14,
+        "max": 64
+      },
+      "melee_range": 3,
+      "attack_speed": 0,
+      "qlvl": 62
+    }
   },
   {
-    "id": 79,
+    "id": 295,
     "name": "Balrog Spear",
     "common_name": "",
     "type": "javelin",
     "quality": "normal",
     "level_type": "elite",
     "max_sockets": 0,
+    "class_specific": null,
     "level_req": 57,
     "str_req": 127,
     "dex_req": 95,
     "durability": null,
-    "statistics": {}
+    "statistics": {
+      "1h_dmg": {
+        "min": 33,
+        "max": 63
+      },
+      "melee_range": 3,
+      "attack_speed": 10,
+      "qlvl": 71
+    }
   },
   {
-    "id": 80,
+    "id": 296,
     "name": "Ghost Glaive",
     "common_name": "",
     "type": "javelin",
     "quality": "normal",
     "level_type": "elite",
     "max_sockets": 0,
-    "level_req": 62,
+    "class_specific": null,
+    "level_req": 59,
     "str_req": 89,
     "dex_req": 137,
     "durability": null,
-    "statistics": {}
+    "statistics": {
+      "1h_dmg": {
+        "min": 19,
+        "max": 60
+      },
+      "melee_range": 3,
+      "attack_speed": 20,
+      "qlvl": 79
+    }
   },
   {
-    "id": 81,
+    "id": 297,
     "name": "Winged Harpoon",
     "common_name": "",
     "type": "javelin",
     "quality": "normal",
     "level_type": "elite",
     "max_sockets": 0,
+    "class_specific": null,
     "level_req": 65,
     "str_req": 76,
     "dex_req": 145,
     "durability": null,
-    "statistics": {}
+    "statistics": {
+      "1h_dmg": {
+        "min": 27,
+        "max": 35
+      },
+      "melee_range": 3,
+      "attack_speed": -10,
+      "qlvl": 85
+    }
   },
   {
-    "id": 82,
+    "id": 298,
     "name": "Club",
     "common_name": "",
     "type": "club",
     "quality": "normal",
     "level_type": "normal",
     "max_sockets": 2,
+    "class_specific": null,
     "level_req": null,
     "str_req": null,
     "dex_req": null,
     "durability": 24,
-    "statistics": {}
+    "statistics": {
+      "1h_dmg": {
+        "min": 1,
+        "max": 6
+      },
+      "melee_range": 1,
+      "attack_speed": -10,
+      "qlvl": 1
+    }
   },
   {
-    "id": 83,
+    "id": 299,
     "name": "Spiked Club",
     "common_name": "",
     "type": "club",
     "quality": "normal",
     "level_type": "normal",
     "max_sockets": 2,
+    "class_specific": null,
     "level_req": null,
     "str_req": null,
     "dex_req": null,
     "durability": 36,
-    "statistics": {}
+    "statistics": {
+      "1h_dmg": {
+        "min": 5,
+        "max": 8
+      },
+      "melee_range": 2,
+      "attack_speed": 0,
+      "qlvl": 4
+    }
   },
   {
-    "id": 84,
+    "id": 300,
     "name": "Mace",
     "common_name": "",
     "type": "mace",
     "quality": "normal",
     "level_type": "normal",
     "max_sockets": 2,
+    "class_specific": null,
     "level_req": null,
     "str_req": 27,
     "dex_req": null,
     "durability": 60,
-    "statistics": {}
+    "statistics": {
+      "1h_dmg": {
+        "min": 3,
+        "max": 10
+      },
+      "melee_range": 1,
+      "attack_speed": 0,
+      "qlvl": 8
+    }
   },
   {
-    "id": 85,
+    "id": 301,
     "name": "Morning Star",
     "common_name": "",
     "type": "mace",
     "quality": "normal",
     "level_type": "normal",
-    "max_sockets": 2,
+    "max_sockets": 3,
+    "class_specific": null,
     "level_req": null,
     "str_req": 36,
     "dex_req": null,
     "durability": 72,
-    "statistics": {}
+    "statistics": {
+      "1h_dmg": {
+        "min": 7,
+        "max": 16
+      },
+      "melee_range": 2,
+      "attack_speed": 10,
+      "qlvl": 13
+    }
   },
   {
-    "id": 86,
+    "id": 302,
     "name": "Flail",
     "common_name": "",
     "type": "mace",
     "quality": "normal",
     "level_type": "normal",
     "max_sockets": 5,
+    "class_specific": null,
     "level_req": null,
     "str_req": 41,
     "dex_req": 35,
     "durability": 30,
-    "statistics": {}
+    "statistics": {
+      "1h_dmg": {
+        "min": 1,
+        "max": 24
+      },
+      "melee_range": 3,
+      "attack_speed": -10,
+      "qlvl": 19
+    }
   },
   {
-    "id": 87,
+    "id": 303,
     "name": "War Hammer",
     "common_name": "",
-    "type": "mace",
+    "type": "hammer",
     "quality": "normal",
     "level_type": "normal",
     "max_sockets": 4,
+    "class_specific": null,
     "level_req": null,
     "str_req": 53,
     "dex_req": null,
     "durability": 55,
-    "statistics": {}
+    "statistics": {
+      "1h_dmg": {
+        "min": 19,
+        "max": 29
+      },
+      "melee_range": 1,
+      "attack_speed": 20,
+      "qlvl": 25
+    }
   },
   {
-    "id": 88,
+    "id": 304,
     "name": "Maul",
     "common_name": "",
     "type": "maul",
     "quality": "normal",
     "level_type": "normal",
     "max_sockets": 6,
+    "class_specific": null,
     "level_req": null,
     "str_req": 69,
     "dex_req": null,
     "durability": 60,
-    "statistics": {}
+    "statistics": {
+      "2h_dmg": {
+        "min": 30,
+        "max": 43
+      },
+      "melee_range": 2,
+      "attack_speed": 10,
+      "qlvl": 21
+    }
   },
   {
-    "id": 89,
+    "id": 305,
     "name": "Great Maul",
     "common_name": "",
     "type": "maul",
     "quality": "normal",
     "level_type": "normal",
     "max_sockets": 6,
+    "class_specific": null,
     "level_req": null,
     "str_req": 99,
     "dex_req": null,
     "durability": 60,
-    "statistics": {}
+    "statistics": {
+      "2h_dmg": {
+        "min": 38,
+        "max": 58
+      },
+      "melee_range": 3,
+      "attack_speed": 20,
+      "qlvl": 32
+    }
   },
   {
-    "id": 90,
+    "id": 306,
     "name": "Cudgel",
     "common_name": "",
     "type": "club",
     "quality": "normal",
     "level_type": "exceptional",
     "max_sockets": 2,
+    "class_specific": null,
     "level_req": 18,
     "str_req": 25,
     "dex_req": null,
     "durability": 24,
-    "statistics": {}
+    "statistics": {
+      "1h_dmg": {
+        "min": 6,
+        "max": 21
+      },
+      "melee_range": 1,
+      "attack_speed": -10,
+      "qlvl": 30
+    }
   },
   {
-    "id": 83,
+    "id": 307,
     "name": "Barbed Club",
     "common_name": "",
     "type": "club",
     "quality": "normal",
     "level_type": "exceptional",
-    "max_sockets": 2,
-    "level_req": null,
-    "str_req": null,
+    "max_sockets": 3,
+    "class_specific": null,
+    "level_req": 20,
+    "str_req": 30,
     "dex_req": null,
-    "durability": 24,
-    "statistics": {}
+    "durability": 36,
+    "statistics": {
+      "1h_dmg": {
+        "min": 13,
+        "max": 25
+      },
+      "melee_range": 2,
+      "attack_speed": 0,
+      "qlvl": 32
+    }
   },
   {
-    "id": 84,
+    "id": 308,
     "name": "Flanged Mace",
     "common_name": "",
     "type": "mace",
     "quality": "normal",
     "level_type": "exceptional",
     "max_sockets": 2,
-    "level_req": null,
-    "str_req": 36,
+    "class_specific": null,
+    "level_req": 23,
+    "str_req": 61,
     "dex_req": null,
-    "durability": 72,
-    "statistics": {}
+    "durability": 60,
+    "statistics": {
+      "1h_dmg": {
+        "min": 15,
+        "max": 23
+      },
+      "melee_range": 1,
+      "attack_speed": 0,
+      "qlvl": 35
+    }
   },
   {
-    "id": 83,
+    "id": 309,
     "name": "Jagged Star",
     "common_name": "",
     "type": "mace",
     "quality": "normal",
     "level_type": "exceptional",
-    "max_sockets": 2,
-    "level_req": null,
-    "str_req": 36,
+    "max_sockets": 3,
+    "class_specific": null,
+    "level_req": 25,
+    "str_req": 74,
     "dex_req": null,
     "durability": 72,
-    "statistics": {}
+    "statistics": {
+      "1h_dmg": {
+        "min": 20,
+        "max": 31
+      },
+      "melee_range": 2,
+      "attack_speed": 10,
+      "qlvl": 39
+    }
   },
   {
-    "id": 83,
+    "id": 310,
     "name": "Knout",
     "common_name": "",
     "type": "mace",
     "quality": "normal",
     "level_type": "exceptional",
-    "max_sockets": 2,
-    "level_req": null,
-    "str_req": 36,
-    "dex_req": null,
-    "durability": 72,
-    "statistics": {}
+    "max_sockets": 5,
+    "class_specific": null,
+    "level_req": 25,
+    "str_req": 82,
+    "dex_req": 73,
+    "durability": 30,
+    "statistics": {
+      "1h_dmg": {
+        "min": 13,
+        "max": 35
+      },
+      "melee_range": 3,
+      "attack_speed": -10,
+      "qlvl": 43
+    }
   },
   {
-    "id": 83,
+    "id": 311,
     "name": "Battle Hammer",
     "common_name": "",
-    "type": "mace",
+    "type": "hammer",
     "quality": "normal",
     "level_type": "exceptional",
-    "max_sockets": 2,
-    "level_req": null,
-    "str_req": 36,
+    "max_sockets": 4,
+    "class_specific": null,
+    "level_req": 25,
+    "str_req": 100,
     "dex_req": null,
-    "durability": 72,
-    "statistics": {}
+    "durability": 55,
+    "statistics": {
+      "1h_dmg": {
+        "min": 35,
+        "max": 58
+      },
+      "melee_range": 1,
+      "attack_speed": 20,
+      "qlvl": 48
+    }
   },
   {
-    "id": 83,
+    "id": 312,
     "name": "War Club",
     "common_name": "",
     "type": "maul",
     "quality": "normal",
     "level_type": "exceptional",
-    "max_sockets": 2,
-    "level_req": null,
-    "str_req": 36,
+    "max_sockets": 6,
+    "class_specific": null,
+    "level_req": 25,
+    "str_req": 124,
     "dex_req": null,
-    "durability": 72,
-    "statistics": {}
+    "durability": 60,
+    "statistics": {
+      "2h_dmg": {
+        "min": 53,
+        "max": 78
+      },
+      "melee_range": 2,
+      "attack_speed": 10,
+      "qlvl": 45
+    }
   },
   {
-    "id": 83,
+    "id": 313,
     "name": "Martel de Fer",
     "common_name": "",
     "type": "maul",
     "quality": "normal",
     "level_type": "exceptional",
-    "max_sockets": 2,
-    "level_req": null,
-    "str_req": 36,
+    "max_sockets": 6,
+    "class_specific": null,
+    "level_req": 25,
+    "str_req": 169,
     "dex_req": null,
-    "durability": 72,
-    "statistics": {}
+    "durability": 60,
+    "statistics": {
+      "2h_dmg": {
+        "min": 61,
+        "max": 99
+      },
+      "melee_range": 3,
+      "attack_speed": 20,
+      "qlvl": 53
+    }
   },
   {
-    "id": 82,
+    "id": 314,
     "name": "Truncheon",
     "common_name": "",
     "type": "club",
     "quality": "normal",
     "level_type": "elite",
     "max_sockets": 2,
-    "level_req": null,
-    "str_req": 27,
-    "dex_req": null,
-    "durability": 60,
-    "statistics": {}
+    "class_specific": null,
+    "level_req": 39,
+    "str_req": 88,
+    "dex_req": 43,
+    "durability": 55,
+    "statistics": {
+      "1h_dmg": {
+        "min": 35,
+        "max": 43
+      },
+      "melee_range": 1,
+      "attack_speed": -10,
+      "qlvl": 52
+    }
   },
   {
-    "id": 83,
+    "id": 315,
     "name": "Tyrant Club",
     "common_name": "",
     "type": "club",
     "quality": "normal",
     "level_type": "elite",
-    "max_sockets": 2,
-    "level_req": null,
-    "str_req": null,
+    "max_sockets": 3,
+    "class_specific": null,
+    "level_req": 42,
+    "str_req": 133,
     "dex_req": null,
-    "durability": 24,
-    "statistics": {}
+    "durability": 65,
+    "statistics": {
+      "1h_dmg": {
+        "min": 32,
+        "max": 58
+      },
+      "melee_range": 2,
+      "attack_speed": 0,
+      "qlvl": 57
+    }
   },
   {
-    "id": 84,
+    "id": 316,
     "name": "Reinforced Mace",
     "common_name": "",
     "type": "mace",
     "quality": "normal",
     "level_type": "elite",
     "max_sockets": 2,
-    "level_req": null,
-    "str_req": 36,
-    "dex_req": null,
-    "durability": 72,
-    "statistics": {}
+    "class_specific": null,
+    "level_req": 47,
+    "str_req": 145,
+    "dex_req": 46,
+    "durability": 60,
+    "statistics": {
+      "1h_dmg": {
+        "min": 41,
+        "max": 49
+      },
+      "melee_range": 1,
+      "attack_speed": 0,
+      "qlvl": 63
+    }
   },
   {
-    "id": 83,
+    "id": 317,
     "name": "Devil Star",
     "common_name": "",
     "type": "mace",
     "quality": "normal",
     "level_type": "elite",
-    "max_sockets": 2,
-    "level_req": null,
-    "str_req": 36,
-    "dex_req": null,
+    "max_sockets": 3,
+    "class_specific": null,
+    "level_req": 52,
+    "str_req": 153,
+    "dex_req": 44,
     "durability": 72,
-    "statistics": {}
+    "statistics": {
+      "1h_dmg": {
+        "min": 43,
+        "max": 53
+      },
+      "melee_range": 2,
+      "attack_speed": 10,
+      "qlvl": 70
+    }
   },
   {
-    "id": 83,
+    "id": 318,
     "name": "Scourge",
     "common_name": "",
     "type": "mace",
     "quality": "normal",
     "level_type": "elite",
-    "max_sockets": 2,
-    "level_req": null,
-    "str_req": 36,
-    "dex_req": null,
-    "durability": 72,
-    "statistics": {}
+    "max_sockets": 5,
+    "class_specific": null,
+    "level_req": 57,
+    "str_req": 125,
+    "dex_req": 77,
+    "durability": 65,
+    "statistics": {
+      "1h_dmg": {
+        "min": 3,
+        "max": 80
+      },
+      "melee_range": 3,
+      "attack_speed": -10,
+      "qlvl": 76
+    }
   },
   {
-    "id": 83,
+    "id": 319,
     "name": "Legendary Mallet",
     "common_name": "",
-    "type": "mace",
+    "type": "hammer",
     "quality": "normal",
     "level_type": "elite",
-    "max_sockets": 2,
-    "level_req": null,
-    "str_req": 36,
+    "max_sockets": 4,
+    "class_specific": null,
+    "level_req": 61,
+    "str_req": 189,
     "dex_req": null,
-    "durability": 72,
-    "statistics": {}
+    "durability": 65,
+    "statistics": {
+      "1h_dmg": {
+        "min": 50,
+        "max": 61
+      },
+      "melee_range": 1,
+      "attack_speed": 20,
+      "qlvl": 82
+    }
   },
   {
-    "id": 83,
+    "id": 320,
     "name": "Ogre Maul",
     "common_name": "",
     "type": "maul",
     "quality": "normal",
     "level_type": "elite",
     "max_sockets": 2,
+    "class_specific": null,
     "level_req": null,
-    "str_req": 36,
+    "str_req": 225,
     "dex_req": null,
-    "durability": 72,
-    "statistics": {}
+    "durability": 60,
+    "statistics": {
+      "2h_dmg": {
+        "min": 77,
+        "max": 106
+      },
+      "melee_range": 2,
+      "attack_speed": 10,
+      "qlvl": 69
+    }
   },
   {
-    "id": 83,
+    "id": 321,
     "name": "Thunder Maul",
     "common_name": "",
     "type": "maul",
     "quality": "normal",
     "level_type": "elite",
-    "max_sockets": 2,
-    "level_req": null,
-    "str_req": 36,
+    "max_sockets": 6,
+    "class_specific": null,
+    "level_req": 65,
+    "str_req": 253,
     "dex_req": null,
-    "durability": 72,
-    "statistics": {}
+    "durability": 60,
+    "statistics": {
+      "2h_dmg": {
+        "min": 33,
+        "max": 180
+      },
+      "melee_range": 3,
+      "attack_speed": 20,
+      "qlvl": 85
+    }
   },
   {
-    "id": 83,
+    "id": 322,
     "name": "Bardiche",
     "common_name": "",
     "type": "polearm",
     "quality": "normal",
     "level_type": "normal",
     "max_sockets": 3,
+    "class_specific": null,
     "level_req": null,
     "str_req": 40,
     "dex_req": null,
     "durability": 50,
-    "statistics": {}
+    "statistics": {
+      "2h_dmg": {
+        "min": 1,
+        "max": 27
+      },
+      "melee_range": 3,
+      "attack_speed": 10,
+      "qlvl": 5
+    }
   },
   {
-    "id": 83,
+    "id": 323,
     "name": "Voulge",
     "common_name": "",
     "type": "polearm",
     "quality": "normal",
     "level_type": "normal",
     "max_sockets": 4,
+    "class_specific": null,
     "level_req": null,
     "str_req": 40,
     "dex_req": null,
     "durability": 50,
-    "statistics": {}
+    "statistics": {
+      "2h_dmg": {
+        "min": 6,
+        "max": 21
+      },
+      "melee_range": 3,
+      "attack_speed": 0,
+      "qlvl": 11
+    }
   },
   {
-    "id": 83,
+    "id": 324,
     "name": "Scythe",
     "common_name": "",
     "type": "polearm",
     "quality": "normal",
     "level_type": "normal",
     "max_sockets": 5,
+    "class_specific": null,
     "level_req": null,
-    "str_req": 40,
-    "dex_req": null,
-    "durability": 50,
-    "statistics": {}
+    "str_req": 41,
+    "dex_req": 41,
+    "durability": 65,
+    "statistics": {
+      "2h_dmg": {
+        "min": 8,
+        "max": 20
+      },
+      "melee_range": 2,
+      "attack_speed": -10,
+      "qlvl": 15
+    }
   },
   {
-    "id": 83,
+    "id": 325,
     "name": "Poleaxe",
     "common_name": "",
     "type": "polearm",
     "quality": "normal",
     "level_type": "normal",
     "max_sockets": 5,
+    "class_specific": null,
     "level_req": null,
-    "str_req": 40,
+    "str_req": 62,
     "dex_req": null,
-    "durability": 50,
-    "statistics": {}
+    "durability": 65,
+    "statistics": {
+      "2h_dmg": {
+        "min": 18,
+        "max": 39
+      },
+      "melee_range": 4,
+      "attack_speed": 10,
+      "qlvl": 21
+    }
   },
   {
-    "id": 83,
+    "id": 326,
     "name": "Halberd",
     "common_name": "",
     "type": "polearm",
     "quality": "normal",
     "level_type": "normal",
     "max_sockets": 6,
+    "class_specific": null,
     "level_req": null,
-    "str_req": 40,
-    "dex_req": null,
-    "durability": 50,
-    "statistics": {}
+    "str_req": 75,
+    "dex_req": 47,
+    "durability": 55,
+    "statistics": {
+      "2h_dmg": {
+        "min": 12,
+        "max": 45
+      },
+      "melee_range": 5,
+      "attack_speed": 0,
+      "qlvl": 29
+    }
   },
   {
-    "id": 83,
+    "id": 327,
     "name": "War Scythe",
     "common_name": "",
     "type": "polearm",
     "quality": "normal",
     "level_type": "normal",
     "max_sockets": 6,
+    "class_specific": null,
     "level_req": null,
-    "str_req": 40,
-    "dex_req": null,
-    "durability": 50,
-    "statistics": {}
+    "str_req": 80,
+    "dex_req": 80,
+    "durability": 55,
+    "statistics": {
+      "2h_dmg": {
+        "min": 15,
+        "max": 36
+      },
+      "melee_range": 5,
+      "attack_speed": -10,
+      "qlvl": 34
+    }
   },
   {
-    "id": 83,
+    "id": 328,
     "name": "Lochaber Axe",
     "common_name": "",
     "type": "polearm",
     "quality": "normal",
     "level_type": "exceptional",
     "max_sockets": 3,
-    "level_req": null,
-    "str_req": 40,
+    "class_specific": null,
+    "level_req": 21,
+    "str_req": 80,
     "dex_req": null,
     "durability": 50,
-    "statistics": {}
+    "statistics": {
+      "2h_dmg": {
+        "min": 6,
+        "max": 58
+      },
+      "melee_range": 3,
+      "attack_speed": 10,
+      "qlvl": 33
+    }
   },
   {
-    "id": 83,
+    "id": 329,
     "name": "Bill",
     "common_name": "",
     "type": "polearm",
     "quality": "normal",
     "level_type": "exceptional",
     "max_sockets": 4,
-    "level_req": null,
-    "str_req": 40,
+    "class_specific": null,
+    "level_req": 25,
+    "str_req": 95,
     "dex_req": null,
     "durability": 50,
-    "statistics": {}
+    "statistics": {
+      "2h_dmg": {
+        "min": 14,
+        "max": 53
+      },
+      "melee_range": 3,
+      "attack_speed": 0,
+      "qlvl": 37
+    }
   },
   {
-    "id": 83,
+    "id": 330,
     "name": "Battle Scythe",
     "common_name": "",
     "type": "polearm",
     "quality": "normal",
     "level_type": "exceptional",
     "max_sockets": 5,
-    "level_req": null,
-    "str_req": 40,
-    "dex_req": null,
-    "durability": 50,
-    "statistics": {}
+    "class_specific": null,
+    "level_req": 25,
+    "str_req": 82,
+    "dex_req": 82,
+    "durability": 65,
+    "statistics": {
+      "2h_dmg": {
+        "min": 18,
+        "max": 45
+      },
+      "melee_range": 2,
+      "attack_speed": -10,
+      "qlvl": 40
+    }
   },
   {
-    "id": 83,
+    "id": 331,
     "name": "Partizan",
     "common_name": "",
     "type": "polearm",
     "quality": "normal",
     "level_type": "exceptional",
     "max_sockets": 5,
-    "level_req": null,
-    "str_req": 40,
-    "dex_req": null,
-    "durability": 50,
-    "statistics": {}
+    "class_specific": null,
+    "level_req": 25,
+    "str_req": 113,
+    "dex_req": 67,
+    "durability": 65,
+    "statistics": {
+      "2h_dmg": {
+        "min": 34,
+        "max": 75
+      },
+      "melee_range": 4,
+      "attack_speed": 10,
+      "qlvl": 35
+    }
   },
   {
-    "id": 83,
+    "id": 332,
     "name": "Bec-De-Corbin",
     "common_name": "",
     "type": "polearm",
     "quality": "normal",
     "level_type": "exceptional",
     "max_sockets": 6,
-    "level_req": null,
-    "str_req": 40,
-    "dex_req": null,
-    "durability": 50,
-    "statistics": {}
+    "class_specific": null,
+    "level_req": 25,
+    "str_req": 133,
+    "dex_req": 91,
+    "durability": 55,
+    "statistics": {
+      "2h_dmg": {
+        "min": 13,
+        "max": 85
+      },
+      "melee_range": 5,
+      "attack_speed": 0,
+      "qlvl": 51
+    }
   },
   {
-    "id": 83,
+    "id": 333,
     "name": "Grim Scythe",
     "common_name": "",
     "type": "polearm",
     "quality": "normal",
     "level_type": "exceptional",
     "max_sockets": 6,
-    "level_req": null,
-    "str_req": 40,
-    "dex_req": null,
-    "durability": 50,
-    "statistics": {}
+    "class_specific": null,
+    "level_req": 25,
+    "str_req": 140,
+    "dex_req": 140,
+    "durability": 55,
+    "statistics": {
+      "2h_dmg": {
+        "min": 30,
+        "max": 70
+      },
+      "melee_range": 5,
+      "attack_speed": -10,
+      "qlvl": 55
+    }
   },
   {
-    "id": 83,
+    "id": 334,
     "name": "Ogre Axe",
     "common_name": "",
     "type": "polearm",
     "quality": "normal",
     "level_type": "elite",
     "max_sockets": 3,
-    "level_req": null,
-    "str_req": 40,
-    "dex_req": null,
+    "class_specific": null,
+    "level_req": 45,
+    "str_req": 195,
+    "dex_req": 75,
     "durability": 50,
-    "statistics": {}
+    "statistics": {
+      "2h_dmg": {
+        "min": 28,
+        "max": 145
+      },
+      "melee_range": 3,
+      "attack_speed": 0,
+      "qlvl": 60
+    }
   },
   {
-    "id": 83,
+    "id": 335,
     "name": "Colossus Voulge",
     "common_name": "",
     "type": "polearm",
     "quality": "normal",
     "level_type": "elite",
     "max_sockets": 4,
-    "level_req": null,
-    "str_req": 40,
-    "dex_req": null,
+    "class_specific": null,
+    "level_req": 48,
+    "str_req": 210,
+    "dex_req": 55,
     "durability": 50,
-    "statistics": {}
+    "statistics": {
+      "2h_dmg": {
+        "min": 17,
+        "max": 165
+      },
+      "melee_range": 3,
+      "attack_speed": 10,
+      "qlvl": 64
+    }
   },
   {
-    "id": 83,
+    "id": 336,
     "name": "Thresher",
     "common_name": "",
     "type": "polearm",
     "quality": "normal",
     "level_type": "elite",
     "max_sockets": 5,
-    "level_req": null,
-    "str_req": 40,
-    "dex_req": null,
+    "class_specific": null,
+    "level_req": 53,
+    "str_req": 152,
+    "dex_req": 118,
     "durability": 50,
-    "statistics": {}
+    "statistics": {
+      "2h_dmg": {
+        "min": 12,
+        "max": 141
+      },
+      "melee_range": 2,
+      "attack_speed": -10,
+      "qlvl": 71
+    }
   },
   {
-    "id": 83,
+    "id": 337,
     "name": "Cryptic Axe",
     "common_name": "",
     "type": "polearm",
     "quality": "normal",
     "level_type": "elite",
     "max_sockets": 5,
-    "level_req": null,
-    "str_req": 40,
-    "dex_req": null,
-    "durability": 50,
-    "statistics": {}
+    "class_specific": null,
+    "level_req": 59,
+    "str_req": 165,
+    "dex_req": 103,
+    "durability": 65,
+    "statistics": {
+      "2h_dmg": {
+        "min": 33,
+        "max": 150
+      },
+      "melee_range": 4,
+      "attack_speed": 10,
+      "qlvl": 79
+    }
   },
   {
-    "id": 83,
+    "id": 338,
     "name": "Great Poleaxe",
     "common_name": "",
     "type": "polearm",
     "quality": "normal",
     "level_type": "elite",
     "max_sockets": 6,
-    "level_req": null,
-    "str_req": 40,
-    "dex_req": null,
-    "durability": 50,
-    "statistics": {}
+    "class_specific": null,
+    "level_req": 63,
+    "str_req": 179,
+    "dex_req": 99,
+    "durability": 55,
+    "statistics": {
+      "2h_dmg": {
+        "min": 46,
+        "max": 127
+      },
+      "melee_range": 5,
+      "attack_speed": 0,
+      "qlvl": 84
+    }
   },
   {
-    "id": 83,
+    "id": 339,
     "name": "Giant Thresher",
     "common_name": "",
     "type": "polearm",
     "quality": "normal",
     "level_type": "elite",
     "max_sockets": 6,
-    "level_req": null,
-    "str_req": 40,
-    "dex_req": null,
+    "class_specific": null,
+    "level_req": 66,
+    "str_req": 188,
+    "dex_req": 140,
     "durability": 50,
-    "statistics": {}
+    "statistics": {
+      "2h_dmg": {
+        "min": 40,
+        "max": 114
+      },
+      "melee_range": 5,
+      "attack_speed": -10,
+      "qlvl": 85
+    }
   },
   {
-    "id": 83,
+    "id": 340,
     "name": "Scepter",
     "common_name": "",
     "type": "scepter",
     "quality": "normal",
     "level_type": "normal",
     "max_sockets": 2,
+    "class_specific": null,
     "level_req": null,
     "str_req": 25,
     "dex_req": null,
     "durability": 50,
-    "statistics": {}
+    "statistics": {
+      "dmg_to_undead": 50,
+      "1h_dmg": {
+        "min": 6,
+        "max": 11
+      },
+      "melee_range": 1,
+      "attack_speed": 0,
+      "qlvl": 3
+    }
   },
   {
-    "id": 83,
+    "id": 341,
     "name": "Grand Scepter",
     "common_name": "",
     "type": "scepter",
     "quality": "normal",
     "level_type": "normal",
-    "max_sockets": 2,
+    "max_sockets": 3,
+    "class_specific": null,
     "level_req": null,
-    "str_req": 25,
+    "str_req": 37,
     "dex_req": null,
-    "durability": 50,
-    "statistics": {}
+    "durability": 60,
+    "statistics": {
+      "dmg_to_undead": 50,
+      "1h_dmg": {
+        "min": 8,
+        "max": 18
+      },
+      "melee_range": 2,
+      "attack_speed": 10,
+      "qlvl": 15
+    }
   },
   {
-    "id": 83,
+    "id": 342,
     "name": "War Scepter",
     "common_name": "",
     "type": "scepter",
     "quality": "normal",
     "level_type": "normal",
-    "max_sockets": 2,
+    "max_sockets": 5,
+    "class_specific": null,
     "level_req": null,
-    "str_req": 25,
+    "str_req": 55,
     "dex_req": null,
-    "durability": 50,
-    "statistics": {}
+    "durability": 70,
+    "statistics": {
+      "dmg_to_undead": 50,
+      "1h_dmg": {
+        "min": 10,
+        "max": 17
+      },
+      "melee_range": 2,
+      "attack_speed": -10,
+      "qlvl": 21
+    }
   },
   {
-    "id": 83,
+    "id": 343,
     "name": "Rune Scepter",
     "common_name": "",
     "type": "scepter",
     "quality": "normal",
     "level_type": "exceptional",
     "max_sockets": 2,
-    "level_req": null,
-    "str_req": 25,
+    "class_specific": null,
+    "level_req": 19,
+    "str_req": 58,
     "dex_req": null,
     "durability": 50,
-    "statistics": {}
+    "statistics": {
+      "dmg_to_undead": 50,
+      "1h_dmg": {
+        "min": 13,
+        "max": 24
+      },
+      "melee_range": 1,
+      "attack_speed": 0,
+      "qlvl": 31
+    }
   },
   {
-    "id": 83,
+    "id": 344,
     "name": "Holy Water Sprinkler",
     "common_name": "",
     "type": "scepter",
     "quality": "normal",
     "level_type": "exceptional",
-    "max_sockets": 2,
-    "level_req": null,
-    "str_req": 25,
+    "max_sockets": 3,
+    "class_specific": null,
+    "level_req": 25,
+    "str_req": 76,
     "dex_req": null,
-    "durability": 50,
-    "statistics": {}
+    "durability": 60,
+    "statistics": {
+      "dmg_to_undead": 50,
+      "1h_dmg": {
+        "min": 14,
+        "max": 36
+      },
+      "melee_range": 2,
+      "attack_speed": 10,
+      "qlvl": 40
+    }
   },
   {
-    "id": 83,
+    "id": 345,
     "name": "Divine Scepter",
     "common_name": "",
     "type": "scepter",
     "quality": "normal",
     "level_type": "exceptional",
-    "max_sockets": 2,
-    "level_req": null,
-    "str_req": 25,
+    "max_sockets": 5,
+    "class_specific": null,
+    "level_req": 25,
+    "str_req": 103,
     "dex_req": null,
-    "durability": 50,
-    "statistics": {}
+    "durability": 70,
+    "statistics": {
+      "dmg_to_undead": 50,
+      "1h_dmg": {
+        "min": 16,
+        "max": 38
+      },
+      "melee_range": 2,
+      "attack_speed": -10,
+      "qlvl": 45
+    }
   },
   {
-    "id": 83,
+    "id": 346,
     "name": "Mighty Scepter",
     "common_name": "",
     "type": "scepter",
     "quality": "normal",
     "level_type": "elite",
     "max_sockets": 2,
-    "level_req": null,
-    "str_req": 25,
-    "dex_req": null,
+    "class_specific": null,
+    "level_req": 46,
+    "str_req": 125,
+    "dex_req": 65,
     "durability": 50,
-    "statistics": {}
+    "statistics": {
+      "dmg_to_undead": 50,
+      "1h_dmg": {
+        "min": 40,
+        "max": 52
+      },
+      "melee_range": 1,
+      "attack_speed": 0,
+      "qlvl": 62
+    }
   },
   {
-    "id": 83,
+    "id": 347,
     "name": "Seraph Rod",
     "common_name": "",
     "type": "scepter",
     "quality": "normal",
     "level_type": "elite",
-    "max_sockets": 2,
-    "level_req": null,
-    "str_req": 25,
-    "dex_req": null,
-    "durability": 50,
-    "statistics": {}
+    "max_sockets": 3,
+    "class_specific": null,
+    "level_req": 57,
+    "str_req": 108,
+    "dex_req": 69,
+    "durability": 60,
+    "statistics": {
+      "dmg_to_undead": 50,
+      "1h_dmg": {
+        "min": 45,
+        "max": 54
+      },
+      "melee_range": 2,
+      "attack_speed": 10,
+      "qlvl": 76
+    }
   },
   {
-    "id": 83,
+    "id": 348,
     "name": "Caduceus",
-    "common_name": "",
+    "common_name": "caddy",
     "type": "scepter",
     "quality": "normal",
     "level_type": "elite",
-    "max_sockets": 2,
-    "level_req": null,
-    "str_req": 25,
-    "dex_req": null,
-    "durability": 50,
-    "statistics": {}
+    "max_sockets": 5,
+    "class_specific": null,
+    "level_req": 66,
+    "str_req": 97,
+    "dex_req": 70,
+    "durability": 70,
+    "statistics": {
+      "dmg_to_undead": 50,
+      "1h_dmg": {
+        "min": 37,
+        "max": 43
+      },
+      "melee_range": 2,
+      "attack_speed": -10,
+      "qlvl": 85
+    }
   },
   {
-    "id": 83,
+    "id": 349,
     "name": "Spear",
     "common_name": "",
     "type": "spear",
     "quality": "normal",
     "level_type": "normal",
     "max_sockets": 3,
+    "class_specific": null,
     "level_req": null,
     "str_req": null,
     "dex_req": null,
     "durability": 30,
-    "statistics": {}
+    "statistics": {
+      "2h_dmg": {
+        "min": 3,
+        "max": 15
+      },
+      "melee_range": 4,
+      "attack_speed": -10,
+      "qlvl": 5
+    }
   },
   {
-    "id": 83,
+    "id": 350,
     "name": "Trident",
     "common_name": "",
     "type": "spear",
     "quality": "normal",
     "level_type": "normal",
-    "max_sockets": 3,
+    "max_sockets": 4,
+    "class_specific": null,
     "level_req": null,
-    "str_req": null,
-    "dex_req": null,
-    "durability": 30,
-    "statistics": {}
+    "str_req": 38,
+    "dex_req": 24,
+    "durability": 35,
+    "statistics": {
+      "2h_dmg": {
+        "min": 9,
+        "max": 15
+      },
+      "melee_range": 4,
+      "attack_speed": -10,
+      "qlvl": 9
+    }
   },
   {
-    "id": 83,
+    "id": 351,
     "name": "Brandistock",
     "common_name": "",
     "type": "spear",
     "quality": "normal",
     "level_type": "normal",
-    "max_sockets": 3,
+    "max_sockets": 5,
+    "class_specific": null,
     "level_req": null,
-    "str_req": null,
-    "dex_req": null,
-    "durability": 30,
-    "statistics": {}
+    "str_req": 40,
+    "dex_req": 50,
+    "durability": 28,
+    "statistics": {
+      "2h_dmg": {
+        "min": 7,
+        "max": 17
+      },
+      "melee_range": 5,
+      "attack_speed": -20,
+      "qlvl": 16
+    }
   },
   {
-    "id": 83,
+    "id": 352,
     "name": "Spetum",
     "common_name": "",
     "type": "spear",
     "quality": "normal",
     "level_type": "normal",
-    "max_sockets": 3,
+    "max_sockets": 6,
+    "class_specific": null,
     "level_req": null,
-    "str_req": null,
-    "dex_req": null,
-    "durability": 30,
-    "statistics": {}
+    "str_req": 54,
+    "dex_req": 35,
+    "durability": 28,
+    "statistics": {
+      "2h_dmg": {
+        "min": 15,
+        "max": 23
+      },
+      "melee_range": 5,
+      "attack_speed": 0,
+      "qlvl": 16
+    }
   },
   {
-    "id": 83,
+    "id": 353,
     "name": "Pike",
     "common_name": "",
     "type": "spear",
     "quality": "normal",
     "level_type": "normal",
-    "max_sockets": 3,
+    "max_sockets": 6,
+    "class_specific": null,
     "level_req": null,
-    "str_req": null,
-    "dex_req": null,
-    "durability": 30,
-    "statistics": {}
+    "str_req": 60,
+    "dex_req": 45,
+    "durability": 25,
+    "statistics": {
+      "2h_dmg": {
+        "min": 14,
+        "max": 63
+      },
+      "melee_range": 5,
+      "attack_speed": 20,
+      "qlvl": 24
+    }
   },
   {
-    "id": 83,
+    "id": 354,
     "name": "War Spear",
     "common_name": "",
     "type": "spear",
     "quality": "normal",
-    "level_type": "nightmare",
+    "level_type": "exceptional",
     "max_sockets": 3,
+    "class_specific": null,
     "level_req": 21,
-    "str_req": null,
-    "dex_req": null,
+    "str_req": 25,
+    "dex_req": 25,
     "durability": 30,
-    "statistics": {}
+    "statistics": {
+      "2h_dmg": {
+        "min": 10,
+        "max": 37
+      },
+      "melee_range": 4,
+      "attack_speed": -10,
+      "qlvl": 33
+    }
   },
   {
-    "id": 83,
+    "id": 355,
     "name": "Fuscina",
     "common_name": "",
     "type": "spear",
     "quality": "normal",
-    "level_type": "nightmare",
-    "max_sockets": 3,
-    "level_req": 21,
-    "str_req": null,
-    "dex_req": null,
-    "durability": 30,
-    "statistics": {}
+    "level_type": "exceptional",
+    "max_sockets": 4,
+    "class_specific": null,
+    "level_req": 24,
+    "str_req": 77,
+    "dex_req": 25,
+    "durability": 35,
+    "statistics": {
+      "2h_dmg": {
+        "min": 19,
+        "max": 37
+      },
+      "melee_range": 4,
+      "attack_speed": 0,
+      "qlvl": 36
+    }
   },
   {
-    "id": 83,
+    "id": 356,
     "name": "War Fork",
     "common_name": "",
     "type": "spear",
     "quality": "normal",
-    "level_type": "nightmare",
-    "max_sockets": 3,
-    "level_req": 21,
-    "str_req": null,
-    "dex_req": null,
-    "durability": 30,
-    "statistics": {}
+    "level_type": "exceptional",
+    "max_sockets": 5,
+    "class_specific": null,
+    "level_req": 25,
+    "str_req": 80,
+    "dex_req": 95,
+    "durability": 28,
+    "statistics": {
+      "2h_dmg": {
+        "min": 16,
+        "max": 40
+      },
+      "melee_range": 5,
+      "attack_speed": -20,
+      "qlvl": 41
+    }
   },
   {
-    "id": 83,
+    "id": 357,
     "name": "Yari",
     "common_name": "",
     "type": "spear",
     "quality": "normal",
-    "level_type": "nightmare",
-    "max_sockets": 3,
-    "level_req": 21,
-    "str_req": null,
+    "level_type": "exceptional",
+    "max_sockets": 5,
+    "class_specific": null,
+    "level_req": 25,
+    "str_req": 101,
     "dex_req": null,
-    "durability": 30,
-    "statistics": {}
+    "durability": 28,
+    "statistics": {
+      "2h_dmg": {
+        "min": 29,
+        "max": 59
+      },
+      "melee_range": 5,
+      "attack_speed": 0,
+      "qlvl": 44
+    }
   },
   {
-    "id": 83,
+    "id": 358,
     "name": "Lance",
     "common_name": "",
     "type": "spear",
     "quality": "normal",
-    "level_type": "nightmare",
-    "max_sockets": 3,
-    "level_req": 21,
-    "str_req": null,
-    "dex_req": null,
-    "durability": 30,
-    "statistics": {}
+    "level_type": "exceptional",
+    "max_sockets": 6,
+    "class_specific": null,
+    "level_req": 25,
+    "str_req": 110,
+    "dex_req": 88,
+    "durability": 25,
+    "statistics": {
+      "2h_dmg": {
+        "min": 27,
+        "max": 114
+      },
+      "melee_range": 5,
+      "attack_speed": 20,
+      "qlvl": 47
+    }
   },
   {
-    "id": 83,
+    "id": 359,
     "name": "Hyperion Spear",
     "common_name": "",
     "type": "spear",
     "quality": "normal",
     "level_type": "elite",
     "max_sockets": 3,
+    "class_specific": null,
     "level_req": 43,
-    "str_req": null,
-    "dex_req": null,
+    "str_req": 155,
+    "dex_req": 120,
     "durability": 30,
-    "statistics": {}
+    "statistics": {
+      "2h_dmg": {
+        "min": 35,
+        "max": 119
+      },
+      "melee_range": 4,
+      "attack_speed": -10,
+      "qlvl": 58
+    }
   },
   {
-    "id": 83,
+    "id": 360,
     "name": "Stygian Pike",
     "common_name": "",
     "type": "spear",
     "quality": "normal",
     "level_type": "elite",
-    "max_sockets": 3,
-    "level_req": 43,
-    "str_req": null,
-    "dex_req": null,
-    "durability": 30,
-    "statistics": {}
+    "max_sockets": 4,
+    "class_specific": null,
+    "level_req": 49,
+    "str_req": 168,
+    "dex_req": 97,
+    "durability": 35,
+    "statistics": {
+      "2h_dmg": {
+        "min": 29,
+        "max": 144
+      },
+      "melee_range": 4,
+      "attack_speed": 0,
+      "qlvl": 66
+    }
   },
   {
-    "id": 83,
+    "id": 361,
     "name": "Mancatcher",
     "common_name": "",
     "type": "spear",
     "quality": "normal",
     "level_type": "elite",
     "max_sockets": 3,
-    "level_req": 43,
-    "str_req": null,
-    "dex_req": null,
-    "durability": 30,
-    "statistics": {}
+    "class_specific": null,
+    "level_req": 55,
+    "str_req": 132,
+    "dex_req": 134,
+    "durability": 28,
+    "statistics": {
+      "2h_dmg": {
+        "min": 42,
+        "max": 92
+      },
+      "melee_range": 5,
+      "attack_speed": -20,
+      "qlvl": 74
+    }
   },
   {
-    "id": 83,
+    "id": 362,
     "name": "Ghost Spear",
     "common_name": "",
     "type": "spear",
     "quality": "normal",
     "level_type": "elite",
-    "max_sockets": 3,
-    "level_req": 43,
-    "str_req": null,
-    "dex_req": null,
-    "durability": 30,
-    "statistics": {}
+    "max_sockets": 6,
+    "class_specific": null,
+    "level_req": 62,
+    "str_req": 122,
+    "dex_req": 163,
+    "durability": 28,
+    "statistics": {
+      "2h_dmg": {
+        "min": 18,
+        "max": 155
+      },
+      "melee_range": 5,
+      "attack_speed": 0,
+      "qlvl": 83
+    }
   },
   {
-    "id": 83,
+    "id": 363,
     "name": "War Pike",
     "common_name": "",
     "type": "spear",
     "quality": "normal",
     "level_type": "elite",
-    "max_sockets": 3,
-    "level_req": 43,
-    "str_req": null,
-    "dex_req": null,
-    "durability": 30,
-    "statistics": {}
+    "max_sockets": 6,
+    "class_specific": null,
+    "level_req": 66,
+    "str_req": 165,
+    "dex_req": 106,
+    "durability": 25,
+    "statistics": {
+      "2h_dmg": {
+        "min": 33,
+        "max": 178
+      },
+      "melee_range": 5,
+      "attack_speed": 20,
+      "qlvl": 85
+    }
   },
   {
-    "id": 83,
+    "id": 364,
     "name": "Short Staff",
     "common_name": "",
     "type": "staff",
     "quality": "normal",
     "level_type": "normal",
     "max_sockets": 2,
+    "class_specific": null,
     "level_req": null,
     "str_req": null,
     "dex_req": null,
     "durability": 20,
-    "statistics": {}
+    "statistics": {
+      "2h_dmg": {
+        "min": 1,
+        "max": 5
+      },
+      "melee_range": 2,
+      "attack_speed": -10,
+      "qlvl": 1
+    }
   },
   {
-    "id": 83,
+    "id": 365,
     "name": "Long Staff",
     "common_name": "",
     "type": "staff",
     "quality": "normal",
     "level_type": "normal",
-    "max_sockets": 2,
+    "max_sockets": 3,
+    "class_specific": null,
     "level_req": null,
     "str_req": null,
     "dex_req": null,
-    "durability": 20,
-    "statistics": {}
+    "durability": 30,
+    "statistics": {
+      "2h_dmg": {
+        "min": 2,
+        "max": 8
+      },
+      "melee_range": 2,
+      "attack_speed": 0,
+      "qlvl": 8
+    }
   },
   {
-    "id": 83,
+    "id": 366,
     "name": "Gnarled Staff",
     "common_name": "",
     "type": "staff",
     "quality": "normal",
     "level_type": "normal",
-    "max_sockets": 2,
+    "max_sockets": 4,
+    "class_specific": null,
     "level_req": null,
     "str_req": null,
     "dex_req": null,
-    "durability": 20,
-    "statistics": {}
+    "durability": 35,
+    "statistics": {
+      "2h_dmg": {
+        "min": 4,
+        "max": 12
+      },
+      "melee_range": 2,
+      "attack_speed": 10,
+      "qlvl": 12
+    }
   },
   {
-    "id": 83,
+    "id": 367,
     "name": "Battle Staff",
     "common_name": "",
     "type": "staff",
     "quality": "normal",
     "level_type": "normal",
-    "max_sockets": 2,
+    "max_sockets": 4,
+    "class_specific": null,
     "level_req": null,
     "str_req": null,
     "dex_req": null,
-    "durability": 20,
-    "statistics": {}
+    "durability": 40,
+    "statistics": {
+      "2h_dmg": {
+        "min": 6,
+        "max": 13
+      },
+      "melee_range": 2,
+      "attack_speed": 0,
+      "qlvl": 17
+    }
   },
   {
-    "id": 83,
+    "id": 368,
     "name": "War Staff",
     "common_name": "",
     "type": "staff",
     "quality": "normal",
     "level_type": "normal",
-    "max_sockets": 2,
+    "max_sockets": 6,
+    "class_specific": null,
     "level_req": null,
     "str_req": null,
     "dex_req": null,
-    "durability": 20,
-    "statistics": {}
+    "durability": 50,
+    "statistics": {
+      "2h_dmg": {
+        "min": 12,
+        "max": 28
+      },
+      "melee_range": 2,
+      "attack_speed": 20,
+      "qlvl": 24
+    }
   },
   {
-    "id": 83,
+    "id": 369,
     "name": "Jo Staff",
     "common_name": "",
     "type": "staff",
     "quality": "normal",
     "level_type": "exceptional",
     "max_sockets": 2,
-    "level_req": null,
-    "str_req": null,
+    "class_specific": null,
+    "level_req": 18,
+    "str_req": 25,
     "dex_req": null,
     "durability": 20,
-    "statistics": {}
+    "statistics": {
+      "2h_dmg": {
+        "min": 6,
+        "max": 21
+      },
+      "melee_range": 2,
+      "attack_speed": -10,
+      "qlvl": 30
+    }
   },
   {
-    "id": 83,
+    "id": 370,
     "name": "Quaterstaff",
     "common_name": "",
     "type": "staff",
     "quality": "normal",
     "level_type": "exceptional",
-    "max_sockets": 2,
-    "level_req": null,
-    "str_req": null,
+    "max_sockets": 3,
+    "class_specific": null,
+    "level_req": 23,
+    "str_req": 25,
     "dex_req": null,
-    "durability": 20,
-    "statistics": {}
+    "durability": 30,
+    "statistics": {
+      "2h_dmg": {
+        "min": 8,
+        "max": 26
+      },
+      "melee_range": 2,
+      "attack_speed": 0,
+      "qlvl": 35
+    }
   },
   {
-    "id": 83,
+    "id": 371,
     "name": "Cedar Staff",
     "common_name": "",
     "type": "staff",
     "quality": "normal",
     "level_type": "exceptional",
-    "max_sockets": 2,
-    "level_req": null,
-    "str_req": null,
+    "max_sockets": 4,
+    "class_specific": null,
+    "level_req": 25,
+    "str_req": 25,
     "dex_req": null,
-    "durability": 20,
-    "statistics": {}
+    "durability": 35,
+    "statistics": {
+      "2h_dmg": {
+        "min": 11,
+        "max": 32
+      },
+      "melee_range": 2,
+      "attack_speed": 10,
+      "qlvl": 38
+    }
   },
   {
-    "id": 83,
+    "id": 372,
     "name": "Gothic Staff",
     "common_name": "",
     "type": "staff",
     "quality": "normal",
     "level_type": "exceptional",
-    "max_sockets": 2,
-    "level_req": null,
-    "str_req": null,
+    "max_sockets": 4,
+    "class_specific": null,
+    "level_req": 25,
+    "str_req": 25,
     "dex_req": null,
-    "durability": 20,
-    "statistics": {}
+    "durability": 40,
+    "statistics": {
+      "2h_dmg": {
+        "min": 14,
+        "max": 34
+      },
+      "melee_range": 2,
+      "attack_speed": 0,
+      "qlvl": 42
+    }
   },
   {
-    "id": 83,
+    "id": 373,
     "name": "Rune Staff",
     "common_name": "",
     "type": "staff",
     "quality": "normal",
     "level_type": "exceptional",
-    "max_sockets": 2,
-    "level_req": null,
-    "str_req": null,
+    "max_sockets": 6,
+    "class_specific": null,
+    "level_req": 25,
+    "str_req": 25,
     "dex_req": null,
-    "durability": 20,
-    "statistics": {}
+    "durability": 50,
+    "statistics": {
+      "2h_dmg": {
+        "min": 24,
+        "max": 58
+      },
+      "melee_range": 2,
+      "attack_speed": 20,
+      "qlvl": 47
+    }
   },
   {
-    "id": 83,
+    "id": 374,
     "name": "Walking Stick",
     "common_name": "",
     "type": "staff",
     "quality": "normal",
     "level_type": "elite",
     "max_sockets": 2,
-    "level_req": null,
-    "str_req": null,
+    "class_specific": null,
+    "level_req": 43,
+    "str_req": 25,
     "dex_req": null,
     "durability": 20,
-    "statistics": {}
+    "statistics": {
+      "2h_dmg": {
+        "min": 69,
+        "max": 85
+      },
+      "melee_range": 2,
+      "attack_speed": -10,
+      "qlvl": 58
+    }
   },
   {
-    "id": 83,
+    "id": 375,
     "name": "Stalagmite",
     "common_name": "",
     "type": "staff",
     "quality": "normal",
     "level_type": "elite",
-    "max_sockets": 2,
-    "level_req": null,
-    "str_req": null,
-    "dex_req": null,
-    "durability": 20,
-    "statistics": {}
+    "max_sockets": 3,
+    "class_specific": null,
+    "level_req": 49,
+    "str_req": 63,
+    "dex_req": 35,
+    "durability": 30,
+    "statistics": {
+      "2h_dmg": {
+        "min": 75,
+        "max": 107
+      },
+      "melee_range": 2,
+      "attack_speed": 10,
+      "qlvl": 66
+    }
   },
   {
-    "id": 83,
+    "id": 376,
     "name": "Elder Staff",
     "common_name": "",
     "type": "staff",
     "quality": "normal",
     "level_type": "elite",
     "max_sockets": 2,
-    "level_req": null,
-    "str_req": null,
-    "dex_req": null,
-    "durability": 20,
-    "statistics": {}
+    "class_specific": null,
+    "level_req": 55,
+    "str_req": 44,
+    "dex_req": 37,
+    "durability": 35,
+    "statistics": {
+      "2h_dmg": {
+        "min": 80,
+        "max": 93
+      },
+      "melee_range": 2,
+      "attack_speed": 10,
+      "qlvl": 74
+    }
   },
   {
-    "id": 83,
+    "id": 377,
     "name": "Shillelagh",
     "common_name": "",
     "type": "staff",
     "quality": "normal",
     "level_type": "elite",
     "max_sockets": 2,
-    "level_req": null,
-    "str_req": null,
-    "dex_req": null,
-    "durability": 20,
-    "statistics": {}
+    "class_specific": null,
+    "level_req": 62,
+    "str_req": 52,
+    "dex_req": 27,
+    "durability": 40,
+    "statistics": {
+      "2h_dmg": {
+        "min": 65,
+        "max": 108
+      },
+      "melee_range": 2,
+      "attack_speed": 0,
+      "qlvl": 83
+    }
   },
   {
-    "id": 83,
+    "id": 378,
     "name": "Archon Staff",
     "common_name": "",
     "type": "staff",
     "quality": "normal",
     "level_type": "elite",
-    "max_sockets": 2,
-    "level_req": null,
-    "str_req": null,
+    "max_sockets": 6,
+    "class_specific": null,
+    "level_req": 66,
+    "str_req": 34,
     "dex_req": null,
-    "durability": 20,
-    "statistics": {}
+    "durability": 26,
+    "statistics": {
+      "2h_dmg": {
+        "min": 83,
+        "max": 99
+      },
+      "melee_range": 2,
+      "attack_speed": 10,
+      "qlvl": 85
+    }
   },
   {
-    "id": 83,
+    "id": 379,
     "name": "Short Sword",
     "common_name": "",
     "type": "sword_1h",
     "quality": "normal",
     "level_type": "normal",
     "max_sockets": 2,
+    "class_specific": null,
     "level_req": null,
     "str_req": null,
     "dex_req": null,
     "durability": 24,
-    "statistics": {}
+    "statistics": {
+      "1h_dmg": {
+        "min": 2,
+        "max": 7
+      },
+      "melee_range": 1,
+      "attack_speed": 0,
+      "qlvl": 1
+    }
   },
   {
-    "id": 83,
+    "id": 380,
     "name": "Scimitar",
     "common_name": "",
     "type": "sword_1h",
     "quality": "normal",
     "level_type": "normal",
     "max_sockets": 2,
+    "class_specific": null,
     "level_req": null,
     "str_req": null,
-    "dex_req": null,
-    "durability": 24,
-    "statistics": {}
+    "dex_req": 21,
+    "durability": 22,
+    "statistics": {
+      "1h_dmg": {
+        "min": 2,
+        "max": 6
+      },
+      "melee_range": 1,
+      "attack_speed": -20,
+      "qlvl": 5
+    }
   },
   {
-    "id": 83,
+    "id": 381,
     "name": "Sabre",
     "common_name": "",
     "type": "sword_1h",
     "quality": "normal",
     "level_type": "normal",
     "max_sockets": 2,
+    "class_specific": null,
     "level_req": null,
-    "str_req": null,
-    "dex_req": null,
-    "durability": 24,
-    "statistics": {}
+    "str_req": 25,
+    "dex_req": 25,
+    "durability": 32,
+    "statistics": {
+      "1h_dmg": {
+        "min": 3,
+        "max": 8
+      },
+      "melee_range": 1,
+      "attack_speed": -10,
+      "qlvl": 8
+    }
   },
   {
-    "id": 83,
+    "id": 382,
     "name": "Falchion",
     "common_name": "",
     "type": "sword_1h",
     "quality": "normal",
     "level_type": "normal",
     "max_sockets": 2,
+    "class_specific": null,
     "level_req": null,
-    "str_req": null,
+    "str_req": 33,
     "dex_req": null,
-    "durability": 24,
-    "statistics": {}
+    "durability": 32,
+    "statistics": {
+      "1h_dmg": {
+        "min": 9,
+        "max": 17
+      },
+      "melee_range": 1,
+      "attack_speed": 20,
+      "qlvl": 11
+    }
   },
   {
-    "id": 83,
+    "id": 383,
     "name": "Crystal Sword",
-    "common_name": "",
+    "common_name": "cs",
     "type": "sword_1h",
     "quality": "normal",
     "level_type": "normal",
-    "max_sockets": 2,
+    "max_sockets": 6,
+    "class_specific": null,
     "level_req": null,
-    "str_req": null,
+    "str_req": 43,
     "dex_req": null,
-    "durability": 24,
-    "statistics": {}
+    "durability": 20,
+    "statistics": {
+      "1h_dmg": {
+        "min": 5,
+        "max": 15
+      },
+      "melee_range": 2,
+      "attack_speed": 0,
+      "qlvl": 11
+    }
   },
   {
-    "id": 83,
+    "id": 384,
     "name": "Broad Sword",
-    "common_name": "",
+    "common_name": "bs",
     "type": "sword_1h",
     "quality": "normal",
     "level_type": "normal",
-    "max_sockets": 2,
+    "max_sockets": 4,
+    "class_specific": null,
     "level_req": null,
-    "str_req": null,
+    "str_req": 48,
     "dex_req": null,
-    "durability": 24,
-    "statistics": {}
+    "durability": 32,
+    "statistics": {
+      "1h_dmg": {
+        "min": 7,
+        "max": 14
+      },
+      "melee_range": 1,
+      "attack_speed": 0,
+      "qlvl": 15
+    }
   },
   {
-    "id": 83,
+    "id": 385,
     "name": "Long Sword",
-    "common_name": "",
+    "common_name": "ls",
     "type": "sword_1h",
     "quality": "normal",
     "level_type": "normal",
-    "max_sockets": 2,
+    "max_sockets": 4,
+    "class_specific": null,
     "level_req": null,
-    "str_req": null,
-    "dex_req": null,
-    "durability": 24,
-    "statistics": {}
+    "str_req": 55,
+    "dex_req": 39,
+    "durability": 44,
+    "statistics": {
+      "1h_dmg": {
+        "min": 3,
+        "max": 19
+      },
+      "melee_range": 1,
+      "attack_speed": -10,
+      "qlvl": 20
+    }
   },
   {
-    "id": 83,
+    "id": 386,
     "name": "War Sword",
     "common_name": "",
     "type": "sword_1h",
     "quality": "normal",
     "level_type": "normal",
-    "max_sockets": 2,
+    "max_sockets": 3,
+    "class_specific": null,
     "level_req": null,
-    "str_req": null,
-    "dex_req": null,
-    "durability": 24,
-    "statistics": {}
+    "str_req": 71,
+    "dex_req": 45,
+    "durability": 44,
+    "statistics": {
+      "1h_dmg": {
+        "min": 8,
+        "max": 20
+      },
+      "melee_range": 1,
+      "attack_speed": 0,
+      "qlvl": 27
+    }
   },
   {
-    "id": 83,
+    "id": 387,
     "name": "Two-handed Sword",
     "common_name": "",
     "type": "sword_2h",
     "quality": "normal",
     "level_type": "normal",
     "max_sockets": 3,
+    "class_specific": null,
     "level_req": null,
-    "str_req": null,
-    "dex_req": null,
-    "durability": 24,
-    "statistics": {}
+    "str_req": 35,
+    "dex_req": 27,
+    "durability": 44,
+    "statistics": {
+      "1h_dmg": {
+        "min": 2,
+        "max": 9
+      },
+      "2h_dmg": {
+        "min": 8,
+        "max": 17
+      },
+      "melee_range": 3,
+      "attack_speed": 0,
+      "qlvl": 10
+    }
   },
   {
-    "id": 83,
+    "id": 388,
     "name": "Claymore",
     "common_name": "",
     "type": "sword_2h",
     "quality": "normal",
     "level_type": "normal",
     "max_sockets": 4,
+    "class_specific": null,
     "level_req": null,
-    "str_req": null,
+    "str_req": 47,
     "dex_req": null,
-    "durability": 24,
-    "statistics": {}
+    "durability": 50,
+    "statistics": {
+      "1h_dmg": {
+        "min": 5,
+        "max": 12
+      },
+      "2h_dmg": {
+        "min": 13,
+        "max": 20
+      },
+      "melee_range": 3,
+      "attack_speed": 10,
+      "qlvl": 17
+    }
   },
   {
-    "id": 83,
+    "id": 389,
     "name": "Giant Sword",
     "common_name": "",
     "type": "sword_2h",
     "quality": "normal",
     "level_type": "normal",
     "max_sockets": 4,
+    "class_specific": null,
     "level_req": null,
-    "str_req": null,
-    "dex_req": null,
-    "durability": 24,
-    "statistics": {}
+    "str_req": 56,
+    "dex_req": 34,
+    "durability": 50,
+    "statistics": {
+      "1h_dmg": {
+        "min": 3,
+        "max": 16
+      },
+      "2h_dmg": {
+        "min": 9,
+        "max": 28
+      },
+      "melee_range": 3,
+      "attack_speed": 0,
+      "qlvl": 21
+    }
   },
   {
-    "id": 83,
+    "id": 390,
     "name": "Bastard Sword",
     "common_name": "",
     "type": "sword_2h",
     "quality": "normal",
     "level_type": "normal",
     "max_sockets": 4,
+    "class_specific": null,
     "level_req": null,
-    "str_req": null,
+    "str_req": 62,
     "dex_req": null,
-    "durability": 24,
-    "statistics": {}
+    "durability": 40,
+    "statistics": {
+      "1h_dmg": {
+        "min": 7,
+        "max": 19
+      },
+      "2h_dmg": {
+        "min": 20,
+        "max": 28
+      },
+      "melee_range": 2,
+      "attack_speed": 10,
+      "qlvl": 24
+    }
   },
   {
-    "id": 83,
+    "id": 391,
     "name": "Flamberge",
     "common_name": "",
     "type": "sword_2h",
     "quality": "normal",
     "level_type": "normal",
-    "max_sockets": 4,
+    "max_sockets": 5,
+    "class_specific": null,
     "level_req": null,
-    "str_req": null,
-    "dex_req": null,
-    "durability": 24,
-    "statistics": {}
+    "str_req": 70,
+    "dex_req": 49,
+    "durability": 50,
+    "statistics": {
+      "1h_dmg": {
+        "min": 9,
+        "max": 15
+      },
+      "2h_dmg": {
+        "min": 13,
+        "max": 26
+      },
+      "melee_range": 3,
+      "attack_speed": -10,
+      "qlvl": 27
+    }
   },
   {
-    "id": 83,
+    "id": 392,
     "name": "Great Sword",
     "common_name": "",
     "type": "sword_2h",
     "quality": "normal",
     "level_type": "normal",
-    "max_sockets": 4,
+    "max_sockets": 6,
+    "class_specific": null,
     "level_req": null,
-    "str_req": null,
-    "dex_req": null,
-    "durability": 24,
-    "statistics": {}
+    "str_req": 100,
+    "dex_req": 60,
+    "durability": 50,
+    "statistics": {
+      "1h_dmg": {
+        "min": 12,
+        "max": 20
+      },
+      "2h_dmg": {
+        "min": 25,
+        "max": 42
+      },
+      "melee_range": 3,
+      "attack_speed": 10,
+      "qlvl": 33
+    }
   },
   {
-    "id": 83,
+    "id": 393,
     "name": "Gladius",
     "common_name": "",
     "type": "sword_1h",
     "quality": "normal",
     "level_type": "exceptional",
     "max_sockets": 2,
-    "level_req": null,
-    "str_req": null,
+    "class_specific": null,
+    "level_req": 18,
+    "str_req": 25,
     "dex_req": null,
     "durability": 24,
-    "statistics": {}
+    "statistics": {
+      "1h_dmg": {
+        "min": 8,
+        "max": 22
+      },
+      "melee_range": 1,
+      "attack_speed": 0,
+      "qlvl": 30
+    }
   },
   {
-    "id": 83,
+    "id": 394,
     "name": "Cutlass",
     "common_name": "",
     "type": "sword_1h",
     "quality": "normal",
     "level_type": "exceptional",
     "max_sockets": 2,
-    "level_req": null,
-    "str_req": null,
-    "dex_req": null,
-    "durability": 24,
-    "statistics": {}
+    "class_specific": null,
+    "level_req": 25,
+    "str_req": 25,
+    "dex_req": 52,
+    "durability": 22,
+    "statistics": {
+      "1h_dmg": {
+        "min": 8,
+        "max": 21
+      },
+      "melee_range": 1,
+      "attack_speed": -30,
+      "qlvl": 43
+    }
   },
   {
-    "id": 83,
+    "id": 395,
     "name": "Shamshir",
     "common_name": "",
     "type": "sword_1h",
     "quality": "normal",
     "level_type": "exceptional",
     "max_sockets": 2,
-    "level_req": null,
-    "str_req": null,
-    "dex_req": null,
-    "durability": 24,
-    "statistics": {}
+    "class_specific": null,
+    "level_req": 23,
+    "str_req": 58,
+    "dex_req": 58,
+    "durability": 32,
+    "statistics": {
+      "1h_dmg": {
+        "min": 10,
+        "max": 24
+      },
+      "melee_range": 1,
+      "attack_speed": -10,
+      "qlvl": 35
+    }
   },
   {
-    "id": 83,
+    "id": 396,
     "name": "Tulwar",
     "common_name": "",
     "type": "sword_1h",
     "quality": "normal",
     "level_type": "exceptional",
     "max_sockets": 2,
-    "level_req": null,
-    "str_req": null,
-    "dex_req": null,
-    "durability": 24,
-    "statistics": {}
+    "class_specific": null,
+    "level_req": 25,
+    "str_req": 70,
+    "dex_req": 42,
+    "durability": 32,
+    "statistics": {
+      "1h_dmg": {
+        "min": 16,
+        "max": 35
+      },
+      "melee_range": 1,
+      "attack_speed": 20,
+      "qlvl": 37
+    }
   },
   {
-    "id": 83,
+    "id": 397,
     "name": "Dimensional Blade",
-    "common_name": "",
+    "common_name": "db",
     "type": "sword_1h",
     "quality": "normal",
     "level_type": "exceptional",
-    "max_sockets": 2,
-    "level_req": null,
-    "str_req": null,
-    "dex_req": null,
-    "durability": 24,
-    "statistics": {}
+    "max_sockets": 6,
+    "class_specific": null,
+    "level_req": 25,
+    "str_req": 85,
+    "dex_req": 60,
+    "durability": 20,
+    "statistics": {
+      "1h_dmg": {
+        "min": 13,
+        "max": 35
+      },
+      "melee_range": 2,
+      "attack_speed": 0,
+      "qlvl": 37
+    }
   },
   {
-    "id": 83,
+    "id": 398,
     "name": "Battle Sword",
     "common_name": "",
     "type": "sword_1h",
     "quality": "normal",
     "level_type": "exceptional",
-    "max_sockets": 2,
-    "level_req": null,
-    "str_req": null,
-    "dex_req": null,
+    "max_sockets": 4,
+    "class_specific": null,
+    "level_req": 25,
+    "str_req": 92,
+    "dex_req": 43,
     "durability": 24,
-    "statistics": {}
+    "statistics": {
+      "1h_dmg": {
+        "min": 16,
+        "max": 34
+      },
+      "melee_range": 1,
+      "attack_speed": 0,
+      "qlvl": 44
+    }
   },
   {
-    "id": 83,
+    "id": 399,
     "name": "Rune Sword",
     "common_name": "",
     "type": "sword_1h",
     "quality": "normal",
     "level_type": "exceptional",
-    "max_sockets": 2,
-    "level_req": null,
-    "str_req": null,
-    "dex_req": null,
-    "durability": 24,
-    "statistics": {}
+    "max_sockets": 4,
+    "class_specific": null,
+    "level_req": 25,
+    "str_req": 103,
+    "dex_req": 79,
+    "durability": 44,
+    "statistics": {
+      "1h_dmg": {
+        "min": 10,
+        "max": 42
+      },
+      "melee_range": 1,
+      "attack_speed": -10,
+      "qlvl": 44
+    }
   },
   {
-    "id": 83,
+    "id": 400,
     "name": "Ancient Sword",
     "common_name": "",
     "type": "sword_1h",
     "quality": "normal",
     "level_type": "exceptional",
     "max_sockets": 2,
-    "level_req": null,
-    "str_req": null,
-    "dex_req": null,
-    "durability": 24,
-    "statistics": {}
+    "class_specific": null,
+    "level_req": 25,
+    "str_req": 127,
+    "dex_req": 88,
+    "durability": 44,
+    "statistics": {
+      "1h_dmg": {
+        "min": 18,
+        "max": 43
+      },
+      "melee_range": 1,
+      "attack_speed": 0,
+      "qlvl": 49
+    }
   },
   {
-    "id": 83,
-    "name": "Espandon,
+    "id": 401,
+    "name": "Espandon",
     "common_name": "",
     "type": "sword_2h",
     "quality": "normal",
     "level_type": "exceptional",
     "max_sockets": 3,
-    "level_req": null,
-    "str_req": null,
-    "dex_req": null,
-    "durability": 24,
-    "statistics": {}
+    "class_specific": null,
+    "level_req": 25,
+    "str_req": 73,
+    "dex_req": 61,
+    "durability": 44,
+    "statistics": {
+      "1h_dmg": {
+        "min": 8,
+        "max": 26
+      },
+      "2h_dmg": {
+        "min": 18,
+        "max": 40
+      },
+      "melee_range": 3,
+      "attack_speed": 0,
+      "qlvl": 37
+    }
   },
   {
-    "id": 83,
+    "id": 402,
     "name": "Dacian Falx",
     "common_name": "",
     "type": "sword_2h",
     "quality": "normal",
     "level_type": "exceptional",
     "max_sockets": 4,
-    "level_req": null,
-    "str_req": null,
-    "dex_req": null,
+    "class_specific": null,
+    "level_req": 25,
+    "str_req": 91,
+    "dex_req": 20,
     "durability": 24,
-    "statistics": {}
+    "statistics": {
+      "1h_dmg": {
+        "min": 13,
+        "max": 30
+      },
+      "2h_dmg": {
+        "min": 26,
+        "max": 61
+      },
+      "melee_range": 3,
+      "attack_speed": 10,
+      "qlvl": 42
+    }
   },
   {
-    "id": 83,
+    "id": 403,
     "name": "Tusk Sword",
     "common_name": "",
     "type": "sword_2h",
     "quality": "normal",
     "level_type": "exceptional",
     "max_sockets": 4,
-    "level_req": null,
-    "str_req": null,
-    "dex_req": null,
+    "class_specific": null,
+    "level_req": 25,
+    "str_req": 104,
+    "dex_req": 71,
     "durability": 24,
-    "statistics": {}
+    "statistics": {
+      "1h_dmg": {
+        "min": 10,
+        "max": 37
+      },
+      "2h_dmg": {
+        "min": 19,
+        "max": 58
+      },
+      "melee_range": 3,
+      "attack_speed": 0,
+      "qlvl": 45
+    }
   },
   {
-    "id": 83,
+    "id": 404,
     "name": "Gothic Sword",
     "common_name": "",
     "type": "sword_2h",
     "quality": "normal",
     "level_type": "exceptional",
     "max_sockets": 4,
-    "level_req": null,
-    "str_req": null,
-    "dex_req": null,
-    "durability": 24,
-    "statistics": {}
+    "class_specific": null,
+    "level_req": 25,
+    "str_req": 113,
+    "dex_req": 20,
+    "durability": 40,
+    "statistics": {
+      "1h_dmg": {
+        "min": 14,
+        "max": 40
+      },
+      "2h_dmg": {
+        "min": 39,
+        "max": 60
+      },
+      "melee_range": 3,
+      "attack_speed": 0,
+      "qlvl": 48
+    }
   },
   {
-    "id": 83,
+    "id": 405,
     "name": "Zweihander",
     "common_name": "",
     "type": "sword_2h",
     "quality": "normal",
     "level_type": "exceptional",
-    "max_sockets": 4,
-    "level_req": null,
-    "str_req": null,
-    "dex_req": null,
-    "durability": 24,
-    "statistics": {}
+    "max_sockets": 5,
+    "class_specific": null,
+    "level_req": 25,
+    "str_req": 125,
+    "dex_req": 94,
+    "durability": 50,
+    "statistics": {
+      "1h_dmg": {
+        "min": 19,
+        "max": 35
+      },
+      "2h_dmg": {
+        "min": 29,
+        "max": 54
+      },
+      "melee_range": 3,
+      "attack_speed": -10,
+      "qlvl": 49
+    }
   },
   {
-    "id": 83,
+    "id": 406,
     "name": "Executioner Sword",
     "common_name": "",
     "type": "sword_2h",
     "quality": "normal",
     "level_type": "exceptional",
-    "max_sockets": 4,
-    "level_req": null,
-    "str_req": null,
-    "dex_req": null,
-    "durability": 24,
-    "statistics": {}
+    "max_sockets": 6,
+    "class_specific": null,
+    "level_req": 25,
+    "str_req": 170,
+    "dex_req": 110,
+    "durability": 50,
+    "statistics": {
+      "1h_dmg": {
+        "min": 24,
+        "max": 40
+      },
+      "2h_dmg": {
+        "min": 47,
+        "max": 80
+      },
+      "melee_range": 3,
+      "attack_speed": 10,
+      "qlvl": 54
+    }
   },
   {
-    "id": 83,
+    "id": 407,
     "name": "Falcata",
     "common_name": "",
     "type": "sword_1h",
     "quality": "normal",
     "level_type": "elite",
     "max_sockets": 2,
-    "level_req": null,
-    "str_req": null,
-    "dex_req": null,
+    "class_specific": null,
+    "level_req": 42,
+    "str_req": 150,
+    "dex_req": 88,
     "durability": 24,
-    "statistics": {}
+    "statistics": {
+      "1h_dmg": {
+        "min": 31,
+        "max": 59
+      },
+      "melee_range": 1,
+      "attack_speed": 0,
+      "qlvl": 56
+    }
   },
   {
-    "id": 83,
+    "id": 408,
     "name": "Ataghan",
     "common_name": "",
     "type": "sword_1h",
     "quality": "normal",
     "level_type": "elite",
     "max_sockets": 2,
-    "level_req": null,
-    "str_req": null,
-    "dex_req": null,
-    "durability": 24,
-    "statistics": {}
+    "class_specific": null,
+    "level_req": 45,
+    "str_req": 135,
+    "dex_req": 95,
+    "durability": 22,
+    "statistics": {
+      "1h_dmg": {
+        "min": 26,
+        "max": 46
+      },
+      "melee_range": 1,
+      "attack_speed": -20,
+      "qlvl": 61
+    }
   },
   {
-    "id": 83,
+    "id": 409,
     "name": "Elegant Blade",
     "common_name": "",
     "type": "sword_1h",
     "quality": "normal",
     "level_type": "elite",
     "max_sockets": 2,
-    "level_req": null,
-    "str_req": null,
-    "dex_req": null,
+    "class_specific": null,
+    "level_req": 47,
+    "str_req": 109,
+    "dex_req": 122,
     "durability": 24,
-    "statistics": {}
+    "statistics": {
+      "1h_dmg": {
+        "min": 33,
+        "max": 45
+      },
+      "melee_range": 1,
+      "attack_speed": -10,
+      "qlvl": 63
+    }
   },
   {
-    "id": 83,
+    "id": 410,
     "name": "Hydra Edge",
     "common_name": "",
     "type": "sword_1h",
     "quality": "normal",
     "level_type": "elite",
     "max_sockets": 2,
-    "level_req": null,
-    "str_req": null,
-    "dex_req": null,
-    "durability": 24,
-    "statistics": {}
+    "class_specific": null,
+    "level_req": 51,
+    "str_req": 142,
+    "dex_req": 105,
+    "durability": 32,
+    "statistics": {
+      "1h_dmg": {
+        "min": 8,
+        "max": 22
+      },
+      "melee_range": 1,
+      "attack_speed": 10,
+      "qlvl": 69
+    }
   },
   {
-    "id": 83,
+    "id": 411,
     "name": "Phase Blade",
     "common_name": "",
     "type": "sword_1h",
     "quality": "normal",
     "level_type": "elite",
-    "max_sockets": 2,
-    "level_req": null,
-    "str_req": null,
-    "dex_req": null,
-    "durability": 24,
-    "statistics": {}
+    "max_sockets": 6,
+    "class_specific": null,
+    "level_req": 54,
+    "str_req": 25,
+    "dex_req": 136,
+    "durability": null,
+    "statistics": {
+      "indestructible": true,
+      "1h_dmg": {
+        "min": 31,
+        "max": 35
+      },
+      "melee_range": 2,
+      "attack_speed": -30,
+      "qlvl": 73
+    }
   },
   {
-    "id": 83,
+    "id": 412,
     "name": "Conquest Sword",
     "common_name": "",
     "type": "sword_1h",
     "quality": "normal",
     "level_type": "elite",
     "max_sockets": 2,
-    "level_req": null,
-    "str_req": null,
-    "dex_req": null,
-    "durability": 24,
-    "statistics": {}
+    "class_specific": null,
+    "level_req": 58,
+    "str_req": 142,
+    "dex_req": 112,
+    "durability": 32,
+    "statistics": {
+      "1h_dmg": {
+        "min": 37,
+        "max": 53
+      },
+      "melee_range": 1,
+      "attack_speed": 0,
+      "qlvl": 78
+    }
   },
   {
-    "id": 83,
+    "id": 413,
     "name": "Cryptic Sword",
     "common_name": "",
     "type": "sword_1h",
     "quality": "normal",
     "level_type": "elite",
-    "max_sockets": 2,
-    "level_req": null,
-    "str_req": null,
-    "dex_req": null,
-    "durability": 24,
-    "statistics": {}
+    "max_sockets": 4,
+    "class_specific": null,
+    "level_req": 61,
+    "str_req": 99,
+    "dex_req": 109,
+    "durability": 44,
+    "statistics": {
+      "1h_dmg": {
+        "min": 5,
+        "max": 77
+      },
+      "melee_range": 2,
+      "attack_speed": -10,
+      "qlvl": 82
+    }
   },
   {
-    "id": 83,
+    "id": 414,
     "name": "Mythical Sword",
     "common_name": "",
     "type": "sword_1h",
     "quality": "normal",
     "level_type": "elite",
-    "max_sockets": 2,
-    "level_req": null,
-    "str_req": null,
-    "dex_req": null,
+    "max_sockets": 3,
+    "class_specific": null,
+    "level_req": 66,
+    "str_req": 147,
+    "dex_req": 124,
     "durability": 24,
-    "statistics": {}
+    "statistics": {
+      "1h_dmg": {
+        "min": 40,
+        "max": 50
+      },
+      "melee_range": 2,
+      "attack_speed": 0,
+      "qlvl": 85
+    }
   },
   {
-    "id": 83,
+    "id": 415,
     "name": "Legend Sword",
     "common_name": "",
     "type": "sword_2h",
     "quality": "normal",
     "level_type": "elite",
     "max_sockets": 3,
-    "level_req": null,
-    "str_req": null,
-    "dex_req": null,
-    "durability": 24,
-    "statistics": {}
+    "class_specific": null,
+    "level_req": 44,
+    "str_req": 175,
+    "dex_req": 100,
+    "durability": 44,
+    "statistics": {
+      "1h_dmg": {
+        "min": 20,
+        "max": 56
+      },
+      "2h_dmg": {
+        "min": 50,
+        "max": 94
+      },
+      "melee_range": 3,
+      "attack_speed": -15,
+      "qlvl": 59
+    }
   },
   {
-    "id": 83,
+    "id": 416,
     "name": "Highland Blade",
     "common_name": "",
     "type": "sword_2h",
     "quality": "normal",
     "level_type": "elite",
     "max_sockets": 4,
-    "level_req": null,
-    "str_req": null,
-    "dex_req": null,
-    "durability": 24,
-    "statistics": {}
+    "class_specific": null,
+    "level_req": 49,
+    "str_req": 171,
+    "dex_req": 104,
+    "durability": 50,
+    "statistics": {
+      "1h_dmg": {
+        "min": 22,
+        "max": 62
+      },
+      "2h_dmg": {
+        "min": 67,
+        "max": 96
+      },
+      "melee_range": 3,
+      "attack_speed": -5,
+      "qlvl": 66
+    }
   },
   {
-    "id": 83,
+    "id": 417,
     "name": "Balrog Blade",
     "common_name": "",
     "type": "sword_2h",
     "quality": "normal",
     "level_type": "elite",
     "max_sockets": 4,
-    "level_req": null,
-    "str_req": null,
-    "dex_req": null,
-    "durability": 24,
-    "statistics": {}
+    "class_specific": null,
+    "level_req": 53,
+    "str_req": 185,
+    "dex_req": 87,
+    "durability": 50,
+    "statistics": {
+      "1h_dmg": {
+        "min": 15,
+        "max": 75
+      },
+      "2h_dmg": {
+        "min": 55,
+        "max": 118
+      },
+      "melee_range": 3,
+      "attack_speed": 0,
+      "qlvl": 71
+    }
   },
   {
-    "id": 83,
+    "id": 418,
     "name": "Champion Sword",
     "common_name": "",
     "type": "sword_2h",
     "quality": "normal",
     "level_type": "elite",
     "max_sockets": 4,
-    "level_req": null,
-    "str_req": null,
-    "dex_req": null,
-    "durability": 24,
-    "statistics": {}
+    "class_specific": null,
+    "level_req": 57,
+    "str_req": 163,
+    "dex_req": 103,
+    "durability": 40,
+    "statistics": {
+      "1h_dmg": {
+        "min": 24,
+        "max": 54
+      },
+      "2h_dmg": {
+        "min": 71,
+        "max": 83
+      },
+      "melee_range": 3,
+      "attack_speed": -10,
+      "qlvl": 77
+    }
   },
   {
-    "id": 83,
+    "id": 419,
     "name": "Colossus Sword",
-    "common_name": "",
+    "common_name": "cs",
     "type": "sword_2h",
     "quality": "normal",
     "level_type": "elite",
-    "max_sockets": 4,
-    "level_req": null,
-    "str_req": null,
-    "dex_req": null,
-    "durability": 24,
-    "statistics": {}
+    "max_sockets": 5,
+    "class_specific": null,
+    "level_req": 57,
+    "str_req": 182,
+    "dex_req": 95,
+    "durability": 50,
+    "statistics": {
+      "1h_dmg": {
+        "min": 26,
+        "max": 70
+      },
+      "2h_dmg": {
+        "min": 61,
+        "max": 121
+      },
+      "melee_range": 3,
+      "attack_speed": 10,
+      "qlvl": 80
+    }
   },
   {
-    "id": 83,
+    "id": 420,
     "name": "Colossus Blade",
-    "common_name": "",
+    "common_name": "cb",
     "type": "sword_2h",
     "quality": "normal",
     "level_type": "elite",
-    "max_sockets": 4,
-    "level_req": null,
-    "str_req": null,
-    "dex_req": null,
-    "durability": 24,
-    "statistics": {}
+    "max_sockets": 6,
+    "class_specific": null,
+    "level_req": 63,
+    "str_req": 189,
+    "dex_req": 110,
+    "durability": 50,
+    "statistics": {
+      "1h_dmg": {
+        "min": 25,
+        "max": 62
+      },
+      "2h_dmg": {
+        "min": 58,
+        "max": 115
+      },
+      "melee_range": 3,
+      "attack_speed": 5,
+      "qlvl": 85
+    }
   },
   {
-    "id": 83,
+    "id": 421,
     "name": "Throwing Knife",
     "common_name": "",
-    "type": "sword_2h",
+    "type": "throwing",
     "quality": "normal",
     "level_type": "normal",
     "max_sockets": 0,
+    "class_specific": null,
     "level_req": null,
     "str_req": null,
-    "dex_req": null,
+    "dex_req": 21,
     "durability": null,
-    "statistics": {}
+    "statistics": {
+      "type": "dagger",
+      "throw_dmg": {
+        "min": 4,
+        "max": 9
+      },
+      "1h_dmg": {
+        "min": 2,
+        "max": 3
+      },
+      "melee_range": 1,
+      "attack_speed": 0,
+      "qlvl": 2
+    }
   },
   {
-    "id": 83,
+    "id": 422,
     "name": "Balanced Knife",
     "common_name": "",
-    "type": "sword_2h",
+    "type": "throwing",
     "quality": "normal",
     "level_type": "normal",
     "max_sockets": 0,
+    "class_specific": null,
     "level_req": null,
     "str_req": null,
-    "dex_req": null,
+    "dex_req": 51,
     "durability": null,
-    "statistics": {}
+    "statistics": {
+      "type": "dagger",
+      "throw_dmg": {
+        "min": 6,
+        "max": 11
+      },
+      "1h_dmg": {
+        "min": 1,
+        "max": 8
+      },
+      "melee_range": 1,
+      "attack_speed": -20,
+      "qlvl": 13
+    }
   },
   {
-    "id": 83,
+    "id": 423,
     "name": "Throwing Axe",
     "common_name": "",
-    "type": "sword_2h",
+    "type": "throwing",
     "quality": "normal",
     "level_type": "normal",
     "max_sockets": 0,
+    "class_specific": null,
     "level_req": null,
     "str_req": null,
-    "dex_req": null,
+    "dex_req": 40,
     "durability": null,
-    "statistics": {}
+    "statistics": {
+      "type": "axe",
+      "throw_dmg": {
+        "min": 8,
+        "max": 12
+      },
+      "1h_dmg": {
+        "min": 4,
+        "max": 7
+      },
+      "melee_range": 1,
+      "attack_speed": 10,
+      "qlvl": 7
+    }
   },
   {
-    "id": 83,
+    "id": 424,
     "name": "Balanced Axe",
     "common_name": "",
-    "type": "sword_2h",
+    "type": "throwing",
     "quality": "normal",
     "level_type": "normal",
     "max_sockets": 0,
+    "class_specific": null,
     "level_req": null,
     "str_req": null,
-    "dex_req": null,
+    "dex_req": 57,
     "durability": null,
-    "statistics": {}
+    "statistics": {
+      "type": "axe",
+      "throw_dmg": {
+        "min": 12,
+        "max": 15
+      },
+      "1h_dmg": {
+        "min": 5,
+        "max": 10
+      },
+      "melee_range": 1,
+      "attack_speed": -10,
+      "qlvl": 16
+    }
   },
   {
-    "id": 83,
+    "id": 425,
     "name": "Battle Dart",
     "common_name": "",
-    "type": "sword_2h",
+    "type": "throwing",
     "quality": "normal",
     "level_type": "exceptional",
     "max_sockets": 0,
-    "level_req": null,
-    "str_req": null,
-    "dex_req": null,
+    "class_specific": null,
+    "level_req": 19,
+    "str_req": 25,
+    "dex_req": 52,
     "durability": null,
-    "statistics": {}
+    "statistics": {
+      "type": "dagger",
+      "throw_dmg": {
+        "min": 11,
+        "max": 24
+      },
+      "1h_dmg": {
+        "min": 8,
+        "max": 16
+      },
+      "melee_range": 1,
+      "attack_speed": 0,
+      "qlvl": 31
+    }
   },
   {
-    "id": 83,
+    "id": 426,
     "name": "War Dart",
     "common_name": "",
-    "type": "sword_2h",
+    "type": "throwing",
     "quality": "normal",
     "level_type": "exceptional",
     "max_sockets": 0,
-    "level_req": null,
-    "str_req": null,
-    "dex_req": null,
+    "class_specific": null,
+    "level_req": 22,
+    "str_req": 25,
+    "dex_req": 97,
     "durability": null,
-    "statistics": {}
+    "statistics": {
+      "type": "dagger",
+      "throw_dmg": {
+        "min": 14,
+        "max": 27
+      },
+      "1h_dmg": {
+        "min": 6,
+        "max": 24
+      },
+      "melee_range": 1,
+      "attack_speed": 0,
+      "qlvl": 39
+    }
   },
   {
-    "id": 83,
+    "id": 427,
     "name": "Francisca",
     "common_name": "",
-    "type": "sword_2h",
+    "type": "throwing",
     "quality": "normal",
     "level_type": "exceptional",
     "max_sockets": 0,
-    "level_req": null,
-    "str_req": null,
-    "dex_req": null,
+    "class_specific": null,
+    "level_req": 22,
+    "str_req": 25,
+    "dex_req": 80,
     "durability": null,
-    "statistics": {}
+    "statistics": {
+      "type": "axe",
+      "throw_dmg": {
+        "min": 18,
+        "max": 33
+      },
+      "1h_dmg": {
+        "min": 11,
+        "max": 22
+      },
+      "melee_range": 1,
+      "attack_speed": 0,
+      "qlvl": 34
+    }
   },
   {
-    "id": 83,
+    "id": 428,
     "name": "Hurlbat",
     "common_name": "",
-    "type": "sword_2h",
+    "type": "throwing",
     "quality": "normal",
     "level_type": "exceptional",
     "max_sockets": 0,
-    "level_req": null,
-    "str_req": null,
-    "dex_req": null,
+    "class_specific": null,
+    "level_req": 25,
+    "str_req": 25,
+    "dex_req": 106,
     "durability": null,
-    "statistics": {}
+    "statistics": {
+      "type": "axe",
+      "throw_dmg": {
+        "min": 24,
+        "max": 34
+      },
+      "1h_dmg": {
+        "min": 13,
+        "max": 27
+      },
+      "melee_range": 1,
+      "attack_speed": -10,
+      "qlvl": 41
+    }
   },
   {
-    "id": 83,
+    "id": 429,
     "name": "Flying Knife",
     "common_name": "",
-    "type": "sword_2h",
+    "type": "throwing",
     "quality": "normal",
     "level_type": "elite",
     "max_sockets": 0,
-    "level_req": null,
-    "str_req": null,
-    "dex_req": null,
+    "class_specific": null,
+    "level_req": 48,
+    "str_req": 48,
+    "dex_req": 141,
     "durability": null,
-    "statistics": {}
+    "statistics": {
+      "type": "dagger",
+      "throw_dmg": {
+        "min": 23,
+        "max": 54
+      },
+      "1h_dmg": {
+        "min": 23,
+        "max": 54
+      },
+      "melee_range": 1,
+      "attack_speed": 0,
+      "qlvl": 64
+    }
   },
   {
-    "id": 83,
+    "id": 430,
     "name": "Winged Knife",
     "common_name": "",
-    "type": "sword_2h",
+    "type": "throwing",
     "quality": "normal",
     "level_type": "elite",
     "max_sockets": 0,
-    "level_req": null,
-    "str_req": null,
-    "dex_req": null,
+    "class_specific": null,
+    "level_req": 57,
+    "str_req": 45,
+    "dex_req": 142,
     "durability": null,
-    "statistics": {}
+    "statistics": {
+      "type": "dagger",
+      "throw_dmg": {
+        "min": 23,
+        "max": 39
+      },
+      "1h_dmg": {
+        "min": 27,
+        "max": 35
+      },
+      "melee_range": 1,
+      "attack_speed": -20,
+      "qlvl": 77
+    }
   },
   {
-    "id": 83,
+    "id": 431,
     "name": "Flying Axe",
     "common_name": "",
-    "type": "sword_2h",
+    "type": "throwing",
     "quality": "normal",
     "level_type": "elite",
     "max_sockets": 0,
-    "level_req": null,
-    "str_req": null,
-    "dex_req": null,
+    "class_specific": null,
+    "level_req": 42,
+    "str_req": 88,
+    "dex_req": 108,
     "durability": null,
-    "statistics": {}
+    "statistics": {
+      "type": "axe",
+      "throw_dmg": {
+        "min": 15,
+        "max": 66
+      },
+      "1h_dmg": {
+        "min": 17,
+        "max": 65
+      },
+      "melee_range": 1,
+      "attack_speed": 10,
+      "qlvl": 56
+    }
   },
   {
-    "id": 83,
+    "id": 432,
     "name": "Winged Axe",
     "common_name": "",
-    "type": "sword_2h",
+    "type": "throwing",
     "quality": "normal",
     "level_type": "elite",
     "max_sockets": 0,
-    "level_req": null,
-    "str_req": null,
-    "dex_req": null,
+    "class_specific": null,
+    "level_req": 60,
+    "str_req": 96,
+    "dex_req": 122,
     "durability": null,
-    "statistics": {}
+    "statistics": {
+      "type": "dagger",
+      "throw_dmg": {
+        "min": 7,
+        "max": 60
+      },
+      "1h_dmg": {
+        "min": 11,
+        "max": 56
+      },
+      "melee_range": 1,
+      "attack_speed": -10,
+      "qlvl": 80
+    }
   },
   {
-    "id": 83,
+    "id": 433,
     "name": "Wand",
     "common_name": "",
     "type": "wand",
     "quality": "normal",
     "level_type": "normal",
     "max_sockets": 1,
+    "class_specific": null,
     "level_req": null,
     "str_req": null,
     "dex_req": null,
-    "durability": null,
-    "statistics": {}
+    "durability": 15,
+    "statistics": {
+      "1h_dmg": {
+        "min": 2,
+        "max": 4
+      },
+      "melee_range": 1,
+      "attack_speed": 0,
+      "qlvl": 1
+    }
   },
   {
-    "id": 83,
+    "id": 434,
     "name": "Yew Wand",
     "common_name": "",
     "type": "wand",
     "quality": "normal",
     "level_type": "normal",
     "max_sockets": 1,
+    "class_specific": null,
     "level_req": null,
     "str_req": null,
     "dex_req": null,
-    "durability": null,
-    "statistics": {}
+    "durability": 15,
+    "statistics": {
+      "1h_dmg": {
+        "min": 2,
+        "max": 8
+      },
+      "melee_range": 1,
+      "attack_speed": 10,
+      "qlvl": 12
+    }
   },
   {
-    "id": 83,
+    "id": 435,
     "name": "Bone Wand",
     "common_name": "",
     "type": "wand",
     "quality": "normal",
     "level_type": "normal",
-    "max_sockets": 1,
+    "max_sockets": 2,
+    "class_specific": null,
     "level_req": null,
     "str_req": null,
     "dex_req": null,
-    "durability": null,
-    "statistics": {}
+    "durability": 15,
+    "statistics": {
+      "1h_dmg": {
+        "min": 3,
+        "max": 7
+      },
+      "melee_range": 1,
+      "attack_speed": -20,
+      "qlvl": 18
+    }
   },
   {
-    "id": 83,
+    "id": 436,
     "name": "Grim Wand",
     "common_name": "",
     "type": "wand",
     "quality": "normal",
     "level_type": "normal",
-    "max_sockets": 1,
+    "max_sockets": 2,
+    "class_specific": null,
     "level_req": null,
     "str_req": null,
     "dex_req": null,
-    "durability": null,
-    "statistics": {}
+    "durability": 15,
+    "statistics": {
+      "1h_dmg": {
+        "min": 5,
+        "max": 11
+      },
+      "melee_range": 1,
+      "attack_speed": 0,
+      "qlvl": 26
+    }
   },
   {
-    "id": 83,
+    "id": 437,
     "name": "Burnt Wand",
     "common_name": "",
     "type": "wand",
     "quality": "normal",
     "level_type": "exceptional",
     "max_sockets": 1,
-    "level_req": null,
-    "str_req": null,
+    "class_specific": null,
+    "level_req": 19,
+    "str_req": 25,
     "dex_req": null,
-    "durability": null,
-    "statistics": {}
+    "durability": 15,
+    "statistics": {
+      "1h_dmg": {
+        "min": 8,
+        "max": 18
+      },
+      "melee_range": 1,
+      "attack_speed": 0,
+      "qlvl": 31
+    }
   },
   {
-    "id": 83,
+    "id": 438,
     "name": "Petrified Wand",
     "common_name": "",
     "type": "wand",
     "quality": "normal",
     "level_type": "exceptional",
-    "max_sockets": 1,
-    "level_req": null,
-    "str_req": null,
+    "max_sockets": 2,
+    "class_specific": null,
+    "level_req": 25,
+    "str_req": 25,
     "dex_req": null,
-    "durability": null,
-    "statistics": {}
+    "durability": 15,
+    "statistics": {
+      "1h_dmg": {
+        "min": 8,
+        "max": 24
+      },
+      "melee_range": 1,
+      "attack_speed": 10,
+      "qlvl": 38
+    }
   },
   {
-    "id": 83,
+    "id": 439,
     "name": "Tomb Wand",
     "common_name": "",
     "type": "wand",
     "quality": "normal",
     "level_type": "exceptional",
-    "max_sockets": 1,
-    "level_req": null,
-    "str_req": null,
+    "max_sockets": 2,
+    "class_specific": null,
+    "level_req": 25,
+    "str_req": 25,
     "dex_req": null,
-    "durability": null,
-    "statistics": {}
+    "durability": 15,
+    "statistics": {
+      "1h_dmg": {
+        "min": 10,
+        "max": 22
+      },
+      "melee_range": 1,
+      "attack_speed": -20,
+      "qlvl": 43
+    }
   },
   {
-    "id": 83,
+    "id": 440,
     "name": "Grave Wand",
     "common_name": "",
     "type": "wand",
     "quality": "normal",
     "level_type": "exceptional",
     "max_sockets": 1,
-    "level_req": null,
-    "str_req": null,
+    "class_specific": null,
+    "level_req": 25,
+    "str_req": 25,
     "dex_req": null,
-    "durability": null,
-    "statistics": {}
+    "durability": 15,
+    "statistics": {
+      "1h_dmg": {
+        "min": 13,
+        "max": 29
+      },
+      "melee_range": 1,
+      "attack_speed": 0,
+      "qlvl": 49
+    }
   },
   {
-    "id": 83,
+    "id": 441,
     "name": "Polished Wand",
     "common_name": "",
     "type": "wand",
     "quality": "normal",
     "level_type": "elite",
-    "max_sockets": 1,
-    "level_req": null,
-    "str_req": null,
+    "max_sockets": 2,
+    "class_specific": null,
+    "level_req": 41,
+    "str_req": 25,
     "dex_req": null,
-    "durability": null,
-    "statistics": {}
+    "durability": 22,
+    "statistics": {
+      "1h_dmg": {
+        "min": 18,
+        "max": 33
+      },
+      "melee_range": 1,
+      "attack_speed": 0,
+      "qlvl": 55
+    }
   },
   {
-    "id": 83,
+    "id": 442,
     "name": "Ghost Wand",
     "common_name": "",
     "type": "wand",
     "quality": "normal",
     "level_type": "elite",
-    "max_sockets": 1,
-    "level_req": null,
-    "str_req": null,
+    "max_sockets": 2,
+    "class_specific": null,
+    "level_req": 48,
+    "str_req": 25,
     "dex_req": null,
-    "durability": null,
-    "statistics": {}
+    "durability": 14,
+    "statistics": {
+      "1h_dmg": {
+        "min": 20,
+        "max": 32
+      },
+      "melee_range": 1,
+      "attack_speed": 10,
+      "qlvl": 65
+    }
   },
   {
-    "id": 83,
+    "id": 443,
     "name": "Lich Wand",
     "common_name": "",
     "type": "wand",
     "quality": "normal",
     "level_type": "elite",
     "max_sockets": 2,
-    "level_req": null,
-    "str_req": null,
+    "class_specific": null,
+    "level_req": 56,
+    "str_req": 25,
     "dex_req": null,
-    "durability": null,
-    "statistics": {}
+    "durability": 17,
+    "statistics": {
+      "1h_dmg": {
+        "min": 10,
+        "max": 31
+      },
+      "melee_range": 1,
+      "attack_speed": -20,
+      "qlvl": 75
+    }
   },
   {
-    "id": 83,
+    "id": 444,
     "name": "Unearthed Wand",
     "common_name": "",
     "type": "wand",
     "quality": "normal",
     "level_type": "elite",
     "max_sockets": 2,
+    "class_specific": null,
     "level_req": null,
-    "str_req": null,
+    "str_req": 25,
     "dex_req": null,
-    "durability": null,
-    "statistics": {}
+    "durability": 18,
+    "statistics": {
+      "1h_dmg": {
+        "min": 22,
+        "max": 28
+      },
+      "melee_range": 1,
+      "attack_speed": 0,
+      "qlvl": 86
+    }
   },
   {
-    "id": 83,
+    "id": 445,
     "name": "Katar",
     "common_name": "",
     "type": "katar",
     "quality": "normal",
     "level_type": "normal",
     "max_sockets": 2,
-    "level_req": null,
-    "str_req": null,
-    "dex_req": null,
-    "durability": null,
     "class_specific": "assassin",
-    "statistics": {}
+    "level_req": null,
+    "str_req": 20,
+    "dex_req": 20,
+    "durability": 48,
+    "statistics": {
+      "1h_dmg": {
+        "min": 4,
+        "max": 7
+      },
+      "melee_range": 2,
+      "attack_speed": -10,
+      "qlvl": 1
+    }
   },
   {
-    "id": 83,
+    "id": 446,
     "name": "Wrist Blade",
     "common_name": "",
     "type": "katar",
     "quality": "normal",
     "level_type": "normal",
     "max_sockets": 2,
-    "level_req": null,
-    "str_req": null,
-    "dex_req": null,
-    "durability": null,
     "class_specific": "assassin",
-    "statistics": {}
+    "level_req": null,
+    "str_req": 33,
+    "dex_req": 33,
+    "durability": 52,
+    "statistics": {
+      "1h_dmg": {
+        "min": 5,
+        "max": 9
+      },
+      "melee_range": 2,
+      "attack_speed": 0,
+      "qlvl": 9
+    }
   },
   {
-    "id": 83,
+    "id": 447,
     "name": "Hatchet Hands",
     "common_name": "",
     "type": "katar",
     "quality": "normal",
     "level_type": "normal",
     "max_sockets": 2,
-    "level_req": null,
-    "str_req": null,
-    "dex_req": null,
-    "durability": null,
     "class_specific": "assassin",
-    "statistics": {}
+    "level_req": null,
+    "str_req": 37,
+    "dex_req": 37,
+    "durability": 56,
+    "statistics": {
+      "1h_dmg": {
+        "min": 2,
+        "max": 15
+      },
+      "melee_range": 2,
+      "attack_speed": 10,
+      "qlvl": 12
+    }
   },
   {
-    "id": 83,
+    "id": 448,
     "name": "Cestus",
     "common_name": "",
     "type": "katar",
     "quality": "normal",
     "level_type": "normal",
     "max_sockets": 2,
-    "level_req": null,
-    "str_req": null,
-    "dex_req": null,
-    "durability": null,
     "class_specific": "assassin",
-    "statistics": {}
+    "level_req": null,
+    "str_req": 42,
+    "dex_req": 42,
+    "durability": 72,
+    "statistics": {
+      "1h_dmg": {
+        "min": 7,
+        "max": 15
+      },
+      "melee_range": 1,
+      "attack_speed": 0,
+      "qlvl": 15
+    }
   },
   {
-    "id": 83,
+    "id": 449,
     "name": "Claws",
     "common_name": "",
     "type": "katar",
     "quality": "normal",
     "level_type": "normal",
-    "max_sockets": 2,
-    "level_req": null,
-    "str_req": null,
-    "dex_req": null,
-    "durability": null,
+    "max_sockets": 3,
     "class_specific": "assassin",
-    "statistics": {}
+    "level_req": null,
+    "str_req": 46,
+    "dex_req": 46,
+    "durability": 64,
+    "statistics": {
+      "1h_dmg": {
+        "min": 8,
+        "max": 15
+      },
+      "melee_range": 2,
+      "attack_speed": -10,
+      "qlvl": 18
+    }
   },
   {
-    "id": 83,
+    "id": 450,
     "name": "Blade Talons",
     "common_name": "",
     "type": "katar",
     "quality": "normal",
     "level_type": "normal",
-    "max_sockets": 2,
-    "level_req": null,
-    "str_req": null,
-    "dex_req": null,
-    "durability": null,
+    "max_sockets": 3,
     "class_specific": "assassin",
-    "statistics": {}
+    "level_req": null,
+    "str_req": 50,
+    "dex_req": 50,
+    "durability": 69,
+    "statistics": {
+      "1h_dmg": {
+        "min": 10,
+        "max": 14
+      },
+      "melee_range": 2,
+      "attack_speed": -20,
+      "qlvl": 21
+    }
   },
   {
-    "id": 83,
+    "id": 451,
     "name": "Scissors Katar",
     "common_name": "",
     "type": "katar",
     "quality": "normal",
     "level_type": "normal",
-    "max_sockets": 2,
-    "level_req": null,
-    "str_req": null,
-    "dex_req": null,
-    "durability": null,
+    "max_sockets": 3,
     "class_specific": "assassin",
-    "statistics": {}
+    "level_req": null,
+    "str_req": 55,
+    "dex_req": 55,
+    "durability": 68,
+    "statistics": {
+      "1h_dmg": {
+        "min": 9,
+        "max": 17
+      },
+      "melee_range": 2,
+      "attack_speed": -10,
+      "qlvl": 24
+    }
   },
   {
-    "id": 83,
+    "id": 452,
     "name": "Quhab",
     "common_name": "",
     "type": "katar",
     "quality": "normal",
     "level_type": "exceptional",
-    "max_sockets": 2,
-    "level_req": null,
-    "str_req": null,
-    "dex_req": null,
-    "durability": null,
+    "max_sockets": 3,
     "class_specific": "assassin",
-    "statistics": {}
+    "level_req": 21,
+    "str_req": 57,
+    "dex_req": 57,
+    "durability": 48,
+    "statistics": {
+      "1h_dmg": {
+        "min": 11,
+        "max": 24
+      },
+      "melee_range": 2,
+      "attack_speed": 0,
+      "qlvl": 28
+    }
   },
   {
-    "id": 83,
+    "id": 453,
     "name": "Wrist Spike",
     "common_name": "",
     "type": "katar",
     "quality": "normal",
     "level_type": "exceptional",
     "max_sockets": 2,
-    "level_req": null,
-    "str_req": null,
-    "dex_req": null,
-    "durability": null,
     "class_specific": "assassin",
-    "statistics": {}
+    "level_req": 24,
+    "str_req": 66,
+    "dex_req": 66,
+    "durability": 56,
+    "statistics": {
+      "1h_dmg": {
+        "min": 13,
+        "max": 27
+      },
+      "melee_range": 2,
+      "attack_speed": -10,
+      "qlvl": 32
+    }
   },
   {
-    "id": 83,
+    "id": 454,
     "name": "Fascia",
     "common_name": "",
     "type": "katar",
     "quality": "normal",
     "level_type": "exceptional",
     "max_sockets": 2,
-    "level_req": null,
-    "str_req": null,
-    "dex_req": null,
-    "durability": null,
     "class_specific": "assassin",
-    "statistics": {}
+    "level_req": 27,
+    "str_req": 69,
+    "dex_req": 69,
+    "durability": 64,
+    "statistics": {
+      "1h_dmg": {
+        "min": 8,
+        "max": 37
+      },
+      "melee_range": 2,
+      "attack_speed": 10,
+      "qlvl": 36
+    }
   },
   {
-    "id": 83,
+    "id": 455,
     "name": "Hand Scythe",
     "common_name": "",
     "type": "katar",
     "quality": "normal",
     "level_type": "exceptional",
     "max_sockets": 2,
-    "level_req": null,
-    "str_req": null,
-    "dex_req": null,
-    "durability": null,
     "class_specific": "assassin",
-    "statistics": {}
+    "level_req": 30,
+    "str_req": 73,
+    "dex_req": 73,
+    "durability": 72,
+    "statistics": {
+      "1h_dmg": {
+        "min": 16,
+        "max": 37
+      },
+      "melee_range": 2,
+      "attack_speed": -10,
+      "qlvl": 41
+    }
   },
   {
-    "id": 83,
+    "id": 456,
     "name": "Greater Claws",
     "common_name": "",
     "type": "katar",
     "quality": "normal",
     "level_type": "exceptional",
-    "max_sockets": 2,
-    "level_req": null,
-    "str_req": null,
-    "dex_req": null,
-    "durability": null,
+    "max_sockets": 3,
     "class_specific": "assassin",
-    "statistics": {}
+    "level_req": 33,
+    "str_req": 76,
+    "dex_req": 76,
+    "durability": 52,
+    "statistics": {
+      "1h_dmg": {
+        "min": 18,
+        "max": 37
+      },
+      "melee_range": 2,
+      "attack_speed": -20,
+      "qlvl": 45
+    }
   },
   {
-    "id": 83,
+    "id": 457,
     "name": "Greater Talons",
     "common_name": "",
     "type": "katar",
     "quality": "normal",
     "level_type": "exceptional",
-    "max_sockets": 2,
-    "level_req": null,
-    "str_req": null,
-    "dex_req": null,
-    "durability": null,
+    "max_sockets": 3,
     "class_specific": "assassin",
-    "statistics": {}
+    "level_req": 37,
+    "str_req": 79,
+    "dex_req": 79,
+    "durability": 69,
+    "statistics": {
+      "1h_dmg": {
+        "min": 21,
+        "max": 35
+      },
+      "melee_range": 2,
+      "attack_speed": -30,
+      "qlvl": 50
+    }
   },
   {
-    "id": 83,
+    "id": 458,
     "name": "Scissors Quhab",
     "common_name": "",
     "type": "katar",
     "quality": "normal",
     "level_type": "exceptional",
-    "max_sockets": 2,
-    "level_req": null,
-    "str_req": null,
-    "dex_req": null,
-    "durability": null,
+    "max_sockets": 3,
     "class_specific": "assassin",
-    "statistics": {}
+    "level_req": 40,
+    "str_req": 82,
+    "dex_req": 82,
+    "durability": 68,
+    "statistics": {
+      "1h_dmg": {
+        "min": 19,
+        "max": 40
+      },
+      "melee_range": 2,
+      "attack_speed": 0,
+      "qlvl": 54
+    }
   },
   {
-    "id": 83,
+    "id": 459,
     "name": "Suwayyah",
     "common_name": "",
     "type": "katar",
     "quality": "normal",
     "level_type": "elite",
-    "max_sockets": 2,
-    "level_req": null,
-    "str_req": null,
-    "dex_req": null,
-    "durability": null,
+    "max_sockets": 3,
     "class_specific": "assassin",
-    "statistics": {}
+    "level_req": 44,
+    "str_req": 99,
+    "dex_req": 99,
+    "durability": 48,
+    "statistics": {
+      "1h_dmg": {
+        "min": 39,
+        "max": 52
+      },
+      "melee_range": 2,
+      "attack_speed": 0,
+      "qlvl": 59
+    }
   },
   {
-    "id": 83,
+    "id": 460,
     "name": "Wrist Sword",
     "common_name": "",
     "type": "katar",
     "quality": "normal",
     "level_type": "elite",
-    "max_sockets": 2,
-    "level_req": null,
-    "str_req": null,
-    "dex_req": null,
-    "durability": null,
+    "max_sockets": 3,
     "class_specific": "assassin",
-    "statistics": {}
+    "level_req": 46,
+    "str_req": 105,
+    "dex_req": 105,
+    "durability": 56,
+    "statistics": {
+      "1h_dmg": {
+        "min": 34,
+        "max": 45
+      },
+      "melee_range": 2,
+      "attack_speed": -10,
+      "qlvl": 62
+    }
   },
   {
-    "id": 83,
+    "id": 461,
     "name": "War Fist",
     "common_name": "",
     "type": "katar",
     "quality": "normal",
     "level_type": "elite",
     "max_sockets": 2,
-    "level_req": null,
-    "str_req": null,
-    "dex_req": null,
-    "durability": null,
     "class_specific": "assassin",
-    "statistics": {}
+    "level_req": 51,
+    "str_req": 108,
+    "dex_req": 108,
+    "durability": 64,
+    "statistics": {
+      "1h_dmg": {
+        "min": 44,
+        "max": 53
+      },
+      "melee_range": 2,
+      "attack_speed": 10,
+      "qlvl": 68
+    }
   },
   {
-    "id": 83,
+    "id": 462,
     "name": "Battle Cestus",
     "common_name": "",
     "type": "katar",
     "quality": "normal",
     "level_type": "elite",
     "max_sockets": 2,
-    "level_req": null,
-    "str_req": null,
-    "dex_req": null,
-    "durability": null,
     "class_specific": "assassin",
-    "statistics": {}
+    "level_req": 54,
+    "str_req": 110,
+    "dex_req": 110,
+    "durability": 72,
+    "statistics": {
+      "1h_dmg": {
+        "min": 36,
+        "max": 42
+      },
+      "melee_range": 2,
+      "attack_speed": -10,
+      "qlvl": 73
+    }
   },
   {
-    "id": 83,
+    "id": 463,
     "name": "Feral Claws",
     "common_name": "",
     "type": "katar",
     "quality": "normal",
     "level_type": "elite",
-    "max_sockets": 2,
-    "level_req": null,
-    "str_req": null,
-    "dex_req": null,
-    "durability": null,
+    "max_sockets": 3,
     "class_specific": "assassin",
-    "statistics": {}
+    "level_req": 58,
+    "str_req": 113,
+    "dex_req": 113,
+    "durability": 52,
+    "statistics": {
+      "1h_dmg": {
+        "min": 22,
+        "max": 53
+      },
+      "melee_range": 2,
+      "attack_speed": -20,
+      "qlvl": 78
+    }
   },
   {
-    "id": 83,
+    "id": 464,
     "name": "Runic Talons",
     "common_name": "",
     "type": "katar",
     "quality": "normal",
     "level_type": "elite",
-    "max_sockets": 2,
-    "level_req": null,
-    "str_req": null,
-    "dex_req": null,
-    "durability": null,
+    "max_sockets": 3,
     "class_specific": "assassin",
-    "statistics": {}
+    "level_req": 60,
+    "str_req": 115,
+    "dex_req": 115,
+    "durability": 69,
+    "statistics": {
+      "1h_dmg": {
+        "min": 24,
+        "max": 44
+      },
+      "melee_range": 2,
+      "attack_speed": -30,
+      "qlvl": 81
+    }
   },
   {
-    "id": 83,
+    "id": 465,
     "name": "Scissors Suwayyah",
     "common_name": "",
     "type": "katar",
     "quality": "normal",
     "level_type": "elite",
-    "max_sockets": 2,
-    "level_req": null,
-    "str_req": null,
-    "dex_req": null,
-    "durability": null,
+    "max_sockets": 3,
     "class_specific": "assassin",
-    "statistics": {}
+    "level_req": 64,
+    "str_req": 118,
+    "dex_req": 118,
+    "durability": 68,
+    "statistics": {
+      "1h_dmg": {
+        "min": 40,
+        "max": 51
+      },
+      "melee_range": 2,
+      "attack_speed": 0,
+      "qlvl": 85
+    }
   },
   {
-    "id": 83,
+    "id": 466,
     "name": "Stag Bow",
     "common_name": "",
     "type": "amazon_bow",
     "quality": "normal",
     "level_type": "normal",
     "max_sockets": 5,
+    "class_specific": "amazon",
     "level_req": 14,
     "str_req": 30,
     "dex_req": 45,
     "durability": null,
-    "class_specific": "amazon",
-    "statistics": {}
+    "statistics": {
+      "2h_dmg": {
+        "min": 7,
+        "max": 12
+      },
+      "attack_speed": 0,
+      "qlvl": 18
+    }
   },
   {
-    "id": 83,
+    "id": 467,
     "name": "Reflex Bow",
     "common_name": "",
     "type": "amazon_bow",
     "quality": "normal",
     "level_type": "normal",
     "max_sockets": 5,
-    "level_req": 14,
-    "str_req": 30,
-    "dex_req": 45,
-    "durability": null,
     "class_specific": "amazon",
-    "statistics": {}
+    "level_req": 20,
+    "str_req": 35,
+    "dex_req": 60,
+    "durability": null,
+    "statistics": {
+      "2h_dmg": {
+        "min": 9,
+        "max": 19
+      },
+      "attack_speed": 10,
+      "qlvl": 27
+    }
   },
   {
-    "id": 83,
+    "id": 468,
     "name": "Ashwood Bow",
     "common_name": "",
     "type": "amazon_bow",
     "quality": "normal",
     "level_type": "exceptional",
     "max_sockets": 5,
-    "level_req": 14,
-    "str_req": 30,
-    "dex_req": 45,
-    "durability": null,
     "class_specific": "amazon",
-    "statistics": {}
+    "level_req": 29,
+    "str_req": 56,
+    "dex_req": 77,
+    "durability": null,
+    "statistics": {
+      "2h_dmg": {
+        "min": 16,
+        "max": 29
+      },
+      "attack_speed": 0,
+      "qlvl": 39
+    }
   },
   {
-    "id": 83,
+    "id": 469,
     "name": "Ceremonial Bow",
     "common_name": "",
     "type": "amazon_bow",
     "quality": "normal",
     "level_type": "exceptional",
     "max_sockets": 5,
-    "level_req": 14,
-    "str_req": 30,
-    "dex_req": 45,
-    "durability": null,
     "class_specific": "amazon",
-    "statistics": {}
+    "level_req": 35,
+    "str_req": 73,
+    "dex_req": 110,
+    "durability": null,
+    "statistics": {
+      "2h_dmg": {
+        "min": 19,
+        "max": 41
+      },
+      "attack_speed": 10,
+      "qlvl": 47
+    }
   },
   {
-    "id": 83,
+    "id": 470,
     "name": "Matriarchal Bow",
     "common_name": "",
     "type": "amazon_bow",
     "quality": "normal",
     "level_type": "elite",
     "max_sockets": 5,
-    "level_req": 14,
-    "str_req": 30,
-    "dex_req": 45,
-    "durability": null,
     "class_specific": "amazon",
-    "statistics": {}
+    "level_req": 39,
+    "str_req": 87,
+    "dex_req": 187,
+    "durability": null,
+    "statistics": {
+      "2h_dmg": {
+        "min": 20,
+        "max": 47
+      },
+      "attack_speed": -10,
+      "qlvl": 53
+    }
   },
   {
-    "id": 83,
+    "id": 471,
     "name": "Grand Matron Bow",
     "common_name": "",
     "type": "amazon_bow",
     "quality": "normal",
     "level_type": "elite",
     "max_sockets": 5,
-    "level_req": 14,
-    "str_req": 30,
-    "dex_req": 45,
-    "durability": null,
     "class_specific": "amazon",
-    "statistics": {}
+    "level_req": 58,
+    "str_req": 108,
+    "dex_req": 152,
+    "durability": null,
+    "statistics": {
+      "2h_dmg": {
+        "min": 14,
+        "max": 72
+      },
+      "attack_speed": 10,
+      "qlvl": 78
+    }
   },
   {
-    "id": 83,
+    "id": 472,
     "name": "Maiden Spear",
     "common_name": "",
     "type": "amazon_spear",
     "quality": "normal",
     "level_type": "normal",
-    "max_sockets": 5,
-    "level_req": 14,
-    "str_req": 30,
-    "dex_req": 45,
-    "durability": null,
+    "max_sockets": 6,
     "class_specific": "amazon",
-    "statistics": {}
+    "level_req": 14,
+    "str_req": 54,
+    "dex_req": 40,
+    "durability": 28,
+    "statistics": {
+      "2h_dmg": {
+        "min": 18,
+        "max": 24
+      },
+      "melee_range": 5,
+      "attack_speed": 0,
+      "qlvl": 18
+    }
   },
   {
-    "id": 83,
+    "id": 473,
     "name": "Maiden Pike",
     "common_name": "",
     "type": "amazon_spear",
     "quality": "normal",
     "level_type": "normal",
-    "max_sockets": 5,
-    "level_req": 14,
-    "str_req": 30,
-    "dex_req": 45,
-    "durability": null,
+    "max_sockets": 6,
     "class_specific": "amazon",
-    "statistics": {}
+    "level_req": 20,
+    "str_req": 63,
+    "dex_req": 52,
+    "durability": 25,
+    "statistics": {
+      "2h_dmg": {
+        "min": 23,
+        "max": 55
+      },
+      "melee_range": 5,
+      "attack_speed": 10,
+      "qlvl": 27
+    }
   },
   {
-    "id": 83,
+    "id": 474,
     "name": "Ceremonial Spear",
     "common_name": "",
     "type": "amazon_spear",
     "quality": "normal",
-    "level_type": "normal",
-    "max_sockets": 5,
-    "level_req": 14,
-    "str_req": 30,
-    "dex_req": 45,
-    "durability": null,
+    "level_type": "exceptional",
+    "max_sockets": 6,
     "class_specific": "amazon",
-    "statistics": {}
+    "level_req": 32,
+    "str_req": 101,
+    "dex_req": 80,
+    "durability": 28,
+    "statistics": {
+      "2h_dmg": {
+        "min": 34,
+        "max": 51
+      },
+      "melee_range": 5,
+      "attack_speed": 0,
+      "qlvl": 43
+    }
   },
   {
-    "id": 83,
+    "id": 475,
     "name": "Ceremonial Pike",
     "common_name": "",
     "type": "amazon_spear",
     "quality": "normal",
-    "level_type": "normal",
-    "max_sockets": 5,
-    "level_req": 14,
-    "str_req": 30,
-    "dex_req": 45,
-    "durability": null,
+    "level_type": "exceptional",
+    "max_sockets": 6,
     "class_specific": "amazon",
-    "statistics": {}
+    "level_req": 38,
+    "str_req": 115,
+    "dex_req": 98,
+    "durability": 25,
+    "statistics": {
+      "2h_dmg": {
+        "min": 42,
+        "max": 101
+      },
+      "melee_range": 5,
+      "attack_speed": 20,
+      "qlvl": 51
+    }
   },
   {
-    "id": 83,
+    "id": 476,
     "name": "Matriarchal Spear",
     "common_name": "",
     "type": "amazon_spear",
     "quality": "normal",
-    "level_type": "normal",
-    "max_sockets": 5,
-    "level_req": 14,
-    "str_req": 30,
-    "dex_req": 45,
-    "durability": null,
+    "level_type": "elite",
+    "max_sockets": 6,
     "class_specific": "amazon",
-    "statistics": {}
+    "level_req": 45,
+    "str_req": 114,
+    "dex_req": 142,
+    "durability": 28,
+    "statistics": {
+      "2h_dmg": {
+        "min": 65,
+        "max": 95
+      },
+      "melee_range": 5,
+      "attack_speed": 0,
+      "qlvl": 61
+    }
   },
   {
-    "id": 83,
+    "id": 477,
     "name": "Matriarchal Pike",
     "common_name": "",
     "type": "amazon_spear",
     "quality": "normal",
-    "level_type": "normal",
-    "max_sockets": 5,
-    "level_req": 14,
-    "str_req": 30,
-    "dex_req": 45,
-    "durability": null,
+    "level_type": "elite",
+    "max_sockets": 6,
     "class_specific": "amazon",
-    "statistics": {}
+    "level_req": 60,
+    "str_req": 132,
+    "dex_req": 149,
+    "durability": 25,
+    "statistics": {
+      "2h_dmg": {
+        "min": 37,
+        "max": 153
+      },
+      "melee_range": 5,
+      "attack_speed": 20,
+      "qlvl": 81
+    }
   },
   {
-    "id": 83,
+    "id": 478,
     "name": "Maiden Javelin",
     "common_name": "",
     "type": "amazon_javelin",
     "quality": "normal",
     "level_type": "normal",
-    "max_sockets": 5,
-    "level_req": 14,
-    "str_req": 30,
-    "dex_req": 45,
-    "durability": null,
+    "max_sockets": 0,
     "class_specific": "amazon",
-    "statistics": {}
+    "level_req": 17,
+    "str_req": 33,
+    "dex_req": 47,
+    "durability": null,
+    "statistics": {
+      "throw_dmg": {
+        "min": 6,
+        "max": 22
+      },
+      "1h_dmg": {
+        "min": 34,
+        "max": 51
+      },
+      "melee_range": 2,
+      "attack_speed": -10,
+      "qlvl": 23
+    }
   },
   {
-    "id": 83,
+    "id": 479,
     "name": "Ceremonial Javelin",
     "common_name": "",
     "type": "amazon_javelin",
     "quality": "normal",
-    "level_type": "normal",
-    "max_sockets": 5,
-    "level_req": 14,
-    "str_req": 30,
-    "dex_req": 45,
-    "durability": null,
+    "level_type": "exceptional",
+    "max_sockets": 0,
     "class_specific": "amazon",
-    "statistics": {}
+    "level_req": 26,
+    "str_req": 25,
+    "dex_req": 109,
+    "durability": null,
+    "statistics": {
+      "throw_dmg": {
+        "min": 18,
+        "max": 54
+      },
+      "1h_dmg": {
+        "min": 18,
+        "max": 35
+      },
+      "melee_range": 2,
+      "attack_speed": -10,
+      "qlvl": 35
+    }
   },
   {
-    "id": 83,
+    "id": 480,
     "name": "Matriarchal Javelin",
     "common_name": "",
     "type": "amazon_javelin",
     "quality": "normal",
-    "level_type": "normal",
+    "level_type": "elite",
     "max_sockets": 5,
-    "level_req": 14,
-    "str_req": 30,
-    "dex_req": 45,
-    "durability": null,
     "class_specific": "amazon",
-    "statistics": {}
+    "level_req": 48,
+    "str_req": 107,
+    "dex_req": 151,
+    "durability": null,
+    "statistics": {
+      "throw_dmg": {
+        "min": 35,
+        "max": 66
+      },
+      "1h_dmg": {
+        "min": 30,
+        "max": 54
+      },
+      "melee_range": 2,
+      "attack_speed": -10,
+      "qlvl": 65
+    }
   },
   {
-    "id": 83,
+    "id": 481,
     "name": "Eagle Orb",
     "common_name": "",
     "type": "orb",
     "quality": "normal",
     "level_type": "normal",
     "max_sockets": 2,
-    "level_req": 14,
+    "class_specific": "sorceress",
+    "level_req": null,
     "str_req": null,
     "dex_req": null,
-    "durability": null,
-    "class_specific": "sorceress",
-    "statistics": {}
+    "durability": 20,
+    "statistics": {
+      "1h_dmg": {
+        "min": 2,
+        "max": 5
+      },
+      "melee_range": 1,
+      "attack_speed": -10,
+      "qlvl": 1
+    }
   },
   {
-    "id": 83,
+    "id": 482,
     "name": "Sacred Globe",
     "common_name": "",
     "type": "orb",
     "quality": "normal",
     "level_type": "normal",
     "max_sockets": 2,
-    "level_req": 14,
+    "class_specific": "sorceress",
+    "level_req": null,
     "str_req": null,
     "dex_req": null,
-    "durability": null,
-    "class_specific": "sorceress",
-    "statistics": {}
+    "durability": 30,
+    "statistics": {
+      "1h_dmg": {
+        "min": 3,
+        "max": 8
+      },
+      "melee_range": 1,
+      "attack_speed": -10,
+      "qlvl": 8
+    }
   },
   {
-    "id": 83,
+    "id": 483,
     "name": "Smoked Sphere",
     "common_name": "",
     "type": "orb",
     "quality": "normal",
     "level_type": "normal",
     "max_sockets": 2,
-    "level_req": 14,
+    "class_specific": "sorceress",
+    "level_req": null,
     "str_req": null,
     "dex_req": null,
-    "durability": null,
-    "class_specific": "sorceress",
-    "statistics": {}
+    "durability": 35,
+    "statistics": {
+      "1h_dmg": {
+        "min": 4,
+        "max": 10
+      },
+      "melee_range": 1,
+      "attack_speed": 0,
+      "qlvl": 12
+    }
   },
   {
-    "id": 83,
+    "id": 484,
     "name": "Clasped Orb",
     "common_name": "",
     "type": "orb",
     "quality": "normal",
     "level_type": "normal",
     "max_sockets": 2,
-    "level_req": 14,
+    "class_specific": "sorceress",
+    "level_req": null,
     "str_req": null,
     "dex_req": null,
-    "durability": null,
-    "class_specific": "sorceress",
-    "statistics": {}
+    "durability": 40,
+    "statistics": {
+      "1h_dmg": {
+        "min": 5,
+        "max": 12
+      },
+      "melee_range": 1,
+      "attack_speed": 0,
+      "qlvl": 17
+    }
   },
   {
-    "id": 83,
+    "id": 485,
     "name": "Jared's Stone",
     "common_name": "",
     "type": "orb",
     "quality": "normal",
     "level_type": "normal",
-    "max_sockets": 2,
-    "level_req": 14,
+    "max_sockets": 3,
+    "class_specific": "sorceress",
+    "level_req": null,
     "str_req": null,
     "dex_req": null,
     "durability": 50,
-    "class_specific": "sorceress",
-    "statistics": {}
+    "statistics": {
+      "1h_dmg": {
+        "min": 8,
+        "max": 18
+      },
+      "melee_range": 1,
+      "attack_speed": 10,
+      "qlvl": 24
+    }
   },
   {
-    "id": 83,
+    "id": 486,
     "name": "Glowing Orb",
     "common_name": "",
     "type": "orb",
     "quality": "normal",
     "level_type": "exceptional",
     "max_sockets": 2,
-    "level_req": 14,
+    "class_specific": "sorceress",
+    "level_req": 24,
     "str_req": null,
     "dex_req": null,
-    "durability": null,
-    "class_specific": "sorceress",
-    "statistics": {}
+    "durability": 20,
+    "statistics": {
+      "1h_dmg": {
+        "min": 8,
+        "max": 21
+      },
+      "melee_range": 1,
+      "attack_speed": -10,
+      "qlvl": 32
+    }
   },
   {
-    "id": 83,
+    "id": 487,
     "name": "Crystalline Globe",
     "common_name": "",
     "type": "orb",
     "quality": "normal",
     "level_type": "exceptional",
     "max_sockets": 2,
-    "level_req": 14,
+    "class_specific": "sorceress",
+    "level_req": 27,
     "str_req": null,
     "dex_req": null,
-    "durability": null,
-    "class_specific": "sorceress",
-    "statistics": {}
+    "durability": 30,
+    "statistics": {
+      "1h_dmg": {
+        "min": 10,
+        "max": 26
+      },
+      "melee_range": 1,
+      "attack_speed": -10,
+      "qlvl": 37
+    }
   },
   {
-    "id": 83,
+    "id": 488,
     "name": "Cloudy Sphere",
     "common_name": "",
     "type": "orb",
     "quality": "normal",
     "level_type": "exceptional",
     "max_sockets": 2,
-    "level_req": 14,
+    "class_specific": "sorceress",
+    "level_req": 30,
     "str_req": null,
     "dex_req": null,
-    "durability": null,
-    "class_specific": "sorceress",
-    "statistics": {}
+    "durability": 35,
+    "statistics": {
+      "1h_dmg": {
+        "min": 11,
+        "max": 29
+      },
+      "melee_range": 1,
+      "attack_speed": 0,
+      "qlvl": 41
+    }
   },
   {
-    "id": 83,
+    "id": 489,
     "name": "Sparkling Ball",
     "common_name": "",
     "type": "orb",
     "quality": "normal",
     "level_type": "exceptional",
     "max_sockets": 2,
-    "level_req": 14,
+    "class_specific": "sorceress",
+    "level_req": 34,
     "str_req": null,
     "dex_req": null,
-    "durability": null,
-    "class_specific": "sorceress",
-    "statistics": {}
+    "durability": 40,
+    "statistics": {
+      "1h_dmg": {
+        "min": 13,
+        "max": 52
+      },
+      "melee_range": 1,
+      "attack_speed": 0,
+      "qlvl": 34
+    }
   },
   {
-    "id": 83,
+    "id": 490,
     "name": "Swirling Crystal",
     "common_name": "",
     "type": "orb",
     "quality": "normal",
     "level_type": "exceptional",
     "max_sockets": 2,
-    "level_req": 14,
+    "class_specific": "sorceress",
+    "level_req": 37,
     "str_req": null,
     "dex_req": null,
     "durability": 50,
-    "class_specific": "sorceress",
-    "statistics": {}
+    "statistics": {
+      "1h_dmg": {
+        "min": 18,
+        "max": 42
+      },
+      "melee_range": 1,
+      "attack_speed": 10,
+      "qlvl": 50
+    }
   },
   {
-    "id": 83,
+    "id": 491,
     "name": "Heavenly Stone",
     "common_name": "",
     "type": "orb",
     "quality": "normal",
     "level_type": "elite",
     "max_sockets": 2,
-    "level_req": 14,
+    "class_specific": "sorceress",
+    "level_req": 44,
     "str_req": null,
     "dex_req": null,
-    "durability": null,
-    "class_specific": "sorceress",
-    "statistics": {}
+    "durability": 20,
+    "statistics": {
+      "1h_dmg": {
+        "min": 21,
+        "max": 46
+      },
+      "melee_range": 1,
+      "attack_speed": -10,
+      "qlvl": 59
+    }
   },
   {
-    "id": 83,
+    "id": 492,
     "name": "Eldritch Orb",
     "common_name": "",
     "type": "orb",
     "quality": "normal",
     "level_type": "elite",
     "max_sockets": 2,
-    "level_req": 14,
+    "class_specific": "sorceress",
+    "level_req": 50,
     "str_req": null,
     "dex_req": null,
-    "durability": null,
-    "class_specific": "sorceress",
-    "statistics": {}
+    "durability": 30,
+    "statistics": {
+      "1h_dmg": {
+        "min": 18,
+        "max": 50
+      },
+      "melee_range": 1,
+      "attack_speed": -10,
+      "qlvl": 67
+    }
   },
   {
-    "id": 83,
+    "id": 493,
     "name": "Demon Heart",
     "common_name": "",
     "type": "orb",
     "quality": "normal",
     "level_type": "elite",
     "max_sockets": 2,
-    "level_req": 14,
+    "class_specific": "sorceress",
+    "level_req": 56,
     "str_req": null,
     "dex_req": null,
-    "durability": null,
-    "class_specific": "sorceress",
-    "statistics": {}
+    "durability": 35,
+    "statistics": {
+      "1h_dmg": {
+        "min": 23,
+        "max": 55
+      },
+      "melee_range": 1,
+      "attack_speed": 0,
+      "qlvl": 75
+    }
   },
   {
-    "id": 83,
+    "id": 494,
     "name": "Vortex Orb",
     "common_name": "",
     "type": "orb",
     "quality": "normal",
     "level_type": "elite",
     "max_sockets": 2,
-    "level_req": 14,
+    "class_specific": "sorceress",
+    "level_req": 63,
     "str_req": null,
     "dex_req": null,
-    "durability": null,
-    "class_specific": "sorceress",
-    "statistics": {}
+    "durability": 40,
+    "statistics": {
+      "1h_dmg": {
+        "min": 12,
+        "max": 66
+      },
+      "melee_range": 1,
+      "attack_speed": 0,
+      "qlvl": 84
+    }
   },
   {
-    "id": 83,
+    "id": 495,
     "name": "Dimensional Shard",
     "common_name": "",
     "type": "orb",
     "quality": "normal",
     "level_type": "elite",
-    "max_sockets": 2,
-    "level_req": 14,
+    "max_sockets": 3,
+    "class_specific": "sorceress",
+    "level_req": 66,
     "str_req": null,
     "dex_req": null,
     "durability": 50,
-    "class_specific": "sorceress",
-    "statistics": {}
+    "statistics": {
+      "1h_dmg": {
+        "min": 30,
+        "max": 53
+      },
+      "melee_range": 1,
+      "attack_speed": 10,
+      "qlvl": 85
+    }
   }
 ]
