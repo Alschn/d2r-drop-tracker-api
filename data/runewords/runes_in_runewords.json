@@ -1,8 +1,1814 @@
 [
   {
-    "id": 0,
-    "item": "",
-    "set": "",
-    "bonus": ""
+    "id": 1,
+    "runeword_id": 1,
+    "rune_id": 8,
+    "order": 0
+  },
+  {
+    "id": 2,
+    "runeword_id": 1,
+    "rune_id": 9,
+    "order": 1
+  },
+  {
+    "id": 3,
+    "runeword_id": 1,
+    "rune_id": 7,
+    "order": 3
+  },
+  {
+    "id": 4,
+    "runeword_id": 2,
+    "rune_id": 30,
+    "order": 0
+  },
+  {
+    "id": 5,
+    "runeword_id": 2,
+    "rune_id": 3,
+    "order": 1
+  },
+  {
+    "id": 6,
+    "runeword_id": 2,
+    "rune_id": 22,
+    "order": 2
+  },
+  {
+    "id": 7,
+    "runeword_id": 2,
+    "rune_id": 23,
+    "order": 3
+  },
+  {
+    "id": 8,
+    "runeword_id": 2,
+    "rune_id": 17,
+    "order": 4
+  },
+  {
+    "id": 9,
+    "runeword_id": 3,
+    "rune_id": 10,
+    "order": 0
+  },
+  {
+    "id": 10,
+    "runeword_id": 3,
+    "rune_id": 16,
+    "order": 1
+  },
+  {
+    "id": 11,
+    "runeword_id": 3,
+    "rune_id": 4,
+    "order": 2
+  },
+  {
+    "id": 12,
+    "runeword_id": 4,
+    "rune_id": 12,
+    "order": 0
+  },
+  {
+    "id": 13,
+    "runeword_id": 4,
+    "rune_id": 22,
+    "order": 1
+  },
+  {
+    "id": 14,
+    "runeword_id": 4,
+    "rune_id": 22,
+    "order": 2
+  },
+  {
+    "id": 15,
+    "runeword_id": 5,
+    "rune_id": 8,
+    "order": 0
+  },
+  {
+    "id": 16,
+    "runeword_id": 5,
+    "rune_id": 27,
+    "order": 1
+  },
+  {
+    "id": 17,
+    "runeword_id": 5,
+    "rune_id": 29,
+    "order": 2
+  },
+  {
+    "id": 18,
+    "runeword_id": 5,
+    "rune_id": 5,
+    "order": 3
+  },
+  {
+    "id": 19,
+    "runeword_id": 6,
+    "rune_id": 31,
+    "order": 0
+  },
+  {
+    "id": 20,
+    "runeword_id": 6,
+    "rune_id": 28,
+    "order": 1
+  },
+  {
+    "id": 21,
+    "runeword_id": 6,
+    "rune_id": 23,
+    "order": 2
+  },
+  {
+    "id": 23,
+    "runeword_id": 6,
+    "rune_id": 25,
+    "order": 3
+  },
+  {
+    "id": 24,
+    "runeword_id": 7,
+    "rune_id": 26,
+    "order": 0
+  },
+  {
+    "id": 25,
+    "runeword_id": 7,
+    "rune_id": 15,
+    "order": 1
+  },
+  {
+    "id": 26,
+    "runeword_id": 7,
+    "rune_id": 1,
+    "order": 2
+  },
+  {
+    "id": 27,
+    "runeword_id": 7,
+    "rune_id": 2,
+    "order": 3
+  },
+  {
+    "id": 28,
+    "runeword_id": 7,
+    "rune_id": 33,
+    "order": 4
+  },
+  {
+    "id": 29,
+    "runeword_id": 7,
+    "rune_id": 5,
+    "order": 5
+  },
+  {
+    "id": 30,
+    "runeword_id": 8,
+    "rune_id": 11,
+    "order": 0
+  },
+  {
+    "id": 31,
+    "runeword_id": 8,
+    "rune_id": 8,
+    "order": 1
+  },
+  {
+    "id": 32,
+    "runeword_id": 8,
+    "rune_id": 23,
+    "order": 2
+  },
+  {
+    "id": 33,
+    "runeword_id": 8,
+    "rune_id": 24,
+    "order": 3
+  },
+  {
+    "id": 34,
+    "runeword_id": 8,
+    "rune_id": 27,
+    "order": 4
+  },
+  {
+    "id": 35,
+    "runeword_id": 9,
+    "rune_id": 14,
+    "order": 0
+  },
+  {
+    "id": 36,
+    "runeword_id": 9,
+    "rune_id": 22,
+    "order": 1
+  },
+  {
+    "id": 37,
+    "runeword_id": 9,
+    "rune_id": 30,
+    "order": 2
+  },
+  {
+    "id": 38,
+    "runeword_id": 9,
+    "rune_id": 24,
+    "order": 3
+  },
+  {
+    "id": 39,
+    "runeword_id": 10,
+    "rune_id": 19,
+    "order": 0
+  },
+  {
+    "id": 40,
+    "runeword_id": 10,
+    "rune_id": 27,
+    "order": 1
+  },
+  {
+    "id": 41,
+    "runeword_id": 10,
+    "rune_id": 22,
+    "order": 2
+  },
+  {
+    "id": 42,
+    "runeword_id": 11,
+    "rune_id": 13,
+    "order": 0
+  },
+  {
+    "id": 43,
+    "runeword_id": 11,
+    "rune_id": 22,
+    "order": 1
+  },
+  {
+    "id": 44,
+    "runeword_id": 11,
+    "rune_id": 3,
+    "order": 2
+  },
+  {
+    "id": 45,
+    "runeword_id": 12,
+    "rune_id": 15,
+    "order": 0
+  },
+  {
+    "id": 46,
+    "runeword_id": 12,
+    "rune_id": 1,
+    "order": 1
+  },
+  {
+    "id": 47,
+    "runeword_id": 12,
+    "rune_id": 26,
+    "order": 2
+  },
+  {
+    "id": 48,
+    "runeword_id": 12,
+    "rune_id": 9,
+    "order": 3
+  },
+  {
+    "id": 49,
+    "runeword_id": 12,
+    "rune_id": 25,
+    "order": 4
+  },
+  {
+    "id": 50,
+    "runeword_id": 13,
+    "rune_id": 20,
+    "order": 0
+  },
+  {
+    "id": 51,
+    "runeword_id": 13,
+    "rune_id": 24,
+    "order": 1
+  },
+  {
+    "id": 52,
+    "runeword_id": 13,
+    "rune_id": 16,
+    "order": 2
+  },
+  {
+    "id": 53,
+    "runeword_id": 14,
+    "rune_id": 26,
+    "order": 0
+  },
+  {
+    "id": 54,
+    "runeword_id": 14,
+    "rune_id": 28,
+    "order": 1
+  },
+  {
+    "id": 55,
+    "runeword_id": 14,
+    "rune_id": 30,
+    "order": 2
+  },
+  {
+    "id": 56,
+    "runeword_id": 14,
+    "rune_id": 31,
+    "order": 3
+  },
+  {
+    "id": 57,
+    "runeword_id": 14,
+    "rune_id": 18,
+    "order": 4
+  },
+  {
+    "id": 58,
+    "runeword_id": 15,
+    "rune_id": 15,
+    "order": 0
+  },
+  {
+    "id": 59,
+    "runeword_id": 15,
+    "rune_id": 27,
+    "order": 1
+  },
+  {
+    "id": 60,
+    "runeword_id": 15,
+    "rune_id": 22,
+    "order": 2
+  },
+  {
+    "id": 61,
+    "runeword_id": 15,
+    "rune_id": 28,
+    "order": 3
+  },
+  {
+    "id": 62,
+    "runeword_id": 15,
+    "rune_id": 32,
+    "order": 4
+  },
+  {
+    "id": 63,
+    "runeword_id": 16,
+    "rune_id": 29,
+    "order": 0
+  },
+  {
+    "id": 64,
+    "runeword_id": 16,
+    "rune_id": 28,
+    "order": 1
+  },
+  {
+    "id": 65,
+    "runeword_id": 16,
+    "rune_id": 12,
+    "order": 2
+  },
+  {
+    "id": 66,
+    "runeword_id": 17,
+    "rune_id": 16,
+    "order": 0
+  },
+  {
+    "id": 67,
+    "runeword_id": 17,
+    "rune_id": 31,
+    "order": 1
+  },
+  {
+    "id": 68,
+    "runeword_id": 17,
+    "rune_id": 21,
+    "order": 2
+  },
+  {
+    "id": 69,
+    "runeword_id": 18,
+    "rune_id": 13,
+    "order": 0
+  },
+  {
+    "id": 70,
+    "runeword_id": 18,
+    "rune_id": 22,
+    "order": 1
+  },
+  {
+    "id": 71,
+    "runeword_id": 18,
+    "rune_id": 10,
+    "order": 2
+  },
+  {
+    "id": 72,
+    "runeword_id": 19,
+    "rune_id": 3,
+    "order": 0
+  },
+  {
+    "id": 73,
+    "runeword_id": 19,
+    "rune_id": 7,
+    "order": 1
+  },
+  {
+    "id": 74,
+    "runeword_id": 19,
+    "rune_id": 11,
+    "order": 2
+  },
+  {
+    "id": 75,
+    "runeword_id": 20,
+    "rune_id": 31,
+    "order": 0
+  },
+  {
+    "id": 76,
+    "runeword_id": 20,
+    "rune_id": 6,
+    "order": 1
+  },
+  {
+    "id": 77,
+    "runeword_id": 20,
+    "rune_id": 30,
+    "order": 2
+  },
+  {
+    "id": 78,
+    "runeword_id": 21,
+    "rune_id": 21,
+    "order": 0
+  },
+  {
+    "id": 79,
+    "runeword_id": 21,
+    "rune_id": 8,
+    "order": 1
+  },
+  {
+    "id": 80,
+    "runeword_id": 21,
+    "rune_id": 12,
+    "order": 2
+  },
+  {
+    "id": 81,
+    "runeword_id": 22,
+    "rune_id": 11,
+    "order": 0
+  },
+  {
+    "id": 82,
+    "runeword_id": 22,
+    "rune_id": 30,
+    "order": 1
+  },
+  {
+    "id": 83,
+    "runeword_id": 22,
+    "rune_id": 24,
+    "order": 2
+  },
+  {
+    "id": 84,
+    "runeword_id": 22,
+    "rune_id": 12,
+    "order": 3
+  },
+  {
+    "id": 85,
+    "runeword_id": 22,
+    "rune_id": 29,
+    "order": 4
+  },
+  {
+    "id": 86,
+    "runeword_id": 23,
+    "rune_id": 26,
+    "order": 0
+  },
+  {
+    "id": 87,
+    "runeword_id": 23,
+    "rune_id": 27,
+    "order": 1
+  },
+  {
+    "id": 88,
+    "runeword_id": 23,
+    "rune_id": 24,
+    "order": 2
+  },
+  {
+    "id": 89,
+    "runeword_id": 23,
+    "rune_id": 14,
+    "order": 3
+  },
+  {
+    "id": 90,
+    "runeword_id": 24,
+    "rune_id": 27,
+    "order": 0
+  },
+  {
+    "id": 91,
+    "runeword_id": 24,
+    "rune_id": 31,
+    "order": 1
+  },
+  {
+    "id": 92,
+    "runeword_id": 24,
+    "rune_id": 20,
+    "order": 2
+  },
+  {
+    "id": 93,
+    "runeword_id": 24,
+    "rune_id": 2,
+    "order": 3
+  },
+  {
+    "id": 94,
+    "runeword_id": 25,
+    "rune_id": 19,
+    "order": 0
+  },
+  {
+    "id": 95,
+    "runeword_id": 25,
+    "rune_id": 27,
+    "order": 1
+  },
+  {
+    "id": 96,
+    "runeword_id": 25,
+    "rune_id": 9,
+    "order": 2
+  },
+  {
+    "id": 97,
+    "runeword_id": 25,
+    "rune_id": 31,
+    "order": 3
+  },
+  {
+    "id": 98,
+    "runeword_id": 26,
+    "rune_id": 1,
+    "order": 0
+  },
+  {
+    "id": 99,
+    "runeword_id": 26,
+    "rune_id": 12,
+    "order": 1
+  },
+  {
+    "id": 100,
+    "runeword_id": 26,
+    "rune_id": 14,
+    "order": 2
+  },
+  {
+    "id": 101,
+    "runeword_id": 26,
+    "rune_id": 28,
+    "order": 3
+  },
+  {
+    "id": 102,
+    "runeword_id": 27,
+    "rune_id": 31,
+    "order": 0
+  },
+  {
+    "id": 103,
+    "runeword_id": 27,
+    "rune_id": 25,
+    "order": 1
+  },
+  {
+    "id": 104,
+    "runeword_id": 27,
+    "rune_id": 5,
+    "order": 2
+  },
+  {
+    "id": 105,
+    "runeword_id": 28,
+    "rune_id": 19,
+    "order": 0
+  },
+  {
+    "id": 106,
+    "runeword_id": 28,
+    "rune_id": 22,
+    "order": 1
+  },
+  {
+    "id": 107,
+    "runeword_id": 28,
+    "rune_id": 21,
+    "order": 2
+  },
+  {
+    "id": 108,
+    "runeword_id": 29,
+    "rune_id": 5,
+    "order": 0
+  },
+  {
+    "id": 109,
+    "runeword_id": 29,
+    "rune_id": 3,
+    "order": 1
+  },
+  {
+    "id": 110,
+    "runeword_id": 29,
+    "rune_id": 28,
+    "order": 2
+  },
+  {
+    "id": 111,
+    "runeword_id": 29,
+    "rune_id": 23,
+    "order": 3
+  },
+  {
+    "id": 112,
+    "runeword_id": 29,
+    "rune_id": 8,
+    "order": 4
+  },
+  {
+    "id": 113,
+    "runeword_id": 30,
+    "rune_id": 29,
+    "order": 0
+  },
+  {
+    "id": 114,
+    "runeword_id": 30,
+    "rune_id": 32,
+    "order": 1
+  },
+  {
+    "id": 115,
+    "runeword_id": 30,
+    "rune_id": 11,
+    "order": 2
+  },
+  {
+    "id": 116,
+    "runeword_id": 30,
+    "rune_id": 28,
+    "order": 3
+  },
+  {
+    "id": 117,
+    "runeword_id": 31,
+    "rune_id": 3,
+    "order": 0
+  },
+  {
+    "id": 118,
+    "runeword_id": 31,
+    "rune_id": 6,
+    "order": 1
+  },
+  {
+    "id": 119,
+    "runeword_id": 31,
+    "rune_id": 12,
+    "order": 2
+  },
+  {
+    "id": 120,
+    "runeword_id": 31,
+    "rune_id": 18,
+    "order": 3
+  },
+  {
+    "id": 121,
+    "runeword_id": 32,
+    "rune_id": 18,
+    "order": 0
+  },
+  {
+    "id": 122,
+    "runeword_id": 32,
+    "rune_id": 26,
+    "order": 1
+  },
+  {
+    "id": 123,
+    "runeword_id": 32,
+    "rune_id": 21,
+    "order": 2
+  },
+  {
+    "id": 124,
+    "runeword_id": 32,
+    "rune_id": 10,
+    "order": 3
+  },
+  {
+    "id": 125,
+    "runeword_id": 33,
+    "rune_id": 5,
+    "order": 0
+  },
+  {
+    "id": 126,
+    "runeword_id": 33,
+    "rune_id": 8,
+    "order": 1
+  },
+  {
+    "id": 127,
+    "runeword_id": 33,
+    "rune_id": 9,
+    "order": 2
+  },
+  {
+    "id": 128,
+    "runeword_id": 33,
+    "rune_id": 7,
+    "order": 3
+  },
+  {
+    "id": 129,
+    "runeword_id": 34,
+    "rune_id": 11,
+    "order": 0
+  },
+  {
+    "id": 130,
+    "runeword_id": 34,
+    "rune_id": 1,
+    "order": 1
+  },
+  {
+    "id": 131,
+    "runeword_id": 34,
+    "rune_id": 6,
+    "order": 2
+  },
+  {
+    "id": 132,
+    "runeword_id": 34,
+    "rune_id": 3,
+    "order": 3
+  },
+  {
+    "id": 133,
+    "runeword_id": 34,
+    "rune_id": 12,
+    "order": 4
+  },
+  {
+    "id": 134,
+    "runeword_id": 35,
+    "rune_id": 11,
+    "order": 0
+  },
+  {
+    "id": 135,
+    "runeword_id": 35,
+    "rune_id": 13,
+    "order": 1
+  },
+  {
+    "id": 136,
+    "runeword_id": 35,
+    "rune_id": 31,
+    "order": 2
+  },
+  {
+    "id": 137,
+    "runeword_id": 35,
+    "rune_id": 28,
+    "order": 3
+  },
+  {
+    "id": 138,
+    "runeword_id": 36,
+    "rune_id": 30,
+    "order": 0
+  },
+  {
+    "id": 139,
+    "runeword_id": 36,
+    "rune_id": 23,
+    "order": 1
+  },
+  {
+    "id": 140,
+    "runeword_id": 36,
+    "rune_id": 30,
+    "order": 2
+  },
+  {
+    "id": 141,
+    "runeword_id": 36,
+    "rune_id": 24,
+    "order": 3
+  },
+  {
+    "id": 142,
+    "runeword_id": 37,
+    "rune_id": 8,
+    "order": 0
+  },
+  {
+    "id": 143,
+    "runeword_id": 37,
+    "rune_id": 3,
+    "order": 1
+  },
+  {
+    "id": 144,
+    "runeword_id": 37,
+    "rune_id": 7,
+    "order": 2
+  },
+  {
+    "id": 145,
+    "runeword_id": 37,
+    "rune_id": 12,
+    "order": 3
+  },
+  {
+    "id": 146,
+    "runeword_id": 38,
+    "rune_id": 11,
+    "order": 0
+  },
+  {
+    "id": 147,
+    "runeword_id": 38,
+    "rune_id": 8,
+    "order": 1
+  },
+  {
+    "id": 148,
+    "runeword_id": 38,
+    "rune_id": 10,
+    "order": 2
+  },
+  {
+    "id": 149,
+    "runeword_id": 39,
+    "rune_id": 23,
+    "order": 0
+  },
+  {
+    "id": 150,
+    "runeword_id": 39,
+    "rune_id": 22,
+    "order": 1
+  },
+  {
+    "id": 151,
+    "runeword_id": 39,
+    "rune_id": 25,
+    "order": 2
+  },
+  {
+    "id": 152,
+    "runeword_id": 39,
+    "rune_id": 19,
+    "order": 3
+  },
+  {
+    "id": 153,
+    "runeword_id": 40,
+    "rune_id": 31,
+    "order": 0
+  },
+  {
+    "id": 154,
+    "runeword_id": 40,
+    "rune_id": 23,
+    "order": 1
+  },
+  {
+    "id": 155,
+    "runeword_id": 40,
+    "rune_id": 31,
+    "order": 2
+  },
+  {
+    "id": 156,
+    "runeword_id": 40,
+    "rune_id": 29,
+    "order": 3
+  },
+  {
+    "id": 157,
+    "runeword_id": 40,
+    "rune_id": 31,
+    "order": 4
+  },
+  {
+    "id": 158,
+    "runeword_id": 40,
+    "rune_id": 30,
+    "order": 5
+  },
+  {
+    "id": 159,
+    "runeword_id": 41,
+    "rune_id": 11,
+    "order": 0
+  },
+  {
+    "id": 160,
+    "runeword_id": 41,
+    "rune_id": 20,
+    "order": 0
+  },
+  {
+    "id": 161,
+    "runeword_id": 41,
+    "rune_id": 18,
+    "order": 0
+  },
+  {
+    "id": 162,
+    "runeword_id": 42,
+    "rune_id": 3,
+    "order": 0
+  },
+  {
+    "id": 163,
+    "runeword_id": 42,
+    "rune_id": 8,
+    "order": 1
+  },
+  {
+    "id": 164,
+    "runeword_id": 43,
+    "rune_id": 15,
+    "order": 0
+  },
+  {
+    "id": 165,
+    "runeword_id": 43,
+    "rune_id": 17,
+    "order": 1
+  },
+  {
+    "id": 166,
+    "runeword_id": 43,
+    "rune_id": 19,
+    "order": 2
+  },
+  {
+    "id": 167,
+    "runeword_id": 44,
+    "rune_id": 9,
+    "order": 0
+  },
+  {
+    "id": 168,
+    "runeword_id": 44,
+    "rune_id": 12,
+    "order": 1
+  },
+  {
+    "id": 169,
+    "runeword_id": 45,
+    "rune_id": 6,
+    "order": 0
+  },
+  {
+    "id": 170,
+    "runeword_id": 45,
+    "rune_id": 1,
+    "order": 1
+  },
+  {
+    "id": 171,
+    "runeword_id": 45,
+    "rune_id": 5,
+    "order": 2
+  },
+  {
+    "id": 172,
+    "runeword_id": 46,
+    "rune_id": 13,
+    "order": 0
+  },
+  {
+    "id": 173,
+    "runeword_id": 46,
+    "rune_id": 18,
+    "order": 1
+  },
+  {
+    "id": 174,
+    "runeword_id": 46,
+    "rune_id": 4,
+    "order": 2
+  },
+  {
+    "id": 175,
+    "runeword_id": 47,
+    "rune_id": 17,
+    "order": 0
+  },
+  {
+    "id": 176,
+    "runeword_id": 47,
+    "rune_id": 16,
+    "order": 1
+  },
+  {
+    "id": 177,
+    "runeword_id": 47,
+    "rune_id": 12,
+    "order": 2
+  },
+  {
+    "id": 178,
+    "runeword_id": 47,
+    "rune_id": 5,
+    "order": 3
+  },
+  {
+    "id": 179,
+    "runeword_id": 48,
+    "rune_id": 15,
+    "order": 0
+  },
+  {
+    "id": 180,
+    "runeword_id": 48,
+    "rune_id": 11,
+    "order": 1
+  },
+  {
+    "id": 181,
+    "runeword_id": 48,
+    "rune_id": 4,
+    "order": 2
+  },
+  {
+    "id": 182,
+    "runeword_id": 49,
+    "rune_id": 4,
+    "order": 0
+  },
+  {
+    "id": 183,
+    "runeword_id": 49,
+    "rune_id": 3,
+    "order": 1
+  },
+  {
+    "id": 184,
+    "runeword_id": 50,
+    "rune_id": 13,
+    "order": 0
+  },
+  {
+    "id": 185,
+    "runeword_id": 50,
+    "rune_id": 21,
+    "order": 1
+  },
+  {
+    "id": 186,
+    "runeword_id": 50,
+    "rune_id": 23,
+    "order": 2
+  },
+  {
+    "id": 187,
+    "runeword_id": 50,
+    "rune_id": 17,
+    "order": 3
+  },
+  {
+    "id": 188,
+    "runeword_id": 51,
+    "rune_id": 15,
+    "order": 0
+  },
+  {
+    "id": 189,
+    "runeword_id": 51,
+    "rune_id": 18,
+    "order": 1
+  },
+  {
+    "id": 190,
+    "runeword_id": 51,
+    "rune_id": 10,
+    "order": 2
+  },
+  {
+    "id": 191,
+    "runeword_id": 51,
+    "rune_id": 5,
+    "order": 3
+  },
+  {
+    "id": 192,
+    "runeword_id": 51,
+    "rune_id": 19,
+    "order": 4
+  },
+  {
+    "id": 193,
+    "runeword_id": 52,
+    "rune_id": 14,
+    "order": 0
+  },
+  {
+    "id": 194,
+    "runeword_id": 52,
+    "rune_id": 9,
+    "order": 1
+  },
+  {
+    "id": 195,
+    "runeword_id": 52,
+    "rune_id": 2,
+    "order": 2
+  },
+  {
+    "id": 196,
+    "runeword_id": 52,
+    "rune_id": 20,
+    "order": 3
+  },
+  {
+    "id": 197,
+    "runeword_id": 53,
+    "rune_id": 13,
+    "order": 0
+  },
+  {
+    "id": 198,
+    "runeword_id": 53,
+    "rune_id": 10,
+    "order": 1
+  },
+  {
+    "id": 199,
+    "runeword_id": 53,
+    "rune_id": 11,
+    "order": 2
+  },
+  {
+    "id": 200,
+    "runeword_id": 54,
+    "rune_id": 26,
+    "order": 0
+  },
+  {
+    "id": 201,
+    "runeword_id": 54,
+    "rune_id": 26,
+    "order": 1
+  },
+  {
+    "id": 202,
+    "runeword_id": 54,
+    "rune_id": 28,
+    "order": 2
+  },
+  {
+    "id": 203,
+    "runeword_id": 54,
+    "rune_id": 31,
+    "order": 3
+  },
+  {
+    "id": 204,
+    "runeword_id": 55,
+    "rune_id": 32,
+    "order": 0
+  },
+  {
+    "id": 205,
+    "runeword_id": 55,
+    "rune_id": 29,
+    "order": 1
+  },
+  {
+    "id": 206,
+    "runeword_id": 55,
+    "rune_id": 16,
+    "order": 2
+  },
+  {
+    "id": 207,
+    "runeword_id": 55,
+    "rune_id": 28,
+    "order": 3
+  },
+  {
+    "id": 208,
+    "runeword_id": 56,
+    "rune_id": 8,
+    "order": 0
+  },
+  {
+    "id": 209,
+    "runeword_id": 56,
+    "rune_id": 25,
+    "order": 1
+  },
+  {
+    "id": 210,
+    "runeword_id": 56,
+    "rune_id": 2,
+    "order": 2
+  },
+  {
+    "id": 211,
+    "runeword_id": 57,
+    "rune_id": 23,
+    "order": 0
+  },
+  {
+    "id": 212,
+    "runeword_id": 57,
+    "rune_id": 3,
+    "order": 1
+  },
+  {
+    "id": 213,
+    "runeword_id": 58,
+    "rune_id": 4,
+    "order": 0
+  },
+  {
+    "id": 214,
+    "runeword_id": 58,
+    "rune_id": 12,
+    "order": 1
+  },
+  {
+    "id": 215,
+    "runeword_id": 58,
+    "rune_id": 6,
+    "order": 2
+  },
+  {
+    "id": 216,
+    "runeword_id": 59,
+    "rune_id": 9,
+    "order": 0
+  },
+  {
+    "id": 217,
+    "runeword_id": 59,
+    "rune_id": 23,
+    "order": 1
+  },
+  {
+    "id": 218,
+    "runeword_id": 59,
+    "rune_id": 6,
+    "order": 2
+  },
+  {
+    "id": 219,
+    "runeword_id": 60,
+    "rune_id": 13,
+    "order": 0
+  },
+  {
+    "id": 220,
+    "runeword_id": 60,
+    "rune_id": 5,
+    "order": 1
+  },
+  {
+    "id": 221,
+    "runeword_id": 61,
+    "rune_id": 15,
+    "order": 0
+  },
+  {
+    "id": 222,
+    "runeword_id": 61,
+    "rune_id": 18,
+    "order": 1
+  },
+  {
+    "id": 223,
+    "runeword_id": 61,
+    "rune_id": 20,
+    "order": 2
+  },
+  {
+    "id": 224,
+    "runeword_id": 61,
+    "rune_id": 25,
+    "order": 3
+  },
+  {
+    "id": 225,
+    "runeword_id": 62,
+    "rune_id": 18,
+    "order": 0
+  },
+  {
+    "id": 226,
+    "runeword_id": 62,
+    "rune_id": 18,
+    "order": 1
+  },
+  {
+    "id": 227,
+    "runeword_id": 62,
+    "rune_id": 23,
+    "order": 2
+  },
+  {
+    "id": 228,
+    "runeword_id": 63,
+    "rune_id": 14,
+    "order": 0
+  },
+  {
+    "id": 229,
+    "runeword_id": 63,
+    "rune_id": 2,
+    "order": 1
+  },
+  {
+    "id": 230,
+    "runeword_id": 63,
+    "rune_id": 15,
+    "order": 2
+  },
+  {
+    "id": 231,
+    "runeword_id": 63,
+    "rune_id": 24,
+    "order": 3
+  },
+  {
+    "id": 232,
+    "runeword_id": 63,
+    "rune_id": 3,
+    "order": 4
+  },
+  {
+    "id": 234,
+    "runeword_id": 63,
+    "rune_id": 26,
+    "order": 5
+  },
+  {
+    "id": 235,
+    "runeword_id": 64,
+    "rune_id": 4,
+    "order": 0
+  },
+  {
+    "id": 236,
+    "runeword_id": 64,
+    "rune_id": 17,
+    "order": 1
+  },
+  {
+    "id": 237,
+    "runeword_id": 65,
+    "rune_id": 7,
+    "order": 0
+  },
+  {
+    "id": 238,
+    "runeword_id": 65,
+    "rune_id": 10,
+    "order": 1
+  },
+  {
+    "id": 239,
+    "runeword_id": 65,
+    "rune_id": 9,
+    "order": 2
+  },
+  {
+    "id": 240,
+    "runeword_id": 65,
+    "rune_id": 11,
+    "order": 3
+  },
+  {
+    "id": 241,
+    "runeword_id": 66,
+    "rune_id": 5,
+    "order": 0
+  },
+  {
+    "id": 242,
+    "runeword_id": 66,
+    "rune_id": 17,
+    "order": 1
+  },
+  {
+    "id": 243,
+    "runeword_id": 67,
+    "rune_id": 7,
+    "order": 0
+  },
+  {
+    "id": 244,
+    "runeword_id": 67,
+    "rune_id": 5,
+    "order": 2
+  },
+  {
+    "id": 245,
+    "runeword_id": 68,
+    "rune_id": 3,
+    "order": 0
+  },
+  {
+    "id": 246,
+    "runeword_id": 68,
+    "rune_id": 1,
+    "order": 1
+  },
+  {
+    "id": 247,
+    "runeword_id": 69,
+    "rune_id": 13,
+    "order": 0
+  },
+  {
+    "id": 248,
+    "runeword_id": 69,
+    "rune_id": 22,
+    "order": 1
+  },
+  {
+    "id": 249,
+    "runeword_id": 69,
+    "rune_id": 21,
+    "order": 2
+  },
+  {
+    "id": 250,
+    "runeword_id": 69,
+    "rune_id": 17,
+    "order": 3
+  },
+  {
+    "id": 251,
+    "runeword_id": 70,
+    "rune_id": 11,
+    "order": 0
+  },
+  {
+    "id": 252,
+    "runeword_id": 70,
+    "rune_id": 3,
+    "order": 1
+  },
+  {
+    "id": 253,
+    "runeword_id": 71,
+    "rune_id": 13,
+    "order": 0
+  },
+  {
+    "id": 254,
+    "runeword_id": 71,
+    "rune_id": 10,
+    "order": 0
+  },
+  {
+    "id": 255,
+    "runeword_id": 71,
+    "rune_id": 20,
+    "order": 0
+  },
+  {
+    "id": 256,
+    "runeword_id": 72,
+    "rune_id": 7,
+    "order": 0
+  },
+  {
+    "id": 257,
+    "runeword_id": 72,
+    "rune_id": 14,
+    "order": 1
+  },
+  {
+    "id": 258,
+    "runeword_id": 72,
+    "rune_id": 23,
+    "order": 2
+  },
+  {
+    "id": 259,
+    "runeword_id": 73,
+    "rune_id": 20,
+    "order": 0
+  },
+  {
+    "id": 260,
+    "runeword_id": 73,
+    "rune_id": 18,
+    "order": 1
+  },
+  {
+    "id": 261,
+    "runeword_id": 73,
+    "rune_id": 1,
+    "order": 2
+  },
+  {
+    "id": 262,
+    "runeword_id": 73,
+    "rune_id": 2,
+    "order": 3
+  },
+  {
+    "id": 263,
+    "runeword_id": 74,
+    "rune_id": 20,
+    "order": 0
+  },
+  {
+    "id": 264,
+    "runeword_id": 74,
+    "rune_id": 18,
+    "order": 1
+  },
+  {
+    "id": 265,
+    "runeword_id": 74,
+    "rune_id": 3,
+    "order": 2
+  },
+  {
+    "id": 266,
+    "runeword_id": 75,
+    "rune_id": 14,
+    "order": 0
+  },
+  {
+    "id": 267,
+    "runeword_id": 75,
+    "rune_id": 16,
+    "order": 1
+  },
+  {
+    "id": 268,
+    "runeword_id": 76,
+    "rune_id": 29,
+    "order": 0
+  },
+  {
+    "id": 269,
+    "runeword_id": 76,
+    "rune_id": 1,
+    "order": 1
+  },
+  {
+    "id": 270,
+    "runeword_id": 77,
+    "rune_id": 21,
+    "order": 0
+  },
+  {
+    "id": 271,
+    "runeword_id": 77,
+    "rune_id": 17,
+    "order": 1
+  },
+  {
+    "id": 272,
+    "runeword_id": 77,
+    "rune_id": 30,
+    "order": 2
+  },
+  {
+    "id": 273,
+    "runeword_id": 77,
+    "rune_id": 23,
+    "order": 3
+  },
+  {
+    "id": 274,
+    "runeword_id": 78,
+    "rune_id": 9,
+    "order": 0
+  },
+  {
+    "id": 275,
+    "runeword_id": 78,
+    "rune_id": 5,
+    "order": 1
+  },
+  {
+    "id": 276,
+    "runeword_id": 79,
+    "rune_id": 32,
+    "order": 0
+  },
+  {
+    "id": 277,
+    "runeword_id": 79,
+    "rune_id": 13,
+    "order": 1
+  },
+  {
+    "id": 278,
+    "runeword_id": 79,
+    "rune_id": 22,
+    "order": 2
+  },
+  {
+    "id": 279,
+    "runeword_id": 80,
+    "rune_id": 7,
+    "order": 0
+  },
+  {
+    "id": 280,
+    "runeword_id": 80,
+    "rune_id": 9,
+    "order": 1
+  },
+  {
+    "id": 281,
+    "runeword_id": 80,
+    "rune_id": 10,
+    "order": 2
+  },
+  {
+    "id": 282,
+    "runeword_id": 81,
+    "rune_id": 19,
+    "order": 0
+  },
+  {
+    "id": 283,
+    "runeword_id": 81,
+    "rune_id": 16,
+    "order": 1
+  },
+  {
+    "id": 284,
+    "runeword_id": 81,
+    "rune_id": 6,
+    "order": 2
+  },
+  {
+    "id": 285,
+    "runeword_id": 81,
+    "rune_id": 2,
+    "order": 3
+  },
+  {
+    "id": 286,
+    "runeword_id": 81,
+    "rune_id": 1,
+    "order": 4
+  },
+  {
+    "id": 287,
+    "runeword_id": 81,
+    "rune_id": 15,
+    "order": 5
+  },
+  {
+    "id": 288,
+    "runeword_id": 82,
+    "rune_id": 21,
+    "order": 0
+  },
+  {
+    "id": 289,
+    "runeword_id": 82,
+    "rune_id": 6,
+    "order": 1
+  },
+  {
+    "id": 290,
+    "runeword_id": 82,
+    "rune_id": 2,
+    "order": 2
+  },
+  {
+    "id": 291,
+    "runeword_id": 83,
+    "rune_id": 33,
+    "order": 0
+  },
+  {
+    "id": 292,
+    "runeword_id": 83,
+    "rune_id": 24,
+    "order": 1
+  },
+  {
+    "id": 293,
+    "runeword_id": 83,
+    "rune_id": 20,
+    "order": 2
+  },
+  {
+    "id": 294,
+    "runeword_id": 83,
+    "rune_id": 17,
+    "order": 3
+  },
+  {
+    "id": 295,
+    "runeword_id": 83,
+    "rune_id": 16,
+    "order": 4
+  },
+  {
+    "id": 296,
+    "runeword_id": 83,
+    "rune_id": 4,
+    "order": 5
+  },
+  {
+    "id": 297,
+    "runeword_id": 84,
+    "rune_id": 4,
+    "order": 0
+  },
+  {
+    "id": 298,
+    "runeword_id": 84,
+    "rune_id": 21,
+    "order": 1
+  },
+  {
+    "id": 299,
+    "runeword_id": 84,
+    "rune_id": 26,
+    "order": 2
+  },
+  {
+    "id": 300,
+    "runeword_id": 85,
+    "rune_id": 32,
+    "order": 0
+  },
+  {
+    "id": 301,
+    "runeword_id": 85,
+    "rune_id": 13,
+    "order": 1
+  },
+  {
+    "id": 302,
+    "runeword_id": 85,
+    "rune_id": 25,
+    "order": 2
+  },
+  {
+    "id": 303,
+    "runeword_id": 85,
+    "rune_id": 10,
+    "order": 3
+  },
+  {
+    "id": 304,
+    "runeword_id": 85,
+    "rune_id": 6,
+    "order": 4
   }
 ]

@@ -32,7 +32,7 @@ class EmbeddedRuneSerializer(serializers.ModelSerializer):
     class Meta:
         model = Rune
         fields = (
-            'id', 'name',
+            'id', 'name', "level_req", "statistics"
         )
 
 

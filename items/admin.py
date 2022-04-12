@@ -1,7 +1,9 @@
 from django import forms
 from django.contrib import admin
 from django.db.models import QuerySet
+from import_export import fields, resources
 from import_export.admin import ImportExportModelAdmin
+from import_export.widgets import ForeignKeyWidget
 from ordered_model.admin import OrderedModelAdmin
 
 from common.admin import ModelAdmin, ModelResourceWithNestedJSON
@@ -77,10 +79,29 @@ class RunewordAdmin(ImportExportModelAdmin, ModelAdmin):
     resource_class = RunewordResource
 
 
+class RuneInRunewordResource(resources.ModelResource):
+    runeword = fields.Field(
+        column_name="runeword_id",
+        attribute="runeword",
+        widget=ForeignKeyWidget(Runeword)
+    )
+    rune = fields.Field(
+        column_name="rune_id",
+        attribute="rune",
+        widget=ForeignKeyWidget(Rune)
+    )
+
+    class Meta:
+        model = RuneInRuneword
+        fields = ("id", "order", "runeword", "rune")
+
+
 @admin.register(RuneInRuneword)
-class RuneInRunewordAdmin(OrderedModelAdmin):
+class RuneInRunewordAdmin(ImportExportModelAdmin, OrderedModelAdmin):
+    list_select_related = ("runeword", "rune")
     list_display = ("__str__", "order", "move_up_down_links")
     ordering = ('runeword', 'order',)
+    resource_class = RuneInRunewordResource
 
 
 @admin.register(ConcreteRuneword)
@@ -105,6 +126,7 @@ class ItemInSetAdminForm(forms.ModelForm):
 @admin.register(ItemInSet)
 class ItemInSetAdmin(admin.ModelAdmin):
     form = ItemInSetAdminForm
+    list_select_related = ("set", "item")
     list_display = ('__str__', 'set')
 
 
