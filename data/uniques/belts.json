@@ -1,0 +1,132 @@
+[
+  {
+    "id": 1,
+    "name": "Lenymo",
+    "common_name": "",
+    "level_req": 7,
+    "type": "belt",
+    "quality": "unique",
+    "statistics": {},
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Snakecord",
+    "common_name": "",
+    "level_req": 12,
+    "type": "belt",
+    "quality": "unique",
+    "statistics": {},
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Nightsmoke",
+    "common_name": "",
+    "level_req": 20,
+    "type": "belt",
+    "quality": "unique",
+    "statistics": {},
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Goldwrap",
+    "common_name": "",
+    "level_req": 27,
+    "type": "belt",
+    "quality": "unique",
+    "statistics": {},
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Bladebuckle",
+    "common_name": "",
+    "level_req": 29,
+    "type": "belt",
+    "quality": "unique",
+    "statistics": {},
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "String of Ears",
+    "common_name": "",
+    "level_req": 29,
+    "type": "belt",
+    "quality": "unique",
+    "statistics": {},
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Razortail",
+    "common_name": "",
+    "level_req": 32,
+    "type": "belt",
+    "quality": "unique",
+    "statistics": {},
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Gloom's Trap",
+    "common_name": "",
+    "level_req": 36,
+    "type": "belt",
+    "quality": "unique",
+    "statistics": {},
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Snowclash",
+    "common_name": "",
+    "level_req": 42,
+    "type": "belt",
+    "quality": "unique",
+    "statistics": {},
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Thundergod's Vigor",
+    "common_name": "tgv",
+    "level_req": 47,
+    "type": "belt",
+    "quality": "unique",
+    "statistics": {},
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Arachnid Mesh",
+    "common_name": "",
+    "level_req": 80,
+    "type": "belt",
+    "quality": "unique",
+    "statistics": {},
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Nosferatu's Coil",
+    "common_name": "",
+    "level_req": 51,
+    "type": "belt",
+    "quality": "unique",
+    "statistics": {},
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Verdungo's Hearty Cord",
+    "common_name": "",
+    "level_req": 63,
+    "type": "belt",
+    "quality": "unique",
+    "statistics": {},
+    "base": 1
+  }
+]

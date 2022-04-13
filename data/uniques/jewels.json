@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Rainbow Facet",
+    "common_name": "cold up",
+    "level_req": 49,
+    "type": "jewel",
+    "quality": "unique",
+    "statistics": {}
+  },
+  {
+    "id": 1,
+    "name": "Rainbow Facet",
+    "common_name": "fire up",
+    "level_req": 49,
+    "type": "jewel",
+    "quality": "unique",
+    "statistics": {}
+  },
+  {
+    "id": 1,
+    "name": "Rainbow Facet",
+    "common_name": "light up",
+    "level_req": 49,
+    "type": "jewel",
+    "quality": "unique",
+    "statistics": {}
+  },
+  {
+    "id": 1,
+    "name": "Rainbow Facet",
+    "common_name": "psn up",
+    "level_req": 49,
+    "type": "jewel",
+    "quality": "unique",
+    "statistics": {}
+  },
+  {
+    "id": 1,
+    "name": "Rainbow Facet",
+    "common_name": "cold die",
+    "level_req": 49,
+    "type": "jewel",
+    "quality": "unique",
+    "statistics": {}
+  },
+  {
+    "id": 1,
+    "name": "Rainbow Facet",
+    "common_name": "fire die",
+    "level_req": 49,
+    "type": "jewel",
+    "quality": "unique",
+    "statistics": {}
+  },
+  {
+    "id": 1,
+    "name": "Rainbow Facet",
+    "common_name": "light die",
+    "level_req": 49,
+    "type": "jewel",
+    "quality": "unique",
+    "statistics": {}
+  },
+  {
+    "id": 1,
+    "name": "Rainbow Facet",
+    "common_name": "psn die",
+    "level_req": 49,
+    "type": "jewel",
+    "quality": "unique",
+    "statistics": {}
+  }
+]

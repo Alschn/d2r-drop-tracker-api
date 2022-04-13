@@ -1,0 +1,2312 @@
+[
+  {
+    "id": 1,
+    "name": "The Gnasher",
+    "common_name": "",
+    "level_req": 5,
+    "type": "axe_1h",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Deathspade",
+    "common_name": "",
+    "level_req": 9,
+    "type": "axe_1h",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Bladebone",
+    "common_name": "",
+    "level_req": 15,
+    "type": "axe_1h",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Skull Splitter",
+    "common_name": "",
+    "level_req": 21,
+    "type": "axe_1h",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Rakescar",
+    "common_name": "",
+    "level_req": 27,
+    "type": "axe_1h",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Axe of Fechmar",
+    "common_name": "",
+    "level_req": 8,
+    "type": "axe_2h",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Goreshovel",
+    "common_name": "",
+    "level_req": 14,
+    "type": "axe_2h",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "The Chieftain",
+    "common_name": "",
+    "level_req": 19,
+    "type": "axe_2h",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Brainhew",
+    "common_name": "",
+    "level_req": 25,
+    "type": "axe_2h",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Humongous",
+    "common_name": "",
+    "level_req": 29,
+    "type": "axe_2h",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Coldkill",
+    "common_name": "",
+    "level_req": 36,
+    "type": "axe_1h",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Butcher's Pupil",
+    "common_name": "",
+    "level_req": 39,
+    "type": "axe_1h",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Islestrike",
+    "common_name": "",
+    "level_req": 43,
+    "type": "axe_1h",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Pompeii's Wrath",
+    "common_name": "",
+    "level_req": 45,
+    "type": "axe_1h",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Guardian Naga",
+    "common_name": "",
+    "level_req": 48,
+    "type": "axe_1h",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Warlord's Trust",
+    "common_name": "",
+    "level_req": 35,
+    "type": "axe_2h",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Spellsteel",
+    "common_name": "",
+    "level_req": 39,
+    "type": "axe_2h",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Stormrider",
+    "common_name": "",
+    "level_req": 41,
+    "type": "axe_2h",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Boneslayer Blade",
+    "common_name": "",
+    "level_req": 42,
+    "type": "axe_2h",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "The Minotaur",
+    "common_name": "",
+    "level_req": 45,
+    "type": "axe_2h",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Razor's Edge",
+    "common_name": "",
+    "level_req": 67,
+    "type": "axe_1h",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Rune Master",
+    "common_name": "",
+    "level_req": 72,
+    "type": "axe_1h",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Cranebeak",
+    "common_name": "",
+    "level_req": 63,
+    "type": "axe_1h",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Death Cleaver",
+    "common_name": "edc",
+    "level_req": 67,
+    "type": "axe_1h",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Ethereal Edge",
+    "common_name": "",
+    "level_req": 74,
+    "type": "axe_2h",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Hellslayer",
+    "common_name": "",
+    "level_req": 66,
+    "type": "axe_2h",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Messerschmidt's Reaver",
+    "common_name": "",
+    "level_req": 70,
+    "type": "axe_2h",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Ethereal Edge",
+    "common_name": "",
+    "level_req": 74,
+    "type": "axe_2h",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Executioner's Justice",
+    "common_name": "",
+    "level_req": 75,
+    "type": "axe_2h",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Blastbark",
+    "common_name": "",
+    "level_req": 28,
+    "type": "bow",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Hellclap",
+    "common_name": "",
+    "level_req": 27,
+    "type": "bow",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Pluckeye",
+    "common_name": "",
+    "level_req": 7,
+    "type": "bow",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Raven Claw",
+    "common_name": "",
+    "level_req": 15,
+    "type": "bow",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Rogue's Bow",
+    "common_name": "",
+    "level_req": 20,
+    "type": "bow",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Stormstrike",
+    "common_name": "",
+    "level_req": 25,
+    "type": "bow",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Witherstring",
+    "common_name": "",
+    "level_req": 13,
+    "type": "bow",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Wizendraw",
+    "common_name": "",
+    "level_req": 26,
+    "type": "bow",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Cliffkiller",
+    "common_name": "",
+    "level_req": 41,
+    "type": "bow",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Endlesshail",
+    "common_name": "",
+    "level_req": 36,
+    "type": "bow",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Goldstrike Arch",
+    "common_name": "",
+    "level_req": 46,
+    "type": "bow",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Kuko Shakaku",
+    "common_name": "",
+    "level_req": 33,
+    "type": "bow",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Magewrath",
+    "common_name": "",
+    "level_req": 43,
+    "type": "bow",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Riphook",
+    "common_name": "",
+    "level_req": 31,
+    "type": "bow",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Skystrike",
+    "common_name": "",
+    "level_req": 28,
+    "type": "bow",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Witchwild String",
+    "common_name": "",
+    "level_req": 39,
+    "type": "bow",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Eaglehorn",
+    "common_name": "",
+    "level_req": 69,
+    "type": "bow",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Widowmaker",
+    "common_name": "",
+    "level_req": 65,
+    "type": "bow",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Windforce",
+    "common_name": "",
+    "level_req": 73,
+    "type": "bow",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Doomslinger",
+    "common_name": "",
+    "level_req": 28,
+    "type": "crossbow",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Hellcast",
+    "common_name": "",
+    "level_req": 27,
+    "type": "crossbow",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Ichorstring",
+    "common_name": "",
+    "level_req": 18,
+    "type": "crossbow",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Leadcrow",
+    "common_name": "",
+    "level_req": 41,
+    "type": "crossbow",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Buriza-Do Kyanon",
+    "common_name": "",
+    "level_req": 28,
+    "type": "crossbow",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Demon Machine",
+    "common_name": "",
+    "level_req": 49,
+    "type": "crossbow",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Langer Briser",
+    "common_name": "",
+    "level_req": 33,
+    "type": "crossbow",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Pus Spitter",
+    "common_name": "",
+    "level_req": 36,
+    "type": "crossbow",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Gut Siphon",
+    "common_name": "",
+    "level_req": 71,
+    "type": "crossbow",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Hellrack",
+    "common_name": "",
+    "level_req": 76,
+    "type": "crossbow",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Gull",
+    "common_name": "",
+    "level_req": 4,
+    "type": "dagger",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Spectral Shard",
+    "common_name": "",
+    "level_req": 25,
+    "type": "dagger",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "The Diggler",
+    "common_name": "",
+    "level_req": 11,
+    "type": "dagger",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "The Jade Tan Do",
+    "common_name": "",
+    "level_req": 19,
+    "type": "dagger",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Blackbog's Sharp",
+    "common_name": "",
+    "level_req": 38,
+    "type": "dagger",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Heart Carver",
+    "common_name": "",
+    "level_req": 36,
+    "type": "dagger",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Spineripper",
+    "common_name": "",
+    "level_req": 32,
+    "type": "dagger",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Stormspike",
+    "common_name": "",
+    "level_req": 41,
+    "type": "dagger",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Fleshripper",
+    "common_name": "",
+    "level_req": 68,
+    "type": "dagger",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Ghostflame",
+    "common_name": "",
+    "level_req": 66,
+    "type": "dagger",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Wizardspike",
+    "common_name": "wizzy",
+    "level_req": 61,
+    "type": "dagger",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Demon's Arch",
+    "common_name": "",
+    "level_req": 68,
+    "type": "javelin",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Wraith Flight",
+    "common_name": "",
+    "level_req": 76,
+    "type": "javelin",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Gargoyle's Bite",
+    "common_name": "",
+    "level_req": 70,
+    "type": "javelin",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Bloodrise",
+    "common_name": "",
+    "level_req": 15,
+    "type": "mace",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Bonesnap",
+    "common_name": "",
+    "level_req": 24,
+    "type": "maul",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Crushflange",
+    "common_name": "",
+    "level_req": 9,
+    "type": "mace",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Felloak",
+    "common_name": "",
+    "level_req": 3,
+    "type": "club",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Ironstone",
+    "common_name": "",
+    "level_req": 28,
+    "type": "hammer",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Steeldriver",
+    "common_name": "",
+    "level_req": 29,
+    "type": "maul",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Stoutnail",
+    "common_name": "",
+    "level_req": 5,
+    "type": "club",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "The General's Tan Do Li Ga",
+    "common_name": "",
+    "level_req": 21,
+    "type": "mace",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Baezil's Vortex",
+    "common_name": "",
+    "level_req": 45,
+    "type": "mace",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Bloodtree Stump",
+    "common_name": "",
+    "level_req": 48,
+    "type": "maul",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Dark Clan Crusher",
+    "common_name": "",
+    "level_req": 34,
+    "type": "club",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Earthshaker",
+    "common_name": "",
+    "level_req": 43,
+    "type": "hammer",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Fleshrender",
+    "common_name": "",
+    "level_req": 38,
+    "type": "club",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Moonfall",
+    "common_name": "",
+    "level_req": 41,
+    "type": "mace",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Sureshrill Frost",
+    "common_name": "",
+    "level_req": 39,
+    "type": "mace",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "The Gavel of Pain",
+    "common_name": "",
+    "level_req": 39,
+    "type": "maul",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Baranar's Star",
+    "common_name": "",
+    "level_req": 65,
+    "type": "mace",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Baranar's Star",
+    "common_name": "",
+    "level_req": 63,
+    "type": "club",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Earth Shifter",
+    "common_name": "",
+    "level_req": 69,
+    "type": "maul",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Horizon's Tornado",
+    "common_name": "",
+    "level_req": 64,
+    "type": "mace",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Nord's Tenderizer",
+    "common_name": "",
+    "level_req": 68,
+    "type": "club",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Schaefer's Hammer",
+    "common_name": "",
+    "level_req": 79,
+    "type": "hammer",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Stone Crusher",
+    "common_name": "",
+    "level_req": 68,
+    "type": "hammer",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Stormlash",
+    "common_name": "",
+    "level_req": 82,
+    "type": "mace",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "The Cranium Basher",
+    "common_name": "",
+    "level_req": 87,
+    "type": "maul",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Windhammer",
+    "common_name": "",
+    "level_req": 68,
+    "type": "maul",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Dimoak's Hew",
+    "common_name": "",
+    "level_req": 8,
+    "type": "polearm",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Soul Harvest",
+    "common_name": "",
+    "level_req": 19,
+    "type": "polearm",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Steelgoad",
+    "common_name": "",
+    "level_req": 14,
+    "type": "polearm",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "The Battlebranch",
+    "common_name": "",
+    "level_req": 25,
+    "type": "polearm",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Dimoak's Hew",
+    "common_name": "",
+    "level_req": 8,
+    "type": "polearm",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "The Grim Reaper",
+    "common_name": "",
+    "level_req": 29,
+    "type": "polearm",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Woestave",
+    "common_name": "",
+    "level_req": 28,
+    "type": "polearm",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Athena's Wrath",
+    "common_name": "",
+    "level_req": 42,
+    "type": "polearm",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Blackleach Blade",
+    "common_name": "",
+    "level_req": 41,
+    "type": "polearm",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Grim's Burning Dead",
+    "common_name": "",
+    "level_req": 45,
+    "type": "polearm",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Husoldal Evo",
+    "common_name": "",
+    "level_req": 44,
+    "type": "polearm",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Pierre Tombale Couant",
+    "common_name": "",
+    "level_req": 43,
+    "type": "polearm",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "The Meat Scraper",
+    "common_name": "",
+    "level_req": 41,
+    "type": "polearm",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Bonehew",
+    "common_name": "",
+    "level_req": 64,
+    "type": "polearm",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Stormspire",
+    "common_name": "",
+    "level_req": 70,
+    "type": "polearm",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "The Reaper's Toll",
+    "common_name": "",
+    "level_req": 75,
+    "type": "polearm",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Tomb Reaver",
+    "common_name": "",
+    "level_req": 84,
+    "type": "polearm",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Knell Striker",
+    "common_name": "",
+    "level_req": 5,
+    "type": "scepter",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Rusthandle",
+    "common_name": "",
+    "level_req": 18,
+    "type": "scepter",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Stormeye",
+    "common_name": "",
+    "level_req": 30,
+    "type": "scepter",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Zakarum's Hand",
+    "common_name": "",
+    "level_req": 37,
+    "type": "scepter",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "The Fetid Sprinkler",
+    "common_name": "",
+    "level_req": 38,
+    "type": "scepter",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Hand of Blessed Light",
+    "common_name": "",
+    "level_req": 42,
+    "type": "scepter",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Heaven's Light",
+    "common_name": "",
+    "level_req": 61,
+    "type": "scepter",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "The Redeemer",
+    "common_name": "",
+    "level_req": 72,
+    "type": "scepter",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Astreon's Iron Ward",
+    "common_name": "",
+    "level_req": 66,
+    "type": "scepter",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Knell Striker",
+    "common_name": "",
+    "level_req": 5,
+    "type": "scepter",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Bloodthief",
+    "common_name": "",
+    "level_req": 17,
+    "type": "spear",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Lance of Yaggai",
+    "common_name": "",
+    "level_req": 22,
+    "type": "spear",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Razortine",
+    "common_name": "",
+    "level_req": 12,
+    "type": "spear",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "The Dragon Chang",
+    "common_name": "",
+    "level_req": 8,
+    "type": "spear",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "The Tannr Gorerod",
+    "common_name": "",
+    "level_req": 27,
+    "type": "spear",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Hone Sundan",
+    "common_name": "",
+    "level_req": 37,
+    "type": "spear",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Kelpie Snare",
+    "common_name": "",
+    "level_req": 33,
+    "type": "spear",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Soulfeast Tine",
+    "common_name": "",
+    "level_req": 35,
+    "type": "spear",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Spire of Honor",
+    "common_name": "",
+    "level_req": 39,
+    "type": "spear",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "The Impaler",
+    "common_name": "",
+    "level_req": 31,
+    "type": "spear",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Arioc's Needle",
+    "common_name": "",
+    "level_req": 81,
+    "type": "spear",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Steel Pillar",
+    "common_name": "",
+    "level_req": 69,
+    "type": "spear",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Viperfork",
+    "common_name": "",
+    "level_req": 71,
+    "type": "spear",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Bane Ash",
+    "common_name": "",
+    "level_req": 5,
+    "type": "staff",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Serpent Lord",
+    "common_name": "",
+    "level_req": 9,
+    "type": "staff",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Spire of Lazarus",
+    "common_name": "",
+    "level_req": 18,
+    "type": "staff",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "The Salamander",
+    "common_name": "",
+    "level_req": 21,
+    "type": "staff",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "The Iron Jang Bong",
+    "common_name": "",
+    "level_req": 28,
+    "type": "staff",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Razorswitch",
+    "common_name": "",
+    "level_req": 28,
+    "type": "staff",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Ribcracker",
+    "common_name": "",
+    "level_req": 31,
+    "type": "staff",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Chromatic Ire",
+    "common_name": "",
+    "level_req": 35,
+    "type": "staff",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Warpspear",
+    "common_name": "",
+    "level_req": 39,
+    "type": "staff",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Skull Collector",
+    "common_name": "",
+    "level_req": 41,
+    "type": "staff",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Ondal's Wisdom",
+    "common_name": "",
+    "level_req": 66,
+    "type": "staff",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Mang Song's Lesson",
+    "common_name": "",
+    "level_req": 82,
+    "type": "staff",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Blood Crescent",
+    "common_name": "",
+    "level_req": 7,
+    "type": "sword_1h",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Culwen's Point",
+    "common_name": "",
+    "level_req": 29,
+    "type": "sword_1h",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Gleamscythe",
+    "common_name": "",
+    "level_req": 13,
+    "type": "sword_1h",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Griswold's Edge",
+    "common_name": "",
+    "level_req": 17,
+    "type": "sword_1h",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Hellplague",
+    "common_name": "",
+    "level_req": 22,
+    "type": "sword_1h",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Rixot's Keen",
+    "common_name": "",
+    "level_req": 2,
+    "type": "sword_1h",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Skewer of Krintiz",
+    "common_name": "",
+    "level_req": 10,
+    "type": "sword_1h",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Blacktongue",
+    "common_name": "",
+    "level_req": 26,
+    "type": "sword_2h",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Kinemil's Awl",
+    "common_name": "",
+    "level_req": 23,
+    "type": "sword_2h",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Ripsaw",
+    "common_name": "",
+    "level_req": 26,
+    "type": "sword_2h",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Shadowfang",
+    "common_name": "",
+    "level_req": 12,
+    "type": "sword_2h",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Soulflay",
+    "common_name": "",
+    "level_req": 19,
+    "type": "sword_2h",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "The Patriarch",
+    "common_name": "",
+    "level_req": 29,
+    "type": "sword_2h",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Blade of Ali Baba",
+    "common_name": "alibaba",
+    "level_req": 35,
+    "type": "sword_1h",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Bloodletter",
+    "common_name": "",
+    "level_req": 30,
+    "type": "sword_1h",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Coldsteel Eye",
+    "common_name": "",
+    "level_req": 31,
+    "type": "sword_1h",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Ginther's Rift",
+    "common_name": "",
+    "level_req": 35,
+    "type": "sword_1h",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Headstriker",
+    "common_name": "",
+    "level_req": 39,
+    "type": "sword_1h",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Hexfire",
+    "common_name": "",
+    "level_req": 33,
+    "type": "sword_1h",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Plague Bearer",
+    "common_name": "",
+    "level_req": 41,
+    "type": "sword_1h",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "The Atlantean",
+    "common_name": "",
+    "level_req": 42,
+    "type": "sword_1h",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Bing Sz Wang",
+    "common_name": "",
+    "level_req": 43,
+    "type": "sword_2h",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Cloudcrack",
+    "common_name": "",
+    "level_req": 45,
+    "type": "sword_2h",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Crainte Vomir",
+    "common_name": "",
+    "level_req": 42,
+    "type": "sword_2h",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Swordguard",
+    "common_name": "",
+    "level_req": 48,
+    "type": "sword_2h",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "The Vile Husk",
+    "common_name": "",
+    "level_req": 44,
+    "type": "sword_2h",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Todesfaelle Flamme",
+    "common_name": "",
+    "level_req": 46,
+    "type": "sword_2h",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Azurewrath",
+    "common_name": "",
+    "level_req": 85,
+    "type": "sword_1h",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Bloodmoon",
+    "common_name": "",
+    "level_req": 61,
+    "type": "sword_1h",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Djinn Slayer",
+    "common_name": "",
+    "level_req": 65,
+    "type": "sword_1h",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Frostwind",
+    "common_name": "",
+    "level_req": 70,
+    "type": "sword_1h",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Lightsabre",
+    "common_name": "",
+    "level_req": 58,
+    "type": "sword_1h",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Doombringer",
+    "common_name": "",
+    "level_req": 69,
+    "type": "sword_2h",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Flamebellow",
+    "common_name": "",
+    "level_req": 71,
+    "type": "sword_2h",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "The Grandfather",
+    "common_name": "",
+    "level_req": 81,
+    "type": "sword_2h",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Deathbit",
+    "common_name": "",
+    "level_req": 44,
+    "type": "throwing",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "The Scalper",
+    "common_name": "",
+    "level_req": 57,
+    "type": "throwing",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Warshrike",
+    "common_name": "",
+    "level_req": 75,
+    "type": "throwing",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Gimmershred",
+    "common_name": "",
+    "level_req": 70,
+    "type": "throwing",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Lacerator",
+    "common_name": "",
+    "level_req": 68,
+    "type": "throwing",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Torch of Iro",
+    "common_name": "",
+    "level_req": 5,
+    "type": "wand",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Maelstrom",
+    "common_name": "",
+    "level_req": 14,
+    "type": "wand",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Gravenspine",
+    "common_name": "",
+    "level_req": 20,
+    "type": "wand",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Ume's Lament",
+    "common_name": "",
+    "level_req": 28,
+    "type": "wand",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Suicide Branch",
+    "common_name": "suicide",
+    "level_req": 33,
+    "type": "wand",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Carin Shard",
+    "common_name": "",
+    "level_req": 35,
+    "type": "wand",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Arm of King Leoric",
+    "common_name": "leoric",
+    "level_req": 36,
+    "type": "wand",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Blackhand Key",
+    "common_name": "",
+    "level_req": 41,
+    "type": "wand",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Boneshade",
+    "common_name": "",
+    "level_req": 79,
+    "type": "wand",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Death's Web",
+    "common_name": "",
+    "level_req": 66,
+    "type": "wand",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Lycander's Aim",
+    "common_name": "",
+    "level_req": 42,
+    "type": "amazon_bow",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Lycander's Flank",
+    "common_name": "",
+    "level_req": 42,
+    "type": "amazon_spear",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Titan's Revenge",
+    "common_name": "",
+    "level_req": 42,
+    "type": "amazon_javelin",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Blood Raven's Charge",
+    "common_name": "",
+    "level_req": 71,
+    "type": "amazon_bow",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Stoneraven",
+    "common_name": "",
+    "level_req": 64,
+    "type": "amazon_spear",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Thunderstroke",
+    "common_name": "",
+    "level_req": 69,
+    "type": "amazon_javelin",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Bartuc's Cut-Throat",
+    "common_name": "bartuc",
+    "level_req": 42,
+    "type": "claw",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Jade Talon",
+    "common_name": "",
+    "level_req": 66,
+    "type": "claw",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Shadow Killer",
+    "common_name": "",
+    "level_req": 78,
+    "type": "claw",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Firelizard's Talons",
+    "common_name": "",
+    "level_req": 67,
+    "type": "claw",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  }
+]

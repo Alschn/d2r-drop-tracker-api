@@ -1,0 +1,310 @@
+[
+  {
+    "id": 1,
+    "name": "Pelta Lunata",
+    "common_name": "",
+    "level_req": 2,
+    "type": "shield",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Umbral Disk",
+    "common_name": "",
+    "level_req": 9,
+    "type": "shield",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Stormguild",
+    "common_name": "",
+    "level_req": 13,
+    "type": "shield",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Steelclash",
+    "common_name": "",
+    "level_req": 17,
+    "type": "shield",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Swordback Hold",
+    "common_name": "",
+    "level_req": 15,
+    "type": "shield",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Bverrit Keep",
+    "common_name": "",
+    "level_req": 19,
+    "type": "shield",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Wall of the Eyeless",
+    "common_name": "",
+    "level_req": 20,
+    "type": "shield",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "The Ward",
+    "common_name": "",
+    "level_req": 26,
+    "type": "shield",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Visceratuant",
+    "common_name": "",
+    "level_req": 28,
+    "type": "shield",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Moser's Blessed Circle",
+    "common_name": "mosers",
+    "level_req": 31,
+    "type": "shield",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Stormchaser",
+    "common_name": "",
+    "level_req": 35,
+    "type": "shield",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Tiamat's Rebuke",
+    "common_name": "",
+    "level_req": 38,
+    "type": "shield",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Lance Guard",
+    "common_name": "",
+    "level_req": 35,
+    "type": "shield",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Gerke's Sanctuary",
+    "common_name": "gerkes",
+    "level_req": 44,
+    "type": "shield",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Lidless Wall",
+    "common_name": "lidless",
+    "level_req": 41,
+    "type": "shield",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Radament's Sphere",
+    "common_name": "",
+    "level_req": 50,
+    "type": "shield",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Blackoak Shield",
+    "common_name": "",
+    "level_req": 61,
+    "type": "shield",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Stormshield",
+    "common_name": "storm ss",
+    "level_req": 1,
+    "type": "shield",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Spike Thorn",
+    "common_name": "",
+    "level_req": 70,
+    "type": "shield",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Medusa's Gaze",
+    "common_name": "",
+    "level_req": 76,
+    "type": "shield",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Head Hunter's Glory",
+    "common_name": "hhg",
+    "level_req": 75,
+    "type": "shield",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Spirit Ward",
+    "common_name": "",
+    "level_req": 68,
+    "type": "shield",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Herald of Zakarum",
+    "common_name": "zaka hoz",
+    "level_req": 42,
+    "type": "auric_shield",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Alma Negra",
+    "common_name": "alma",
+    "level_req": 77,
+    "type": "auric_shield",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Dragonscale",
+    "common_name": "",
+    "level_req": 80,
+    "type": "auric_shield",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Homunculus",
+    "common_name": "homu",
+    "level_req": 42,
+    "type": "shrunken_head",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Boneflame",
+    "common_name": "",
+    "level_req": 72,
+    "type": "shrunken_head",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Darkforce Spawn",
+    "common_name": "",
+    "level_req": 65,
+    "type": "shrunken_head",
+    "quality": "unique",
+    "statistics": {
+    },
+    "base": 1
+  }
+]

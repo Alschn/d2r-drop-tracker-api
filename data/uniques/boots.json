@@ -1,0 +1,132 @@
+[
+  {
+    "id": 1,
+    "name": "Hotspur",
+    "common_name": "hotspurs",
+    "level_req": 5,
+    "type": "boots",
+    "quality": "unique",
+    "statistics": {},
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Gorefoot",
+    "common_name": "blue boots",
+    "level_req": 9,
+    "type": "boots",
+    "quality": "unique",
+    "statistics": {},
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Treads of Cthon",
+    "common_name": "",
+    "level_req": 15,
+    "type": "boots",
+    "quality": "unique",
+    "statistics": {},
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Goblin Toe",
+    "common_name": "goblins",
+    "level_req": 22,
+    "type": "boots",
+    "quality": "unique",
+    "statistics": {},
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Tearhaunch",
+    "common_name": "",
+    "level_req": 29,
+    "type": "boots",
+    "quality": "unique",
+    "statistics": {},
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Infernostride",
+    "common_name": "",
+    "level_req": 29,
+    "type": "boots",
+    "quality": "unique",
+    "statistics": {},
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Waterwalk",
+    "common_name": "",
+    "level_req": 32,
+    "type": "boots",
+    "quality": "unique",
+    "statistics": {},
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Silkweave",
+    "common_name": "",
+    "level_req": 36,
+    "type": "boots",
+    "quality": "unique",
+    "statistics": {},
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "War Traveler",
+    "common_name": "wt",
+    "level_req": 5,
+    "type": "boots",
+    "quality": "unique",
+    "statistics": {},
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Gore Rider",
+    "common_name": "gores",
+    "level_req": 5,
+    "type": "boots",
+    "quality": "unique",
+    "statistics": {},
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Sandstorm Trek",
+    "common_name": "treks",
+    "level_req": 5,
+    "type": "boots",
+    "quality": "unique",
+    "statistics": {},
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Marrowwalk",
+    "common_name": "",
+    "level_req": 5,
+    "type": "boots",
+    "quality": "unique",
+    "statistics": {},
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Shadow Dancer",
+    "common_name": "dancers",
+    "level_req": 5,
+    "type": "boots",
+    "quality": "unique",
+    "statistics": {},
+    "base": 1
+  }
+]

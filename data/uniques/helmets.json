@@ -1,0 +1,332 @@
+[
+  {
+    "id": 1,
+    "name": "Biggin's Bonnet",
+    "common_name": "",
+    "level_req": 3,
+    "type": "helmet",
+    "quality": "unique",
+    "statistics": {},
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Tarnhelm",
+    "common_name": "tarn",
+    "level_req": 15,
+    "type": "helmet",
+    "quality": "unique",
+    "statistics": {},
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Coif of Glory",
+    "common_name": "",
+    "level_req": 14,
+    "type": "helmet",
+    "quality": "unique",
+    "statistics": {},
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Duskdeep",
+    "common_name": "",
+    "level_req": 17,
+    "type": "helmet",
+    "quality": "unique",
+    "statistics": {},
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Howltusk",
+    "common_name": "",
+    "level_req": 25,
+    "type": "helmet",
+    "quality": "unique",
+    "statistics": {},
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "The Face of Horror",
+    "common_name": "",
+    "level_req": 20,
+    "type": "helmet",
+    "quality": "unique",
+    "statistics": {},
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Undead Crown",
+    "common_name": "",
+    "level_req": 29,
+    "type": "helmet",
+    "quality": "unique",
+    "statistics": {},
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Wormskull",
+    "common_name": "",
+    "level_req": 21,
+    "type": "helmet",
+    "quality": "unique",
+    "statistics": {},
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Peasant Crown",
+    "common_name": "",
+    "level_req": 28,
+    "type": "helmet",
+    "quality": "unique",
+    "statistics": {},
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Rockstopper",
+    "common_name": "",
+    "level_req": 31,
+    "type": "helmet",
+    "quality": "unique",
+    "statistics": {},
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Stealskull",
+    "common_name": "",
+    "level_req": 3,
+    "type": "helmet",
+    "quality": "unique",
+    "statistics": {},
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Darksight Helm",
+    "common_name": "",
+    "level_req": 38,
+    "type": "helmet",
+    "quality": "unique",
+    "statistics": {},
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Biggin's Bonnet",
+    "common_name": "",
+    "level_req": 3,
+    "type": "helmet",
+    "quality": "unique",
+    "statistics": {},
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Valkyrie Wing",
+    "common_name": "",
+    "level_req": 44,
+    "type": "helmet",
+    "quality": "unique",
+    "statistics": {},
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Blackthorn's Face",
+    "common_name": "",
+    "level_req": 41,
+    "type": "helmet",
+    "quality": "unique",
+    "statistics": {},
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Crown of Thieves",
+    "common_name": "cot",
+    "level_req": 49,
+    "type": "helmet",
+    "quality": "unique",
+    "statistics": {},
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Harlequin Crest",
+    "common_name": "shako",
+    "level_req": 62,
+    "type": "helmet",
+    "quality": "unique",
+    "statistics": {},
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Steel Shade",
+    "common_name": "",
+    "level_req": 62,
+    "type": "helmet",
+    "quality": "unique",
+    "statistics": {},
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Veil of Steel",
+    "common_name": "",
+    "level_req": 3,
+    "type": "helmet",
+    "quality": "unique",
+    "statistics": {},
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Nightwing's Veil",
+    "common_name": "nw",
+    "level_req": 3,
+    "type": "helmet",
+    "quality": "unique",
+    "statistics": {},
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Andariel's Visage",
+    "common_name": "andy",
+    "level_req": 83,
+    "type": "helmet",
+    "quality": "unique",
+    "statistics": {},
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Crown of Ages",
+    "common_name": "coa",
+    "level_req": 3,
+    "type": "helmet",
+    "quality": "unique",
+    "statistics": {},
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Giant Skull",
+    "common_name": "gskull",
+    "level_req": 65,
+    "type": "helmet",
+    "quality": "unique",
+    "statistics": {},
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Kira's Guardian",
+    "common_name": "kira",
+    "level_req": 77,
+    "type": "helmet",
+    "quality": "unique",
+    "statistics": {},
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Griffon's Eye",
+    "common_name": "griffon",
+    "level_req": 76,
+    "type": "helmet",
+    "quality": "unique",
+    "statistics": {},
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Arreat's Face",
+    "common_name": "arreat",
+    "level_req": 42,
+    "type": "barb_helm",
+    "quality": "unique",
+    "statistics": {},
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Wolfhowl",
+    "common_name": "",
+    "level_req": 79,
+    "type": "barb_helm",
+    "quality": "unique",
+    "statistics": {},
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Demonhorn's Edge",
+    "common_name": "",
+    "level_req": 61,
+    "type": "barb_helm",
+    "quality": "unique",
+    "statistics": {},
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Halaberd's Reign",
+    "common_name": "",
+    "level_req": 77,
+    "type": "barb_helm",
+    "quality": "unique",
+    "statistics": {},
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Jalal's Mane",
+    "common_name": "jalals",
+    "level_req": 42,
+    "type": "druid_pelt",
+    "quality": "unique",
+    "statistics": {},
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Cerebus' Bite",
+    "common_name": "cerberus",
+    "level_req": 63,
+    "type": "druid_pelt",
+    "quality": "unique",
+    "statistics": {},
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Spirit Keeper",
+    "common_name": "",
+    "level_req": 67,
+    "type": "druid_pelt",
+    "quality": "unique",
+    "statistics": {},
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Ravenlore",
+    "common_name": "",
+    "level_req": 74,
+    "type": "druid_pelt",
+    "quality": "unique",
+    "statistics": {},
+    "base": 1
+  }
+]

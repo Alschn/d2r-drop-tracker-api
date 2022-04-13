@@ -4,40 +4,18 @@
     "name": "Annihilus",
     "common_name": "anni",
     "level_req": 70,
+    "type": "charm",
+    "quality": "unique",
     "statistics": {
       "all_skills": {
         "min": 1,
         "max": 1
       },
-      "str": {
+      "all_stats": {
         "min": 10,
         "max": 20
       },
-      "dex": {
-        "min": 10,
-        "max": 20
-      },
-      "vita": {
-        "min": 10,
-        "max": 20
-      },
-      "energy": {
-        "min": 10,
-        "max": 20
-      },
-      "fr": {
-        "min": 10,
-        "max": 20
-      },
-      "cr": {
-        "min": 10,
-        "max": 20
-      },
-      "lr": {
-        "min": 10,
-        "max": 20
-      },
-      "pr": {
+      "all_res": {
         "min": 10,
         "max": 20
       },
@@ -45,15 +23,15 @@
         "min": 10,
         "max": 20
       }
-    },
-    "type": "charm",
-    "quality": "unique"
+    }
   },
   {
     "id": 2,
     "name": "Hellfire Torch",
     "common_name": "torch",
     "level_req": 75,
+    "type": "charm",
+    "quality": "unique",
     "statistics": {
       "ctc": {
         "on": "striking",
@@ -65,35 +43,11 @@
         "min": 3,
         "max": 3
       },
-      "str": {
+      "all_stats": {
         "min": 10,
         "max": 20
       },
-      "dex": {
-        "min": 10,
-        "max": 20
-      },
-      "vita": {
-        "min": 10,
-        "max": 20
-      },
-      "energy": {
-        "min": 10,
-        "max": 20
-      },
-      "fr": {
-        "min": 10,
-        "max": 20
-      },
-      "cr": {
-        "min": 10,
-        "max": 20
-      },
-      "lr": {
-        "min": 10,
-        "max": 20
-      },
-      "pr": {
+      "all_res": {
         "min": 10,
         "max": 20
       },
@@ -103,15 +57,15 @@
         "level": 30,
         "count": 10
       }
-    },
-    "type": "charm",
-    "quality": "unique"
+    }
   },
   {
     "id": 3,
     "name": "Gheed's Fortune",
     "common_name": "gheed",
     "level_req": 62,
+    "type": "charm",
+    "quality": "unique",
     "statistics": {
       "eg": {
         "min": 80,
@@ -125,8 +79,6 @@
         "min": 10,
         "max": 15
       }
-    },
-    "type": "charm",
-    "quality": "unique"
+    }
   }
 ]

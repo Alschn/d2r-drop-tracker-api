@@ -1,0 +1,132 @@
+[
+  {
+    "id": 1,
+    "name": "The Hand of Broc",
+    "common_name": "gores",
+    "level_req": 5,
+    "type": "gloves",
+    "quality": "unique",
+    "statistics": {},
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Bloodfist",
+    "common_name": "bloodfists",
+    "level_req": 9,
+    "type": "gloves",
+    "quality": "unique",
+    "statistics": {},
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Chance Guards",
+    "common_name": "chancies",
+    "level_req": 15,
+    "type": "gloves",
+    "quality": "unique",
+    "statistics": {},
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Magefist",
+    "common_name": "mages",
+    "level_req": 23,
+    "type": "gloves",
+    "quality": "unique",
+    "statistics": {},
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Frostburn",
+    "common_name": "frosts",
+    "level_req": 29,
+    "type": "gloves",
+    "quality": "unique",
+    "statistics": {},
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Venom Grip",
+    "common_name": "gores",
+    "level_req": 5,
+    "type": "gloves",
+    "quality": "unique",
+    "statistics": {},
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Gravepalm",
+    "common_name": "",
+    "level_req": 32,
+    "type": "gloves",
+    "quality": "unique",
+    "statistics": {},
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Ghoulhide",
+    "common_name": "",
+    "level_req": 36,
+    "type": "gloves",
+    "quality": "unique",
+    "statistics": {},
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Lava Gout",
+    "common_name": "",
+    "level_req": 42,
+    "type": "gloves",
+    "quality": "unique",
+    "statistics": {},
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Hellmouth",
+    "common_name": "",
+    "level_req": 47,
+    "type": "gloves",
+    "quality": "unique",
+    "statistics": {},
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Dracul's Grasp",
+    "common_name": "dracs",
+    "level_req": 76,
+    "type": "gloves",
+    "quality": "unique",
+    "statistics": {},
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Soul Drainer",
+    "common_name": "",
+    "level_req": 74,
+    "type": "gloves",
+    "quality": "unique",
+    "statistics": {},
+    "base": 1
+  },
+  {
+    "id": 1,
+    "name": "Steelrend",
+    "common_name": "steelrends",
+    "level_req": 70,
+    "type": "gloves",
+    "quality": "unique",
+    "statistics": {},
+    "base": 1
+  }
+]
