@@ -9,7 +9,7 @@ from ordered_model.admin import OrderedModelAdmin
 from common.admin import ModelAdmin, ModelResourceWithNestedJSON
 from .models import (
     Set, ItemInSet, Runeword, Item, ItemBase, ItemQuality, ConcreteItem, Jewelry, Rune, Charm, Jewel,
-    Miscellaneous, RuneInRuneword, ConcreteRuneword, ItemType
+    Miscellaneous, RuneInRuneword, ConcreteRuneword, ItemType, SetItem
 )
 
 
@@ -45,6 +45,24 @@ class ItemAdmin(ModelAdmin):
 
     def has_add_permission(self, *args, **kwargs):
         return False
+
+
+class ConcreteItemResource(ModelResourceWithNestedJSON):
+    base = fields.Field(
+        column_name="base",
+        attribute="base",
+        widget=ForeignKeyWidget(ItemBase)
+    )
+
+    class Meta:
+        model = ConcreteItem
+        fields = (
+            "id",
+            "name", "common_name",
+            "level_req", "type", "quality",
+            "statistics",
+            "base"
+        )
 
 
 class ConcreteItemAdminForm(forms.ModelForm):
@@ -124,7 +142,7 @@ class ItemInSetAdminForm(forms.ModelForm):
 
 
 @admin.register(ItemInSet)
-class ItemInSetAdmin(admin.ModelAdmin):
+class ItemInSetAdmin(ImportExportModelAdmin, admin.ModelAdmin):
     form = ItemInSetAdminForm
     list_select_related = ("set", "item")
     list_display = ('__str__', 'set')
@@ -277,3 +295,15 @@ class MiscellaneousAdmin(ImportExportModelAdmin, ModelAdmin):
     form = MiscellaneousAdminForm
     list_display = ("name", "type", "level_req")
     resource_class = ItemResource
+
+
+class SetItemAdminForm(forms.ModelForm):
+    quality = forms.ChoiceField(
+        choices=((ItemQuality.SET.value, ItemQuality.SET.label),)
+    )
+
+
+@admin.register(SetItem)
+class SetItemsAdmin(ImportExportModelAdmin, ModelAdmin):
+    form = SetItemAdminForm
+    resource_class = ConcreteItemResource

@@ -1,5 +1,6 @@
 from django.core.validators import MinValueValidator, MaxValueValidator
 from django.db import models
+from django.db.models import QuerySet
 from ordered_model.models import OrderedModel
 
 from characters.models import Character
@@ -227,10 +228,26 @@ class Miscellaneous(Item):
 
 
 class ConcreteItem(Item):
-    base = models.ForeignKey(to=ItemBase, on_delete=models.CASCADE)
+    base = models.ForeignKey(to=ItemBase, on_delete=models.CASCADE, blank=True, null=True)
 
     def __str__(self) -> str:
+        if not self.base:
+            return f"{self.name} {self.quality} {self.type}"
+
         return f"{self.name} {self.quality} {self.base.name} {self.type}"
+
+
+class SetItemManager(models.Manager):
+    def get_queryset(self) -> QuerySet['ConcreteItem']:
+        return ConcreteItem.objects.filter(quality=ItemQuality.SET)
+
+
+class SetItem(ConcreteItem):
+    objects = SetItemManager()
+
+    class Meta:
+        proxy = True
+        verbose_name_plural = "Set items"
 
 
 class ConcreteRuneword(models.Model):
