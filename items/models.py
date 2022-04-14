@@ -250,6 +250,19 @@ class SetItem(ConcreteItem):
         verbose_name_plural = "Set items"
 
 
+class UniqueItemManager(models.Manager):
+    def get_queryset(self) -> QuerySet['ConcreteItem']:
+        return ConcreteItem.objects.filter(quality=ItemQuality.UNIQUE)
+
+
+class UniqueItem(ConcreteItem):
+    objects = UniqueItemManager()
+
+    class Meta:
+        proxy = True
+        verbose_name_plural = "Unique items"
+
+
 class ConcreteRuneword(models.Model):
     base = models.ForeignKey(to=ItemBase, on_delete=models.CASCADE)
     runeword = models.ForeignKey(to="Runeword", on_delete=models.SET_NULL, blank=True, null=True)

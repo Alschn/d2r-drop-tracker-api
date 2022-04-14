@@ -9,7 +9,7 @@ from ordered_model.admin import OrderedModelAdmin
 from common.admin import ModelAdmin, ModelResourceWithNestedJSON
 from .models import (
     Set, ItemInSet, Runeword, Item, ItemBase, ItemQuality, ConcreteItem, Jewelry, Rune, Charm, Jewel,
-    Miscellaneous, RuneInRuneword, ConcreteRuneword, ItemType, SetItem
+    Miscellaneous, RuneInRuneword, ConcreteRuneword, ItemType, SetItem, UniqueItem
 )
 
 
@@ -72,14 +72,13 @@ class ConcreteItemAdminForm(forms.ModelForm):
 
 
 @admin.register(ConcreteItem)
-class ConcreteItemAdmin(ModelAdmin):
+class ConcreteItemAdmin(ImportExportModelAdmin, ModelAdmin):
     list_filter = ('quality', 'type')
+    list_select_related = ('base',)
+    resource_class = ConcreteItemResource
 
 
 class RunewordAdminForm(forms.ModelForm):
-    def __init__(self, *args, **kwargs):
-        super().__init__(*args, **kwargs)
-
     class Meta:
         model = Runeword
         fields = "__all__"
@@ -306,4 +305,18 @@ class SetItemAdminForm(forms.ModelForm):
 @admin.register(SetItem)
 class SetItemsAdmin(ImportExportModelAdmin, ModelAdmin):
     form = SetItemAdminForm
+    list_display = ("name", "quality", "type", "level_req")
+    resource_class = ConcreteItemResource
+
+
+class UniqueItemAdminForm(forms.ModelForm):
+    quality = forms.ChoiceField(
+        choices=((ItemQuality.UNIQUE.value, ItemQuality.UNIQUE.label),)
+    )
+
+
+@admin.register(UniqueItem)
+class UniqueItemsAdmin(ImportExportModelAdmin, ModelAdmin):
+    form = UniqueItemAdminForm
+    list_display = ("name", "quality", "type", "level_req")
     resource_class = ConcreteItemResource
