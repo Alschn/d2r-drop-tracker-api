@@ -1,6 +1,6 @@
 [
   {
-    "id": 1,
+    "id": 81,
     "name": "Arcanna's Deathwand",
     "common_name": "",
     "level_req": 15,
@@ -11,7 +11,7 @@
     "base": 368
   },
   {
-    "id": 1,
+    "id": 82,
     "name": "Arcanna's Flesh",
     "common_name": "",
     "level_req": 15,
@@ -22,7 +22,7 @@
     "base": 13
   },
   {
-    "id": 1,
+    "id": 83,
     "name": "Arcanna's Head",
     "common_name": "",
     "level_req": 15,
@@ -33,7 +33,7 @@
     "base": 92
   },
   {
-    "id": 1,
+    "id": 84,
     "name": "Arcanna's Sign",
     "common_name": "",
     "level_req": 15,
@@ -41,10 +41,10 @@
     "quality": "set",
     "statistics": {
     },
-    "base": 1
+    "base": null
   },
   {
-    "id": 1,
+    "id": 85,
     "name": "Arctic Horn",
     "common_name": "",
     "level_req": 2,
@@ -52,21 +52,10 @@
     "quality": "set",
     "statistics": {
     },
-    "base": 1
+    "base": 240
   },
   {
-    "id": 1,
-    "name": "Arctic Horn",
-    "common_name": "",
-    "level_req": 2,
-    "type": "bow",
-    "quality": "set",
-    "statistics": {
-    },
-    "base": 1
-  },
-  {
-    "id": 1,
+    "id": 86,
     "name": "Arctic Furs",
     "common_name": "",
     "level_req": 2,
@@ -77,62 +66,62 @@
     "base": 1
   },
   {
-    "id": 1,
+    "id": 87,
     "name": "Arctic Mitts",
     "common_name": "",
     "level_req": 2,
-    "type": "bow",
+    "type": "gloves",
     "quality": "set",
     "statistics": {
     },
-    "base": 1
+    "base": 79
   },
   {
-    "id": 1,
+    "id": 88,
     "name": "Arctic Binding",
     "common_name": "",
     "level_req": 2,
-    "type": "sword_1h",
+    "type": "belt",
     "quality": "set",
     "statistics": {
     },
-    "base": 1
+    "base": 47
   },
   {
-    "id": 1,
+    "id": 89,
     "name": "Berserker's Hatchet",
-    "common_name": "",
-    "level_req": 3,
-    "type": "armor",
-    "quality": "set",
-    "statistics": {
-    },
-    "base": 1
-  },
-  {
-    "id": 1,
-    "name": "Berserker's Hauberk",
-    "common_name": "",
-    "level_req": 3,
-    "type": "helmet",
-    "quality": "set",
-    "statistics": {
-    },
-    "base": 1
-  },
-  {
-    "id": 1,
-    "name": "Berserker's Headgear",
     "common_name": "",
     "level_req": 3,
     "type": "axe_1h",
     "quality": "set",
     "statistics": {
     },
-    "base": 1
+    "base": 206
   },
   {
-    "id": 1,
+    "id": 90,
+    "name": "Berserker's Hauberk",
+    "common_name": "",
+    "level_req": 3,
+    "type": "armor",
+    "quality": "set",
+    "statistics": {
+    },
+    "base": 9
+  },
+  {
+    "id": 91,
+    "name": "Berserker's Headgear",
+    "common_name": "",
+    "level_req": 3,
+    "type": "helm",
+    "quality": "set",
+    "statistics": {
+    },
+    "base": 93
+  },
+  {
+    "id": 92,
     "name": "Cathan's Rule",
     "common_name": "",
     "level_req": 11,
@@ -140,10 +129,10 @@
     "quality": "set",
     "statistics": {
     },
-    "base": 1
+    "base": 367
   },
   {
-    "id": 1,
+    "id": 93,
     "name": "Cathan's Mesh",
     "common_name": "",
     "level_req": 11,
@@ -151,10 +140,10 @@
     "quality": "set",
     "statistics": {
     },
-    "base": 1
+    "base": 22
   },
   {
-    "id": 1,
+    "id": 94,
     "name": "Cathan's Visage",
     "common_name": "",
     "level_req": 11,
@@ -162,10 +151,10 @@
     "quality": "set",
     "statistics": {
     },
-    "base": 1
+    "base": 95
   },
   {
-    "id": 1,
+    "id": 95,
     "name": "Cathan's Sigil",
     "common_name": "",
     "level_req": 11,
@@ -173,10 +162,10 @@
     "quality": "set",
     "statistics": {
     },
-    "base": 1
+    "base": null
   },
   {
-    "id": 1,
+    "id": 96,
     "name": "Cathan's Seal",
     "common_name": "",
     "level_req": 11,
@@ -184,10 +173,10 @@
     "quality": "set",
     "statistics": {
     },
-    "base": 1
+    "base": null
   },
   {
-    "id": 1,
+    "id": 97,
     "name": "Civerb's Cudgel",
     "common_name": "",
     "level_req": 9,
@@ -195,10 +184,10 @@
     "quality": "set",
     "statistics": {
     },
-    "base": 1
+    "base": 341
   },
   {
-    "id": 1,
+    "id": 98,
     "name": "Civerb's Ward",
     "common_name": "",
     "level_req": 9,
@@ -206,10 +195,10 @@
     "quality": "set",
     "statistics": {
     },
-    "base": 1
+    "base": 152
   },
   {
-    "id": 1,
+    "id": 99,
     "name": "Civerb's Icon",
     "common_name": "",
     "level_req": 9,
@@ -217,10 +206,10 @@
     "quality": "set",
     "statistics": {
     },
-    "base": 1
+    "base": null
   },
   {
-    "id": 1,
+    "id": 100,
     "name": "Cleglaw's Tooth",
     "common_name": "",
     "level_req": 4,
@@ -228,10 +217,10 @@
     "quality": "set",
     "statistics": {
     },
-    "base": 1
+    "base": 385
   },
   {
-    "id": 1,
+    "id": 101,
     "name": "Cleglaw's Claw",
     "common_name": "",
     "level_req": 4,
@@ -239,10 +228,10 @@
     "quality": "set",
     "statistics": {
     },
-    "base": 1
+    "base": 151
   },
   {
-    "id": 1,
+    "id": 102,
     "name": "Cleglaw's Pincers",
     "common_name": "",
     "level_req": 4,
@@ -250,10 +239,21 @@
     "quality": "set",
     "statistics": {
     },
-    "base": 1
+    "base": 78
   },
   {
-    "id": 1,
+    "id": 103,
+    "name": "Angelic Sickle",
+    "common_name": "",
+    "level_req": 12,
+    "type": "sword_1h",
+    "quality": "set",
+    "statistics": {
+    },
+    "base": 381
+  },
+  {
+    "id": 104,
     "name": "Angelic Mantle",
     "common_name": "",
     "level_req": 12,
@@ -261,32 +261,32 @@
     "quality": "set",
     "statistics": {
     },
-    "base": 1
+    "base": 5
   },
   {
-    "id": 1,
+    "id": 105,
     "name": "Angelic Halo",
-    "common_name": "",
+    "common_name": "angelic ring",
     "level_req": 12,
     "type": "ring",
     "quality": "set",
     "statistics": {
     },
-    "base": 1
+    "base": null
   },
   {
-    "id": 1,
+    "id": 106,
     "name": "Angelic Wings",
-    "common_name": "",
+    "common_name": "angelic amu",
     "level_req": 12,
     "type": "amulet",
     "quality": "set",
     "statistics": {
     },
-    "base": 1
+    "base": null
   },
   {
-    "id": 1,
+    "id": 107,
     "name": "Hsarus' Iron Fist",
     "common_name": "",
     "level_req": 3,
@@ -294,10 +294,10 @@
     "quality": "set",
     "statistics": {
     },
-    "base": 1
+    "base": 149
   },
   {
-    "id": 1,
+    "id": 108,
     "name": "Hsarus' Iron Stay",
     "common_name": "",
     "level_req": 3,
@@ -305,10 +305,10 @@
     "quality": "set",
     "statistics": {
     },
-    "base": 1
+    "base": 48
   },
   {
-    "id": 1,
+    "id": 109,
     "name": "Hsarus' Iron Heel",
     "common_name": "",
     "level_req": 3,
@@ -316,21 +316,21 @@
     "quality": "set",
     "statistics": {
     },
-    "base": 1
+    "base": 63
   },
   {
-    "id": 1,
+    "id": 110,
     "name": "Infernal Torch",
     "common_name": "",
     "level_req": 5,
-    "type": "boots",
+    "type": "wand",
     "quality": "set",
     "statistics": {
     },
-    "base": 1
+    "base": 434
   },
   {
-    "id": 1,
+    "id": 111,
     "name": "Infernal Cranium",
     "common_name": "",
     "level_req": 5,
@@ -338,10 +338,10 @@
     "quality": "set",
     "statistics": {
     },
-    "base": 1
+    "base": 91
   },
   {
-    "id": 1,
+    "id": 112,
     "name": "Infernal Sign",
     "common_name": "",
     "level_req": 5,
@@ -349,10 +349,10 @@
     "quality": "set",
     "statistics": {
     },
-    "base": 1
+    "base": 49
   },
   {
-    "id": 1,
+    "id": 113,
     "name": "Iratha's Coil",
     "common_name": "",
     "level_req": 15,
@@ -360,10 +360,10 @@
     "quality": "set",
     "statistics": {
     },
-    "base": 1
+    "base": 98
   },
   {
-    "id": 1,
+    "id": 114,
     "name": "Iratha's Cuff",
     "common_name": "",
     "level_req": 15,
@@ -371,10 +371,10 @@
     "quality": "set",
     "statistics": {
     },
-    "base": 1
+    "base": 79
   },
   {
-    "id": 1,
+    "id": 115,
     "name": "Iratha's Cord",
     "common_name": "",
     "level_req": 15,
@@ -382,10 +382,10 @@
     "quality": "set",
     "statistics": {
     },
-    "base": 1
+    "base": 49
   },
   {
-    "id": 1,
+    "id": 116,
     "name": "Iratha's Collar",
     "common_name": "",
     "level_req": 15,
@@ -393,10 +393,10 @@
     "quality": "set",
     "statistics": {
     },
-    "base": 1
+    "base": null
   },
   {
-    "id": 1,
+    "id": 117,
     "name": "Isenhart's Lightbrand",
     "common_name": "",
     "level_req": 8,
@@ -404,10 +404,10 @@
     "quality": "set",
     "statistics": {
     },
-    "base": 1
+    "base": 382
   },
   {
-    "id": 1,
+    "id": 118,
     "name": "Isenhart's Case",
     "common_name": "",
     "level_req": 8,
@@ -415,10 +415,10 @@
     "quality": "set",
     "statistics": {
     },
-    "base": 1
+    "base": 8
   },
   {
-    "id": 1,
+    "id": 119,
     "name": "Isenhart's Parry",
     "common_name": "",
     "level_req": 8,
@@ -426,10 +426,10 @@
     "quality": "set",
     "statistics": {
     },
-    "base": 1
+    "base": 156
   },
   {
-    "id": 1,
+    "id": 120,
     "name": "Isenhart's Horns",
     "common_name": "",
     "level_req": 8,
@@ -437,10 +437,10 @@
     "quality": "set",
     "statistics": {
     },
-    "base": 1
+    "base": 94
   },
   {
-    "id": 1,
+    "id": 121,
     "name": "Milabrega's Rod",
     "common_name": "",
     "level_req": 17,
@@ -448,10 +448,10 @@
     "quality": "set",
     "statistics": {
     },
-    "base": 1
+    "base": 340
   },
   {
-    "id": 1,
+    "id": 122,
     "name": "Milabrega's Robe",
     "common_name": "",
     "level_req": 17,
@@ -459,10 +459,10 @@
     "quality": "set",
     "statistics": {
     },
-    "base": 1
+    "base": 15
   },
   {
-    "id": 1,
+    "id": 123,
     "name": "Milabrega's Orb",
     "common_name": "",
     "level_req": 17,
@@ -470,10 +470,10 @@
     "quality": "set",
     "statistics": {
     },
-    "base": 1
+    "base": 152
   },
   {
-    "id": 1,
+    "id": 124,
     "name": "Milabrega's Diadem",
     "common_name": "",
     "level_req": 17,
@@ -481,65 +481,65 @@
     "quality": "set",
     "statistics": {
     },
-    "base": 1
+    "base": 98
   },
   {
-    "id": 1,
+    "id": 125,
     "name": "Sigon's Shelter",
-    "common_name": "",
+    "common_name": "sigon armor",
     "level_req": 6,
     "type": "armor",
     "quality": "set",
     "statistics": {
     },
-    "base": 1
+    "base": 12
   },
   {
-    "id": 1,
+    "id": 126,
     "name": "Sigon's Guard",
-    "common_name": "",
+    "common_name": "sigon shield",
     "level_req": 6,
     "type": "shield",
     "quality": "set",
     "statistics": {
     },
-    "base": 1
+    "base": 155
   },
   {
-    "id": 1,
+    "id": 127,
     "name": "Sigon's Visor",
-    "common_name": "",
+    "common_name": "sigon helmet",
     "level_req": 6,
     "type": "helmet",
     "quality": "set",
     "statistics": {
     },
-    "base": 1
+    "base": 97
   },
   {
-    "id": 1,
+    "id": 128,
     "name": "Sigon's Gage",
-    "common_name": "",
+    "common_name": "sigon gloves",
     "level_req": 6,
     "type": "gloves",
     "quality": "set",
     "statistics": {
     },
-    "base": 1
+    "base": 80
   },
   {
-    "id": 1,
+    "id": 129,
     "name": "Sigon's Wrap",
-    "common_name": "",
+    "common_name": "sigon belt",
     "level_req": 6,
     "type": "belt",
     "quality": "set",
     "statistics": {
     },
-    "base": 1
+    "base": 50
   },
   {
-    "id": 1,
+    "id": 130,
     "name": "Sigon's Sabot",
     "common_name": "",
     "level_req": 6,
@@ -547,10 +547,10 @@
     "quality": "set",
     "statistics": {
     },
-    "base": 1
+    "base": 65
   },
   {
-    "id": 1,
+    "id": 131,
     "name": "Tancred's Crowbill",
     "common_name": "",
     "level_req": 20,
@@ -558,10 +558,10 @@
     "quality": "set",
     "statistics": {
     },
-    "base": 1
+    "base": 206
   },
   {
-    "id": 1,
+    "id": 132,
     "name": "Tancred's Spine",
     "common_name": "",
     "level_req": 20,
@@ -569,10 +569,10 @@
     "quality": "set",
     "statistics": {
     },
-    "base": 1
+    "base": 14
   },
   {
-    "id": 1,
+    "id": 133,
     "name": "Tancred's Skull",
     "common_name": "",
     "level_req": 20,
@@ -580,10 +580,10 @@
     "quality": "set",
     "statistics": {
     },
-    "base": 1
+    "base": 96
   },
   {
-    "id": 1,
+    "id": 134,
     "name": "Tancred's Hobnails",
     "common_name": "",
     "level_req": 20,
@@ -591,10 +591,10 @@
     "quality": "set",
     "statistics": {
     },
-    "base": 1
+    "base": 61
   },
   {
-    "id": 1,
+    "id": 135,
     "name": "Tancred's Weird",
     "common_name": "",
     "level_req": 20,
@@ -602,10 +602,10 @@
     "quality": "set",
     "statistics": {
     },
-    "base": 1
+    "base": null
   },
   {
-    "id": 1,
+    "id": 136,
     "name": "Death's Touch",
     "common_name": "",
     "level_req": 6,
@@ -613,32 +613,32 @@
     "quality": "set",
     "statistics": {
     },
-    "base": 1
+    "base": 384
   },
   {
-    "id": 1,
+    "id": 137,
     "name": "Death's Hand",
-    "common_name": "",
+    "common_name": "death gloves",
     "level_req": 6,
     "type": "gloves",
     "quality": "set",
     "statistics": {
     },
-    "base": 1
+    "base": 76
   },
   {
-    "id": 1,
+    "id": 138,
     "name": "Death's Guard",
-    "common_name": "",
+    "common_name": "death belt",
     "level_req": 6,
     "type": "belt",
     "quality": "set",
     "statistics": {
     },
-    "base": 1
+    "base": 46
   },
   {
-    "id": 1,
+    "id": 139,
     "name": "Vidala's Barb",
     "common_name": "",
     "level_req": 14,
@@ -646,10 +646,10 @@
     "quality": "set",
     "statistics": {
     },
-    "base": 1
+    "base": 238
   },
   {
-    "id": 1,
+    "id": 140,
     "name": "Vidala's Ambush",
     "common_name": "",
     "level_req": 14,
@@ -657,10 +657,10 @@
     "quality": "set",
     "statistics": {
     },
-    "base": 1
+    "base": 2
   },
   {
-    "id": 1,
+    "id": 141,
     "name": "Vidala's Fetlock",
     "common_name": "",
     "level_req": 14,
@@ -668,10 +668,10 @@
     "quality": "set",
     "statistics": {
     },
-    "base": 1
+    "base": 64
   },
   {
-    "id": 1,
+    "id": 142,
     "name": "Vidala's Snare",
     "common_name": "",
     "level_req": 14,
@@ -679,10 +679,10 @@
     "quality": "set",
     "statistics": {
     },
-    "base": 1
+    "base": null
   },
   {
-    "id": 1,
+    "id": 143,
     "name": "Dangoon's Teaching",
     "common_name": "",
     "level_req": 68,
@@ -690,10 +690,10 @@
     "quality": "set",
     "statistics": {
     },
-    "base": 1
+    "base": 314
   },
   {
-    "id": 1,
+    "id": 144,
     "name": "Haemosu's Adamant",
     "common_name": "",
     "level_req": 44,
@@ -701,10 +701,10 @@
     "quality": "set",
     "statistics": {
     },
-    "base": 1
+    "base": 23
   },
   {
-    "id": 1,
+    "id": 145,
     "name": "Taebaek's Glory",
     "common_name": "",
     "level_req": 81,
@@ -712,10 +712,10 @@
     "quality": "set",
     "statistics": {
     },
-    "base": 1
+    "base": 172
   },
   {
-    "id": 1,
+    "id": 146,
     "name": "Ondal's Almighty",
     "common_name": "",
     "level_req": 69,
@@ -723,10 +723,10 @@
     "quality": "set",
     "statistics": {
     },
-    "base": 1
+    "base": 113
   },
   {
-    "id": 1,
+    "id": 147,
     "name": "Dark Adherent",
     "common_name": "",
     "level_req": 49,
@@ -734,10 +734,10 @@
     "quality": "set",
     "statistics": {
     },
-    "base": 1
+    "base": 31
   },
   {
-    "id": 1,
+    "id": 148,
     "name": "Laying of Hands",
     "common_name": "loh",
     "level_req": 63,
@@ -745,10 +745,10 @@
     "quality": "set",
     "statistics": {
     },
-    "base": 1
+    "base": 86
   },
   {
-    "id": 1,
+    "id": 149,
     "name": "Credendum",
     "common_name": "",
     "level_req": 65,
@@ -756,10 +756,10 @@
     "quality": "set",
     "statistics": {
     },
-    "base": 1
+    "base": 58
   },
   {
-    "id": 1,
+    "id": 150,
     "name": "Rite of Passage",
     "common_name": "",
     "level_req": 69,
@@ -767,10 +767,10 @@
     "quality": "set",
     "statistics": {
     },
-    "base": 1
+    "base": 66
   },
   {
-    "id": 1,
+    "id": 151,
     "name": "Telling of Beads",
     "common_name": "",
     "level_req": 30,
@@ -778,10 +778,10 @@
     "quality": "set",
     "statistics": {
     },
-    "base": 1
+    "base": null
   },
   {
-    "id": 1,
+    "id": 152,
     "name": "Hwanin's Justice",
     "common_name": "",
     "level_req": 28,
@@ -789,10 +789,10 @@
     "quality": "set",
     "statistics": {
     },
-    "base": 1
+    "base": 327
   },
   {
-    "id": 1,
+    "id": 153,
     "name": "Hwanin's Refuge",
     "common_name": "",
     "level_req": 30,
@@ -800,10 +800,10 @@
     "quality": "set",
     "statistics": {
     },
-    "base": 1
+    "base": 21
   },
   {
-    "id": 1,
+    "id": 154,
     "name": "Hwanin's Splendor",
     "common_name": "",
     "level_req": 45,
@@ -811,10 +811,10 @@
     "quality": "set",
     "statistics": {
     },
-    "base": 1
+    "base": 106
   },
   {
-    "id": 1,
+    "id": 155,
     "name": "Hwanin's Blessing",
     "common_name": "",
     "level_req": 35,
@@ -822,10 +822,10 @@
     "quality": "set",
     "statistics": {
     },
-    "base": 1
+    "base": 48
   },
   {
-    "id": 1,
+    "id": 156,
     "name": "Cow King's Horns",
     "common_name": "",
     "level_req": 25,
@@ -833,10 +833,10 @@
     "quality": "set",
     "statistics": {
     },
-    "base": 1
+    "base": 99
   },
   {
-    "id": 1,
+    "id": 157,
     "name": "Cow King's Hide",
     "common_name": "",
     "level_req": 18,
@@ -844,10 +844,10 @@
     "quality": "set",
     "statistics": {
     },
-    "base": 1
+    "base": 18
   },
   {
-    "id": 1,
+    "id": 158,
     "name": "Cow King's Hooves",
     "common_name": "",
     "level_req": 13,
@@ -855,21 +855,21 @@
     "quality": "set",
     "statistics": {
     },
-    "base": 1
+    "base": 62
   },
   {
-    "id": 1,
+    "id": 159,
     "name": "Naj's Puzzler",
-    "common_name": "",
+    "common_name": "naj staff",
     "level_req": 78,
     "type": "staff",
     "quality": "set",
     "statistics": {
     },
-    "base": 1
+    "base": 374
   },
   {
-    "id": 1,
+    "id": 160,
     "name": "Naj's Light Plate",
     "common_name": "",
     "level_req": 71,
@@ -877,10 +877,10 @@
     "quality": "set",
     "statistics": {
     },
-    "base": 1
+    "base": 40
   },
   {
-    "id": 1,
+    "id": 161,
     "name": "Naj's Circlet",
     "common_name": "",
     "level_req": 28,
@@ -888,10 +888,10 @@
     "quality": "set",
     "statistics": {
     },
-    "base": 1
+    "base": 115
   },
   {
-    "id": 1,
+    "id": 162,
     "name": "Sander's Paragon",
     "common_name": "",
     "level_req": 25,
@@ -899,10 +899,10 @@
     "quality": "set",
     "statistics": {
     },
-    "base": 1
+    "base": 91
   },
   {
-    "id": 1,
+    "id": 163,
     "name": "Sander's Superstition",
     "common_name": "",
     "level_req": 25,
@@ -910,10 +910,10 @@
     "quality": "set",
     "statistics": {
     },
-    "base": 1
+    "base": 433
   },
   {
-    "id": 1,
+    "id": 164,
     "name": "Sander's Taboo",
     "common_name": "",
     "level_req": 28,
@@ -921,21 +921,21 @@
     "quality": "set",
     "statistics": {
     },
-    "base": 1
+    "base": 77
   },
   {
-    "id": 1,
+    "id": 165,
     "name": "Sander's Riprap",
     "common_name": "",
     "level_req": 20,
-    "type": "helmet",
+    "type": "boots",
     "quality": "set",
     "statistics": {
     },
-    "base": 1
+    "base": 62
   },
   {
-    "id": 1,
+    "id": 166,
     "name": "Sazabi's Cobalt Redeemer",
     "common_name": "",
     "level_req": 73,
@@ -943,10 +943,10 @@
     "quality": "set",
     "statistics": {
     },
-    "base": 1
+    "base": 411
   },
   {
-    "id": 1,
+    "id": 167,
     "name": "Sazabi's Ghost Liberator",
     "common_name": "",
     "level_req": 67,
@@ -954,10 +954,10 @@
     "quality": "set",
     "statistics": {
     },
-    "base": 1
+    "base": 39
   },
   {
-    "id": 1,
+    "id": 168,
     "name": "Sazabi's Mental Sheath",
     "common_name": "",
     "level_req": 43,
@@ -965,21 +965,21 @@
     "quality": "set",
     "statistics": {
     },
-    "base": 1
+    "base": 102
   },
   {
-    "id": 1,
+    "id": 169,
     "name": "Guillaume's Face",
-    "common_name": "",
+    "common_name": "guill",
     "level_req": 34,
     "type": "helmet",
     "quality": "set",
     "statistics": {
     },
-    "base": 1
+    "base": 105
   },
   {
-    "id": 1,
+    "id": 170,
     "name": "Whitstan's Guard",
     "common_name": "",
     "level_req": 29,
@@ -987,10 +987,10 @@
     "quality": "set",
     "statistics": {
     },
-    "base": 1
+    "base": 158
   },
   {
-    "id": 1,
+    "id": 171,
     "name": "Magnus' Skin",
     "common_name": "",
     "level_req": 37,
@@ -998,10 +998,10 @@
     "quality": "set",
     "statistics": {
     },
-    "base": 1
+    "base": 82
   },
   {
-    "id": 1,
+    "id": 172,
     "name": "Wilhelm's Pride",
     "common_name": "",
     "level_req": 42,
@@ -1009,10 +1009,10 @@
     "quality": "set",
     "statistics": {
     },
-    "base": 1
+    "base": 54
   },
   {
-    "id": 1,
+    "id": 173,
     "name": "Aldur's Rhythm",
     "common_name": "",
     "level_req": 42,
@@ -1020,131 +1020,131 @@
     "quality": "set",
     "statistics": {
     },
-    "base": 1
+    "base": 307
   },
   {
-    "id": 1,
+    "id": 174,
     "name": "Aldur's Deception",
     "common_name": "",
     "level_req": 76,
-    "type": "mace",
+    "type": "armor",
     "quality": "set",
     "statistics": {
     },
-    "base": 1
+    "base": 44
   },
   {
-    "id": 1,
+    "id": 175,
     "name": "Aldur's Stony Gaze",
     "common_name": "",
     "level_req": 36,
-    "type": "mace",
+    "type": "druid_pelt",
     "quality": "set",
     "statistics": {
     },
-    "base": 1
+    "base": 141
   },
   {
-    "id": 1,
+    "id": 176,
     "name": "Aldur's Advance",
-    "common_name": "",
+    "common_name": "aldur boots",
     "level_req": 45,
-    "type": "mace",
+    "type": "boots",
     "quality": "set",
     "statistics": {
     },
-    "base": 1
+    "base": 69
   },
   {
-    "id": 1,
+    "id": 177,
     "name": "Bul-Kathos' Sacred Charge",
-    "common_name": "",
+    "common_name": "bk",
     "level_req": 63,
     "type": "sword_2h",
     "quality": "set",
     "statistics": {
     },
-    "base": 1
+    "base": 418
   },
   {
-    "id": 1,
+    "id": 178,
     "name": "Bul-Kathos' Tribal Guardian",
-    "common_name": "",
+    "common_name": "bk",
     "level_req": 66,
-    "type": "sword_2h",
+    "type": "sword_1h",
     "quality": "set",
     "statistics": {
     },
-    "base": 1
+    "base": 412
   },
   {
-    "id": 1,
+    "id": 179,
     "name": "Griswold's Redemption",
-    "common_name": "",
+    "common_name": "gris weapon",
     "level_req": 66,
     "type": "scepter",
     "quality": "set",
     "statistics": {
     },
-    "base": 1
+    "base": 346
   },
   {
-    "id": 1,
+    "id": 180,
     "name": "Griswold's Heart",
-    "common_name": "",
+    "common_name": "gris armor",
     "level_req": 45,
     "type": "armor",
     "quality": "set",
     "statistics": {
     },
-    "base": 1
+    "base": 30
   },
   {
-    "id": 1,
+    "id": 181,
     "name": "Griswold's Honor",
-    "common_name": "",
+    "common_name": "gris shield",
     "level_req": 68,
     "type": "auric_shield",
     "quality": "set",
     "statistics": {
     },
-    "base": 1
+    "base": 202
   },
   {
-    "id": 1,
+    "id": 182,
     "name": "Griswold's Valor",
-    "common_name": "",
+    "common_name": "gris helm",
     "level_req": 69,
     "type": "helmet",
     "quality": "set",
     "statistics": {
     },
-    "base": 1
+    "base": 114
   },
   {
-    "id": 1,
+    "id": 183,
     "name": "M'avina's Caster",
     "common_name": "",
     "level_req": 70,
-    "type": "helmet",
+    "type": "amazon_bow",
     "quality": "set",
     "statistics": {
     },
-    "base": 1
+    "base": 469
   },
   {
-    "id": 1,
+    "id": 184,
     "name": "M'avina's Embrace",
     "common_name": "",
     "level_req": 70,
-    "type": "helmet",
+    "type": "armor",
     "quality": "set",
     "statistics": {
     },
-    "base": 1
+    "base": 41
   },
   {
-    "id": 1,
+    "id": 185,
     "name": "M'avina's True Sight",
     "common_name": "",
     "level_req": 64,
@@ -1152,32 +1152,32 @@
     "quality": "set",
     "statistics": {
     },
-    "base": 1
+    "base": 118
   },
   {
-    "id": 1,
+    "id": 186,
     "name": "M'avina's Icy Clutch",
     "common_name": "",
     "level_req": 32,
-    "type": "helmet",
+    "type": "gloves",
     "quality": "set",
     "statistics": {
     },
-    "base": 1
+    "base": 84
   },
   {
-    "id": 1,
+    "id": 187,
     "name": "M'avina's Tenet",
     "common_name": "",
     "level_req": 45,
-    "type": "helmet",
+    "type": "belt",
     "quality": "set",
     "statistics": {
     },
-    "base": 1
+    "base": 52
   },
   {
-    "id": 1,
+    "id": 188,
     "name": "Natalya's Mark",
     "common_name": "",
     "level_req": 79,
@@ -1185,10 +1185,10 @@
     "quality": "set",
     "statistics": {
     },
-    "base": 1
+    "base": 463
   },
   {
-    "id": 1,
+    "id": 189,
     "name": "Natalya's Shadow",
     "common_name": "",
     "level_req": 73,
@@ -1196,10 +1196,10 @@
     "quality": "set",
     "statistics": {
     },
-    "base": 1
+    "base": 36
   },
   {
-    "id": 1,
+    "id": 190,
     "name": "Natalya's Totem",
     "common_name": "",
     "level_req": 59,
@@ -1207,10 +1207,10 @@
     "quality": "set",
     "statistics": {
     },
-    "base": 1
+    "base": 104
   },
   {
-    "id": 1,
+    "id": 191,
     "name": "Natalya's Soul",
     "common_name": "",
     "level_req": 25,
@@ -1218,182 +1218,182 @@
     "quality": "set",
     "statistics": {
     },
-    "base": 1
+    "base": 68
   },
   {
-    "id": 1,
+    "id": 192,
     "name": "Tal Rasha's Lidless Eye",
-    "common_name": "",
+    "common_name": "tal orb",
     "level_req": 65,
     "type": "orb",
     "quality": "set",
     "statistics": {
     },
-    "base": 1
+    "base": 488
   },
   {
-    "id": 1,
+    "id": 193,
     "name": "Tal Rasha's Guardianship",
-    "common_name": "",
+    "common_name": "tal armor",
     "level_req": 71,
-    "type": "orb",
+    "type": "armor",
     "quality": "set",
     "statistics": {
     },
-    "base": 1
+    "base": 42
   },
   {
-    "id": 1,
+    "id": 194,
     "name": "Tal Rasha's Horadric Crest",
-    "common_name": "",
+    "common_name": "tal mask",
     "level_req": 66,
-    "type": "orb",
+    "type": "helmet",
     "quality": "set",
     "statistics": {
     },
-    "base": 1
+    "base": 103
   },
   {
-    "id": 1,
+    "id": 195,
     "name": "Tal Rasha's Fine-Spun Cloth",
-    "common_name": "",
+    "common_name": "tal belt",
     "level_req": 53,
-    "type": "orb",
+    "type": "belt",
     "quality": "set",
     "statistics": {
     },
-    "base": 1
+    "base": 53
   },
   {
-    "id": 1,
+    "id": 196,
     "name": "Tal Rasha's Adjudication",
-    "common_name": "",
+    "common_name": "tal amu",
     "level_req": 67,
-    "type": "orb",
+    "type": "amulet",
     "quality": "set",
     "statistics": {
     },
-    "base": 1
+    "base": null
   },
   {
-    "id": 1,
+    "id": 197,
     "name": "Trang-Oul's Scales",
-    "common_name": "",
+    "common_name": "trang armor",
     "level_req": 49,
     "type": "armor",
     "quality": "set",
     "statistics": {
     },
-    "base": 1
+    "base": 29
   },
   {
-    "id": 1,
+    "id": 198,
     "name": "Trang-Oul's Wing",
-    "common_name": "",
+    "common_name": "trang shield",
     "level_req": 54,
-    "type": "armor",
+    "type": "shrunken_head",
     "quality": "set",
     "statistics": {
     },
-    "base": 1
+    "base": 181
   },
   {
-    "id": 1,
+    "id": 199,
     "name": "Trang-Oul's Guise",
     "common_name": "",
     "level_req": 65,
-    "type": "armor",
+    "type": "helmet",
     "quality": "set",
     "statistics": {
     },
-    "base": 1
+    "base": 112
   },
   {
-    "id": 1,
+    "id": 200,
     "name": "Trang-Oul's Claws",
-    "common_name": "",
+    "common_name": "trangs",
     "level_req": 45,
     "type": "armor",
     "quality": "set",
     "statistics": {
     },
-    "base": 1
+    "base": 83
   },
   {
-    "id": 1,
+    "id": 201,
     "name": "Trang-Oul's Girth",
-    "common_name": "",
+    "common_name": "trang armor",
     "level_req": 62,
     "type": "armor",
     "quality": "set",
     "statistics": {
     },
-    "base": 1
+    "base": 59
   },
   {
-    "id": 1,
+    "id": 202,
     "name": "Immortal King's Stone Crusher",
-    "common_name": "",
+    "common_name": "ik weapon",
     "level_req": 76,
     "type": "maul",
     "quality": "set",
     "statistics": {
     },
-    "base": 1
+    "base": 318
   },
   {
-    "id": 1,
+    "id": 203,
     "name": "Immortal King's Soul Cage",
-    "common_name": "",
+    "common_name": "ik armor",
     "level_req": 76,
     "type": "armor",
     "quality": "set",
     "statistics": {
     },
-    "base": 1
+    "base": 45
   },
   {
-    "id": 1,
+    "id": 204,
     "name": "Immortal King's Will",
-    "common_name": "",
+    "common_name": "ik helm",
     "level_req": 47,
     "type": "barb_helm",
     "quality": "set",
     "statistics": {
     },
-    "base": 1
+    "base": 123
   },
   {
-    "id": 1,
+    "id": 205,
     "name": "Immortal King's Forge",
-    "common_name": "",
+    "common_name": "ik gloves",
     "level_req": 30,
     "type": "gloves",
     "quality": "set",
     "statistics": {
     },
-    "base": 1
+    "base": 85
   },
   {
-    "id": 1,
+    "id": 206,
     "name": "Immortal King's Detail",
-    "common_name": "",
+    "common_name": "ik belt",
     "level_req": 29,
     "type": "belt",
     "quality": "set",
     "statistics": {
     },
-    "base": 1
+    "base": 55
   },
   {
-    "id": 1,
+    "id": 207,
     "name": "Immortal King's Pillar",
-    "common_name": "",
+    "common_name": "ik boots",
     "level_req": 31,
     "type": "boots",
     "quality": "set",
     "statistics": {
     },
-    "base": 1
+    "base": 70
   }
 ]
