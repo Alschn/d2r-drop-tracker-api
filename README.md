@@ -18,6 +18,7 @@ This setup has been tested on Python 3.9.6 and Django 4.0.3.
 ## Development setup:
 
 ### Requirements:
+
 - [Python](https://www.python.org/downloads/) 3.8+
 - [pipenv](https://pypi.org/project/pipenv/)
 
@@ -82,13 +83,13 @@ coverage report -m
 
 ### Json files
 
-- [x] Armor, Belts, Boots, Gloves, Helmets - bases
-- [ ] Shields, Weapons - bases
-- [ ] Runewords (statistics)
+- [x] Armor, Belts, Boots, Gloves, Helmets, Shields, Weapons, Class items - base items
 - [x] Runes, gems, quest items
 - [x] Sets
-- [ ] Set items
-- [ ] Unique items
+- [X] Set items
+- [X] Unique items
+- [ ] Statistics: Set items, unique items, Runewords
+- [ ] Common magic items (skillers, jewels, small charms etc.)
 
 #### Maybe
 
@@ -102,7 +103,7 @@ coverage report -m
 
 ### Items
 
-- [ ] item dimensions (width, height), optional descriptions, looks
+- [ ] item's dimensions (width, height), optional descriptions, looks
 
 ### Item find
 
@@ -110,6 +111,8 @@ coverage report -m
 
 ### Other
 
+- [ ] description column in most of models
 - [ ] modifiers (prefixes, suffixes), automods
 - [ ] data validation (serializers, validators on models)
 - [ ] better readme
+- [ ] move qlvl from statistics to its own column (?)
