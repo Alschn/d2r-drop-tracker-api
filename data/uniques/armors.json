@@ -1,6 +1,6 @@
 [
   {
-    "id": 1,
+    "id": 208,
     "name": "Greyform",
     "common_name": "",
     "level_req": null,
@@ -10,7 +10,7 @@
     "base": 1
   },
   {
-    "id": 2,
+    "id": 209,
     "name": "Blinkbat's Form",
     "common_name": "",
     "level_req": 12,
@@ -20,7 +20,7 @@
     "base": 2
   },
   {
-    "id": 3,
+    "id": 210,
     "name": "The Centurion",
     "common_name": "",
     "level_req": 14,
@@ -30,17 +30,17 @@
     "base": 3
   },
   {
-    "id": 4,
+    "id": 211,
     "name": "Twitchthroe",
     "common_name": "",
     "level_req": 16,
     "type": "armor",
     "quality": "unique",
     "statistics": {},
-    "base": 3
+    "base": 4
   },
   {
-    "id": 5,
+    "id": 212,
     "name": "Darkglow",
     "common_name": "",
     "level_req": 14,
@@ -50,7 +50,7 @@
     "base": 5
   },
   {
-    "id": 6,
+    "id": 213,
     "name": "Hawkmail",
     "common_name": "",
     "level_req": 15,
@@ -60,27 +60,27 @@
     "base": 6
   },
   {
-    "id": 7,
+    "id": 214,
     "name": "Venom Ward",
     "common_name": "",
     "level_req": 20,
     "type": "armor",
     "quality": "unique",
     "statistics": {},
-    "base": 7
+    "base": 8
   },
   {
-    "id": 8,
+    "id": 215,
     "name": "Sparking Mail",
     "common_name": "",
     "level_req": 17,
     "type": "armor",
     "quality": "unique",
     "statistics": {},
-    "base": 8
+    "base": 7
   },
   {
-    "id": 9,
+    "id": 216,
     "name": "Iceblink",
     "common_name": "",
     "level_req": 22,
@@ -90,39 +90,8 @@
     "base": 9
   },
   {
-    "id": 10,
+    "id": 217,
     "name": "Heavenly Garb",
-    "common_name": "",
-    "level_req": 29,
-    "type": "armor",
-    "quality": "unique",
-    "statistics": {},
-    "base": 10
-  },
-  {
-    "id": 11,
-    "name": "Boneflesh",
-    "common_name": "",
-    "level_req": 22,
-    "type": "armor",
-    "quality": "unique",
-    "statistics": {},
-    "base": 26
-  },
-  ,
-  {
-    "id": 12,
-    "name": "Rockfleece",
-    "common_name": "",
-    "level_req": 28,
-    "type": "armor",
-    "quality": "unique",
-    "statistics": {},
-    "base": 12
-  },
-  {
-    "id": 13,
-    "name": "Rattlecage",
     "common_name": "",
     "level_req": 29,
     "type": "armor",
@@ -131,7 +100,37 @@
     "base": 13
   },
   {
-    "id": 14,
+    "id": 218,
+    "name": "Boneflesh",
+    "common_name": "",
+    "level_req": 22,
+    "type": "armor",
+    "quality": "unique",
+    "statistics": {},
+    "base": 10
+  },
+  {
+    "id": 219,
+    "name": "Rockfleece",
+    "common_name": "",
+    "level_req": 28,
+    "type": "armor",
+    "quality": "unique",
+    "statistics": {},
+    "base": 11
+  },
+  {
+    "id": 220,
+    "name": "Rattlecage",
+    "common_name": "",
+    "level_req": 29,
+    "type": "armor",
+    "quality": "unique",
+    "statistics": {},
+    "base": 12
+  },
+  {
+    "id": 221,
     "name": "Goldskin",
     "common_name": "",
     "level_req": 28,
@@ -141,7 +140,7 @@
     "base": 14
   },
   {
-    "id": 15,
+    "id": 222,
     "name": "Silks of the Victor",
     "common_name": "",
     "level_req": 28,
@@ -151,7 +150,7 @@
     "base": 15
   },
   {
-    "id": 16,
+    "id": 223,
     "name": "The Spirit Shroud",
     "common_name": "",
     "level_req": 28,
@@ -161,7 +160,7 @@
     "base": 16
   },
   {
-    "id": 17,
+    "id": 224,
     "name": "Skin of the Vipermagi",
     "common_name": "",
     "level_req": 29,
@@ -171,7 +170,7 @@
     "base": 17
   },
   {
-    "id": 18,
+    "id": 225,
     "name": "Skin of the Flayed One",
     "common_name": "",
     "level_req": 31,
@@ -181,7 +180,7 @@
     "base": 18
   },
   {
-    "id": 19,
+    "id": 226,
     "name": "Iron Pelt",
     "common_name": "",
     "level_req": 33,
@@ -191,7 +190,7 @@
     "base": 19
   },
   {
-    "id": 20,
+    "id": 227,
     "name": "Spirit Forge",
     "common_name": "",
     "level_req": 35,
@@ -201,7 +200,7 @@
     "base": 20
   },
   {
-    "id": 21,
+    "id": 228,
     "name": "Crow Caw",
     "common_name": "",
     "level_req": 28,
@@ -211,163 +210,163 @@
     "base": 21
   },
   {
-    "id": 22,
+    "id": 229,
     "name": "Duriel's Shell",
     "common_name": "",
     "level_req": 41,
     "type": "armor",
     "quality": "unique",
     "statistics": {},
-    "base": 22
+    "base": 23
   },
   {
-    "id": 23,
+    "id": 230,
     "name": "Shaftstop",
     "common_name": "",
     "level_req": 38,
     "type": "armor",
     "quality": "unique",
     "statistics": {},
-    "base": 1
+    "base": 22
   },
   {
-    "id": 24,
+    "id": 231,
     "name": "Skullder's Ire",
     "common_name": "",
     "level_req": 42,
     "type": "armor",
     "quality": "unique",
     "statistics": {},
-    "base": 15
+    "base": 24
   },
   {
-    "id": 25,
+    "id": 232,
     "name": "Que-Hegan's Wisdom",
     "common_name": "",
     "level_req": 51,
     "type": "armor",
     "quality": "unique",
     "statistics": {},
-    "base": 15
+    "base": 28
   },
   {
-    "id": 26,
+    "id": 233,
     "name": "Guardian Angel",
     "common_name": "",
     "level_req": 45,
     "type": "armor",
     "quality": "unique",
     "statistics": {},
-    "base": 15
+    "base": 25
   },
   {
-    "id": 27,
+    "id": 234,
     "name": "Toothrow",
     "common_name": "",
     "level_req": 48,
     "type": "armor",
     "quality": "unique",
     "statistics": {},
-    "base": 15
+    "base": 26
   },
   {
-    "id": 28,
+    "id": 235,
     "name": "Atma's Wail",
     "common_name": "",
     "level_req": 51,
     "type": "armor",
     "quality": "unique",
     "statistics": {},
-    "base": 15
+    "base": 27
   },
   {
-    "id": 29,
+    "id": 236,
     "name": "Black Hades",
     "common_name": "",
     "level_req": 53,
     "type": "armor",
     "quality": "unique",
     "statistics": {},
-    "base": 15
+    "base": 29
   },
   {
-    "id": 30,
+    "id": 237,
     "name": "Corpsemourn",
     "common_name": "",
     "level_req": 55,
     "type": "armor",
     "quality": "unique",
     "statistics": {},
-    "base": 15
+    "base": 30
   },
   {
-    "id": 31,
+    "id": 238,
     "name": "Ormus' Robes",
     "common_name": "",
     "level_req": 75,
     "type": "armor",
     "quality": "unique",
     "statistics": {},
-    "base": 15
+    "base": 31
   },
   {
-    "id": 32,
+    "id": 239,
     "name": "The Gladiator's Bane",
     "common_name": "",
     "level_req": 85,
     "type": "armor",
     "quality": "unique",
     "statistics": {},
-    "base": 15
+    "base": 34
   },
   {
-    "id": 33,
+    "id": 240,
     "name": "Arkaine's Valor",
     "common_name": "",
     "level_req": 85,
     "type": "armor",
     "quality": "unique",
     "statistics": {},
-    "base": 15
+    "base": 39
   },
   {
-    "id": 34,
+    "id": 241,
     "name": "Leviathan",
     "common_name": "",
     "level_req": 65,
     "type": "armor",
     "quality": "unique",
     "statistics": {},
-    "base": 15
+    "base": 41
   },
   {
-    "id": 35,
+    "id": 242,
     "name": "Steel Carapace",
     "common_name": "",
     "level_req": 66,
     "type": "armor",
     "quality": "unique",
     "statistics": {},
-    "base": 15
+    "base": 44
   },
   {
-    "id": 36,
+    "id": 243,
     "name": "Templar's Might",
     "common_name": "",
     "level_req": 74,
     "type": "armor",
     "quality": "unique",
     "statistics": {},
-    "base": 15
+    "base": 45
   },
   {
-    "id": 37,
+    "id": 244,
     "name": "Tyrael's Might",
     "common_name": "",
     "level_req": 84,
     "type": "armor",
     "quality": "unique",
     "statistics": {},
-    "base": 15
+    "base": 45
   }
 ]

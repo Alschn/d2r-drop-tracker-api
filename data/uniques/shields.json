@@ -1,6 +1,6 @@
 [
   {
-    "id": 1,
+    "id": 317,
     "name": "Pelta Lunata",
     "common_name": "",
     "level_req": 2,
@@ -8,10 +8,10 @@
     "quality": "unique",
     "statistics": {
     },
-    "base": 1
+    "base": 150
   },
   {
-    "id": 1,
+    "id": 318,
     "name": "Umbral Disk",
     "common_name": "",
     "level_req": 9,
@@ -19,10 +19,10 @@
     "quality": "unique",
     "statistics": {
     },
-    "base": 1
+    "base": 151
   },
   {
-    "id": 1,
+    "id": 319,
     "name": "Stormguild",
     "common_name": "",
     "level_req": 13,
@@ -30,10 +30,10 @@
     "quality": "unique",
     "statistics": {
     },
-    "base": 1
+    "base": 152
   },
   {
-    "id": 1,
+    "id": 320,
     "name": "Steelclash",
     "common_name": "",
     "level_req": 17,
@@ -41,10 +41,10 @@
     "quality": "unique",
     "statistics": {
     },
-    "base": 1
+    "base": 153
   },
   {
-    "id": 1,
+    "id": 321,
     "name": "Swordback Hold",
     "common_name": "",
     "level_req": 15,
@@ -52,10 +52,10 @@
     "quality": "unique",
     "statistics": {
     },
-    "base": 1
+    "base": 154
   },
   {
-    "id": 1,
+    "id": 322,
     "name": "Bverrit Keep",
     "common_name": "",
     "level_req": 19,
@@ -63,10 +63,10 @@
     "quality": "unique",
     "statistics": {
     },
-    "base": 1
+    "base": 156
   },
   {
-    "id": 1,
+    "id": 323,
     "name": "Wall of the Eyeless",
     "common_name": "",
     "level_req": 20,
@@ -74,10 +74,10 @@
     "quality": "unique",
     "statistics": {
     },
-    "base": 1
+    "base": 155
   },
   {
-    "id": 1,
+    "id": 324,
     "name": "The Ward",
     "common_name": "",
     "level_req": 26,
@@ -85,10 +85,10 @@
     "quality": "unique",
     "statistics": {
     },
-    "base": 1
+    "base": 157
   },
   {
-    "id": 1,
+    "id": 325,
     "name": "Visceratuant",
     "common_name": "",
     "level_req": 28,
@@ -96,10 +96,10 @@
     "quality": "unique",
     "statistics": {
     },
-    "base": 1
+    "base": 158
   },
   {
-    "id": 1,
+    "id": 326,
     "name": "Moser's Blessed Circle",
     "common_name": "mosers",
     "level_req": 31,
@@ -107,10 +107,10 @@
     "quality": "unique",
     "statistics": {
     },
-    "base": 1
+    "base": 159
   },
   {
-    "id": 1,
+    "id": 327,
     "name": "Stormchaser",
     "common_name": "",
     "level_req": 35,
@@ -118,10 +118,10 @@
     "quality": "unique",
     "statistics": {
     },
-    "base": 1
+    "base": 160
   },
   {
-    "id": 1,
+    "id": 328,
     "name": "Tiamat's Rebuke",
     "common_name": "",
     "level_req": 38,
@@ -129,10 +129,10 @@
     "quality": "unique",
     "statistics": {
     },
-    "base": 1
+    "base": 161
   },
   {
-    "id": 1,
+    "id": 329,
     "name": "Lance Guard",
     "common_name": "",
     "level_req": 35,
@@ -140,10 +140,10 @@
     "quality": "unique",
     "statistics": {
     },
-    "base": 1
+    "base": 162
   },
   {
-    "id": 1,
+    "id": 330,
     "name": "Gerke's Sanctuary",
     "common_name": "gerkes",
     "level_req": 44,
@@ -151,10 +151,10 @@
     "quality": "unique",
     "statistics": {
     },
-    "base": 1
+    "base": 164
   },
   {
-    "id": 1,
+    "id": 331,
     "name": "Lidless Wall",
     "common_name": "lidless",
     "level_req": 41,
@@ -162,10 +162,10 @@
     "quality": "unique",
     "statistics": {
     },
-    "base": 1
+    "base": 163
   },
   {
-    "id": 1,
+    "id": 332,
     "name": "Radament's Sphere",
     "common_name": "",
     "level_req": 50,
@@ -173,10 +173,10 @@
     "quality": "unique",
     "statistics": {
     },
-    "base": 1
+    "base": 165
   },
   {
-    "id": 1,
+    "id": 333,
     "name": "Blackoak Shield",
     "common_name": "",
     "level_req": 61,
@@ -184,10 +184,10 @@
     "quality": "unique",
     "statistics": {
     },
-    "base": 1
+    "base": 167
   },
   {
-    "id": 1,
+    "id": 334,
     "name": "Stormshield",
     "common_name": "storm ss",
     "level_req": 1,
@@ -195,10 +195,10 @@
     "quality": "unique",
     "statistics": {
     },
-    "base": 1
+    "base": 169
   },
   {
-    "id": 1,
+    "id": 335,
     "name": "Spike Thorn",
     "common_name": "",
     "level_req": 70,
@@ -206,10 +206,10 @@
     "quality": "unique",
     "statistics": {
     },
-    "base": 1
+    "base": 170
   },
   {
-    "id": 1,
+    "id": 336,
     "name": "Medusa's Gaze",
     "common_name": "",
     "level_req": 76,
@@ -217,10 +217,10 @@
     "quality": "unique",
     "statistics": {
     },
-    "base": 1
+    "base": 172
   },
   {
-    "id": 1,
+    "id": 337,
     "name": "Head Hunter's Glory",
     "common_name": "hhg",
     "level_req": 75,
@@ -228,10 +228,10 @@
     "quality": "unique",
     "statistics": {
     },
-    "base": 1
+    "base": 171
   },
   {
-    "id": 1,
+    "id": 338,
     "name": "Spirit Ward",
     "common_name": "",
     "level_req": 68,
@@ -239,10 +239,10 @@
     "quality": "unique",
     "statistics": {
     },
-    "base": 1
+    "base": 173
   },
   {
-    "id": 1,
+    "id": 339,
     "name": "Herald of Zakarum",
     "common_name": "zaka hoz",
     "level_req": 42,
@@ -250,10 +250,10 @@
     "quality": "unique",
     "statistics": {
     },
-    "base": 1
+    "base": 197
   },
   {
-    "id": 1,
+    "id": 340,
     "name": "Alma Negra",
     "common_name": "alma",
     "level_req": 77,
@@ -261,10 +261,10 @@
     "quality": "unique",
     "statistics": {
     },
-    "base": 1
+    "base": 200
   },
   {
-    "id": 1,
+    "id": 341,
     "name": "Dragonscale",
     "common_name": "",
     "level_req": 80,
@@ -272,10 +272,10 @@
     "quality": "unique",
     "statistics": {
     },
-    "base": 1
+    "base": 202
   },
   {
-    "id": 1,
+    "id": 342,
     "name": "Homunculus",
     "common_name": "homu",
     "level_req": 42,
@@ -283,10 +283,10 @@
     "quality": "unique",
     "statistics": {
     },
-    "base": 1
+    "base": 183
   },
   {
-    "id": 1,
+    "id": 343,
     "name": "Boneflame",
     "common_name": "",
     "level_req": 72,
@@ -294,10 +294,10 @@
     "quality": "unique",
     "statistics": {
     },
-    "base": 1
+    "base": 187
   },
   {
-    "id": 1,
+    "id": 344,
     "name": "Darkforce Spawn",
     "common_name": "",
     "level_req": 65,
@@ -305,6 +305,6 @@
     "quality": "unique",
     "statistics": {
     },
-    "base": 1
+    "base": 188
   }
 ]

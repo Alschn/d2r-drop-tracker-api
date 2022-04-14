@@ -1,6 +1,6 @@
 [
   {
-    "id": 1,
+    "id": 589,
     "name": "Rainbow Facet",
     "common_name": "cold up",
     "level_req": 49,
@@ -9,7 +9,7 @@
     "statistics": {}
   },
   {
-    "id": 1,
+    "id": 590,
     "name": "Rainbow Facet",
     "common_name": "fire up",
     "level_req": 49,
@@ -18,7 +18,7 @@
     "statistics": {}
   },
   {
-    "id": 1,
+    "id": 591,
     "name": "Rainbow Facet",
     "common_name": "light up",
     "level_req": 49,
@@ -27,7 +27,7 @@
     "statistics": {}
   },
   {
-    "id": 1,
+    "id": 592,
     "name": "Rainbow Facet",
     "common_name": "psn up",
     "level_req": 49,
@@ -36,7 +36,7 @@
     "statistics": {}
   },
   {
-    "id": 1,
+    "id": 593,
     "name": "Rainbow Facet",
     "common_name": "cold die",
     "level_req": 49,
@@ -45,7 +45,7 @@
     "statistics": {}
   },
   {
-    "id": 1,
+    "id": 594,
     "name": "Rainbow Facet",
     "common_name": "fire die",
     "level_req": 49,
@@ -54,7 +54,7 @@
     "statistics": {}
   },
   {
-    "id": 1,
+    "id": 595,
     "name": "Rainbow Facet",
     "common_name": "light die",
     "level_req": 49,
@@ -63,7 +63,7 @@
     "statistics": {}
   },
   {
-    "id": 1,
+    "id": 596,
     "name": "Rainbow Facet",
     "common_name": "psn die",
     "level_req": 49,

@@ -1,6 +1,6 @@
 [
   {
-    "id": 1,
+    "id": 597,
     "name": "Annihilus",
     "common_name": "anni",
     "level_req": 70,
@@ -26,7 +26,7 @@
     }
   },
   {
-    "id": 2,
+    "id": 598,
     "name": "Hellfire Torch",
     "common_name": "torch",
     "level_req": 75,
@@ -60,7 +60,7 @@
     }
   },
   {
-    "id": 3,
+    "id": 599,
     "name": "Gheed's Fortune",
     "common_name": "gheed",
     "level_req": 62,
