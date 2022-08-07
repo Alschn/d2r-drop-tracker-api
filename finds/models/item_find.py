@@ -5,7 +5,7 @@ from django.db import models
 
 from areas.models import Area, Difficulty
 from characters.models import Character
-from finds.models import Sellable
+from finds.models.sellable import Sellable
 
 
 class ItemFind(Sellable):
