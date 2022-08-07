@@ -1,21 +1,11 @@
 from django.contrib.auth.base_user import AbstractBaseUser
 from django.contrib.auth.models import PermissionsMixin, UserManager as BaseUserManager
-from django.contrib.auth.validators import UnicodeUsernameValidator
-from django.core import validators
 from django.core.mail import send_mail
 from django.db import models
 from django.utils import timezone
-from django.utils.deconstruct import deconstructible
 from django.utils.translation import gettext_lazy as _
 
-
-@deconstructible
-class UnicodeBattleNetUsernameValidator(validators.RegexValidator):
-    regex = r"^[\w.@+-]+(#\d+)?\Z"
-    message = _(
-        "Enter a valid username. This value may contain only letters, "
-        "numbers, and @/./+/-/_ characters and optionally include battletag at the end."
-    )
+from users.validators import UnicodeBattleNetUsernameValidator
 
 
 class UserManager(BaseUserManager):

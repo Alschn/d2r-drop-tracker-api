@@ -3,6 +3,7 @@
 from django.db import migrations, models
 import django.utils.timezone
 import users.models
+from users.validators import UnicodeBattleNetUsernameValidator
 
 
 class Migration(migrations.Migration):
@@ -21,7 +22,8 @@ class Migration(migrations.Migration):
                 ('password', models.CharField(max_length=128, verbose_name='password')),
                 ('last_login', models.DateTimeField(blank=True, null=True, verbose_name='last login')),
                 ('is_superuser', models.BooleanField(default=False, help_text='Designates that this user has all permissions without explicitly assigning them.', verbose_name='superuser status')),
-                ('username', models.CharField(error_messages={'unique': 'A user with that username already exists.'}, help_text='Required. 150 characters or fewer. Letters, digits and @/./+/-/_ only.', max_length=150, unique=True, validators=[users.models.UnicodeBattleNetUsernameValidator()], verbose_name='username')),
+                ('username', models.CharField(error_messages={'unique': 'A user with that username already exists.'}, help_text='Required. 150 characters or fewer. Letters, digits and @/./+/-/_ only.', max_length=150, unique=True, validators=[
+                    UnicodeBattleNetUsernameValidator()], verbose_name='username')),
                 ('first_name', models.CharField(blank=True, max_length=150, verbose_name='first name')),
                 ('last_name', models.CharField(blank=True, max_length=150, verbose_name='last name')),
                 ('email', models.EmailField(blank=True, max_length=254, verbose_name='email address')),
@@ -38,7 +40,7 @@ class Migration(migrations.Migration):
                 'swappable': 'AUTH_USER_MODEL',
             },
             managers=[
-                ('objects', users.models.UserManager()),
+                ('objects', users.models.user.UserManager()),
             ],
         ),
     ]

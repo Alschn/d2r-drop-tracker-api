@@ -148,12 +148,12 @@ class ItemBase(TypeQualityItem):
         return f"{self.name} {self.quality} {self.type}"
 
     @property
-    def is_socketable(self):
+    def is_socketable(self) -> bool:
         return bool(self.max_sockets)
 
 
 class JewelryManager(models.Manager):
-    def get_queryset(self):
+    def get_queryset(self) -> QuerySet[Item]:
         return Item.objects.filter(
             type__in=[ItemType.RING, ItemType.AMULET]
         )
@@ -169,7 +169,7 @@ class Jewelry(Item):
 
 class RuneManager(models.Manager):
 
-    def get_queryset(self):
+    def get_queryset(self) -> QuerySet[Item]:
         return Item.objects.filter(
             type=ItemType.RUNE
         )
@@ -184,7 +184,7 @@ class Rune(Item):
 
 
 class CharmsManager(models.Manager):
-    def get_queryset(self):
+    def get_queryset(self) -> QuerySet[Item]:
         return Item.objects.filter(
             type=ItemType.CHARM
         )
@@ -199,7 +199,7 @@ class Charm(Item):
 
 
 class JewelsManager(models.Manager):
-    def get_queryset(self):
+    def get_queryset(self) -> QuerySet[Item]:
         return Item.objects.filter(
             type=ItemType.JEWEL
         )
@@ -213,7 +213,7 @@ class Jewel(Item):
 
 
 class MiscellaneousManager(models.Manager):
-    def get_queryset(self):
+    def get_queryset(self) -> QuerySet[Item]:
         return Item.objects.filter(
             type__in=ItemType.miscellaneous()
         )
@@ -311,7 +311,7 @@ class ItemInSet(models.Model):
     class Meta:
         verbose_name_plural = "Items in Set"
 
-    def __str__(self):
+    def __str__(self) -> str:
         return self.item.name
 
 
